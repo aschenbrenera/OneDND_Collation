@@ -9,4 +9,6 @@ Suggestions on formatting the material
 Suggestions on paraphrasing the material
 
 
-![PDF](one_dnd_collation.pdf)
+![PDF]([one_dnd_collation.pdf](https://github.com/aschenbrenera/OneDND_Collation/blob/main/one_dnd_collation.pdf))
+
+https://github.com/aschenbrenera/OneDND_Collation/blob/main/one_dnd_collation.pdf
