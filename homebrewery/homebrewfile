@@ -1,45 +1,53 @@
-```metadata
-title: One D&D Playtest Collation
-description: ''
-tags: []
-systems: []
-renderer: V3
-
-```
-
 
 {{toc,wide
 # Table Of Contents
 
-- ## [{{ Part 1}}{{ 1}}](#p1)
-- ### [{{ One D&D Playtest Collation}}{{ 1}}](#p1)
-  - #### [{{ Legal Stuff}}{{ 1}}](#p1)
-  - #### [{{ What to expect}}{{ 1}}](#p1)
-  - #### [{{ Contact me}}{{ 1}}](#p1)
-  - #### [{{ How to use this Document}}{{ 1}}](#p1)
-- ### [{{ Build a Character Guide}}{{ 2}}](#p2)
-- ### [{{ Classes}}{{ 4}}](#p4)
-  - #### [{{ Bard}}{{ 5}}](#p5)
-  - #### [{{ Ranger}}{{ 9}}](#p9)
-  - #### [{{ Rogue}}{{ 13}}](#p13)
-- ### [{{ Races}}{{ 17}}](#p17)
-  - #### [{{ Human}}{{ 17}}](#p17)
-  - #### [{{ Dwarf}}{{ 17}}](#p17)
-  - #### [{{ Elf}}{{ 18}}](#p18)
-  - #### [{{ Gnome}}{{ 19}}](#p19)
-  - #### [{{ Halfling}}{{ 19}}](#p19)
-  - #### [{{ Orc}}{{ 19}}](#p19)
-  - #### [{{ Ardling}}{{ 20}}](#p20)
-  - #### [{{ Dragonborn}}{{ 21}}](#p21)
-  - #### [{{ Tiefling}}{{ 22}}](#p22)
-- ### [{{ Backgrounds}}{{ 24}}](#p24)
-  - #### [{{ Languages}}{{ 24}}](#p24)
-	- #### [{{ Sample Backgrounds}}{{ 25}}](#p25)
-- ### [{{ Feats}}{{ 29}}](#p29)
+- ## [{{ Part 1}}{{ 1}}](#p2)
+- ### [{{ One D&D Playtest Collation}}{{ 1}}](#p2)
+  - #### [{{ Legal Stuff}}{{ 1}}](#p2)
+  - #### [{{ What to expect}}{{ 1}}](#p2)
+  - #### [{{ Contact me}}{{ 1}}](#p2)
+  - #### [{{ Coming Soon}}{{ 1}}](#p2)
+  - #### [{{ How to use this Document}}{{ 1}}](#p2)
+- ### [{{ Build a Character Guide}}{{ 2}}](#p3)
+- ### [{{ Classes}}{{ 4}}](#p5)
+  - #### [{{ Bard}}{{ 5}}](#p6)
+  - #### [{{ Ranger}}{{ 9}}](#p10)
+  - #### [{{ Rogue}}{{ 13}}](#p14)
+- ### [{{ Races}}{{ 17}}](#p18)
+  - #### [{{ Human}}{{ 17}}](#p18)
+  - #### [{{ Dwarf}}{{ 18}}](#p19)
+  - #### [{{ Elf}}{{ 18}}](#p19)
+  - #### [{{ Gnome}}{{ 19}}](#p20)
+  - #### [{{ Halfling}}{{ 20}}](#p21)
+  - #### [{{ Orc}}{{ 20}}](#p21)
+  - #### [{{ Ardling}}{{ 21}}](#p22)
+  - #### [{{ Dragonborn}}{{ 22}}](#p23)
+  - #### [{{ Tiefling}}{{ 23}}](#p24)
+- ### [{{ Backgrounds}}{{ 24}}](#p25)
+  - #### [{{ Languages}}{{ 24}}](#p26)
+  - #### [{{ Sample Backgrounds}}{{ 25}}](#p26)
+- ### [{{ Feats}}{{ 29}}](#p30)
+- ### [{{ Equipment}}{{ 37}}](#p38)
+  - #### [{{ Armor}}{{ 37}}](#p38)
+  - #### [{{ Weapons}}{{ 38}}](#p39)
+  - #### [{{ Tools}}{{ 39}}](#p40)
 \column
-- ## [{{ Part 2}}{{ }}](#)
-- ## [{{ Part 3}}{{ }}](#)
-- ### [{{ Spells}}{{ 37}}](#p37)
+- ## [{{ Part 2}}{{ 40}}](#p41)
+- ### [{{ Abilities & Skills}}{{ 40}}](#p41)
+  - #### [{{ D20 Tests}}{{ 40}}](#p41)
+  - #### [{{ Heroic Inspiration}}{{ 40}}](#p41)
+- ### [{{ Interacting with the World}}{{ 42}}](#p43)
+  - #### [{{ Awareness}}{{ 42}}](#p43)
+  - #### [{{ Movement}}{{ 43}}](#p44)
+  - #### [{{ Interacting with People}}{{ 45}}](#p46)
+  - #### [{{ Resting, Eating, Travel}}{{ 46}}](#p47)
+- ### [{{ Combat}}{{ 47}}](#p48)
+  - #### [{{ Combat Actions}}{{ 47}}](#p48)
+- ## [{{ Part 3}}{{ 48}}](#p49)
+- ### [{{ Spells}}{{ 48}}](#p49)
+- ## [{{ Appendixes}}{{ 54}}](#p55)
+  - #### [{{ Conditions}}{{ 54}}](#p55)
 }}
 
 
@@ -86,12 +94,10 @@ You can submit corrections or improvements to me via GitHub Issues. Go to github
 \column
 
 ## Version
-Last updated Oct 6th 2022.  Version 0.5
+Last updated Oct 6th 2022.  Version 0.6
 
 ### Coming Soon
 I'm still working on Part 2 that incorperates the UA Expert Classes Rule Glossary.
-
-I will also add a chapter for equipment.
 
 ## How to use this?
 As most of this document comes directly from UA, you will just read most sections at face value as UA. I felt it was important to clearly delineate when that is not the case.
@@ -1229,8 +1235,21 @@ ancestry	don’t	necessarily	have	the	same	traits,
 as	explained in	the	Monster	Manual;	the	traits	
 here	pertain	to	player	characters.
 
+
+##### Creature Type
+All creatures in	D&D,	including	every	player	
+character,	has	a	special	tag	in	the	rules	that	
+identifies	the	type	of	creature	they	are. These	types	don’t	have	rules	themselves,	but	some	rules	in	the	game	affect creatures	of	certain	types	in	different	ways.	For	example,	the	
+description of the Cure	Wounds Spell	specifies	the	healing doesn’t	work	on a	Construct.
+
+Most	player	characters	are	of	the	Humanoid	type.
+Here’s	a	list	of	the	game’s	Creature	Types	in	
+alphabetical	order:
+
+Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, Undead
+
 {{note
-##### CHILDREN OF DIFFERENT HUMANOID KINDS
+##### Children of different humanoid kinds
 Thanks to the magical workings of the multiverse,
 Humanoids of different kinds sometimes have
 children together. For example, folk who have a
@@ -1254,9 +1273,8 @@ options’ Life Span traits to figure out how long
 your character might live. For example, a child of a
 halfling and a gnome has an average life span of
 288 years.
-
 }}
-
+\column
 ## Human
 Found	throughout	the	multiverse,	humans	are	
 as	varied	as	they	are	numerous.	They are	
@@ -1279,9 +1297,7 @@ where	the	Common	tongue	was	born. From
 there,	humans	could	have	spread	to	every	
 corner	of	the	multiverse,	bringing	Sigil’s
 cosmopolitanism with	them.
-
-<br><br>
-
+:::
 #### Humans of many worlds
 On	any	given	world	in	the	multiverse,	the
 material	culture	of	humans	can	change	from	
@@ -1314,6 +1330,10 @@ As	a	Human,	you	have	these	special	traits:
 **Skillful.** You	gain	Proficiency	in	one Skill of	your	choice.
 
 **Versatile.** You	gain a 1st-level	Feat of	your	choice.
+
+{{pageNumber 17}}
+{{footnote PART 1 | RACES}}
+\page
 
 ## Dwarf
 Resilient	like	the	mountains,	dwarves	were	
@@ -1350,9 +1370,6 @@ Forgotten	Realms,	the	dwarves	of	the	south	call
 themselves	gold	dwarves,	and	the	dwarves	of	
 the	north	are	shield	dwarves.
 
-{{pageNumber 17}}
-{{footnote PART 1 | RACES}}
-\page
 ### Dwarf Traits
 Use the information below for your character sheet.
 
@@ -1416,6 +1433,18 @@ on	their	feet.	Another	common	physical
 characteristic	of elves	is	their lack	of	facial	and
 body	hair.
 
+{{wide
+##### Elven Lineages
+| Lineage  | 1st-Level          | 3rd-Level          | 5th-Level          |
+|:---------|:-------------------|:-------------------|:-------------------|
+| Drow     | The range of your Darkvision increases to 120 feet.<br> You also know the Dancing Lights cantrip.        | Faerie Fire       | Darkness |
+| High Elf | You know *a cantrip from the Arcane Spell List*{color:#D35400}. <br> Wheneveryou finish a Long Rest, you can replace <br>&emsp;that cantrip with a different cantrip from the <br>&emsp;Arcane Spell List.| Detect Magic   | Misty Step      |
+| Wood Elf | Your Speed increases to 35 feet.<br> You also know the Druidcraft cantrip.| Longstrider       | Pass without Trace   |
+}} 
+
+{{pageNumber 18}}
+{{footnote PART 1 | RACES}}
+\page
 #### Elves of many worlds
 After	leaving	the	Feywild,	elves	established	
 deep	roots	on	worlds	throughout the	
@@ -1438,6 +1467,8 @@ the	world of	Eberron,	for	example,	drow dwell
 in gloomy	rainforests	and	cyclopean	ruins	on	
 the	continent	of	Xen’drik.
 
+
+
 **High	Elves.** On	some	worlds,	high	elves refer	
 to	themselves	by	other	names.	For	example,	the	
 sun	elves	and	moon	elves	of Toril	(the	world	of	
@@ -1454,18 +1485,9 @@ world	of	the	Greyhawk	setting),	while	the
 Kagonesti	and	the	Tairnadal	are	wood	elves	of	
 Krynn	and	Eberron,	respectively
 
-{{wide
-##### Elven Lineages
-| Lineage  | 1st-Level          | 3rd-Level          | 5th-Level          |
-|:---------|:-------------------|:-------------------|:-------------------|
-| Drow     | The range of your Darkvision increases to 120 feet.<br> You also know the Dancing Lights cantrip.        | Faerie Fire       | Darkness |
-| High Elf | You know the Prestidigitation cantrip. <br> Wheneveryou finish a Long Rest, <br> you can replace that cantrip with a different cantrip <br> from the Arcane Spell List.| Detect Magic   | Misty Step      |
-| Wood Elf | Your Speed increases to 35 feet.<br> You also know the Druidcraft cantrip.| Longstrider       | Pass without Trace   |
-}} 
 
-{{pageNumber 18}}
-{{footnote PART 1 | RACES}}
-\page
+
+
 ### Elf Traits
 Use the information below for your character sheet.
 
@@ -1558,6 +1580,9 @@ fondness	for artifice	and	clockwork	inventions.
 | Forest Gnome | You know the Minor Illusion cantrip. <br> You can cast the Speak with Animals Spell with this trait. You can cast it with the trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any Spell Slots you have to cast the Spell.| 
 | Rock Gnome   | You know the Mending and Prestidigitation cantrips.|
 
+{{pageNumber 19}}
+{{footnote PART 1 | RACES}}
+\page
 ### Gnome Traits
 Use the information below for your character sheet.
 
@@ -1575,6 +1600,7 @@ Use the information below for your character sheet.
 
 **Gnomish Lineage.** You	are	part	of	a	gnomish	
 lineage	that	grants	you supernatural	abilities.	
+
 Choose	a	lineage from	the	Gnomish	Lineages
 table:	Forest	Gnome,	the	lineage	of	magic-filled	
 forests,	or	Rock	Gnome,	the	lineage	of primeval	
@@ -1603,12 +1629,7 @@ Anyone	who	has	spent	time	around	halflings,
 and	particularly	halfling	adventurers,	has	likely	
 witnessed	the	storied	“luck	of	the	halflings”	in	
 action.	When	a	halfling	is	in	mortal	danger,	it	
-seems	as	though
-
-{{pageNumber 19}}
-{{footnote PART 1 | RACES}}
-\page
-an	unseen	force	intervenes	on	
+seems	as	though an	unseen	force	intervenes	on	
 the	halfling’s	behalf.	Many	halflings	believe	in	
 the	power	of	luck,	and	they	attribute	their	
 unusual	gift	to	one	or	more	of	their	benevolent	
@@ -1700,6 +1721,9 @@ harmony	with	their	neighbors	and	the	natural
 world,	and to	many	of them,	Gruumsh’s	wars	
 are	distant	memories.
 
+{{pageNumber 20}}
+{{footnote PART 1 | RACES}}
+\page
 ### Orc Traits
 Use the information below for your character sheet.
 
@@ -1740,18 +1764,6 @@ to	manifest spectral wings.	An	ardling’s moral
 and	ethical	outlook	is self-determined,	however,	
 not	fixed by	ancestry.
 
-{{pageNumber 20}}
-{{footnote PART 1 | RACES}}
-\page
-
-{{wide
-##### Celestial Legacies
-| Legacy   | Suggested Animals         | 1st-Level          | 3rd-Level          | 5th-Level          |
-|:---------|:--------------------------|:-------------------|:-------------------|:-------------------|
-| Exalted  | Cat, eagle, goat, mule    | Thaumaturgy        | Divine Favor       | Lesser Restoration |
-| Heavenly | Elephant, owl, pig, stork | Light              | Cure Wounds        | Zone of Truth      |
-| Idyllic  | Bear, dog, raven, toad    | Guidance           | Healing Word       | Animal Messenger   |
-}} 
 The	three	celestial	legacies	are	as	follows:
 **Exalted.**:: The	fierce passions	of	Arborea,	the	 heroic	heart	of	Ysgard,	and	the wondrous	nature of	the Beastlands call	to	ardlings who	have	the	Exalted celestial legacy.	Their	celestial	ancestors	are heroic	champions	of	the	Chaotic	Good	planes.
 **Heavenly.**::	The	blissful harmony	of	Arcadia,	the	unwavering justice of	Mount	Celestia,	and	the	bucolic paradise	of	Bytopia touch the	souls	of ardlings	who	have	the	Heavenly	celestial	legacy.	Their	celestial	ancestors	are	staunch	defenders	of	the	Lawful	Good	planes.
@@ -1793,6 +1805,18 @@ this	trait	(choose	the	ability	when	you	select	the	legacy).
 
 **Damage	Resistance.** You	have	Resistance	to	 Radiant	Damage.
 
+{{wide
+##### Celestial Legacies
+| Legacy   | Suggested Animals         | 1st-Level          | 3rd-Level          | 5th-Level          |
+|:---------|:--------------------------|:-------------------|:-------------------|:-------------------|
+| Exalted  | Cat, eagle, goat, mule    | Thaumaturgy        | Divine Favor       | Lesser Restoration |
+| Heavenly | Elephant, owl, pig, stork | Light              | Cure Wounds        | Zone of Truth      |
+| Idyllic  | Bear, dog, raven, toad    | Guidance           | Healing Word       | Animal Messenger   |
+}} 
+
+{{pageNumber 21}}
+{{footnote PART 1 | RACES}}
+\page
 ## Dragonborn
 The	earliest dragonborn	hatched	from	the	eggs	
 of	chromatic	and	metallic	dragons. One	story	
@@ -1838,9 +1862,7 @@ its	mountain	ranges.
 On other	worlds,	dragonborn	ply	their	skills	
 in	settlements	populated	mostly	by	nondragonborn,
 
-{{pageNumber 21}}
-{{footnote PART 1 | RACES}}
-\page
+
 fulfilling	an	urge	to	expand	their	
 presence and	influence,	much	as	dragons do.
 
@@ -1858,6 +1880,7 @@ presence and	influence,	much	as	dragons do.
 | Silver      | Cold        |
 | White       | Cold        |
 
+::::::
 ### Dragonborn Traits
 Use the information below for your character sheet.
 
@@ -1903,8 +1926,9 @@ Ancestry	trait.
 the	language	of	dragons.	You	can	therefore	
 speak,	read,	and	write	Draconic.
 
-<br><br>
-
+{{pageNumber 22}}
+{{footnote PART 1 | RACES}}
+\page
 ## Tiefling
 Tieflings	are	either	born	in	the	Lower	Planes	or	
 have	one	or	more	fiendish	ancestors who	
@@ -1940,18 +1964,6 @@ Thanks	to	the victories	and sacrifices of	these
 legends,	tieflings	throughout	the	multiverse
 enjoy widespread acceptance.
 
-{{wide
-##### Fiendish Legacies
-| Legacy   | 1st-Level          | 3rd-Level          | 5th-Level          |
-|:---------|:-------------------|:-------------------|:-------------------|
-| Abyssal  | You have Resistance to Poison Damage.<br>You also know the Poison Spray cantrip.| Ray of Sickness    | Hold Person        |
-| Chthonic | You have Resistance to Necrotic Damage.<br>You also know the Chill Touch cantrip.| False Life         | Ray of Enfeeblement|
-| Infernal | You have Resistance to Fire Damage.<br>You also know the Fire Bolt cantrip.| Hellish Rebuke     | Darkness           |
-}} 
-
-{{pageNumber 22}}
-{{footnote PART 1 | RACES}}
-\page
 ### Tiefling Traits
 Use the information below for your character sheet.
 
@@ -1980,6 +1992,15 @@ you	gain	the	ability	to	cast	a	higher-level Spell
 with	this	trait,	as	shown	on	the	table.	Once	you	
 cast	the	Spell with	this	trait,	you	can’t	cast	that	
 Spell with	it	again	until	you	finish	a	Long	Rest.	
+
+{{wide
+##### Fiendish Legacies
+| Legacy   | 1st-Level          | 3rd-Level          | 5th-Level          |
+|:---------|:-------------------|:-------------------|:-------------------|
+| Abyssal  | You have Resistance to Poison Damage.<br>You also know the Poison Spray cantrip.| Ray of Sickness    | Hold Person        |
+| Chthonic | You have Resistance to Necrotic Damage.<br>You also know the Chill Touch cantrip.| False Life         | Ray of Enfeeblement|
+| Infernal | You have Resistance to Fire Damage.<br>You also know the Fire Bolt cantrip.| Hellish Rebuke     | Darkness           |
+}} 
 
 {{pageNumber 23}}
 {{footnote PART 1 | RACES}}
@@ -3050,6 +3071,809 @@ Restrained	Conditions on	you.
 {{pageNumber 36}}
 {{footnote PART 1 | FEATS}}
 \page
+# Equipment
+This chapter details mundane equipment.
+
+
+{{note,color:purple
+This chapter is not yet enitely covered in the UA and the UA currently explictly states to use content from the PHB. Some of the tables in this section are directly PHB tables which have a purple background. Other tables are PHB tables modified with UA content and have normal formatting.
+}}
+
+## Armor and Shields
+{{purple,#book,text-align:left,background:#aa88aa55
+D&D worlds are a vast tapestry made up of many
+different cultures, each with its own technology level.
+For this reason, adventurers have access to a variety
+of armor types, ranging from leather armor to chain
+mail to costly plate armor, with several other kinds of
+arm or in between. The Armor table collects the most
+commonly available types of armor found in the game
+and separates them into three categories: light armor,
+medium armor, and heavy armor. Many warriors
+supplement their armor with a shield.
+}}
+
+:::::
+##### Armor Proficiency
+If	you	wear	Light,	Medium,	or	Heavy	Armor	
+and	lack	Armor	*Proficiency*{color:#D35400}	with	that	type	of	
+Armor,	you	have	Disadvantage	on	any	d20	Test
+you	make	that	involves	Strength	or	Dexterity,	
+and	you	can’t	cast	Spells.
+If	you	equip a	Shield	and	lack	Armor *Proficiency*{color:#D35400}
+with	Shields,	you	don’t	gain	the	Armor	Class	bonus	of	the	Shield.
+
+#### Getting in and out of Armor
+{{purple,#book,text-align:left,background:#aa88aa55
+The time it takes to don or doff arm or depends on the armor’s category.
+**Don.**:: This is the time it takes to put on armor. You benefit from the armor's AC only if you take the full time to don the suit of armor.
+**Doff.**:: This is the time it takes to take off armor. If you have help, reduce this time by half.
+}}
+{{background:#aa88aa55
+##### Donning and Doffing Armor
+| Category | Don | Doff |
+|:------------------|:-----:|:---:|
+|Light Armor  | 1 minute | 1 minute|
+|Medium Armor | 5 minute | 1 minute|
+|Heavy Armor  | 10 minute | 5 minute|
+|Shield       | 1 action | 1 action|
+}}
+::::::::
+{{wide,background:#aa88aa55
+##### Armor *(Directly from PHB)*
+| Armor                   | Cost    | Armor Class        |Strength| Stealth | Weight  |
+|:------------------------|:-------:|:------------------:|:------:|:-------:|:-------:|
+| **Light Armor**         |         |                    |        |         |         |
+| &emsp;Padded            | 5 gp    |11 + Dex mod        | —      | Disadv. | 8 lb.   |
+| &emsp;Leather           | 10 gp   |11 + Dex mod        | —      | —       | 10 lb.  |
+| &emsp;Studded Leather   | 45 gp   |12 + Dex mod        | —      | —       | 13 lb.  |
+| **Medium Armor**        |         |                    |        |         |         |
+| &emsp;Hide              | 10 gp   |12 + Dex mod (max2) | —      | —       | 12 lb.  |
+| &emsp;Chain shirt       | 50 gp   |13 + Dex mod (max2) | —      | —       | 20 lb.  |
+| &emsp;Scale mail        | 50 gp   |14 + Dex mod (max2) | —      | Disadv. | 45 lb.  |
+| &emsp;Breastplate       | 400 gp  |14 + Dex mod (max2) | —      | —       | 20 lb.  |
+| &emsp;Half plate        | 750 gp  |15 + Dex mod (max2) | —      | Disadv. | 40 lb.  |
+| **Heavy Armor**         |         |                    |        |         |         |
+| &emsp;Ringmail          | 30 gp   |14                  | —      | Disadv. | 40 lb.  |
+| &emsp;Chain mail        | 75 gp   |16                  | Str 13 | Disadv. | 55 lb.  |
+| &emsp;Splint            | 200 gp  |17                  | Str 15 | Disadv. | 60 lb.  |
+| &emsp;Plate             | 1,500 gp|18                  | Str 15 | Disadv. | 65 lb.  |
+| **Shield**              |         |                    |        |         |         |
+| &emsp;Shield            | 10 gp   |+2                  | —      | —       | 6 lb.   |
+}}
+
+
+
+\column
+
+{{pageNumber 37}}
+{{footnote PART 1 | Equipment}}
+\page
+
+## Weapons
+:
+##### Light [Weapon Property]
+When	you	take	the	Attack	Action on	your	turn
+and	attack	with	a Light weapon	in	one	hand,	you	
+can	make	one	extra	attack	as	part	of	the	same	
+Action.	That	extra	attack	must	be	made	with	a	
+different Light	weapon	in	the other	hand,	and	
+you	don’t	add	your	Ability	Modifier to	the	extra
+attack’s	damage. You	can	make	this	extra	attack	
+only	once	on	each	of	your	turns.
+
+For	example,	if	you take	the	Attack	Action	on	
+your	turn	and	have	a	Shortsword	in	one	hand	
+and	a	Dagger	in	the	other—each	of	which	has	the	
+Light	property—you	can	make	one	attack	with	
+each	weapon,	but	you	don’t	add	your	Strength	or	
+Dexterity	Modifier	to	the	damage	roll	of	the	
+second	weapon.
+
+:::::::::::::::::::::::::::
+
+
+{{wide
+##### Weapons
+| Name                    | Cost  | Damage          | Weight  | Properties     |
+|:------------------------|:-----:|:----------------|--------:|:---------------|
+| *Simple Melee Weapons*  |       |                 |         |                |
+| &emsp; Club             | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light          |
+| &emsp; Dagger           | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, Light, Thrown (range 20/60)|
+| &emsp; Shortsword       | 10 gp | 1d6 piercing    | 2 lb.   | Finesse, Light |
+| &emsp; Spear            | 1 gp  | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), Versatile (1d8)|
+| *Simple Ranged Weapons* |       |                 |         |                |
+| &emsp; Dart             | 5 cp  | 1d4 piercig     | 1/4 lb. | Finesse, Thrown (range 20/60)|
+| &emsp; Shortbow         | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), Two-Handed     |
+| &emsp; Sling            | 1 sp  | 1d4 bludgeoning | &mdash; | Ammunition  (range 30/120)|
+}}
+
+
+{{pageNumber 38}}
+{{footnote PART 1 | Equipment}}
+\page
+## Adventuring Gear
+:
+### Tools 
+*Tools aid your ability checks. See the 'Tool Proficiency' section in the Abilities and Skills Chapter*{color:#D35400}
+
+##### Tools
+| Item | Cost | Weight |
+|:------------------|:-----:|:---:|
+|**Artisan’s tools** |||
+|&emsp;Alchemist’s supplies | 15 gp | 8 lb.|
+|&emsp;Brewer’s supplies | 15 gp | 9 lb.|
+|&emsp;Calligrapher's supplies | 15 gp | 5 lb.|
+|&emsp;Carpenter’s tools | 15 gp | 6 lb.|
+|&emsp;Cartographer’s tools | 15 gp | 6 lb.|
+|&emsp;Cobbler’s tools | 15 gp | 5 lb.|
+|&emsp;Cook’s utensils | 15 gp | 8 lb.|
+|&emsp;Glassblower’s tools | 15 gp | 5 lb.|
+|&emsp;Jeweler’s tools | 15 gp | 2 lb.|
+|&emsp;Leatherworker’s tools | 15 gp | 5 lb.|
+|&emsp;Mason’s tools | 15 gp | 8 lb.|
+|&emsp;Painter’s supplies | 15 gp | 5 lb.|
+|&emsp;Potter’s tools | 15 gp | 3 lb.|
+|&emsp;Smith’s tools | 15 gp | 8 lb.|
+|&emsp;Tinker’s tools | 15 gp | 10 lb.|
+|&emsp;Weaver’s tools | 15 gp | 5 lb.|
+|&emsp;Woodcarver's tools | 15 gp | 5 lb.|
+|**Gaming set**|||
+|&emsp;Dice set | 1 gp | —|
+|&emsp;Dragonchess set | 1 gp | 1/2 lb.|
+|&emsp;Playing card set | 1 gp | —|
+|&emsp;Three-Dragon Ante set | 1 gp | —|
+|**Musical instrument**|||
+|&emsp;Bagpipes | 20 gp | 6 lb.|
+|&emsp;Drum | 20 gp | 3 lb.|
+|&emsp;Dulcimer | 20 gp | 10 lb.|
+|&emsp;Flute | 20 gp | 1 lb.|
+|&emsp;Lute | 20 gp | 2 lb.|
+|&emsp;Lyre | 20 gp | 2 lb.|
+|&emsp;Horn | 20 gp | 2 lb.|
+|&emsp;Pan flute | 20 gp | 2 lb.|
+|&emsp;Shawm | 20 gp | 1 lb.|
+|&emsp;Viol | 20 gp | 1 lb.|
+|**Other Tools**|||
+|&emsp;Disguise kit | 25 gp | 3 lb.|
+|&emsp;Forgery kit | 15 gp | 5 lb.|
+|&emsp;Herbalism kit | 5 gp | 3 lb.|
+|&emsp;Navigator’s tools | 25 gp | 2 lb.|
+|&emsp;Poisoner’s kit | 50 gp | 2 lb.|
+|&emsp;Thieves’ tools | 25 gp | 1 lb.|
+
+\column
+
+{{pageNumber 39}}
+{{footnote PART 1 | Equipment}}
+\page
+# Abilities and Skills
+This chapter covers Abilities and Skills.
+
+{{purple,#book,text-align:left,background:#aa88aa55
+Six Abilities provide a quick desctiption
+of every creature’s physical and mental
+characteristics:
+• **Strength**,:: measuring physical power
+• **Dexterity**,:: measuring agility
+• **Constitution**,:: measuring endurance
+• **Intelligence**,:: measuring reasoning and memory
+• **Wisdom**,:: measuring perception and insight
+• **Charisma**,:: measuring force of personality
+}}
+
+:
+## D20 Tests
+The	term	d20	Test	encompasses	the	three	main	
+d20	rolls	of	the	game:	Ability	Checks,	Attack	
+Rolls,	and	Saving	Throws. If	something	in	the	
+game	affects	d20	Tests,	it	affects	all	three	of	
+these rolls.
+
+Whenever	a	player	character	rolls	a	1	for	a	d20	
+Test,	that	character	gains	Heroic	Inspiration.
+
+The	DM	determines	whether	a	d20	Test	is	
+warranted	in	any	given	circumstance.
+
+*Rules on D20 Tests and Ability Checks are covered in this chapter. For rules specific to Attack Rolls and Saving Throws, see the Combat chapter*{color:#D35400}
+
+## Advantage and Disadvantage
+{{purple,#book,text-align:left,background:#aa88aa55
+Sometimes a special ability or spell tells you that you
+have advantage or disadvantage on an ability check,
+a saving throw, or an attack roll. When that happens,
+you roll a second d20 when you make the roll. Use the
+higher of the two rolls if you have advantage, and use
+the lower roll if you have disadvantage. For example, if
+you have disadvantage and roll a 17 and a 5, you use the
+5. If you instead have advantage and roll those numbers,
+you use the 17.
+
+If multiple situations affect a roll and each one grants
+advantage or im poses disadvantage on it, you don’t roll
+more than one additional d20. If two favorable situations
+grant advantage, for example, you still roll only one
+additional d20.
+
+If circumstances cause a roll to have both advantage
+and disadvantage, you are considered to have neither of
+them, and you roll one d20. This is true even if multiple
+circumstances impose disadvantage and only one grants
+advantage or vice versa. In such a situation, you have
+neither advantage nor disadvantage.
+}}
+
+:
+{{purple,#book,text-align:left,background:#aa88aa55
+When you have advantage or disadvantage and
+something in the game, such as the halfling’s Lucky
+trait, lets you reroll the d20, you can reroll only one
+of the dice. You choose which one.
+For example, if a
+halfling has advantage on an ability check and rolls
+a 1 and a 13, the halfling could use the Lucky trait to
+reroll the 1.
+
+You usually gain advantage or disadvantage through
+the use of special abilities, actions, or spells. *Heroic*{color:#D35400} Inspiration <s>(see chapter 4)</s> can also give a character advantage on
+checks related to the character’s personality, ideals,
+or bonds. The DM can also decide that circumstances
+influence a roll in one direction or the other and grant
+advantage or impose disadvantage as a result.
+}}
+:
+## Heroic Inspiration
+When	you	have	Heroic	Inspiration	(also	called	
+Inspiration),	you	can	expend	it	to	give	yourself	
+Advantage	on	a	d20	Test.	You	decide	to	do	so	
+immediately	after	rolling	the	d20.
+#### Gaining Heroic Inspiration
+A	player	character	gains	Heroic	Inspiration	if	the	
+character	rolls	a	1	for	a	d20	Test.	That	1	must	be	
+on	the	d20	used	for	the	test’s	total,	not	on	a	d20	
+that	was	rerolled	or	discarded.	This	Heroic	
+Inspiration	represents	a	character’s	resolve	to	
+do	better	after	fumbling	an	attempt.
+
+The	DM	can	also	award	Heroic	Inspiration	to	a	
+player	character	who’s	done	something	that	is	
+particularly	heroic	or	in	character.
+#### Only one at a Time
+You	can	never	have	more	than	one	instance	of	
+Heroic	Inspiration.	If	something	gives	you	Heroic	
+Inspiration	and	you	already	have	it,	you	can	give	
+Heroic	Inspiration	to	a	player	character	in	your	
+group	who	lacks	it.
+
+
+## Ability Check
+The	Ability	Check	is	one	of	three	types	of	d20	
+Tests.	The	rules	often	call	for	an	Ability	Check,	
+and	the	DM	can	also call	for	an	Ability	Check,	
+determining	which	ability	to	use	when	a	creature	
+attempts	something	(other	than	an	Attack	Roll	or	
+a	Saving	Throw)	that	has	a	chance	of	meaningful	
+failure.	When	the	outcome	is	uncertain	and	
+narratively	interesting,	the	dice	determine	the	
+results.
+
+{{pageNumber 40}}
+{{footnote PART 2 | ABILITIES & SKILLS}}
+\page
+The	Ability	Check has	the	following	special	
+rules.
+
+### Skills
+When	you	make	an	Ability	Check,	the	rules	or	the	
+DM	determines whether	a	Skill Proficiency is	
+relevant	to	the	check.	If	you	have	a	relevant	Skill	
+Proficiency,	you	can	add	your	Proficiency	Bonus	
+to	the	roll. For	example,	if	a	rule	refers	to	a	
+Strength	Check	(Acrobatics	or	Athletics),	you	can	
+add	your	Proficiency	Bonus	to	the	check	if	you	
+have	Acrobatics	or	Athletics	Proficiency.
+
+#### Expertise
+Expertise	is	a	special	feature	that	enhances	your	
+use	of	a	particular	Skill Proficiency.	If	you	gain	
+Expertise,	you	gain	it	in one	Skill	in	which	you	
+have	Proficiency.	You	can	never	have	Expertise	
+in	the	same	Skill	Proficiency	more	than	once.
+
+When	you	make	an	Ability	Check with	a	Skill
+Proficiency in	which	you	have	Expertise,	your	
+Proficiency	Bonus	is	doubled	for	that	check.
+
+#### Tool Proficiency
+If	you	have	Proficiency	with	a	tool,	you	can	add	
+your	Proficiency	Bonus	to	any	Ability	Check you	
+make	that	uses	that	tool.	If	you	have	Proficiency	
+in	the	Skill	that’s	also	used	with	that	check,	you	
+have	Advantage	on	the	check	too.	This	means	
+you	can	benefit	from	both	Skill	Proficiency	and	
+Tool	Proficiency	on	the	same	Ability	Check.
+
+### Action Required
+Making	an Ability	Check	requires	you	to	take	an	
+Action	unless	a	rule says	otherwise. Several	of	
+the	named	Actions—such	as	Hide and	
+Influence—include	Ability	Checks.
+The	DM	may	override	this	requirement	and	
+allow	a	particular	Ability	Check	to	be	made as	
+part	of	a	Bonus	Action	or	as	no	Action	at	all.
+### Difficulty Class (DC)
+The	DM	determines	the	Difficulty	Class	of	an	
+Ability	Check	and	can override	a	DC	specified	in	
+the	rules.	The	Typical	Difficulty	Class	table	
+shows	the	most	common	DCs.
+The	default	DC	for	a	check	is	15,	and	it	is	rarely	
+worth	calling	for	an	Ability	Check	if	the	DC	is	as	
+low	as	5,	unless	the	potential	failure	is	
+narratively	interesting.
+
+##### Typical Difficulty Class
+| Task Difficulty   | DC | 
+|:------------------|:-----:|
+| Very Easy         | 5     |
+| Easy              | 10    | 
+| Medium            | 15    | 
+| Hard              | 20    | 
+| Very Hard         | 25    |
+| Nearly Impossible | 30    |
+
+
+\column
+## Skills
+{{purple,#book,text-align:left,background:#aa88aa55
+Each ability covers a broad range of capabilities,
+including skills that a character or a monster can be
+proficient in. A skill represents a specific aspect of an
+ability score, and an individual’s proficiency in a skill
+demonstrates a focus on that aspect. (A character’s
+starting skill proficiencies are determined at character
+creation, and a monster’s skill proficiencies appear in
+the monster’s stat block.)
+
+For example, a Dexterity check might reflect a
+character’s attempt to pull off an acrobatic stunt, to palm
+an object, or to stay hidden. Each of these aspects of
+Dexterity has an associated skill: Acrobatics, Sleight of
+Hand, and Stealth, respectively. So a character who has
+proficiency in the Stealth skill is particularly good at
+Dexterity checks related to sneaking and hiding.
+
+The skills related to each ability score are shown in
+the following list. (No skills are related to Constitution.)
+See an ability’s description in the later sections of this
+chapter for examples of how to use a skill associated with an ability.
+
+**Strength:**:: Athletics
+**Dexterity:**:: Acrobatics, Sleight of Hand, Stealth
+**Intelligence:**:: Arcana, History, Investigation, Nature, Religion
+**Wisdom:**:: Animal Handling, Insight, Medicine, Perception, Survival
+**Charisma:**:: Deception, Intimidation, Perform ance, Persuasion
+
+Sometimes, the DM might ask for an ability check
+using a specific skill—for example, “Make a Wisdom
+(Perception) check.” At other times, a player might ask
+the DM if proficiency in a particular skill applies to a
+check. In either case, proficiency in a skill means an
+individual can add his or her proficiency bonus to ability
+checks that involve that skill. Without proficiency in the
+skill, the individual makes a normal ability check.
+}}
+
+{{pageNumber 41}}
+{{footnote PART 2 | ABILITIES & SKILLS}}
+\page
+# Interacting with the World
+Rules on how players interact with the world.
+
+
+::::::::
+## *Awareness*{color:#D35400}
+*This section covers aspects of perception, knowledge, and any other measure of a creatures awareness of the world around them.*{color:#D35400}
+
+:
+### Blindsight
+If	you	have	Blindsight,	you can	effectively	see	
+within	a	specific	range without	relying	on	
+physical	sight. Within	that	range,	you	can	
+effectively	see	anything	that	isn’t	behind	Total	
+Cover,	even	if	you’re	Blinded	or	in	Darkness.
+Moreover,	you	can	effectively	see	a	Hidden or	an	
+Invisible creature	in	that	range.
+
+### Tremorsense
+A	creature with	Tremorsense	can	pinpoint	the	
+location of	creatures	and	moving	objects within	
+a	specific	range,	provided	that	the creature with	
+Tremorsense	and anything	it’s	detecting	are	
+both	in	contact	with	the	same	surface	(such	as	
+the	ground,	a	wall,	or	a	ceiling)	or	the	same	
+liquid.
+
+Tremorsense can’t	detect	creatures	or	objects	
+in	the	air,	and	Tremorsense	doesn’t	count	as	a	
+form	of	sight
+
+### Hiding
+:
+#### Hide [Action]
+With	the	Hide	Action,	you	try	to	conceal	yourself.
+To	do	so,	you	must make	a	DC	15	Dexterity	
+Check	(Stealth) while	you’re	Heavily	Obscured	or	
+behind	Three-Quarters	Cover	or	Total	Cover,	and	
+you	must	be	out	of	any	visible enemy’s	line	of	
+sight;	if	you	can	see	a	creature,	you	can	discern
+whether	it can	see	you.
+
+On	a	successful	check,	you	are	Hidden.	Make	
+note	of	your	check’s	total,	which	becomes	the	DC	
+for	a	creature to	find	you	with	a	Wisdom	Check	(Perception).
+
+
+\column
+### *Search and Study Actions*{color:#D35400}
+:
+#### Search [Action]
+When	you	take	the	Search	Action,	you	make	a	
+Wisdom	Check	to	discern something	that	isn’t	
+obvious. The	Search	table	suggests	which	Skills	
+are	applicable	when	you	take	this	Action,	
+depending	on	what	you’re	trying	to	detect.
+##### Search
+| Skill | Thing to Detect |
+|:------------------|:-----|
+| Insight  | Creature’s state of mind  |
+| Medicine |Creature’s ailment |
+| Perception |Concealed creature or object |
+| Survival |Tracks or food |
+
+#### Study [Action]
+When	you	take	the	Study	Action,	you make	an	
+Intelligence	Check to	study	your	memory,	a	
+book,	a	creature,	a	clue,	an	object,	or	another	
+source	of	knowledge	and	call	to	mind	an	
+important	piece	of	information about	it.
+
+The	Areas	of	Knowledge	table	suggests	which	
+Skills	are	applicable	when	you	take	this	Action,	
+depending	on	the	area	of	knowledge	the	
+Intelligence Check	is	about.
+##### Areas of Knowledge
+| Skill | Areas |
+|:------------------|:-----|
+| Arcana        |Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities)|
+| History       |Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids)|
+| Investigation |Traps, ciphers, riddles, and gadgetry |
+| Nature        |Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants)|
+| Religion      |Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
+
+
+{{pageNumber 42}}
+{{footnote PART 2 | INTERACTING WITH THE WORLD}}
+\page
+## Movement
+:
+### Move
+When	you	Move,	you	can	go a	distance	equal	to	
+your	Speed	or	less. For	example,	if	you	have	a	
+Speed	of	30	feet,	you	can	go up	to	30	feet when	
+you	Move. Difficult	Terrain can	slow	you	down.
+
+##### Breaking up your Move
+You	can	break	up	your Move,	using	some	of	its	
+movement	before	and	after	any	Action	you	take
+on	the	same	turn.	For	example,	if	you	have	a	
+Speed	of	30	feet,	you	could	go 10	feet,	take	an	
+Action,	and	then	go 20	feet.
+
+##### Moving around other Creatures
+During	your Move,	you	can	pass	through	the	
+space	of	an	ally,	an	Incapacitated creature,	a	Tiny	
+creature,	or	a	creature	who	is	two	Sizes	larger	or	
+smaller	than	you.
+
+Another creature’s space	is Difficult	Terrain
+for	you,	unless	that	creature	is	Tiny.
+
+You	can’t	willingly	end	your	Move	in	a	space	
+occupied	by	another	creature.
+
+##### Climbing and Swimming
+You	can	use	your	Speed	to	climb	or	swim.	Some	
+creatures	also	have	a	Climb	Speed or	a Swim	
+Speed.
+
+If you	use	your	Speed	to	climb	or	swim,	each	
+foot	of	movement	costs	1	extra	foot.	For	
+example,	if	you	swim	or	climb	5	feet,	you	must	
+spend	10	feet	of	movement	to	do	so with	your	
+Speed. If	you’re	swimming	or	climbing	through	
+Difficult	Terrain,	that	5	feet	of	movement	costs	
+15	feet!
+
+##### Special Speeds
+Some	creatures have	special speeds,	such	as	a	
+Climb	Speed,	a	Fly	Speed,	or	a	Swim	Speed.	If	you	
+have	more	than	one	speed,	you	must	choose	
+which one	to	use	each	time you	take	your	Move.
+For example,	if	you	have	a Speed	and	a	Climb	
+Speed,	you	can	use	one	of	those	speeds	when	
+you	Move,	not	both during	the	same	Move.
+
+If	you	take	more	than	one	Move	on	a	turn	and	
+have	more	than	one	speed,	each	Move	can	use	
+the	same	speed	or	a	different	one.	For	example,	if	
+you	have both a	Speed	and	a	Fly	Speed and	you	
+take	the	Dash	Action on	your	turn,	you	could	use	
+your	Speed	for	the	Move	and	your	Fly	Speed	for	
+the	Dash	or	vice	versa.
+
+##### Speed of 0
+If	an	effect	zeroes	your	Speed	for	a	time,	any	
+special	speed	you	have	is	also	zeroed	for	the	
+same	duration.	For	example,	if	you	have	a	Speed	
+and	a	Climb	Speed,	both	speeds	are	zeroed	if	
+you’re	subjected	to	the	Grappled Condition.
+
+::
+
+### Difficult Terrain
+If	a	space	is	Difficult	Terrain,	every	foot	of	
+movement	in that	space	costs	1	extra	foot.	For	
+example,	moving	5	feet	through	Difficult	Terrain	
+costs	10	feet	of	movement.	Difficult	Terrain	isn’t	
+cumulative;	either	a	space	is	Difficult	Terrain	or	
+it	isn’t.
+
+A	space	is	Difficult	Terrain for	a	creature if	the	space contains	any	of	the	following: 
+- Creature that isn’t Tiny
+- Furniture that is Small or larger
+- Heavy snow
+- Heavy undergrowth
+- Ice
+- Liquid that’s between shin- and waist-deep (any deeper and you need to Swim)
+- Narrow opening that is sized for a creature one Size smaller
+- Pit or another gap of 2–5 feet
+- Rubble
+- Slope of 20 degrees or more
+- *Things the DM may determine as Difficult	Terrain*{color:#D35400}
+
+### Climb Speed
+A	Climb	Speed	can	be	used	to	move	on	a	vertical	
+surface without	expending the extra	movement
+normally	associated	with	climbing. A	Climb	
+Speed	can	also	be	used	in	any	situation	in	which	
+your	Speed	is	usable.
+
+Some	creatures	have	the	Spider	Climb	trait,	
+which	allows	their	Climb	Speed	to	work	even	on	
+the	underside	of	horizontal	surfaces.
+
+### Swim Speed
+A	Swim	Speed	can	be	used	to	move	through	a	
+liquid	without	expending	the	extra	movement	
+normally	associated	with	swimming
+
+### Fly Speed
+A	Fly	Speed	can	be	used	to	move	through	the	air.
+While	you	have	a	Fly	Speed,	you	can	stay aloft	
+until	you land,	fall,	or	die.
+
+While	flying,	you	fall if	you	are Incapacitated or	
+Restrained.	If	you	have the	Hover	trait,	you can	
+stay	aloft	even	while	Incapacitated or	Restrained.
+
+### Teleportation
+Teleportation	is	a	special	kind	of	magical	
+transportation.	If	you	teleport,	you	disappear	
+and	reappear	elsewhere	instantly,	without	
+moving	through	the	intervening	space.	This	
+transportation	doesn’t	expend	movement,	unless	
+a	rule	tells	you	otherwise,	and teleportation	
+never	provokes	Opportunity	Attacks.
+
+When	you	teleport,	all	the	equipment	you	are	
+wearing	and	carrying	teleports	with	you.	
+
+{{pageNumber 43}}
+{{footnote PART 2 | INTERACTING WITH THE WORLD}}
+\page
+If	you	are	touching	another	creature	when	you	
+teleport,	that	creature	doesn’t	teleport	with	you,	
+unless	the	teleportation	effect	says	otherwise.
+
+If	the	destination	space	of	your	teleportation	is	
+occupied	by	another	creature	or	blocked	by	a	solid	obstacle,	you	instead	appear	in	the	nearest	unoccupied	space	of	your	choice.
+
+The	description	of	a	teleportation	effect	tells	
+you	if	you	must	see	the	teleportation’s	
+destination.
+
+### Movement Actions
+:
+#### DASH	[Action]
+Taking	the	Dash	Action	allows	you	to	make a bonus Move during the current	turn.
+
+#### Jump	[Action]
+With	the Jump	Action,	you	attempt	to	leap	more	
+than	5	feet (a	jump	of	5	feet	or	less	is	treated	as	
+Difficult	Terrain). When	you take	this	Action,	
+your	Speed	must	be	greater	than	0,	and you	must
+make	a	DC	10	Strength	Check	(Acrobatics	or	
+Athletics).	If	you	don’t	Move at	least	10	feet	
+immediately	before	this	Action,	you	have	
+Disadvantage	on	the	check.
+
+On	a	failed	check,	you	leap	5	feet horizontally	
+or	vertically.
+
+On	a	successful	check,	the check’s	total
+determines	the	distance	in	feet	that	you	can	clear	
+horizontally,	or half	that	total	if	you’re	jumping	
+vertically (round	down). This	jump	doesn’t	
+expend	your	movement,	but	the	distance	you	
+clear	can’t	exceed	your	Speed.
+
+{{pageNumber 44}}
+{{footnote PART 2 | INTERACTING WITH THE WORLD}}
+\page
+## Interacting with People
+:
+
+### Interaction Actions
+:
+
+#### Help	[Action]
+When	you	take	the	Help	Action,	you	do	one	of	
+the	following:
+**Assist	Ability	Check.**:: Choose	one	of	your	Skill	Proficiencies and	one	ally	who	can	see	or	hear	you.	You	give Advantage to the	next	Ability	Check	that ally	makes	with	the	chosen Skill.	This	benefit	expires	if	the	ally	doesn’t	use	it	before	the	start	of	your	next	turn. To	give	this	assistance,	you	must	be	near enough	to	the	ally	to	assist	verbally	or	physically when	the	ally	makes	the	check. The	DM	has	final	say	on	whether	your	assistance	is	possible.
+
+#### Influence [Action]
+With	the	Influence	Action,	you	can	try	to	
+influence another	creature	to	do	something	you	
+request	or	demand.	This	Action	can	be	used only	
+on	creatures	controlled	by	the	DM,	and	it	isn’t	
+mind	control;	it	can’t	force	a	creature	to	do	
+something	that	is	counter	to	the	creature’s	alignment	or	that	is	otherwise	repugnant	to	the	creature.
+
+This	Action	has	three	main	parts:	Attitude,	
+interaction,	and	a	Charisma	Check.
+##### Attitude
+A	creature’s	Attitude	determines	how	a	
+character	can influence	that creature.	Each	DMcontrolled	creature	has	one	of	the	following	
+Attitudes toward	the	player	characters:
+**Indifferent.**:: This	is	the	default	Attitude	for	DMcontrolled	creatures.	An	Indifferent creature	might	help	or	hinder	the	party,	depending	on	what	the	creature	sees	as	most	beneficial.	A	creature’s	indifference	doesn’t	necessarily	make	it	standoffish	or	disinterested.	Indifferent	creatures	might	be	polite	and	genial,	surly	and	irritable,	or	anything	in	between.	A	successful	Charisma	Check	is	often	necessary when	the	adventurers	try	to	persuade	an	Indifferent	creature	to	do	something.
+**Friendly.**:: A	Friendly creature	wants	to	help	the	adventurers	and	wishes	for	them	to	succeed.	For	tasks	or	actions	that	require	no	particular	risk,	effort,	or	cost,	Friendly	creatures	often help	happily.	If	an	element	of	personal	risk	is	involved,	a	successful	Charisma	Check	might	be	required	to	convince	a	Friendly	creature	to	take	that	risk.
+**Hostile.**:: A	Hostile	creature	opposes	the	adventurers	and	their	goals	but	doesn’t	necessarily	attack	them	on	sight.	The	adventurers	need	to	succeed	on	one	or	more	challenging	Charisma	Checks	to	convince	a	Hostile	creature	to	do	anything	on	the	party’s behalf;	however, the	DM	might	determine	that the Hostile	creature	is so	ill-disposed	toward	the	characters that	no	Charisma	Check	can sway	it,	in	which	case	the	first	check fails	automatically	and	no	further	Influence	attempts	can	be	made	on	the	creature	unless	its	Attitude	shifts.
+
+
+##### Interaction
+When	you	take	the	Influence Action,	either	
+roleplay	how	your	character	interacts	with	the	
+creature or	describe	your	character’s	behavior—
+focusing	on	your	character’s request	or	demand.	
+If	the	interaction is	especially	suited	to	the	
+creature’s	desires	and	outlook,	the	DM	might	
+grant Advantage	to your	subsequent	check	or	
+might	temporarily	shift	a	Hostile	creature	to	
+Indifferent	or	an	Indifferent	creature	to	Friendly.
+
+Similarly,	if	the	interaction is	particularly	
+irksome	to	the	creature,	the	DM	might impose	
+Disadvantage	on	your	subsequent	check	or	
+might	temporarily	shift	a	Friendly	creature	to	
+Indifferent	or	an	Indifferent	creature	to	Hostile.
+
+##### Ability Check
+To	determine	whether your	request	or	demand	
+is	successful,	you	make	a	Charisma	Check
+(Animal	Handling,	Deception,	Intimidation,	or	
+Persuasion);	the	applicable	Skill	depends	on	the	
+interaction,	with	Animal	Handling	being	
+reserved	for	Beasts	and	Monstrosities. Also,	each
+request	or demand	requires	a different	check.
+
+The	creature’s	Attitude	determines	the	DC	
+required	to	achieve	a	specific	response,	as	
+shown	in	the	Influence Responses table.
+##### Influence Responses
+| DC | Indifferent Creature’s Response |
+|:------------------|:-----:|
+| 10 | The creature does as asked, as long as no risks or sacrifices are involved.     |
+| 20 | The creature accepts a minor risk or sacrifice to do as asked.| 
+
+| DC | Friendly Creature’s Response |
+|:------------------|:-----:|
+| 10 | The creature accepts a minor risk or sacrifice to do as asked.     |
+| 20 | The creature accepts a significant risk or sacrifice to do as asked.| 
+
+| DC | Hostile Creature’s Response |
+|:------------------|:-----:|
+| 10 | The creature offers no help but does no harm.     |
+| 20 | The creature does as asked, as long as no risks or sacrifices are involved.| 
+
+{{pageNumber 45}}
+{{footnote PART 2 | INTERACTING WITH THE WORLD}}
+\page
+## Resting, Eating, Travel
+:
+### Resting
+:
+#### Long Rest
+A	Long	Rest	is	a	period	of	extended	downtime—
+at	least	8	hours	long—available	to	any	creature.	
+During	a	Long	Rest, you	sleep	for	at	least	6	hours	
+and	perform	no	more	than	2	hours	of	light	
+activity,	such	as	reading,	talking,	eating,	or	
+standing	watch.
+
+##### Benefits of the Rest
+When	you	finish a	Long	Rest,	you gain	the	following	benefits:
+**Regain	All	HP.**:: You regain	all	lost	Hit	Points.
+**Regain	All HD.**:: You	regain	all	spent	Hit	Dice. 
+**HP	Max	Restored.**::	If	your Hit	Point	Maximum	was	reduced,	it	returns	to	normal.
+**Ability	Scores	Restored.**:: If	any	of	your	Ability	Scores	were	reduced,	they	return	to	normal. You can’t	benefit	from	more	than	one	Long	Rest	in	a	24-hour	period,	and	you must	have	at	least	1	Hit	Point	at	the	start	of	the	rest	to	gain	its	benefits.
+##### Interrupting the Rest
+If	a	Long	Rest	is	interrupted	by	combat	or	by	1	
+hour	of	walking,	casting	Spells,	or	similar	
+activity,	the	rest	confers	no	benefit	and	must	be	
+restarted;	however,	if	the	rest	was	at	least	1	hour	
+long	before	the	interruption,	you	gain the	
+benefits	of	a	Short	Rest.
+
+{{pageNumber 46}}
+{{footnote PART 2 | INTERACTING WITH THE WORLD}}
+\page
+# Combat
+This chapter covers rules for combat.
+
+::::::::
+
+
+#### UNARMED	STRIKE
+An	Unarmed	Strike	is	a	melee	attack	that	
+involves	you	using	your	body	to	damage,	
+grapple,	or	shove	a	target	within	your	Reach.
+
+Your	bonus	to	hit	with	an	Unarmed	Strike	
+equals	your	Strength	modifier	plus	your	
+Proficiency	Bonus.	On	a	hit,	your	Unarmed	Strike	
+causes	one	of	the	following	effects	of	your	
+choice:
+**Damage.**:: The	target	takes	Bludgeoning	Damage	equal	to	1	+	your	Strength	modifier.
+**Grapple.**:: The	target	is	Grappled,	and	the	grapple’s	escape	DC	equals	8	+	your	Strength	modifier	+	your	Proficiency	Bonus.	This	grapple	is	possible	only	if	the target	is	no	more	than	one	Size	larger	than	you	and	if	you	have	a	hand	free	to	grab	the	target.
+**Shove.**:: You	either	push	the	target	5	feet	away	or	knock	the	target	Prone.	This	shove	is	possible	only	if	the	target	is	no	more	than	one	Size	larger	than	you.
+
+## Combat Actions
+:
+#### ATTACK	[Action]
+When	you	take	the	Attack	Action,	you	can	make	
+one	attack	with	a	Weapon	or	an	Unarmed	Strike.
+
+##### Equipping Weapons
+You	can	equip	or	unequip	one	Weapon	before	or	
+after	any	attack	you	make	as	part	of	this	Action,	
+even	if	the	attack	is	with	an	Unarmed	Strike.
+
+##### Moving between Attacks
+If	you	Move on	your	turn,	you	can	use	some	or	all	
+of	that	movement	to	move	between	the	attacks	
+of	this	Action	if	you	have	a	feature,	such	as	Extra	
+Attack,	that	gives	you	more	than	one	attack	as	
+part	of	the	Attack	Action.
+
+#### Help	[Action]
+When	you	take	the	Help	Action,	you	do	one	of	
+the	following:
+**Assist	Attack	Roll.**:: You	momentarily	distract	an	enemy	within	5	feet	of	you,	granting Advantage	to	the	next	Attack	Roll by	one	of	your	allies	against	that enemy.	This	benefit	expires	at	the	start	of	your	next	turn.
+
+{{pageNumber 47}}
+{{footnote PART 2 | COMBAT}}
+\page
 # Spells
 This chapter details the core set of spells.
 There are three core	Spell	types:	Arcane,	
@@ -3159,7 +3983,7 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 2 | Locate Object  | Divination | No |
 | 2 | Magic Aura  | Illusion | No |
 
-{{pageNumber 37}}
+{{pageNumber 48}}
 {{footnote PART 3 | SPELLS}}
 \page
 | Level | Spell | School | Ritual |
@@ -3271,7 +4095,7 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 6 | Magic Jar  | Necromancy | No |
 | 6 | Mass Suggestion  | Enchantment | No |
 
-{{pageNumber 38}}
+{{pageNumber 49}}
 {{footnote PART 3 | SPELLS}}
 \page
 | Level | Spell | School | Ritual |
@@ -3324,9 +4148,6 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 9 | True Polymorph | Transmutation | No |
 | 9 | Weird  | Illusion | No |
 | 9 | Wish  | Conjuration | No |
-
-{{pageNumber 39}}
-{{footnote PART 3 | SPELLS}}
 \column
 
 ##### Divine Spells
@@ -3384,7 +4205,7 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 3 | Crusader’s Mantle  | Evocation | No |
 | 3 | Daylight  | Evocation | No |
 
-{{pageNumber 40}}
+{{pageNumber 50}}
 {{footnote PART 3 | SPELLS}}
 \page
 | Level | Spell | School | Ritual |
@@ -3497,7 +4318,7 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 2 | Flame Blade  | Evocation | No |
 | 2 | Flaming Sphere  | Evocation | No |
 
-{{pageNumber 41}}
+{{pageNumber 51}}
 {{footnote PART 3 | SPELLS}}
 \page
 | Level | Spell | School | Ritual |
@@ -3583,7 +4404,7 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 9 | Storm of Vengeance  | Conjuration | No |
 | 9 | True Resurrection  | Necromancy | No |
 
-{{pageNumber 42}}
+{{pageNumber 52}}
 {{footnote PART 3 | SPELLS}}
 
 \page
@@ -3624,5 +4445,155 @@ creature	can’t	benefit	from	the	Spell again	until
 the	creature	finishes a	Long	Rest.
 
 
-{{pageNumber 43}}
+{{pageNumber 53}}
 {{footnote PART 3 | SPELLS}}
+\page
+# Appendix A: Conditions
+{{background:#aa88aa55
+Conditions alter a creature's capabilities in
+a variety of ways and can arise as a result of
+a spell, a class feature, a monster’s attack,
+or other effect. Most conditions, such as
+blinded, are impairments, but a few, such as
+invisible, can be advantageous.
+A condition lasts either until it is countered
+(the prone condition is countered by standing
+up, for example) or for a duration specified by the effect
+that imposed the condition.
+
+If multiple effects im pose the same condition on a
+creature, each instance of the condition has its own
+duration, but the condition’s effects don't get worse.
+A creature either has a condition or doesn’t.
+
+The following definitions specify what happens to
+a creature while it is subjected to a condition.
+}}
+:
+## Blinded
+{{background:#aa88aa55
+- A blinded creature can’t see and automatically fails any ability check that requires sight.
+- Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
+}}
+
+## Charmed
+{{background:#aa88aa55
+- A charmed creature can't attack the charmer or target the charm er with harmful abilities or magical effects.
+- The charmer has advantage on any ability check to interact socially with the creature.
+}}
+
+## Deafened
+{{background:#aa88aa55
+- A deafened creature can’t hear and automatically fails any ability check that requires hearing
+}}
+
+## Exhausted
+While	you	are	subjected	to	the	Exhausted	Condition,	you	experience	the	following	effects:
+**Levels	of	Exhaustion.**::	This	Condition	is	cumulative.	Each	time	you	receive	it,	you	gain	1	level	of	exhaustion.	You	die	if	your	exhaustion	level	exceeds 10.
+**d20	Rolls Affected.**::	When	you	make	a	d20	Test,	you	subtract	your	exhaustion	level from	the	d20	roll.
+**Spell	Save	DCs	Affected.**:: Subtract	your	exhaustion	level	from	the	Spell save	DC	of	any	Spell	you	cast.
+**Ending	the	Condition.**::	Finishing	a	Long	Rest removes	1	of	your	levels	of	exhaustion.	When	your	exhaustion	level	reaches	0,	you	are	no	longer	Exhausted.	
+
+## Frightened
+{{background:#aa88aa55
+• A frightened creature has disadvantage on ability
+checks and attack rolls while the source of its fear is
+within line o f sight.
+• The creature can’t willingly move closer to the source
+of its fear.
+}}
+
+## Grappled
+While	you	are	Grappled,	you	experience	the	
+following	effects:
+**Speed	0.**:: Your	Speed	is	0	and	can’t	change.
+**Attacks	Affected.**:: You	have	Disadvantage	on	Attack	Rolls against	any	target	other	than	the	grappler.
+**Movable.**:: The	grappler	can	drag	or	carry	you,	but	the	grappler	suffers	the	Slowed Condition	while	moving,	unless	you	are	Tiny	or	two	or	more	Sizes	smaller	than	the	grappler.
+**Escape.**:: While	Grappled,	you	can	make	a	Dexterity	or	Strength	Saving	Throw against	the	grapple’s	escape	DC	at	the	end	of	each	of	your	turns,	ending	the	Condition	on	yourself	on	a	success.	The	Condition also	ends	if	the	grappler	is	Incapacitated or if	something moves you outside the grapple’s	range	without	using	your	Speed.
+
+## Hidden
+While	you	are	Hidden,	you	experience	the	following	effects:
+**Concealed.**:: You	aren’t	affected	by	any	effect	that	requires	its	target	to	be	seen
+**Surprise.**:: If	you	are	Hidden	when	you	roll	Initiative,	you	have	Advantage	on	the	roll.
+**Attacks	Affected.**:: Attack	Rolls against	you have	Disadvantage,	and	your Attack	Rolls have	Advantage.
+**Ending	the	Condition.**:: The	Condition	ends	on	you	immediately	after	any	of	the	following	occurrences:	you	make	a	sound	louder	than	a	whisper,	an	enemy finds you,	you	make	an	Attack	Roll, you	cast	a	Spell	with	a	verbal	component, or	you	aren’t	Heavily	Obscured	or	behind	any	Cover.
+
+## Incapacitated
+While	you	are	Incapacitated,	you	experience	the	
+following	effects:
+**Inactive.**:: You can’t	take	Actions or	Reactions.
+**No	Concentration.**:: Your Concentration	is	broken.
+**Speechless.**:: You	can’t	speak.
+**Surprised.**:: If	you	are	Incapacitated	when	you	roll	Initiative,	you	have	Disadvantage	on	the	roll.
+
+{{pageNumber 54}}
+{{footnote APPENDIX | CONDITIONS}}
+\page
+## Invisible
+While	you	are	Invisible,	you	experience	the	
+following	effects:
+**Unseeable.**:: You	can’t	be	seen,	so	you	aren’t	affected	by	any	effect	that	requires	its	target	to	be	seen. Any	equipment	you are	wearing	or	carrying	also	can’t	be	seen.
+**Surprise.**:: If	you	are	Invisible	when	you	roll	initiative,	you	have	Advantage	on	the	roll.
+**Attacks	Affected.**:: Attack	Rolls against	you have	Disadvantage,	and	your Attack	Rolls have	Advantage.
+
+## Paralyezed
+{{background:#aa88aa55
+- A paralyzed creature is incapacitated (see the condition) and can’t move or speak.
+- The creature automatically fails Strength and Dexterity saving throws.
+- Attack rolls against the creature have advantage.
+- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+}}
+
+## Petrified
+{{background:#aa88aa55
+- A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+- The creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings.
+- Attack rolls against the creature have advantage.
+- The creature automatically fails Strength and Dexterity saving throws.
+- The creature has resistance to all damage.
+- The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
+}}
+
+## Poisoned
+{{background:#aa88aa55
+- A poisoned creature has disadvantage on attack rolls and ability checks.
+}}
+
+## Prone
+{{background:#aa88aa55
+- A prone creature’s only movement option is to crawl, unless it stands up and thereby ends the condition.
+- The creature has disadvantage on attack rolls.
+- An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+}}
+::::::::
+## Restrained
+{{background:#aa88aa55
+- A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
+- Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
+- The creature has disadvantage on Dexterity saving throws.
+}}
+
+## Slowed
+While	you	are	Slowed,	you	experience	the	following	effects:
+**Limited	Movement.**:: You	must	spend	1	extra	foot	of	movement	for	every	foot	you	move	using	your	Speed.
+**Attacks	Affected.**::	Attack	Rolls against	you have	Advantage. 
+**Dexterity	Saves	Affected.**:: You	have	Disadvantage	on	Dexterity	Saving	Throws.
+
+## Stunned
+{{background:#aa88aa55
+- A stunned creature is incapacitated (see the condition), can’t move, and can speak only falteringly.
+- The creature automatically fails Strength and Dexterity saving throws.
+- Attack rolls against the creature have advantage.
+}}
+
+## Unconscious
+{{background:#aa88aa55
+- An unconscious creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings
+- The creature drops whatever it’s holding and falls prone.
+- The creature automatically fails Strength and Dexterity saving throws.
+- Attack rolls against the creature have advantage.
+- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+}}
+
+{{pageNumber 55}}
+{{footnote APPENDIX | CONDITIONS}}
