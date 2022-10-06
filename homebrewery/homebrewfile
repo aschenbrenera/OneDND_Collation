@@ -1,0 +1,3628 @@
+```metadata
+title: One D&D Playtest Collation
+description: ''
+tags: []
+systems: []
+renderer: V3
+
+```
+
+
+{{toc,wide
+# Table Of Contents
+
+- ## [{{ Part 1}}{{ 1}}](#p1)
+- ### [{{ One D&D Playtest Collation}}{{ 1}}](#p1)
+  - #### [{{ Legal Stuff}}{{ 1}}](#p1)
+  - #### [{{ What to expect}}{{ 1}}](#p1)
+  - #### [{{ Contact me}}{{ 1}}](#p1)
+  - #### [{{ How to use this Document}}{{ 1}}](#p1)
+- ### [{{ Build a Character Guide}}{{ 2}}](#p2)
+- ### [{{ Classes}}{{ 4}}](#p4)
+  - #### [{{ Bard}}{{ 5}}](#p5)
+  - #### [{{ Ranger}}{{ 9}}](#p9)
+  - #### [{{ Rogue}}{{ 13}}](#p13)
+- ### [{{ Races}}{{ 17}}](#p17)
+  - #### [{{ Human}}{{ 17}}](#p17)
+  - #### [{{ Dwarf}}{{ 17}}](#p17)
+  - #### [{{ Elf}}{{ 18}}](#p18)
+  - #### [{{ Gnome}}{{ 19}}](#p19)
+  - #### [{{ Halfling}}{{ 19}}](#p19)
+  - #### [{{ Orc}}{{ 19}}](#p19)
+  - #### [{{ Ardling}}{{ 20}}](#p20)
+  - #### [{{ Dragonborn}}{{ 21}}](#p21)
+  - #### [{{ Tiefling}}{{ 22}}](#p22)
+- ### [{{ Backgrounds}}{{ 24}}](#p24)
+  - #### [{{ Languages}}{{ 24}}](#p24)
+	- #### [{{ Sample Backgrounds}}{{ 25}}](#p25)
+- ### [{{ Feats}}{{ 29}}](#p29)
+\column
+- ## [{{ Part 2}}{{ }}](#)
+- ## [{{ Part 3}}{{ }}](#)
+- ### [{{ Spells}}{{ 37}}](#p37)
+}}
+
+
+
+
+
+\page
+# One D&D Playtest Collation
+This document is to help playtesters.<br>
+After the second UA playtest document was released, I wanted to have one place to go to reference all the material for playtesting. Further, I wanted the information organized like an actual PHB. I decided to dediate a few hours to bringing together information into one place, and share with the community for what help it might offer. I intend to incorperate future UA into this 'living document'.
+
+## Legal Stuff
+Obviously all of the material inside is pulled from content provided by Wizards of the Coast. Right now this document includes information from 3 sources.
+
+• UA 2022 CHARACTER ORIGINS
+
+• UA 	2022 EXPERT	CLASSES
+
+• PHB 5e (Small excerpts for context)
+
+<br>
+
+This document was created using The Homebrewery: 
+https://homebrewery.naturalcrit.com/. Which is a wonderful tool, that I highly recommend if you make your own homebrew documentation.
+
+## What to expect
+This document combines and paraphrases content from the sources to facilitate readability, and easy to access information. Because of this, this text is inherently **NOT RAW** (rules as written). 
+90% of what is in this document is just copied and pastied from the UA. 2% is copied from the PHB. 7% is me combining and paraphrasing information together. 1% is me intentionally adding new information that changes the natures of the rules, but is only done where I feel this was an obvious oversight. 
+
+The expectation around information in this document is that it still plays as intended by the UA writers, but due to interpreation may be incorrect.  I threw this together very quickly, and expect there to be mistakes and oversights. Feel free to reach out to me for corrections.
+
+## Contact Me
+You can submit corrections or improvements to me via GitHub Issues. Go to github.com and search for 'OneDND_Collation'. I will also start a thread on r/onednd called 'OneDND Playtest Collation'.
+
+#### The types of input i'm looking for
+- Mistakes in transcribing the UA
+- Paraphrasing that accidently changes gameplay
+- Grammar issues: Spelling, punctuation, etc.
+- Suggestions on formatting the material
+- Suggestions on paraphrasing the material
+
+
+
+\column
+
+## Version
+Last updated Oct 6th 2022.  Version 0.5
+
+### Coming Soon
+I'm still working on Part 2 that incorperates the UA Expert Classes Rule Glossary.
+
+I will also add a chapter for equipment.
+
+## How to use this?
+As most of this document comes directly from UA, you will just read most sections at face value as UA. I felt it was important to clearly delineate when that is not the case.
+
+### Taken from the PHB
+When something is quoted from the PHB, it will be formatted in a way to make it clear it's source.
+{{purple,#book,text-align:left,background:#aa88aa55
+Information formatted in this way, is pulled directly from the PHB.
+}}
+:
+### Edited by me
+When something is paraphrased by me, it will be formatted in a way to make it clear it has been altered.
+:
+*This information was added or reworded by me,* {color:#D35400} <s> and this information was removed by me</s>, *but the rules of character creation and gameplay should be exactly the same.*{color:#D35400}
+
+### Entirely New
+Very rarely, I've seen what appears to be an oversight, where I believe a certain piece of text is missing that changes how the rules would be interpreted. If I add something, knowing it will change the rules, I do so in the following format.
+:
+UA information `amended with rule changes`.
+
+### Combined
+If I bring something in from the PHB and I alter it, the formatting styles are combined.
+
+{{purple,#book,text-align:left,background:#aa88aa55
+*Some* {color:#D35400} information formatted in this way, is <s>pulled</s> *copied* {color:#D35400} directly from the PHB.
+}}
+{{pageNumber 1}}
+{{footnote PART 1 | INTRO}}
+
+\page
+
+# Build a Character Guide
+This chapter details building a character.
+
+{{note,color:purple
+This chapter is not yet enitely covered in the UA, so it has the most content not found in the UA. 
+}}
+
+{{purple,#book,text-align:left,background:#aa88aa55
+Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a race (such as human or halfling) and a class (such as fighter or wizard). You also invent the personality, appearance, and backstory of your character. Once completed, your character serves as your representative in the game, your avatar in the D&D world.
+
+Before you dive into step 1 below, think about the
+kind of adventurer you want to play. You might be a
+courageous fighter, a skulking rogue, a fervent cleric, or
+a flamboyant wizard. Or you might be more interested
+in an unconventional character, such as a brawny rogue
+who likes hand-to-hand combat, or a sharpshooter who
+picks off enemies from afar. Do you like fantasy fiction
+featuring dwarves or elves? Try building a character of
+one of those races. Do you want your character to be the
+toughest adventurer at the table? Consider a class like
+barbarian or paladin.
+
+Once you have a character in mind, follow these steps
+in order, making decisions that reflect the character you
+want. Your conception of your character might evolve
+with each choice you make. What’s important is that you
+come to the table with a character you’re excited to play.
+}}
+
+:
+
+### Choose a Class
+{{purple,#book,text-align:left,background:#aa88aa55
+Every adventurer is a member of a class. Class broadly
+describes a character’s vocation, what special talents he
+or she possesses, and the tactics he or she is most likely
+to employ when exploring a dungeon, fighting monsters,
+or engaging in a tense negotiation. 
+}}
+
+A	Class’s	description	includes	a	section	on	how	
+to	create	a	member	of	that	Class.	*That	section	
+tells	you	how	to	determine	your	Hit	Points,	
+	Proficiencies, and 1st-level equipment you	gain
+from	the	Class. It also tells you how	to	use	the	multiclassing	
+rules	with	the	Class.* {color:#D35400}
+
+### Determining your origin
+After	choosing	your	character’s	Class,	it’s	time	
+to	consider	the	character’s	origin.	Who	are	the	
+character’s	ancestors?	And	how	did	the	
+character	spend	the	years	leading	up	to	a	life	of	
+adventure?	To	help	answer	those	questions,	you	
+need to choose a Race and a Background <s> and a language</s>.
+
+A	character’s	Race	represents	ancestry	and	
+confers	game	traits	to	the	character.
+
+A	character’s	Background	is	a	collection	of	
+characteristics	that	represent	the	place	and	
+occupation	that	were	most	formative for	the	
+character. 
+
+Race	and	Background together help bring	
+your	character’s	backstory	into	focus, and	they	
+distinguish the	character	from	other	members	
+of	the	same	Class.	For	example,	two	characters	
+might	both	be	members	of	the	Fighter	Class,	but	
+if	one	is	a	Human	Guard and	the	other	is	a	
+Dwarf Gladiator,	the	two	bring	different	
+capabilities	and	flavor	to	the	Class.
+
+<s>After	choosing	a	Race	and	a	Background,	you	
+choose	a	language	that	your	character	knows,	in	
+addition	to	the	Common	tongue and	whatever	
+language	you	gained	from	the	Background you	chose.</s>
+
+The	combination	of	Race and	Background	<s>and	
+	languages</s> provides fertile	soil	for	your imagination,	as	you	ponder	your	character’s	
+earliest	days	and	imagine	the	character’s	family,	
+occupation, hometown,	and	more.
+
+The	Character	Origin	Overview	table	
+lists	the	traits your	character	gains	from	Race	
+and	Background.
+
+##### Character Origin Overview
+| Race Trait        | Description |
+|:------------------|:-----------------|
+| Creature Type     | Every character and monster in the game has a Creature Type.|
+| Size              | A character’s Size determines the amount of space the character occupies.|
+| Speed             | Speed fuels a character’s movement.|
+| Life Span         | This life span is an average for a member of the Race.|
+| Special Traits    | Each Race provides special traits—a collection of abilities that characters gain from their ancestors. |
+
+| Background Trait        | Description |
+|:------------------|:-----------------|
+| Ability Score Bonus | A Background grants a +2 bonus to one ability score and a +1 bonus to a different one.|
+| Skill Proficiencies | You get two Skill Proficiencies from a Background.|
+| Tool Proficiency    | Each Background gives Tool Proficiency with one tool.|
+| Language            | *A Background grants three languages (see rules).* {color:#D35400}|
+| Special Traits    | Each Race provides special traits—a collection of abilities that characters gain from their ancestors. |
+| Feat                | Each Background provides a 1st-level Feat—a special ability acquired in the character’s past.|
+| Equipment           | A Background provides a portion of a character’s starting equipment, with the rest coming from Class.|
+
+{{pageNumber 2}}
+{{footnote PART 1 | Build A Character}}
+
+\page
+### Determine Ability Scores
+{{purple,#book,text-align:left,background:#aa88aa55
+Much of what your character does in the game depends
+on his or her six abilities: Strength, Dexterity,
+Constitution, Intelligence, Wisdom, and Charisma.
+
+You generate your character's six ability scores
+randomly. Roll four 6-sided dice and record the total of
+the highest three dice on a piece of scratch paper. Do
+this five more times, so that you have six numbers. If
+you want to save time or don’t like the idea of randomly
+determining ability scores, you can use the following
+scores instead: 15, 14, 13, 12, 10, 8.
+
+Now take your six numbers and write each number
+beside one of your character’s six abilities to assign
+scores to Strength, Dexterity, Constitution, Intelligence,
+Wisdom , and Charisma. Afterward, make any changes
+to your ability scores as a result of your <s>race choice</s> *other character creation choices* {color:#D35400}.
+}}
+
+{{pageNumber 3}}
+{{footnote PART 1 | Build A Character}}
+\page
+# Classes
+This chapter details the playable classes.
+{{purple,#book,text-align:left,background:#aa88aa55
+Class is the primary definition of what your character can do. It’s more than a profession; it’s your character’s essence. Class shapes the way you think about the world and interact with it.
+}}
+Characters who	have	levels	in	a	Class	are exceptional;	most	of	the	inhabitants	of	the multiverse	aren’t	members	of a	Class.
+
+
+### Class Group
+Each	Class	is	a	member	of	a	Class	Group — a	set of	Classes	that	have	certain	features	and	themes in	common. The	Class	Groups	table	lists	the groups and	summarizes	characteristics	the members	of	a	group	have	in	common.
+##### Class Groups
+| Group | Classes | Characteristics |
+|:------------------|:-----|:-----------------|
+| Experts  | Bard, Ranger, Rogues      | Polymaths who have the Expertise feature and elements of other Classes |
+| Mages    | Sorcerer, Warlock, Wizard | Adepts of Arcane magic, focusing on utility and destruction |
+| Priests  | Cleric, Druid, Paladin    | Stewards of Divine or Primal magic, focusing on healing, utility, and defense |
+| Warriors | Barbarian, Fighter, Monk  | Masters of combat who can deal and endure many wounds |
+
+
+
+{{pageNumber 4}}
+{{footnote PART 1 | CLASSES}}
+
+\page
+# Bard
+This section details the bard class.  
+
+Invoking	magic	through	music,	dance,	and	verse,
+Bards are	expert	at	inspiring others, soothing	hurts, disheartening foes,	and	creating illusions.
+
+Bards	believe that	the	creators	of	the	multiverse	spoke and	signed it into	existence
+and	that	remnants of	those Words	of	Creation	still	resound	and	glimmer	on	every	plane	of	
+existence.	The	magic of	Bards	is	an	attempt	to	harness	those	words—which	transcend	any	
+language—and	direct	them	to	create	new	wonders.
+
+Almost	anything	can	inspire	a	new	song	or	tale,	so	Bards	are	fascinated	by	almost	
+everything.	They	have	a	wide-ranging	knowledge	of	many	subjects	and	develop	an	aptitude	to do	almost	anything	well.	Bards	become	masters	of	many things,	including musical	performance,	the	workings	of	magic,	and	the	formation	of	jests. 
+
+Not	every	singer or	poet in	a	tavern	or	jester in	a	royal	court	is	a	Bard.	Harnessing the	Words	of	Creation requires	hard	work and	some	measure	of	natural	talent	that	most	troubadours	and jongleurs	lack.	It	can	sometimes	be	hard	to	spot	the	difference	between	these	performers	and	Bards,	though.	A	Bard’s	life	is	spent	wandering	across	the	land	gathering	lore,	telling	stories,	and	living	on	the	gratitude	of	audiences,	much like	any	other	entertainer.	But	Bards’ depth	of	knowledge,	level	of	musical	skill,	and	mastery of	magic	sets	them apart.
+
+
+
+{{classTable,frame,decoration,wide
+##### The Bard
+| Level | Prof.       | Features                | Bardic |Cantrips | --- Prepred Spells Per Spell Level ---|||||||||
+|      ^| Bonus       |                        ^| Die    |   ^|1st |2nd |3rd |4th |5th |6th |7th |8th |9th |
+|:-----:|:-----------:|:------------------------|:------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  1st  | +2 | Bardic Inspiration, Spellcasting | d6     | 2  | 2  | —  | —  | —  | —  | —  | —  | —  | —  |
+|  2nd  | +2 | Expertise, Songs of Restoration  | d6     | 2  | 3  | —  | —  | —  | —  | —  | —  | —  | —  |
+|  3rd  | +2 | Bard Subclass                    | d6     | 2  | 4  | 2  | —  | —  | —  | —  | —  | —  | —  |
+|  4th  | +2 | Feat                             | d6     | 3  | 4  | 3  | —  | —  | —  | —  | —  | —  | —  |
+|  5th  | +3 | Jack of All Trades               | d8     | 3  | 4  | 3  | 2  | —  | —  | —  | —  | —  | —  |
+|  6th  | +3 | Subclass Feature                 | d8     | 3  | 4  | 3  | 3  | —  | —  | —  | —  | —  | —  |
+|  7th  | +3 | Font of Bardic Inspiration       | d8     | 3  | 4  | 3  | 3  | 1  | —  | —  | —  | —  | —  |
+|  8th  | +3 | Feat                             | d8     | 3  | 4  | 3  | 3  | 2  | —  | —  | —  | —  | —  |
+|  9th  | +4 | Expertise                        | d8     | 3  | 4  | 3  | 3  | 3  | 1  | —  | —  | —  | —  |
+| 10th  | +4 | Subclass Feature                 | d10    | 4  | 4  | 3  | 3  | 3  | 2  | —  | —  | —  | —  |
+| 11th  | +4 | Magical Secrets                  | d10    | 4  | 4  | 3  | 3  | 3  | 2  | 1  | —  | —  | —  |
+| 12th  | +4 | Feat                             | d10    | 4  | 4  | 3  | 3  | 3  | 2  | 1  | —  | —  | —  |
+| 13th  | +5 | --                               | d10    | 4  | 4  | 3  | 3  | 3  | 2  | 1  | 1  | —  | —  |
+| 14th  | +5 | Subclass Feature                 | d10    | 4  | 4  | 3  | 3  | 3  | 2  | 1  | 1  | —  | —  |
+| 15th  | +5 | *Magical Secrets*{color:#D35400} | d12    | 4  | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  | —  |
+| 16th  | +5 | Feat                             | d12    | 4  | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  | —  |
+| 17th  | +6 | --                               | d12    | 4  | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  | 1  |
+| 18th  | +6 | Superior Bardic Inspiration      | d12    | 4  | 4  | 3  | 3  | 3  | 3  | 1  | 1  | 1  | 1  |
+| 19th  | +6 | Feat                             | d12    | 4  | 4  | 3  | 3  | 3  | 3  | 2  | 1  | 1  | 1  |
+| 20th  | +6 | Epic Boon                        | d12    | 4  | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
+}}
+
+{{pageNumber 5}}
+{{footnote PART 1 | CLASSES}}
+
+\page
+### Creating a Bard
+To	create	a	Bard,	consult	the	*information in this section* {color:#D35400}.  Then	look	at	the	Bard table	to see	the	Class Features you	get	at	each	level in	this	Class.	The	 descriptions	of	those	features	appear	in the Bard “Class Features”	section.
+
+**Class Group:** :: Expert
+**Primary Ability:** :: Charisma
+#### Hit Points
+
+**Hit Dice:**                    :: 1d8 per Bard level
+**Hit Points at 1st Level:**     :: 8 + your Constitution modifier
+**Hit Points per Level after 1st:** :: 1d8 (or 5) + your Constitution modifier
+
+#### Proficiencies
+
+*Armor:*{color:#D35400}   :: *Light Armor*{color:#D35400}
+**Weapons:** :: Simple Weapons
+**Tools:**   :: Three Musical Instruments of your choice
+**Saving Throws:** :: Charisma, Dexerity
+**Skills:**        :: *Any three skills of your choice <br>(Recommended: Deception, Performance, Persuasion)* {color:#D35400}
+
+#### Spellcasting Ability
+Charisma is	your	Spellcasting	Ability for	your	Bard Spells.
+**Spell save DC**:: = 8 + your proficiency bonus + your Charisma modifier
+**Spell attack modifier**:: = your proficiency bonus + your Charisma modifier
+
+#### Equipment
+As	a	1st-level	character,	you	start	with	the	
+following	equipment,	or	you	can	forgo	it	and	
+spend	100	GP	on	equipment	of	your	choice.
+- Dagger
+- Entertainer’s Pack
+- Leather Armor
+- Musical Instrument (one of your choice)
+- Shortsword
+- 18 GP
+
+#### Multiclassing and the Bard
+If using	the	multiclassing	rules <s>in	the	Player’s	Handbook</s>,	here’s	what	you	need	to	know	if	you	choose	Bard	as	one	of	your	Classes.
+
+**Ability	Score	Minimum.** As	a	multiclass	character,	you	must	have a	score	of at	least	13	in	
+the	Bard’s	primary	ability,	Charisma,	to	take	a	level	in	this	Class	or	to	take	a	level	in	another	Class	if	you	are	already	a	Bard.
+
+**Proficiencies.** If	Bard	isn’t	your	initial	Class,	here	are the	Proficiencies	you	gain	when	you take	your	first	Bard	level: *Light Armor,*{color:#D35400}	one	Skill	of	your	choice, and	one	Musical	Instrument	of	your	choice. 
+
+**Spell	Slots.** Add	all	your	Bard	levels	to	the	 appropriate	levels	from	other	Classes	to	
+determine	your	available	Spell	Slots for	casting	 Spells,	as	detailed	in	the	multiclassing rules.
+
+You	prepare	Spells	for	each	of	your	Classes	individually,	referring	to the	Spell	Slots	of an	
+individual Class	to	determine	the	number	and	levels	of	the	Spells	you	prepare	for	it.
+
+## Class Features
+As	a	Bard,	you	gain	the	following	Class	Features	
+when	you	reach	the	specified	levels	in	this	Class.	
+These	features	are	listed	on	the	Bard table.
+
+### Bardic Inspiration
+*Levels: 1st, 5th, 10th, 15th*
+
+You	can supernaturally inspire	others	through	
+words,	music,	or	dance.	This	inspiration	is	
+represented	by	your	Bardic	Inspiration	die,	
+which	is a	d6 at 1st level.
+
+**At	Higher	Levels.**	Your	Bardic	Inspiration	die	
+changes	when	you	reach	certain	levels	in	this	
+Class,	as	shown	in	the	Bardic	Die	column	of	the	
+Bard	table.	The	die	becomes	a	d8	at	5th	level,	a	
+d10	at	10th	level,	and	a	d12	at	15th	level.
+
+**Number	of	Uses.** *You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.*{color:#D35400}
+
+**Using	Bardic	Inspiration.** You	can	use	your	
+Bardic	Inspiration	die	in	the	following	ways:
+**Boost	a	d20	Test.** :: When another	creature	within	60	feet	of	you that	you	can	see	or	hear fails a d20	Test, you	can	use	your	Reaction	to	give	the	creature	a Bardic	Inspiration	die.	The creature	rolls that	die and	adds the	number	rolled	to	the	d20,	potentially	turning	the	failure	into	a	success.
+**Heal.** :: Immediately	after another	creature	within	60	feet	of	you that	you	can	see	or	hear takes	damage,	you	can	use	your	Reaction	to	roll	your Bardic	Inspiration die and	restore a	number	of	Hit	Points	to	the	creature	equal	to	the	number rolled.
+
+### Spellcasting
+*Levels: 1st, see Bard Table for Spells at each level*
+
+You	have	learned	to	cast	Spells	through	your	
+bardic	arts.	See	the	Spellcasting chapter for	the	
+rules	on	spellcasting.	The	information	below	
+details	how	you	use	those	rules	as	a	Bard.
+
+**Spellcasting	Focus.**	You	can	use	a	Musical	Instrument `you are proficient in`  as	a	Spellcasting	Focus for	the	Spells you	prepare	for	this	Class.
+
+**Prepared	Spells.**
+Any Spell	you prepare	for	this	Class	must	be an Arcane Spell,	and it must	be from	one	of	the	following	Schools	of	Magic: Divination, Enchantment,	Illusion,	or	Transmutation.
+
+Whenever	you	finish	a	Long	Rest *practicing	your	bardic	arts,	you can*{color:#D35400} replace	any	Spell	you	have	prepared	for	this	Class	with	another Arcane	Spell of	the	same	level,	abiding	by	the	school	restriction	above. 
+
+{{pageNumber 6}}
+{{footnote PART 1 | CLASSES}}
+\page
+*At 1st level, you prepare two Cantrip	Spells and	two 1st-level	Spells of	your	choice.* {color:#D35400} At	higher levels	in	this	Class,	you	can	prepare	more	Spells,	as	shown	on	the	Bard	table. The numbers there	determine	the	number	of different Spells	you can prepare of	each	level. For example,	as	a	3rd-level	Bard,	you	can	prepare	two	different	*Cantrip*{color:#D35400}	Spells,	four	different	1st-level	Spells, and	two	different	2nd-level	Spells.
+
+
+Consult the	“Prepared	Bard	Spell” section for	recommendations	on	which	spells	to	prepare <s>at	higher	levels</s>.
+
+**Spell	Slots.** 
+The	Bard	table	shows	how	many	
+Spell	Slots	you	have	at	each	level	to	cast	your	
+Bard	Spells	of	1st	level	and	higher.
+The	number	of	different	Spells	you	can	prepare	of	each	level equals	the	number	of	Spell	Slots	you	have	at that	level. For	example,	as	a	5th-level	Bard,	you	have	
+four	1st-level	Spell	Slots,	three	2nd-level	Spell	
+Slots,	and	two	3rd-level	Spell	Slots.
+
+### Expertise
+*Levels: 2nd, 9th*
+
+You	gain	Expertise in	two	of	your	Skill	
+Proficiencies	of	your	choice.
+
+Performance	and	Persuasion	are	iconic	choices	
+for	a	Bard	if	you	have	Proficiency	in	them.
+
+### Songs of Restoration
+*Levels: 2nd, 4th, 6th, 8th, 10th*
+
+You	have	learned	how	to	use	music,	poetry,	and	
+dance to	heal	wounds and	maladies.	When	you	
+reach	certain	levels	in	this	Class,	you	add	a	
+specific Spell	to	your	Songs	of	Restoration
+repertoire,	as	shown	on	the	Songs	of	Restoration
+Repertoire	table.	You	always	have	that Spell	
+prepared,	and	it	doesn’t	count	against	the	
+number	of	Spells	you	can	prepare.
+##### Songs of Resotration Repertoire
+| Bard Level | Spell |
+|:-----|:----------------------|
+| 2nd  | Healing Word          |
+| 4th  | Lesser Restoration    |
+| 6th  | Mass Healing Word     |
+| 8th  | Freedom of Movement   | 
+| 10th | Greater Restoration   | 
+
+### Bard Subclass and Features
+*Levels: 3rd, 6th, 10th, 14th*
+
+*You	gain	a	Bard Subclass	of	your	choice. Bard Subclasses are detailed at the end of the Bard Class description.*{color:#D35400}
+
+A	Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Bard levels.	For	the	rest	of your	career,	you	gain	each	of	your	Subclass’s	features	that	are	of	your	Bard level	and	lower. *Bard Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
+
+:::
+
+### Feat
+*Levels: 4th, 8th, 12th, 16th, 19th*
+
+You	gain	the	Ability	Score	Improvement	Feat	or	another	Feat	of	your choice.
+
+### Jack of All Trades
+*Levels: 5th*
+
+You can add half your proficiency bonus, rounded down, to any ability check you make that doesn’t already include your proficiency bonus. 
+
+For	example,	if	you	make	a	Strength	Check	(Athletics)	and	lack	Athletics	Proficiency,	you	can	add	half	your	Proficiency	Bonus	to	the check.
+
+### Font of Bardic Inspiration
+*Levels: 7th*
+
+You	now regain	all your expended	uses	of	Bardic	Inspiration	when	you	finish	a	Short Rest or a
+Long	Rest.
+
+In	addition,	if	a	creature	rolls	your	Bardic	Inspiration	die	and	gets	a	1	(after any rerolls),	that	use	of	your	Bardic	Inspiration	isn’t	expended.
+
+### Magical Secrets
+*Levels: 11th, 15th*
+
+You have	collected magical	knowledge	from	a	wide	spectrum	of	disciplines.
+
+*When you get this feature at 11th-level you choose a Spell List: Arcane,	Divine,	or	Primal. When you get this feature again at 15th level, you choose a different spell list.*{color:#D35400}
+
+*Whenever	you prepare your Bard Spells, you may choose to prepare up to two spells of any school of magic from each spell list you have chosen from the Magical Secrets feature. The spells prepared this way count towards your Prepred Bard Spells Per Spell Level.*{color:#D35400}
+
+The prepared	Spells otherwise follow	the	rules	of your	Bard	Spellcasting	feature.
+
+### Superior Bardic Inspiration
+*Levels: 18th*
+
+When	you	roll	Initiative,	you	regain	two expended uses of	your	Bardic	Inspiration.
+
+### Epic Boon
+*Levels: 20th*
+
+*You gain	an	Epic	Boon Feat	of your choice. (Recommended:	Epic Boon of Luck)*{color:#D35400}
+
+{{pageNumber 7}}
+{{footnote PART 1 | CLASSES}}
+\page
+
+### Prepared Bard Spells
+This	section	provides	recommended	Spells that you	prepare	at	each	Bard level. Look	for	your	
+Bard	level,	and	you	prepare	the	spells	for	that	level and	all	lower	Bard	levels.	A	Spell marked	with a	dagger	(†)	is	always	 prepared	and	can’t	be	replaced	when	you	prepare	Spells
+##### Recommended Bard Spells
+| Bard Level | Spells |
+|:-----|:-----|
+| 1st  | **Cantrip:** Prestidigitation, Vicious Mockery <br> **1st-Level:** Color Spray, Disguise Self |
+| 2nd  | **1st-Level:** Dissonant Whispers, Healing Word†|
+| 3rd  | **1st-Level:** Charm Person <br>**2nd-Level:** Blur, Shatter|
+| 4th  | **Cantrip:** Minor Illusion <br> **2nd-Level:** Calm Emotions, Lesser Restoration† | 
+| 5th  | **3rd-Level:** Haste, Tongues| 
+| 6th  | **3rd-Level:** Major Image, Mass Healing Word†| 
+| 7th  | **4th-Level:** Compulsion | 
+| 8th  | **4th-Level:** Freedom of Movement†, Greater Invisibility| 
+| 9th  | **4th-Level:** Polymorph <br> **5th-Level:** Seeming| 
+| 10th | **Cantrip:** Message <br> **5th-Level:** Greater Restoration†, Legend Lore| 
+| 11th | **6th-Level:** Otto’s Irresistible Dance| 
+| 13th | **7th-Level:** Etherealness| 
+| 15th | **8th-Level:** Power Word Stun| 
+| 17th | **9th-Level:** Power Word Kill| 
+| 18th | **5th-Level:** Animate Objects| 
+| 19th | **6th-Level:** Mass Suggestion| 
+| 20th | **7th-Level:** Reverse Gravity| 
+
+## Bard Subclasses
+A	Bard Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Bard levels,	as	
+specified	in	the	Subclass. 
+
+**Bard College.**  Bards	form	loose	associations,	which	they	call colleges,	to	facilitate	their	gatherings	and	preserve	their	traditions. The iconic bard is from the	College	of	Lore.
+
+### College of Lore
+Bards	of	the	College	of	Lore	know	something	about	most	things,	collecting	bits	of	knowledge	from	sources	as	diverse	as	scholarly	tomes	and	peasant	tales.	Whether	singing	folk	ballads	in	taverns	or	performing	elaborate	compositions	in	royal	courts,	these	Bards	use	their	gifts	to	hold	audiences	spellbound. 
+
+The	college’s	members	gather	in	libraries	and	sometimes	in	actual	colleges,	complete	with	classrooms and	dormitories,	to	share	their	lore with	one	another.	They	also	meet	at	festivals	or affairs	of state,	where	they	can	expose	corruption,	unravel	lies,	and	poke	fun	at	self important	figures	of authority.
+
+##### Bonus Proficiencies
+*Levels: 3rd*
+
+You	gain	three	Skill	Proficiencies:	Arcana,	
+History,	and	Nature.	If	you	already	have	one	of	
+these	Proficiencies,	choose	a	Skill	Proficiency	
+you	lack,	and gain	that	Proficiency.
+
+##### Cutting Words
+*Levels: 3rd*
+
+You learn	how	to	use	your	wit	to	supernaturally
+distract,	confuse,	and	otherwise	sap	the	
+confidence	and	competence	of	others.	When	a	
+creature	that	you	can	see	within	60	feet	of	
+yourself succeeds	on an	Ability	Check or	an	
+Attack	Roll,	you	can	use	your	Reaction	to	expend	
+one	of	your	uses	of	Bardic	Inspiration,	rolling	a	
+Bardic	Inspiration	die	and	subtracting	the	
+number	rolled	from	the	creature’s	roll,	
+potentially	turning	it into	a	failure.
+
+##### Cunning Inspiration
+*Levels: 6th*
+
+Through	your	studies	and	your	cunning,	you’ve	
+learned to	inspire	others	exceptionally	well.	
+When	any	creature	rolls	your	Bardic	Inspiration	
+die,	that	creature	can	roll	the	die	twice	and	use	
+the	higher	of	the	two	rolls.
+
+##### Improved Cutting Words
+*Levels: 10th*
+
+Whenever	you	use	your	Cutting	Words feature
+on	a	creature,	you can	deal	Psychic	Damage	to	
+that	creature	equal	to	the	number	rolled	on	the	
+Bardic	Inspiration	die	plus	your	Charisma	
+modifier.
+
+##### Peerless Skill
+*Levels: 14th*
+
+When you	make	an	Ability	Check and	fail,	you	
+can	expend	one	use	of	Bardic	Inspiration,	roll	the
+Bardic Inspiration	die, and	add	the	number	
+rolled	to	the Ability	Check,	potentially	turning	it	
+into	a	success. If	the	check	still	fails,	the	Bardic	
+Inspiration	isn’t	expended.
+
+{{pageNumber 8}}
+{{footnote PART 1 | CLASSES}}
+\page
+# Ranger
+This section details the ranger class.  
+
+Far	from	the	bustle	of cities,	amid	the	trees	of	
+trackless	forests	and	across	wide	plains,	Rangers	
+keep	their	unending	watch.
+
+Wanderers of	the	wilderness,	Rangers	
+specialize	in	facing monsters	that	threaten	the	
+world.	Rangers learn	to	track	their	quarry	as	a	
+predator	does,	moving	stealthily	through	the	
+wilds	and	hiding	themselves	in	brush	and	rubble.
+
+Thanks	to	their	connection with	nature,	
+Rangers	can	also	cast	Spells	that	harness	the	
+primal powers	of	the	wilderness.	A	Ranger’s	
+talents	and	magic are	honed	with	deadly	focus	
+on	the	task	of	protecting	the	world	from the	
+ravages	of	monsters	and	tyrants.
+
+
+
+{{classTable,frame,decoration,wide
+##### The Ranger
+| Level | Prof.       | Features            |Cantrips | --- Prepred Spells Per Spell Level ---|||||
+|      ^| Bonus       |                    ^|        ^|1st |2nd |3rd |4th |5th |
+|:-----:|:-----------:|:------------------------|:---:|:--:|:--:|:--:|:--:|:--:|
+|  1st  | +2 | Expertise, Favored Enemy, Spellcasting |  2  | 2  | —  | —  | —  | —  |
+|  2nd  | +2 | Fighting Style                   |  2  | 2  | —  | —  | —  | —  |
+|  3rd  | +2 | Ranger Subclass                  |  2  | 3  | —  | —  | —  | —  |
+|  4th  | +2 | Feat                             |  2  | 3  | —  | —  | —  | —  |
+|  5th  | +3 | Extra Attack                     |  2  | 4  | 2  | —  | —  | —  |
+|  6th  | +3 | Subclass Feature                 |  2  | 4  | 2  | —  | —  | —  |
+|  7th  | +3 | Roving                           |  2  | 4  | 3  | —  | —  | —  |
+|  8th  | +3 | Feat                             |  2  | 4  | 3  | —  | —  | —  |
+|  9th  | +4 | Expertise                        |  2  | 4  | 3  | 2  | —  | —  |
+| 10th  | +4 | Subclass Feature                 |  3  | 4  | 3  | 2  | —  | —  |
+| 11th  | +4 | Tireless                         |  3  | 4  | 3  | 3  | —  | —  |
+| 12th  | +4 | Feat                             |  3  | 4  | 3  | 3  | —  | —  |
+| 13th  | +5 | Nature's Veil                    |  3  | 4  | 3  | 3  | 1  | —  |
+| 14th  | +5 | Subclass Feature                 |  3  | 4  | 3  | 3  | 1  | —  |
+| 15th  | +5 | Feral Senses                     |  3  | 4  | 3  | 3  | 2  | —  |
+| 16th  | +5 | Feat                             |  3  | 4  | 3  | 3  | 2  | —  |
+| 17th  | +6 | --                               |  3  | 4  | 3  | 3  | 3  | 1  |
+| 18th  | +6 | Foe Slayer                       |  3  | 4  | 3  | 3  | 3  | 1  |
+| 19th  | +6 | Feat                             |  3  | 4  | 3  | 3  | 3  | 2  |
+| 20th  | +6 | Epic Boon                        |  3  | 4  | 3  | 3  | 3  | 2  |
+}}
+
+{{pageNumber 9}}
+{{footnote PART 1 | CLASSES}}
+
+\page
+### Creating a Ranger
+To	create	a	Ranger,	consult	the	*information in this section* {color:#D35400}.  Then	look	at	the	Ranger table	to see	the	Class Features you	get	at	each	level in	this	Class.	The	descriptions	of	those	features	appear	in the Ranger	"Class Features”	section.
+
+**Class Group:** :: Expert
+**Primary Ability:** :: Dexterity, Wisdom
+#### Hit Points
+
+**Hit Dice:**                    :: 1d10 per Ranger level
+**Hit Points at 1st Level:**     :: 10 + your Constitution modifier
+**Hit Points per Level after 1st:** :: 1d10 (or 6) + your Constitution modifier
+
+#### Proficiencies
+
+*Armor:*{color:#D35400}   :: *Light Armor, Medium Armor, Shields*{color:#D35400}
+**Weapons:** :: Simple Weapons, Martial Weapons
+**Tools:**   :: None
+**Saving Throws:** :: Strength, Dexerity
+**Skills:**        :: *Choose three skills from: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival <br>(Recommended: Athletics, Stealth, Survival)* {color:#D35400}
+
+#### Spellcasting Ability
+Widsom is	your Spellcasting	Ability for	your	Ranger Spells.
+**Spell save DC**:: = 8 + your proficiency bonus + your Wisdom modifier
+**Spell attack modifier**:: = your proficiency bonus + your Wisdom modifier
+
+#### Equipment
+As	a	1st-level	character,	you	start	with	the	
+following	equipment,	or	you	can	forgo	it	and	
+spend	150	GP	on	equipment	of	your	choice.
+- Arrows (20)
+- Explorer’s Pack
+- Longbow
+- Quiver
+- Scimitar
+- Shortsword
+- Studded Leather Armor
+- 8 GP
+
+#### Multiclassing and the	Ranger
+If using	the	multiclassing	rules <s>in the	Player’s	Handbook</s>,	here’s	what	you	need	to	know	if	you	choose	choose	Ranger	as	one	of	your	Classes.
+
+**Ability	Score	Minimum.** As	a	multiclass	character,	you	must	have a	score	of at	least	13	in	
+the	Ranger’s	primary	abilities,	Dexterity and Wisdom,	to	take	a	level	in	this	Class	or	to	take	a	level	in	another	Class	if	you	are	already	a	Ranger.
+
+**Proficiencies.** If	Ranger	isn’t	your	initial	Class,	here	are the	Proficiencies	you	gain	when	you take	your	first	Ranger	level: *Light Armor, Medium, Armor, Shield,*{color:#D35400} Martial Weapons, and	one	Skill	of	your	choice from the Ranger's Skill list.
+
+**Spell	Slots.** Add	half	your	Ranger	levels	(rounded up) to	the	 appropriate	levels	from	other	Classes	to determine	your	available	Spell	Slots for	casting	 Spells,	as	detailed	in	the	multiclassing rules.
+
+You	prepare	Spells	for	each	of	your	Classes	individually,	referring	to the	Spell	Slots	of an	
+individual Class	to	determine	the	number	and	levels	of	the	Spells	you	prepare	for	it.
+
+## Class Features
+As	a	Ranger,	you	gain	the	following	Class	Features	
+when	you	reach	the	specified	levels	in	this	Class.	
+These	features	are	listed	on	the	Ranger table.
+
+### Expertise
+*Levels: 1st, 9th*
+
+You	gain	Expertise in	two	of	your	Skill	Proficiencies	of	your	choice.
+
+Stealth	and	Survival	are	iconic	choices	for	a	Ranger	if	you	have	Proficiency	in	them.
+
+### Favored Enemy
+*Levels: 1st*
+
+You	are	adept	at	focusing	your	ire	on	a	single	foe.	
+You	always	have	the	Hunter’s	Mark Spell	
+prepared,	and	it	doesn’t	count	against	the	
+number	of	Spells	you	can	prepare.	Moreover,	you	
+don’t	have	to	concentrate	on	the	Spell once	you	
+cast	it;	it	lasts	for	its full	duration,	until	you	end	
+it	as	a	Bonus	Action,	or	until	you	are	
+Incapacitated.
+
+### Spellcasting
+*Levels: 1st, see Bard Table for Spells at each level*
+
+You	have	learned	to	channel the	magical	essence	of	nature	to	cast	Spells.
+See	the	Spellcasting chapter for	the	rules	on	spellcasting.
+The	information	below	details	how	you	use	those	rules	as	a	Ranger.
+
+**Spellcasting	Focus.**	You	can	use	a	Druidic Focus as	a	Spellcasting	Focus for	the	Spells you	prepare	for	this	Class.
+
+**Prepared	Spells.**
+Any Spell	you prepare	for	this	Class	must	be an Primal Spell,	and it	and	it	can	be	from	any	School	of	Magic	except	Evocation.
+
+Whenever	you	finish	a	Long	Rest *communing	with	nature, you can*{color:#D35400}	replace	any	Spell	you	have	prepared	for	this	Class	with	another	 Primal	Spell of	the	same	level,	abiding	by	the	school	restriction	above. 
+
+*At 1st level, you prepare two	*Cantrip*{color:#D35400}	Spells and	two 1st-level	Spells of	your	choice.* {color:#D35400}
+
+At	higher levels	in	this	Class,	you	can	prepare	more	Spells,	as	shown	on	the	Ranger	table. The numbers there	determine	the	number	of different Spells	you can prepare of	each	level.
+For	example,	as	a	3rd-level	Ranger,	you	can	
+prepare	two	different	*Cantrip*{color:#D35400}	Spells and	three
+different	1st-level	Spells.
+
+{{pageNumber 10}}
+{{footnote PART 1 | CLASSES}}
+\page
+
+Consult the	“Prepared	Ranger	Spell” section for	recommendations	on	which	spells	to	prepare <s>at	higher	levels</s>.
+
+**Spell	Slots.** 
+The	Ranger	table	shows	how	many	
+Spell	Slots	you	have	at	each	level	to	cast	your	
+Ranger	Spells	of	1st	level	and	higher;	the	number	
+of	different	Spells	you	can	prepare	of	each	level	
+equals	the	number	of	Spell	Slots	you	have	at	that	
+level. For	example,	as	a	5th-level	Ranger,	you	
+have	four	1st-level	Spell	Slots and	two	2nd-level	
+Spell	Slots.
+
+### Fighting Style
+*Levels: 2nd*
+
+You	have	honed	your	martial	prowess.	You	gain	
+one	of	the	following	Fighting	Style	Feats of	your	
+choice:	Archery,	Defense,	or	Two-Weapon	
+Fighting.
+
+Whenever	you	gain	a	Feat at	later	levels,	
+Fighting	Style	Feats	are	among	your	options,	
+even	though	you	aren’t	a	member	of	the	Warrior	
+Group.
+
+### Ranger Subclass and Features
+*Levels: 3rd, 6th, 10th, 14th*
+
+*You	gain	a	Ranger Subclass	of	your	choice. Ranger Subclasses are detailed at the end of the Ranger Class description.*{color:#D35400}
+
+A	Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Ranger levels.	For	the	rest	of your	career,	you	gain	each	of	your	Subclass’s	features	that	are	of	your	Ranger level	and	lower. *Ranger Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
+
+### Feat
+*Levels: 4th, 8th, 12th, 16th, 19th*
+
+You	gain	the	Ability	Score	Improvement	Feat	or	another	Feat	of	your choice.
+
+### Extra Attack
+*Levels: 5th*
+
+You	can	attack	twice,	instead	of	once,	whenever	you	take	the	Attack	Action on	your	turn.
+
+### Roving
+*Levels: 7th*
+
+Your	Speed	increases	by	10 feet while	you	aren’t	wearing	Heavy	Armor.
+You	also	have a	Climb	Speed and	a	Swim	Speed equal	to	your	Speed.
+
+### Tireless
+*Levels: 11th*
+
+Primal	forces	now	help	fuel	you	on	your	
+journeys,	granting	you	the	following	benefits:
+**Temporary	Hit	Points.**:: Whenever	you	finish	a	 Short	Rest	or	a	Long	Rest,	you	can	give	 yourself	a	number	of	Temporary	Hit	Points	 equal	to	1d8	plus	your	Proficiency	Bonus.
+**Decrease	Exhaustion.**::	If you	are	Exhausted when	you	finish	a	Short	Rest,	your	level	of	 exhaustion	decreases by	1.
+
+### Nature's Veil
+*Levels: 13th*
+
+You	invoke	spirits	of	nature to magically hide	yourself from	view.	As	a	Bonus	Action,	you can	 expend	a	Spell	Slot and become Invisible until the end of your next turn.
+
+### Feral Senses
+*Levels: 15th*
+
+Your	connection	to	the	forces	of	nature	grants	you	Blindsight with	a	range	of 30	feet.
+
+### Foe Slayer
+*Levels: 18th*
+
+Your	Hunter’s	Mark now	deals	an	extra	1d10 damage	to	its	target,	rather	than an	extra 1d6.
+
+### Epic Boon
+*Levels: 20th*
+
+*You gain	an	Epic	Boon Feat	of your choice. (Recommended:	Epic Boon of Fortitude)*{color:#D35400}
+
+### Prepared Ranger Spells
+This	section	provides	recommended	Spells that you	prepare	at	each	Ranger level. Look	for	your	
+Ranger	level,	and	you	prepare	the	spells	for	that	level and	all	lower	Ranger	levels.	A	Spell marked	with a	dagger	(†)	is	always	 prepared	and	can’t	be	replaced	when	you	prepare	Spells
+##### Recommended Ranger Spells
+| Ranger Level | Spells |
+|:-----|:-----|
+| 1st  | **Cantrip:** Guidance, Thorn Whip <br> **1st-Level:** Cure Wounds, Hunter's Mark†, Speak with Animals |
+| 3rd  | **1st-Level:** Ensnaring Strike|
+| 5th  | **1st-Level:** Longstrikder <br> **2nd-Level:**  Pass without Trace, Spike Growth| 
+| 7th  | **2nd-Level:** Barkskin | 
+| 9th  | **3rd-Level:** Conjure Barrage, Elemental Weapon| 
+| 10th | **Cantrip:** Message | 
+| 11th | **3rd-Level:** Revivify| 
+| 13th | **4th-Level:** Freedom of Movement| 
+| 15th | **4th-Level:** Locate Creature| 
+| 17th | **4th-Level:** Conjure Woodland Beings <br> **5th-Level:** Conjure Volley| 
+| 19th | **5th-Level:** Tree Stride| 
+
+{{pageNumber 11}}
+{{footnote PART 1 | CLASSES}}
+\page
+
+## Ranger Subclasses 
+A	Ranger Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Ranger levels,	as	
+specified	in	the	Subclass. 
+
+The iconic Ranger is a Hunter.
+
+### Hunter
+You	stalk	prey	in	the	wilds	and	elsewhere,	using	
+your	abilities	as	a	Hunter	to	protect	nature	and	
+people	everywhere	from	forces	that	would	
+destroy	them.
+
+##### Hunter's Prey
+*Levels: 3rd*
+
+Your	tenacity	can	wear	down	even the	most	
+resilient foes.	When	you	hit	a	creature with	a	
+Weapon	or	an	Unarmed	Strike as	part	of	the	
+Attack	Action on	your	turn,	the	Weapon	or	
+Unarmed	Strike deals an	extra	1d8	damage to	
+the	target if	it’s	missing	any	of	its	Hit	Points.	You	
+can	deal	this	extra	damage	only	once	per	turn.
+
+##### Hunter's Lore
+*Levels: 6th*
+
+You	can	call	on	the	forces	of	nature	to	reveal	
+certain	strengths	and	weaknesses	of	your	prey.	
+While	a	creature	is	marked	by	your	Hunter’s	
+Mark,	you	know	whether	that	creature	has	any	
+Immunities,	Resistances,	and	Vulnerabilities,	and	
+if	the	creature	has	any,	you	know	what	they	are.
+
+##### Multiattack
+*Levels: 10th*
+
+You	now	always	have	Conjure	Barrage prepared,	
+and	it	doesn’t	count	against	the	number	of	Spells	
+you	can	prepare.
+
+You	can	also	cast	the	Spell	with	1st- and	2ndlevel	Spell	Slots.	When	you	do	so,	the	Spell’s
+damage	is	reduced	by	1d8	for	each	slot	level	
+below	3rd.
+
+##### Superior Hunter's Defense
+*Levels: 14th*
+
+When	you	are hit by an	Attack	Roll,	you	can	use	
+your	Reaction	to	halve	the	attack’s	damage	
+against	yourself,	and	you	can	redirect	the	other	
+half	of	the	damage to	one	creature (other	than	
+the	attacker) that you	can	see	within	5	feet	of	
+yourself.
+
+{{pageNumber 12}}
+{{footnote PART 1 | CLASSES}}
+\page
+# Rogue
+This section details the rogue class.  
+
+Far	from	the	bustle	of cities,	amid	the	trees	of	
+trackless	forests	and	across	wide	plains,	Rangers	
+keep	their	unending	watch.
+
+Wanderers of	the	wilderness,	Rangers	
+specialize	in	facing monsters	that	threaten	the	
+world.	Rangers learn	to	track	their	quarry	as	a	
+predator	does,	moving	stealthily	through	the	
+wilds	and	hiding	themselves	in	brush	and	rubble.
+
+Thanks	to	their	connection with	nature,	
+Rangers	can	also	cast	Spells	that	harness	the	
+primal powers	of	the	wilderness.	A	Ranger’s	
+talents	and	magic are	honed	with	deadly	focus	
+on	the	task	of	protecting	the	world	from the	
+ravages	of	monsters	and	tyrants.
+
+
+
+{{classTable,frame,decoration,wide
+##### The Rogue
+| Level | Prof.| Features                       |Sneak  |
+|      ^| Bonus|                               ^|Attack^|
+|:-----:|:--:|:---------------------------------|:---- |
+|  1st  | +2 | Expertise, Sneak Attack, Thieves' Cant| 1d6  |
+|  2nd  | +2 | Cunning Action                   | 1d6  |
+|  3rd  | +2 | Rogue Subclass                   | 2d6  |
+|  4th  | +2 | Feat                             | 2d6  |
+|  5th  | +3 | Uncanny Dodge                    | 3d6  |
+|  6th  | +3 | Subclass Feature                 | 3d6  |
+|  7th  | +3 | Expertise                        | 4d6  |
+|  8th  | +3 | Feat                             | 4d6  |
+|  9th  | +4 | Evasion                          | 5d6  |
+| 10th  | +4 | Feat, Subclass Feature           | 5d6  |
+| 11th  | +4 | Reliable Talent                  | 6d6  |
+| 12th  | +4 | Feat                             | 6d6  |
+| 13th  | +5 | Subtle Strikes                   | 7d6  |
+| 14th  | +5 | Subclass Feature                 | 7d6  |
+| 15th  | +5 | Slippery Mind                    | 8d6  |
+| 16th  | +5 | Feat                             | 8d6  |
+| 17th  | +6 | Elusive                          | 9d6  |
+| 18th  | +6 | Stroke of Luck                   | 9d6  |
+| 19th  | +6 | Feat                             | 10d6 |
+| 20th  | +6 | Epic Boon                        | 10d6 |
+}}
+
+{{pageNumber 13}}
+{{footnote PART 1 | CLASSES}}
+
+\page
+### Creating a Rogue
+To	create	a	Rogue,	consult	the	*information in this section* {color:#D35400}.  Then	look	at	the	Rogue table	to see	the	Class Features you	get	at	each	level in	this	Class.	The	descriptions	of	those	features	appear in the Ranger	"Class Features”	section.
+
+**Class Group:** :: Expert
+**Primary Ability:** :: Dexterity
+#### Hit Points
+
+**Hit Dice:**                    :: 1d8 per Rogue level
+**Hit Points at 1st Level:**     :: 8 + your Constitution modifier
+**Hit Points per Level after 1st:** :: 1d8 (or 5) + your Constitution modifier
+
+#### Proficiencies
+
+*Armor:*{color:#D35400}   :: *Light Armor*{color:#D35400}
+**Weapons:** :: Simple Weapons, Martial Weapons that have the Finesse Property
+**Tools:**   :: Thieves' Tools
+**Saving Throws:** :: Dexerity, Intelligence
+**Skills:**        :: *Choose four skills from: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, and Stealth <br>(Recommended: Acrobatics, Investigation, Sleight of Hand, Stealth)* {color:#D35400}
+
+#### Equipment
+As	a	1st-level	character,	you	start	with	the	
+following	equipment,	or	you	can	forgo	it	and	
+spend	110	GP	on	equipment	of	your	choice.
+- Arrows (20)
+- Explorer’s Pack
+- Longbow
+- Quiver
+- Scimitar
+- Shortsword
+- Studded Leather Armor
+- 8 GP
+
+#### Multiclassing and the	Rogue
+If using	the	multiclassing	rules <s>in the	Player’s	Handbook</s>,	here’s	what	you	need	to	know	if	you	choose	Rogue	as	one	of	your	Classes.
+
+**Ability	Score	Minimum.** As	a	multiclass	character,	you	must	have a	score	of at	least	13	in	
+the	Rogue’s	primary	ability,	Dexterity,	to	take	a	level	in	this	Class	or	to	take	a	level	in	another	Class	if	you	are	already	a	Rogue.
+
+**Proficiencies.** If	Rogue	isn’t	your	initial	Class,	here	are the	Proficiencies	you	gain	when	you take	your	first	Ranger	level: *Light Armor,*{color:#D35400} Thieves' Tools, and	one	Skill	of	your	choice from the Rogue's Skill list.
+
+\column
+## Class Features
+As	a	Rogue,	you	gain	the	following	Class	Features	
+when	you	reach	the	specified	levels	in	this	Class.	
+These	features	are	listed	on	the	Rogue table.
+
+
+### Expertise
+*Levels: 1st, 7th*
+
+You	gain	Expertise in	two	of	your	Skill	Proficiencies	of	your	choice.
+
+Sleight of Hand and Stealth	are	iconic	choices	for	a	Rogue	if	you	have	Proficiency	in	them.
+
+### Sneak Attack
+*Levels: 1st*, every further odd level
+
+You	know	how	to	turn	a	subtle	attack	into	a	
+deadly	one.	Once	on	each	of	your	turns	when you	
+take	the	Attack	Action,	you	can	deal	extra	
+damage	to	one	creature	you	hit	with	an	Attack	
+Roll if	you’re	attacking	with	a	Finesse	Weapon	or	
+a	Ranged	Weapon	and	if	at	least	one	of	the	
+following	requirements	is	met:
+**Advantage.**:: You	have	Advantage	on	the	Attack	Roll.
+**Ally	Adjacent	to	Target.**::	At	least	one	of	your	allies	is	within	5	feet	of	the	target,	the	ally	isn’t	 Incapacitated,	and	you	don’t	have	 Disadvantage	on	the	Attack	Roll.
+
+To	determine	the	extra	damage,	roll	a	number	
+of	d6s	equal	to	half	your	Rogue level	(round	up),	
+and	add	the	dice	together	(the	Rogue	table	
+shows	the	number	of	Sneak	Attack dice	you	get	
+at	each	Rogue	level).	The	extra	damage’s	type	is	
+the	same	as	the	weapon’s	Damage	Type
+
+### Thieves' Cant
+*Levels: 1st*
+
+You picked	up	various	languages	in	the	
+communities	where	you	plied	your roguish
+talents.	You know	Thieves’ Cant	and	one other	
+language	of	your	choice,	which	you	choose	from	
+the	Standard	Languages	and Rare	Languages	
+tables.
+
+
+### Cunning Action
+*Levels: 2nd*
+
+Your	quick	thinking	and	agility	allow	you	to	
+move	and	act	quickly.	On	your	turn,	you	can	take
+one	of	the following	Actions	as	a	Bonus	Action:	
+Dash,	Disengage,	or Hide.
+
+### Rogue Subclass and Features
+*Levels: 3rd, 6th, 10th, 14th*
+
+*You	gain	a	Rogue Subclass	of	your	choice. Rogue Subclasses are detailed at the end of the Ranger Class description.*{color:#D35400}
+
+A	Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Rogue levels.	For	the	rest	of your	career,	you	gain	each	of	your	Subclass’s	features	that	are	of	your	Rogue level	and	lower.
+
+{{pageNumber 14}}
+{{footnote PART 1 | CLASSES}}
+\page
+*Rogue Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
+
+### Feat
+*Levels: 4th, 8th, 10th, 12th, 16th, 19th*
+
+You	gain	the	Ability	Score	Improvement	Feat	or	another	Feat	of	your choice.
+
+### Uncanny Dodge
+*Levels: 5th*
+
+When	an	attacker	that	you	can	see	hits	you	with	
+an	Attack	Roll,	you	can	use	your	Reaction	to	
+halve	the	attack’s	damage	against	you (round	
+down).
+
+### Evasion
+*Levels: 9th*
+
+You	can	nimbly	dodge	out	of	the	way	of	certain	
+dangers.	When	you	are	subjected	to	an	effect	
+that	allows	you	to	make	a	Dexterity	Saving	
+Throw to	take	only	half	damage,	you	instead	take	
+no	damage	if	you	succeed	on	the	Saving	Throw
+and	only	half	damage	if	you	fail. You	can’t	use	
+this	feature	if	you’re	Incapacitated.
+
+### Reliable Talent
+*Levels: 11th*
+
+You have	refined	your	talents until	they	
+approach	perfection.	Whenever	you	make	an	
+Ability	Check that	uses	one	of	your	Skill	or	Tool	
+Proficiencies,	you	can	treat	a	d20	roll	of	9	or	
+lower	as	a	10.
+
+### Subtle Strikes
+*Levels: 13th*
+
+When	you	attack,	you	know	how	to	exploit	a	
+target’s distraction.	You	have	Advantage	on	any	
+Attack	Roll that	targets	a	creature that	is	within	
+5	feet	of	at	least	one	of	your	allies	who	isn’t	
+Incapacitated.
+
+### Slippery Mind
+*Levels: 15th*
+
+Your	cunning	mind	is	exceptionally	difficult	to	
+control.	You	gain	Proficiency in Wisdom and
+Charisma Saving	Throws.
+
+### Elusive
+*Levels: 17th*
+
+You	are	so	evasive	that	attackers	rarely	gain	the	
+upper	hand	against	you.	No	Attack	Roll has	
+Advantage	against	you	while	you	aren’t	
+Incapacitated.
+
+### Stroke of Luck
+*Levels: 18th*
+
+You	have	an	uncanny	knack	for	succeeding	when	
+you	need	to.	If	you	fail	a	d20	Test,	you	can	turn	
+the	roll	into	a	20.
+
+Once	you	use	this	feature,	you	can’t	use	it	again	
+until	you	finish	a	Short	Rest	or	a	Long	Rest.
+
+### Epic Boon
+*Levels: 20th*
+
+*You gain	an	Epic	Boon Feat	of your choice. (Recommended:	Epic Boon of Undetectability)*{color:#D35400}
+
+## Rogue Subclasses 
+A	Rogue Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Rogue levels,	as	
+specified	in	the	Subclass. 
+
+The iconic Ranger is a Thief.
+
+### Thief
+You have honed your	larcenous	arts.	Burglars,	
+bandits,	cutpurses,	and	other	criminals	typically	
+adopt	this	Subclass,	but	so	do	Rogues	who	prefer	
+to	think	of	themselves	as	treasure	seekers,	
+explorers,	delvers,	and	investigators.
+
+In	addition	to	improving	your	agility	and	
+stealthiness,	you	gain abilities useful	for	delving	
+into	ruins	and	getting	maximum	benefit	from the	
+magic	items	you	find	there.
+
+##### Fast Hands
+*Levels: 3rd*
+
+You	have	additional	options	for	the	Bonus	Action	
+of	your	Cunning	Action,	with	which	you	can	do	
+the	following:
+**Search.**:: Take	the	Search	Action.
+**Sleight	of	Hand.**:: Make	a	Dexterity	Check	(Sleight	of	Hand)	to	pick	a	lock or	disarm	a	trap	with	Thieves’	Tools	or	to	pick	a	pocket.
+
+
+##### Second-Story Work
+*Levels: 3rd*
+
+You	have	trained	to	reach	especially	hard-toreach	places,	granting	you	these	benefits:
+**Climb	Speed.**:: You	gain	a	Climb	Speed equal	to	your	Speed.
+**Jump	Distance.**:: When	you	take	the	Jump	Action,	you can make	a	Dexterity	Check,	instead	of	a	Strength	Check.
+
+##### Supreme Sneak
+*Levels: 6th*
+
+You	have	Advantage	on	every	Dexterity	Check	
+(Stealth)	you	make,	provided	you	aren’t	wearing	
+Medium	or	Heavy	Armor.
+
+{{pageNumber 15}}
+{{footnote PART 1 | CLASSES}}
+\page
+
+##### Use Magic Device
+*Levels: 10th*
+
+In	your	treasure	hunting,	you	have	learned	how	
+to	maximize	use	of	magic	items,	granting	you	the	
+following	benefits:
+**Attunement.**:: You	can	attune	to	up	to	four	magic	items	at	once.
+**Charges.**:: Whenever you	use	a	magic	item	property	that	expends	charges,	roll	a	d6.	On	a	roll	of	6,	you	use	the	property	without	expending	the	charges.
+**Scrolls.**:: You	can	use	any Spell	Scroll that	bears	a	cantrip	or	a	1st-level	Spell. You	can	also	try	to	use	any Spell	Scroll that	contains	a	higher-level	Spell,	but	you	must	first	succeed	on	an	Intelligence	Check (Arcana)	with	a	DC	equal	to	10	+	the	Spell’s	level.	On	a	successful	check,	you	cast	the	Spell	from	the	scroll,	and	you	use	Intelligence	as	your	Spellcasting	Ability	for	this	casting. On	a	failed	check,	the	scroll	disintegrates.
+
+##### Thief's Reflexes
+*Levels: 14th*
+
+You	can	now	take	a	second	Bonus	Action	on	your	
+turn,	provided	it	is	the	Bonus	Action	from	
+Cunning	Action.	You	can	use	this	feature	on	a	
+number	of	turns	equal	to	your	Proficiency	
+Bonus,	and	you	regain	all	expended	uses	when	
+you	finish	a	Long	Rest.
+
+{{pageNumber 16}}
+{{footnote PART 1 | CLASSES}}
+
+\page
+# Races
+This chapter details the playable races.
+When	you	choose	your	character’s	Race,	you	
+determine	whether	your	character	is	a	member	
+of	the	human	race	or	of	a	fantastical	race. This	
+document	provides	descriptions	and	rules	for	
+the	following	Race options:	Human,	Ardling,	
+Dragonborn,	Dwarf,	Elf,	Gnome,	Halfling,	Orc,	
+and	Tiefling.
+The	description	of	each	Race	includes	a	
+section	of	game	traits,	which	your	character	
+gains if	you	select	that Race.	NPCs	of	the	same	
+ancestry	don’t	necessarily	have	the	same	traits,	
+as	explained in	the	Monster	Manual;	the	traits	
+here	pertain	to	player	characters.
+
+{{note
+##### CHILDREN OF DIFFERENT HUMANOID KINDS
+Thanks to the magical workings of the multiverse,
+Humanoids of different kinds sometimes have
+children together. For example, folk who have a
+human parent and an orc or an elf parent are
+particularly common. Many other combinations
+are possible.
+If you’d like to play the child of such a wondrous
+pairing, choose two Race options that are
+Humanoid to represent your parents. Then
+determine which of those Race options provides
+your game traits: Size, Speed, and special traits.
+You can then mix and match visual
+characteristics—color, ear shape, and the like—of
+the two options. For example, if your character
+has a halfling and a gnome parent, you might
+choose Halfling for your game traits and then
+decide that your character has the pointed ears
+that are characteristic of a gnome.
+Finally, determine the average of the two
+options’ Life Span traits to figure out how long
+your character might live. For example, a child of a
+halfling and a gnome has an average life span of
+288 years.
+
+}}
+
+## Human
+Found	throughout	the	multiverse,	humans	are	
+as	varied	as	they	are	numerous.	They are	
+relatively	short-lived,	but	they	strive	to	achieve	
+as	much	as	they	can	in	the	years	they	are	given.	
+They	are	skilled	pioneers and	artisans.	They	are	
+builders	of nations,	roads,	cities,	and	ships.	They strive to	secure	their	place	in	the	world	and	in the	annals	of	history by	creating art,	amassing	
+wealth,	making	laws,	and	questing	for	
+immortality. Their	ambition and
+resourcefulness are	commended,	respected,	and	
+feared.
+
+Humans are	as	diverse in	appearance	as	the	
+people	of	Earth,	and	they	have	many	gods.
+Scholars	dispute	the	origin	of	humanity,	but	one	
+of	the	earliest	known	human	gatherings is	said	
+to	have	occurred	in Sigil,	the	torus-shaped	city
+at	the	center	of	the	multiverse	and	the	place	
+where	the	Common	tongue	was	born. From	
+there,	humans	could	have	spread	to	every	
+corner	of	the	multiverse,	bringing	Sigil’s
+cosmopolitanism with	them.
+
+<br><br>
+
+#### Humans of many worlds
+On	any	given	world	in	the	multiverse,	the
+material	culture	of	humans	can	change	from	
+one	region	to	another.	In	the	Forgotten	Realms,	
+for	example,	the	clothing,	architecture,	cuisine,	
+music,	and	literature	are	wildly	different	in	the	
+Western	Heartlands	than	in	the	frozen	north	of	
+Icewind	Dale.
+As	humans	migrate,	they	bring	elements	of	
+their	cultures with	them,	giving	rise	to	diverse	
+settlements that	contain	people	with	different	
+physical	characteristics,	not	to	mention	a	
+medley	of	clothing	styles,	customs,	and	beliefs.
+
+### Human Traits
+Use the information below for your character sheet.
+
+**Creature	Type:**	Humanoid
+
+**Size:**	Medium	(about	4–7 feet	tall) or	Small	(about	2–4 feet	tall),	chosen	when	you	select	this	Race
+
+**Speed:** 30	feet
+
+**Life	Span:** 80 years	on	average
+
+As	a	Human,	you	have	these	special	traits:
+
+**Resourceful.** You	gain Heroic Inspiration whenever you finish	a	Long	Rest.
+
+**Skillful.** You	gain	Proficiency	in	one Skill of	your	choice.
+
+**Versatile.** You	gain a 1st-level	Feat of	your	choice.
+
+## Dwarf
+Resilient	like	the	mountains,	dwarves	were	
+raised	up	from	the	earth	in	the	elder	days	by	a	
+deity of	the	forge.	Called	by	various names	on	
+different	worlds—Moradin,	Reorx,	and	others—
+that	god gave dwarves	an	affinity	for stone	and	
+metal and	for	living	underground.
+
+Squat	and	often	bearded,	the	original	dwarves	
+carved	cities	and	strongholds	into	
+mountainsides	and	under	the	earth.	Their	
+oldest	legends	tell	of	conflicts	with	the	monsters	
+of	mountaintops	and	the	Underdark,	whether
+those	monsters	were towering	giants or	
+subterranean	horrors. Inspired	by those	tales,	
+dwarves	of	any	culture	often	sing	of	valorous
+deeds—especially	of the	little overcoming	the	
+mighty.
+
+#### Dwarves of many worlds
+On	some	worlds in	the	multiverse,	the	first	
+dwarven settlements	were	built	in	hills	or	
+mountains,	and	the	dwarven	families who	trace	
+their	ancestry	to	those	settlements	call	
+themselves	hill	dwarves	or	mountain	dwarves,	
+respectively. Oerth	and	Krynn	(the worlds	of the	Greyhawk	and	Dragonlance	settings,	
+respectively) are	examples	of	worlds that	have	
+such	dwarven	communities.
+In	other	worlds,	dwarves have	given
+themselves	other	cultural	designations.	For	
+example,	on	the	continent	of	Faerûn	in the	
+Forgotten	Realms,	the	dwarves	of	the	south	call
+themselves	gold	dwarves,	and	the	dwarves	of	
+the	north	are	shield	dwarves.
+
+{{pageNumber 17}}
+{{footnote PART 1 | RACES}}
+\page
+### Dwarf Traits
+Use the information below for your character sheet.
+
+**Creature	Type:**	Humanoid
+
+**Size:**	Medium (about	4–5 feet tall)
+
+**Speed:** 30	feet
+
+**Life	Span:** 350	years on	average
+
+**Darkvision.**	You	have	Darkvision with	a	range	of	60	feet.
+
+**Dwarven	Resilience.** You	have	Resistance	to	Poison	Damage.	You	also	have	Advantage	on	saving	throws	you	make	to	avoid	or	end	the	Poisoned	Condition on	yourself.
+
+**Dwarven	Toughness.** Your	Hit	Point	Maximum increases	by	1,	and	it	increases	by	1	again	whenever	you	gain	a	level.
+
+**Forge Wise.** Your divine creator	gave	you	an	uncanny	affinity	for	working	with	stone	or	
+metal. You	gain	Tool	Proficiency with	two of	the	following	options	of	your	choice:	Jeweler’s	Tools,	Mason’s	Tools,	Smith’s	Tools,	or	Tinker’s	Tools.
+
+**Stonecunning.** As	a	Bonus	Action,	you	gain	Tremorsense* with	a	range	of	60 feet for	10 minutes. You	must	be	on	a	stone	surface	or	touching	such	a	surface to	use	this	Tremorsense. The	stone	can	be	natural	or	worked. You	can	use	this	Bonus	Action	a	number	of	times	equal	to	your	Proficiency	Bonus, and	you	regain all	expended	uses	when	you	finish	a	Long	Rest.
+
+
+## Elf
+Created	by	the	god	Corellon,	the	first	elves	
+could	change	their	physical	forms	at	will.	The	
+elves lost	this	ability	when	Corellon	exiled	them	
+from	Arvandor	for	plotting	with	another	elven	
+deity	named	Lolth,	who	tried	and	failed	to	usurp	
+Corellon’s	dominion.	When	Lolth	was	cast	down	
+into	the	Abyss,	most	elves	renounced	her	
+treachery and	earned	Corellon’s	forgiveness,	
+but	that	which	Corellon	had	taken	from	the	
+elves	was	lost	forever.
+
+No	longer	able	to	shape-shift	at	will,	the	elves	
+retreated	to	the	Feywild,	where	their	sorrow	
+was	deepened	by	that	plane’s	influence.	Over	
+time,	wanderlust	and	curiosity	led	many	of	
+them	to	explore	other	planes	of	existence,	
+including	various	worlds	in	the	Material	Plane.
+
+Elves	have the	mystical	ability	to	take	on	
+characteristics	of	the	environments	with	which	
+they	are	bonded—drow	to	the	Underdark,	high	
+elves	to	fey	crossings	in	the	Material	Plane,	and	
+wood	elves	to	forests.	These	connections	grant	
+elves	access	to	certain	kinds	of	magic.
+
+Elves	are	blessed	with	long	lives	and	long	
+memories.	From	birth,	they	don’t	sleep	but	
+instead	enter	a	trance	when	they	need	to	rest.	In	
+this	state,	elves	remain	aware	of	their	
+surroundings	while	immersing	themselves	in	
+their	own	memories.	What	an	elf	remembers	
+during	this	reverie	depends	largely	on	how	long the	elf	has	lived	and	the	events	that	have	
+shaped	the	elf’s	existence.
+
+Elves	have	pointed	ears	and	tend	to	be	light	
+on	their	feet.	Another	common	physical	
+characteristic	of elves	is	their lack	of	facial	and
+body	hair.
+
+#### Elves of many worlds
+After	leaving	the	Feywild,	elves	established	
+deep	roots	on	worlds	throughout the	
+multiverse. Within	their	respective	domains,	
+elves	often	use	their	magic	and	other resources	
+to	build	fabulous	enclaves.	The	subterranean	
+cities	and	outposts of	the	drow,	the	gleaming	
+towers	and	citadels	of	the	high	elves,	and	the	
+forest	sanctuaries of	the	wood	elves	are	nothing	
+short	of	architectural	wonders,	which reflect	
+their	builders’ otherworldly	origins.
+
+**Drow.** Known	for	their	white	hair	and	duskygray skin	tones, drow	typically	dwell	in	the
+Underdark.	Noteworthy	exceptions	include
+Drizzt	Do’Urden and	Jarlaxle	Baenre,	two drow	
+adventurers of	the	Forgotten	Realms who	shun
+their subterranean	homeland.	Some	drow	
+societies	avoid	the	Underdark	altogether.	On
+the	world of	Eberron,	for	example,	drow dwell	
+in gloomy	rainforests	and	cyclopean	ruins	on	
+the	continent	of	Xen’drik.
+
+**High	Elves.** On	some	worlds,	high	elves refer	
+to	themselves	by	other	names.	For	example,	the	
+sun	elves	and	moon	elves	of Toril	(the	world	of	
+the	Forgotten	Realms setting) are	high	elves,	as	
+are	the Silvanesti and	Qualinesti of Krynn	(the	
+world	of	Dragonlance) and	the	Aereni	of	
+Eberron.
+
+**Wood	Elves.** Wood	elves	are	known	across	
+the	multiverse	by	many	other	names,	including
+wild	elves,	green	elves,	and forest	elves.	
+Grugach	are	reclusive	wood	elves	on	Oerth	(the	
+world	of	the	Greyhawk	setting),	while	the	
+Kagonesti	and	the	Tairnadal	are	wood	elves	of	
+Krynn	and	Eberron,	respectively
+
+{{wide
+##### Elven Lineages
+| Lineage  | 1st-Level          | 3rd-Level          | 5th-Level          |
+|:---------|:-------------------|:-------------------|:-------------------|
+| Drow     | The range of your Darkvision increases to 120 feet.<br> You also know the Dancing Lights cantrip.        | Faerie Fire       | Darkness |
+| High Elf | You know the Prestidigitation cantrip. <br> Wheneveryou finish a Long Rest, <br> you can replace that cantrip with a different cantrip <br> from the Arcane Spell List.| Detect Magic   | Misty Step      |
+| Wood Elf | Your Speed increases to 35 feet.<br> You also know the Druidcraft cantrip.| Longstrider       | Pass without Trace   |
+}} 
+
+{{pageNumber 18}}
+{{footnote PART 1 | RACES}}
+\page
+### Elf Traits
+Use the information below for your character sheet.
+
+**Creature	Type:**	Humanoid
+
+**Size:**	Medium	(about	5–6 feet	tall)
+
+**Speed:** 30	feet
+
+**Life	Span:** 750 years	on	average
+
+
+**Darkvision.**	You	have	Darkvision	with	a	range	of	60	feet.
+
+**Elven	Lineage.** You	are	part	of	an	elven
+lineage	that	grants	you supernatural	abilities.	
+Choose	a lineage	from	the	Elven	Lineages table:	
+Drow,	the	lineage of	the	Underdark;	High Elf,	
+the	lineage	of	fey	crossings	and	other	magical	
+locations;	or	Wood	Elf,	the	lineage	of	primeval	
+forests. You	gain	the	1st-level	benefit	of	that	
+lineage.
+
+Starting	at 3rd	level	and	again	at	5th	level,	
+you	also	gain the	ability	to	cast	a	Spell with	this	
+trait.	Once	you	cast	the	Spell with	this	trait,	you	
+can’t	cast	that	Spell with	it	again	until you	finish	
+a	Long	Rest;	however,	you	can	cast	the	Spell
+using	any	Spell Slots	you	have	of	the	
+appropriate	level.
+
+Intelligence,	Wisdom,	or	Charisma	is	your	
+spellcasting	ability	for	the	Spells	you	cast	with	
+this	trait	(choose	the	ability	when	you	select	the	
+lineage).
+
+**Fey	Ancestry.** You	have	Advantage	on	saving	
+throws	you	make	to	avoid	or	end	the	Charmed	
+Condition on	yourself.
+Keen	Senses. You	have	Proficiency	in	the	
+Perception	Skill.
+
+**Trance.** You	don’t	need	to	sleep,	and	magic	
+can’t	put	you	to	sleep.	You	can	finish	a	Long	
+
+## Gnome
+Gnomes	are	magical	folk created	by	gods	of
+hard	work,	invention,	trickery,	and	life	
+underground.	The	earliest gnomes were	seldom	
+seen	by	other	folk	due	to	the	gnomes’ secretive	
+nature	and	their	propensity	for	lairing	in sylvan
+forests,	hillside burrows, and	sprawling
+warrens under	mountains. What	they	lacked	in	
+size,	they	made	up	for	in	cleverness	and	
+cunning. They	confounded	predators with	
+elaborate traps	and	low,	narrow,	labyrinthine	
+tunnels.	They	also	learned	useful magic	from gods like	Garl	Glittergold,	Baervan	
+Wildwanderer, and	Baravar	Cloakshadow,	who	
+often	lived	among	them (usually in	disguise).
+
+Gnomes	are	petite	folk with	big	eyes,	pointed	
+ears,	and	wistful	imaginations.	Harkening	back	
+to	a	time	when	their	ancestors	hid	in	tunnels	
+and	under	thick	forest	canopies,	many	gnomes
+like	the	feeling	of	a	roof	over	their	head,	even	if	
+that	“roof”	is	nothing	more	than	a	hat.
+
+#### Gnomes of many worlds
+Gnomes	past	and	present	are	known	to equate	
+secrecy	with	safety,	which	is	why	gnome	
+settlements	are	often	tucked	away or	concealed	
+by	magical	illusions.
+
+**Forest	Gnomes.** Gnomes	who	have	ancestral	
+ties	to forests	are	called	forest	gnomes.	They	
+use	their	magic	to	befriend small	forest	animals	
+and	rely	on	them	for	news	concerning	their	
+neighbors—be	they	malevolent or	benign.
+
+**Rock Gnomes.** Gnomes whose ancestors	
+dwelled	under	mountains	are	called	rock	
+gnomes. On	some	worlds,	including	Krynn	(the	
+world	of	the	Dragonlance	setting),	rock	gnomes
+are	also	known	as	tinker	gnomes	due	to	their	
+fondness	for artifice	and	clockwork	inventions.
+
+##### Gnomish Lineage
+| Lineage      | Benefit |
+|:-------------|:-------|
+| Forest Gnome | You know the Minor Illusion cantrip. <br> You can cast the Speak with Animals Spell with this trait. You can cast it with the trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any Spell Slots you have to cast the Spell.| 
+| Rock Gnome   | You know the Mending and Prestidigitation cantrips.|
+
+### Gnome Traits
+Use the information below for your character sheet.
+
+**Creature	Type:**	Humanoid
+
+**Size:**	Small	(about 3–4 feet	tall)
+
+**Speed:** 30	feet
+
+**Life	Span:** 425 years	on	average
+
+**Darkvision.**	You	have	Darkvision	with	a	range	of	60	feet.
+
+**Gnomish Cunning.** You	have	Advantage	on	Intelligence,	Wisdom,	and	Charisma	saving	throws.
+
+**Gnomish Lineage.** You	are	part	of	a	gnomish	
+lineage	that	grants	you supernatural	abilities.	
+Choose	a	lineage from	the	Gnomish	Lineages
+table:	Forest	Gnome,	the	lineage	of	magic-filled	
+forests,	or	Rock	Gnome,	the	lineage	of primeval	
+mountains.	You	gain	the	benefits of	that	lineage.
+
+Intelligence,	Wisdom,	or	Charisma	is	your	
+spellcasting	ability	for	the	Spells	you	cast	with	
+this	trait	(choose	the	ability	when	you	select	the	
+lineage).
+
+## Halfling
+Cherished	and	guided	by	gods	who	value	life,	
+home,	and	hearth,	halflings	gravitate	toward	
+bucolic	havens	where	family	and	community	
+help	shape	their	lives.	That	said,	many	halflings	
+are	blessed	(some	might	say	cursed)	with	a	
+brave	and	adventurous	spirit	that	leads	them	on	
+journeys	of	discovery,	affording	them	the	
+chance	to	explore	a	bigger	world	and	make	new	
+friends	along	the	way.	Their	size—being	not	
+unlike	that	of	a	human	child—helps	them	avoid	
+unwanted	entanglements and	slip	into	and	out	
+of	tight	spaces.
+
+Anyone	who	has	spent	time	around	halflings,	
+and	particularly	halfling	adventurers,	has	likely	
+witnessed	the	storied	“luck	of	the	halflings”	in	
+action.	When	a	halfling	is	in	mortal	danger,	it	
+seems	as	though
+
+{{pageNumber 19}}
+{{footnote PART 1 | RACES}}
+\page
+an	unseen	force	intervenes	on	
+the	halfling’s	behalf.	Many	halflings	believe	in	
+the	power	of	luck,	and	they	attribute	their	
+unusual	gift	to	one	or	more	of	their	benevolent	
+gods,	including	Yondalla,	Brandobaris,	and	
+Charmalaine.
+
+#### Halflings of many worlds
+On	many	worlds,	halflings	are	walking,	talking	
+contradictions:	home,	tradition,	and	pastoral	
+pursuits	collide	with	a	gods-given love of	
+adventure	and	a	knack	for	getting	into	and	out	
+of	trouble. Halfling	communities	come	in	all	
+varieties. For	every	sequestered	halfling	shire	
+tucked	away	in	some	unspoiled	corner	of	the	
+world,	there’s	a	halfling	crime	syndicate like	the	Boromar	Clan	on the	world	of	Eberron or	a
+territorial	mob of	halflings like	those	found	on
+the	world	of	Athas.
+
+Some	halfling settlers, particularly	ones	who	
+prefer to	live	underground, are	thought to	have	
+a	little	bit of	dwarven	blood	coursing	through	
+their	veins	and	are	sometimes	called
+strongheart	halflings	or	stouts. Nomadic	
+halflings, as	well	as	those	who	live among	
+humans	and	other	tall folk, are	sometimes	
+called	lightfoot	halflings	or	tallfellows.
+
+### Halfling Traits
+Use the information below for your character sheet.
+
+**Creature	Type:**	Humanoid
+
+**Size:**	Small	(about	2–3	feet	tall)
+
+**Speed:** 30	feet
+
+**Life	Span:** 150	years	on	average
+
+**Brave.** You	have	Advantage	on	saving	throws	you	make	to	avoid	or	end	the	Frightened Condition on	yourself.
+
+**Halfling	Nimbleness.** You	can	move	through	the	space	of	any	creature	that	is	of	a	Size	larger	
+than	yours,	but	you	can’t	stop	there.
+
+**Luck.** When	you	roll	a	1	on the	d20 of a	d20	Test, you	can	reroll	the	die, and you must	use	
+the	new	roll.
+
+**Naturally	Stealthy.** You	have	Proficiency	in	the	Stealth	Skill.
+
+## Orc
+Orcs	trace	their	creation	to	Gruumsh,	the	OneEyed	God,	an	unstoppable	warrior	and	powerful	
+leader.	Gruumsh	armed	his children	with	
+certain	gifts	to	help	them thrive	on worlds	beset	
+by	monsters. Even	when	they	turn	their	
+devotion	to	other	gods,	orcs	retain the gifts	that
+the	One-Eyed	God	bestowed	upon	them:	might,	
+endurance,	determination,	and	the	ability	to	see	
+in	the	dark.
+
+Orcs	are,	on	average, tall and	broad.	They	
+have gray	skin,	ears	that	are	small	and	slightly	
+pointed, and	prominent	lower	canines that	
+resemble	small	tusks. Young	orcs	are	often	told	
+about their	ancestors’ ancient conflicts	with	
+elves	in	forests,	dwarves	under	mountains,	and	
+invaders from	evil planes	of	existence.	Inspired	
+by	those	tales,	young	orcs often wonder	when
+Gruumsh	will	call	on them	to	match	the	heroic	
+deeds	of	their	ancestors,	and	if	they	will	prove	
+worthy	of	the	One-Eyed	God’s	grace.
+
+#### Orcs of many worlds
+On	many worlds,	orcs	occupy	territory claimed	
+by	their	ancestors.	Their	settlements	and	
+strongholds can	be	found	almost	anywhere,	
+above	ground	and	below.
+
+Orcs	sometimes flock	to	the	banners	of	
+powerful	monarchs.	King	Obould	Many-Arrows	
+of	Toril	(the	world	of	the Forgotten	Realms	
+setting)	is	one	such	figure,	his	strength	
+tempered	by	a	willingness	to	make	peace	with	
+his	enemies.
+
+On	worlds	such	as	Eberron,	orcs	were	among	
+those	who	defended the	natural	order	from	the	
+encroachments	of	Fiends	and	other	extraplanar	
+threats.	Their	descendants learned	to live	in	
+harmony	with	their	neighbors	and	the	natural	
+world,	and to	many	of them,	Gruumsh’s	wars	
+are	distant	memories.
+
+### Orc Traits
+Use the information below for your character sheet.
+
+**Creature	Type:**	Humanoid
+
+**Size:**	Medium	(about 6–7 feet	tall)
+
+**Speed:** 30	feet
+
+**Life	Span:** 80	years	on	average
+
+**Adrenaline	Rush.**	You	can	take	the	Dash	Action	as	a	Bonus	Action. When	you	do	so,	you	
+gain	a	number	of	Temporary	Hit	Points	equal	to	 your	Proficiency	Bonus. You	can	use	this	trait	a	number	of	times	equal	to	your	Proficiency	Bonus,	and	you	regain	all	expended	uses	when	you	finish a	Long	Rest.
+
+**Darkvision.** You	have	Darkvision	with	a	range	of	60	feet.
+
+**Powerful	Build.** You	count	as	one	Size	larger	when	determining	your	carrying	capacity	and	the	weight	you	can	push,	drag,	or	lift.
+
+**Relentless	Endurance.** When	you	are	reduced	to	0	Hit Points	but	not	killed	outright,	you	can	drop	to	1	Hit	Point	instead.	Once	you	use	this	trait,	you	can’t	do	so	again	until	you	finish	a	Long	Rest.
+
+## Ardling
+Ardlings	are	supernal	beings	who	are	either	
+born	on	the	Upper	Planes	or	have	one	or	more	
+ancestors	who originated	there. Their	bright	
+souls	shine with	the	light	of	immortal	beings
+who	call	the	Upper	Planes	home.
+
+An ardling has	a	head resembling	that of	an
+animal,	typically one with virtuous	associations.
+Depending	on	the	animal,	the	ardling	might	also	
+have	soft	fur,	downy	feathers,	or	supple	bare	
+skin.	The	ardling’s	celestial	legacy determines	
+the	animal	it	resembles.
+
+An ardling gains	a	measure	of	magical	power	
+from	their	celestial	legacy,	as	well	as the	ability	
+to	manifest spectral wings.	An	ardling’s moral	
+and	ethical	outlook	is self-determined,	however,	
+not	fixed by	ancestry.
+
+{{pageNumber 20}}
+{{footnote PART 1 | RACES}}
+\page
+
+{{wide
+##### Celestial Legacies
+| Legacy   | Suggested Animals         | 1st-Level          | 3rd-Level          | 5th-Level          |
+|:---------|:--------------------------|:-------------------|:-------------------|:-------------------|
+| Exalted  | Cat, eagle, goat, mule    | Thaumaturgy        | Divine Favor       | Lesser Restoration |
+| Heavenly | Elephant, owl, pig, stork | Light              | Cure Wounds        | Zone of Truth      |
+| Idyllic  | Bear, dog, raven, toad    | Guidance           | Healing Word       | Animal Messenger   |
+}} 
+The	three	celestial	legacies	are	as	follows:
+**Exalted.**:: The	fierce passions	of	Arborea,	the	 heroic	heart	of	Ysgard,	and	the wondrous	nature of	the Beastlands call	to	ardlings who	have	the	Exalted celestial legacy.	Their	celestial	ancestors	are heroic	champions	of	the	Chaotic	Good	planes.
+**Heavenly.**::	The	blissful harmony	of	Arcadia,	the	unwavering justice of	Mount	Celestia,	and	the	bucolic paradise	of	Bytopia touch the	souls	of ardlings	who	have	the	Heavenly	celestial	legacy.	Their	celestial	ancestors	are	staunch	defenders	of	the	Lawful	Good	planes.
+**Idyllic.**:: The	Idyllic celestial legacy	connects	ardlings not	only	to	the	Beastlands and Bytopia but	also	to	the	eternal	compassion	of	Elysium.	Their	celestial	ancestors	are	paragons	of	kindness who	hail from the	Neutral	Good	planes.
+
+#### Ardlings of Many Worlds
+Ardlings	bring	a	little	bit	of	the	Upper	Planes	
+with	them	wherever	they	go.	On	many	worlds,	
+the	first	ardlings used the	magic	of	their	
+celestial	legacies	to	inspire and	heal	others.
+
+By	virtue	of	their	celestial	legacies,	some	
+ardlings	strive	to	make	the	world	a	better	place.	
+Others	use	their	supernal	gifts	to	be	the	best	
+version	of	themselves	they	can	be.	Still	others	
+are	delighted	to	have	a	connection	to	the	Upper	
+Planes	without	the	responsibility	of	always	
+having	to	do	the	right	thing.
+
+### Ardling Traits
+Use the information below for your character sheet.
+
+**Creature	Type:**	Humanoid
+
+**Size:**	Medium	(about	4–7	feet	tall)	or	Small (about	3–4 feet	tall),	chosen	when	you	select	this	Race
+
+**Speed:** 30	feet
+
+**Life	Span:** 200 years	on	average
+
+**Angelic	Flight.** As	a	Bonus	Action,	you sprout	spectral	wings	for	a	moment	and fly	up	to	a	number	of	feet	equal	to	your	Speed.	If	you	are	in	the	air	at	the	end	of	this	movement,	you	fall if	nothing	is	holding	you	aloft. You	can	use	this	Bonus	Action	a	number	of	times	equal	to	your	Proficiency	Bonus,	and	you	 regain	all	expended	uses	when	you	finish	a	Long	Rest.
+
+**Celestial	Legacy.** You	are	the	recipient	of	a	celestial legacy	that	grants	you	magical abilities. Choose	a legacy from	the	Celestial Legacies table:	Exalted,	associated	with	Chaotic	Good planes; Heavenly,	associated	with	Lawful	Good planes;	or	Idyllic,	associated	with	Neutral Good planes. You	gain	the	initial benefit	of	the	chosen	legacy:	a	cantrip	that	you	learn. You also choose	the	animal	you	most	closely	resemble;	the	table	 provides	a	few suggestions	for	each	legacy (you don’t	gain wings	by	choosing	an	animal	that	can	fly). 
+
+Starting	at	3rd	level	and	again	at	5th	level, you	gain	the	ability	to	cast	a	higher-level	Spell with	this	trait,	as	shown	on	the	table.	Once	you	 cast	the	Spell with	this	trait,	you	can’t	cas that	Spell with	it	again	until	you	finish	a	Long	Rest;	however,	you	can	cast	the	Spell using	any	Spell Slots	you	have	of	the	appropriate	level. 
+
+Intelligence,	Wisdom,	or	Charisma	is	your	spellcasting	ability	for	the	Spells	you	cast	with	
+this	trait	(choose	the	ability	when	you	select	the	legacy).
+
+**Damage	Resistance.** You	have	Resistance	to	 Radiant	Damage.
+
+## Dragonborn
+The	earliest dragonborn	hatched	from	the	eggs	
+of	chromatic	and	metallic	dragons. One	story	
+holds	that these	eggs	were	blessed	by	the
+dragon	gods	Bahamut	and	Tiamat,	who	wanted
+to populate	the	worlds	of	dragons with	people	
+created	in	their	image.	Another	story holds	that	
+dragons created	the	first	dragonborn without	
+the	gods’ blessings.	Whatever	their	origin,	
+dragonborn	have	made	homes	for	themselves	
+on	the	worlds	of	the	Material	Plane.
+
+Dragonborn	look	like	wingless,	bipedal
+dragons—scaly,	bright-eyed, and	thick-boned,	
+with	horns	on	their	heads. Dragonborn	of	
+chromatic	ancestry	have	scales	that	are	black,	
+blue,	green,	red,	or	white,	whereas	dragonborn	
+of	metallic	ancestry	have	scales	that	are	the	
+color	of	brass,	bronze,	copper,	gold,	or	silver.	
+When	two	dragonborn	whose	scales	are	of	
+different	colors produce	a	child,	their offspring’s	
+scales	match	those of	one parent or	the	other.
+
+Like	their	draconic	ancestors,	dragonborn	can	
+exhale	acid,	cold,	fire,	lightning,	or	poison. One	
+can	tell	the	type	of	energy	a	dragonborn	
+breathes	by	the	color	of	the	dragonborn’s
+scales.
+
+#### Dragonborn of many worlds
+Like	dragons,	dragonborn	have	a	mystical	bond	
+to	the	Material	Plane and	are	spread	across	its	
+many	worlds.
+
+On	some	worlds,	the	earliest	dragonborn	
+settlements	were	built	near	dragon	lairs	so	that	
+the	dragonborn	could	pay	tribute	to	their	
+draconic	progenitors.	Many	of these	ancient	
+settlements still	exist. For	example,	the	dragonruled	continent of	Argonnessen (on	the	world	of	
+Eberron)	has dragonborn cities tucked	among
+its	mountain	ranges.
+
+On other	worlds,	dragonborn	ply	their	skills	
+in	settlements	populated	mostly	by	nondragonborn,
+
+{{pageNumber 21}}
+{{footnote PART 1 | RACES}}
+\page
+fulfilling	an	urge	to	expand	their	
+presence and	influence,	much	as	dragons do.
+
+##### Draconic Ancestor
+| Dragon      | Damage Type |
+|:------------|:------------|
+| Black       | Acid        | 
+| Blue        | Lightening  |
+| Brass       | Fire        |
+| Bronze      | Lightening  |
+| Copper      | Acid        |
+| Gold        | Fire        |
+| Green       | Poision     |
+| Red         | Fire        |
+| Silver      | Cold        |
+| White       | Cold        |
+
+### Dragonborn Traits
+Use the information below for your character sheet.
+
+**Creature	Type:** Humanoid
+
+**Size:**	Medium	(about	5–7 feet	tall)
+
+**Speed:** 30	feet
+
+**Life	Span:** 80	years	on	average
+
+**Draconic	Ancestry.** Your	lineage	stems	from	a	dragon	progenitor.	Choose	the	type	of	dragon	
+from	the	Draconic	Ancestor	table.	Your	choice	
+affects	your	Breath	Weapon	and	Damage	
+Resistance	traits.	The	chosen	dragon	also	affects	
+your	appearance,	with	you	displaying	
+coloration	and	other	features	reminiscent	of	
+that	dragon.
+
+**Breath	Weapon.** As	an Action,	you	exhale
+destructive	energy in	a	15-foot	cone.	Each	
+creature	in	that	area	must	make	a	Dexterity	
+saving	throw against	a	DC	equal	to	8	+	your	
+Constitution	modifier	+	your	Proficiency	Bonus.	
+On	a	failed	save,	a	creature	takes	1d10 +	your
+character level in damage	of	the	type	
+determined	by	your	Draconic	Ancestry trait.	On	
+a	successful	save,	a	creature	takes	half	as	much	
+damage.
+
+You	can	use	this	Breath	Weapon	a	number	of	
+times	equal	to	your	Proficiency	Bonus,	and	you	
+regain	all	expended	uses	when	you	finish	a	Long	
+Rest.
+
+**Damage	Resistance.** You	have	Resistance	to	
+the	damage	type determined	by your	Draconic	
+Ancestry	trait.
+
+**Darkvision.**	You	have	Darkvision	with	a	range	 of	60	feet.
+
+**Draconic	Language.** You	instinctively	know	
+the	language	of	dragons.	You	can	therefore	
+speak,	read,	and	write	Draconic.
+
+<br><br>
+
+## Tiefling
+Tieflings	are	either	born	in	the	Lower	Planes	or	
+have	one	or	more	fiendish	ancestors who	
+originated	there.	A tiefling (pronounced	TEEFling) is	linked	by	blood	to	a	devil,	a	demon,	a	
+yugoloth,	or	some	other	Fiend. This	connection	
+to	the	Lower	Planes	is,	for	better	or	worse,	the	
+tiefling’s fiendish	legacy,	which	comes	with	the	
+promise	of	power	yet	has no	effect	on	the	
+tiefling’s	moral	outlook.
+
+A	tiefling	chooses whether	to	embrace	or	
+lament their fiendish	legacy.	The	three	legacies	
+are	as	follows:
+
+**Abyssal.**:: The	heartless	entropy	of	the	Abyss,	the	howling	chaos	of	Pandemonium,	and	the	vast	despair	of	Carceri	call	to	tieflings	who	have the	Abyssal	fiendish	legacy.	Horns,	fur,	tusks,	black	blood,	and	peculiar odors are	common	physical	features	of	such tieflings,	most of	whom have	the	blood	of	demons	coursing	through their	veins.
+
+**Chthonic.**::	Tieflings	who	have	the	Chthonic	fiendish	legacy not	only	feel	the	tug	of	Carceri	but	also	the	greed	of	Gehenna	and	the	underworld	gloom of	Hades.	Some	of	these tieflings	look cadaverous.	Others possess the	unearthly	beauty	of	an incubus or a	succubus, or	they have	physical	features	in	common	with a	night	hag,	a	yugoloth, or	some	other	Neutral	Evil	fiendish	ancestor.
+
+**Infernal.**:: The	Infernal	fiendish	legacy binds tieflings	by	blood	not	only	to	Gehenna	but	also	the	raging	battlefields of	Acheron	and	the	diabolical	Nine	Hells. Horns,	spines,	tails,	golden	eyes,	and	a faint	odor of	sulfur	or	smoke	are	common	physical	features of	such	tieflings,	most of	whom	trace	their	ancestry	to	devils.
+
+#### Tieflings of many worlds
+Tieflings	born	in the	Lower	Planes often
+migrate	to	other	planes	of	existence and	never	
+look	back. Their descendants	are	scattered	
+across	many	worlds and	are	especially	
+prevalent	in	Sigil,	the	torus-shaped	city	at	the	
+center	of	the	multiverse.
+
+The earliest tieflings	joined	ranks	with nontieflings to	repel fiendish	incursions on	many	
+worlds,	earning	the	trust	of	those who	might	
+otherwise	have	mistaken	them	for	Fiends.
+Thanks	to	the victories	and sacrifices of	these	
+legends,	tieflings	throughout	the	multiverse
+enjoy widespread acceptance.
+
+{{wide
+##### Fiendish Legacies
+| Legacy   | 1st-Level          | 3rd-Level          | 5th-Level          |
+|:---------|:-------------------|:-------------------|:-------------------|
+| Abyssal  | You have Resistance to Poison Damage.<br>You also know the Poison Spray cantrip.| Ray of Sickness    | Hold Person        |
+| Chthonic | You have Resistance to Necrotic Damage.<br>You also know the Chill Touch cantrip.| False Life         | Ray of Enfeeblement|
+| Infernal | You have Resistance to Fire Damage.<br>You also know the Fire Bolt cantrip.| Hellish Rebuke     | Darkness           |
+}} 
+
+{{pageNumber 22}}
+{{footnote PART 1 | RACES}}
+\page
+### Tiefling Traits
+Use the information below for your character sheet.
+
+**Creature	Type:** Humanoid
+
+**Size:**	Medium	(about	4–7	feet	tall)	or	Small	(about	3–4	feet	tall) ,	chosen	when	you	select	
+this	Race
+
+**Speed:** 30	feet
+
+**Life	Span:** 100 years	on	average
+
+**Darkvision.**	You	have	Darkvision	with	a	range	of	60	feet.
+
+**Fiendish	Legacy.** You	are	the	recipient	of	a	
+fiendish	legacy that	grants	you supernatural	
+abilities.	Choose	a legacy from	the	Fiendish
+Legacies table:	Abyssal,	associated	with	Chaotic	
+Evil	planes;	Chthonic,	associated	with	Neutral	
+Evil	planes;	or Infernal,	associated	with	Lawful	
+Evil	planes.	You	gain	the	1st-level	benefit	of	the	
+chosen	legacy.
+
+Starting	at	3rd	level	and	again	at	5th	level,	
+you	gain	the	ability	to	cast	a	higher-level Spell
+with	this	trait,	as	shown	on	the	table.	Once	you	
+cast	the	Spell with	this	trait,	you	can’t	cast	that	
+Spell with	it	again	until	you	finish	a	Long	Rest.	
+
+{{pageNumber 23}}
+{{footnote PART 1 | RACES}}
+\page
+
+
+# Backgrounds
+This chapter details backgrounds.
+
+Your	character’s	Background	is	a	collection	of	
+characteristics	that	represent	the	place	and	
+occupation	that	were	most	formative	for	the	
+character	before	they	embarked	on	a	life	of	
+adventure.
+When	you	choose	a	Background,	you	have	
+three	options:
+
+• Build	a	Background	by	using	the	rules	in	the	
+“Build	Your	Background”	section.	
+
+• Select	a	premade Background	from	the	
+“Sample	Backgrounds”	section.
+
+• Select	a	premade	Background	from	the	
+“Sample	Backgrounds”	section	and	then customize	it	with	the	rules	in	the	“Build	Your	
+Background”	section.
+
+<br>
+
+No	matter	which	Background	you	choose,	
+consider	these	questions	from	your	character’s	
+viewpoint:
+
+• How	does	your	Background	influence	your	
+current	worldview?
+
+• Do	you	embrace	or	reject	your	Background?
+
+• Did	you	form	any	relationships	during your	Background	that	endure	today?
+
+## Build Your Background
+Using	the	rules	here,	you	can	build	a	
+Background	from	scratch or	customize	a	
+premade	Background,	focusing	on	details	
+related	to	the	backstory	you	have	in	mind	for	
+your	character.
+
+When	you build	a	Background,	your	character
+gains the	features in	the	“Background	Features”
+section below. As	you	make	choices	for	those	
+features,	think	about	your	character’s	past.	
+Where	did	they	spend	most	of	their	time?	What	
+did	they	do	for	a	living?	What	capabilities	and	
+possessions	did	they	acquire?	What	language	
+did	they	learn	from	their	family,	associates,	or	
+studies? How	did	their	past	affect	their	ability	
+scores?
+
+If	you	instead	decide	to	customize	a	premade
+Background,	you	can	choose	any	features	in	that	
+Background	and	replace	them	with	the	features	
+below	of	the	same	name.	For	example,	if	you	
+want	to	change	a	Background’s	Language	
+feature,	you	can	replace	that	feature	with	the	
+Language	feature	below.
+
+### Background Features
+
+**Ability Scores.**:: When you determine your character’s ability scores, choose two of them, and increase one by 2 and the other one by 1. Alternatively, choose three ability scores, and increase each of them by 1.
+**Skill Proficiencies.**:: Choose two Skills. Your character gains Proficiency in them.
+**Tool Proficiency.**:: Choose one tool. Your character gains Tool Proficiency with it.
+**Language.**:: *Your	character	begins	play	knowing	at	least	three	languages: Common, one language from the Standard Languages Table, and one language from either Language table below.*{color:#D35400} 
+**Feat.**:: Choose one 1st-level Feat. Your character gains that Feat.
+**Equipment.**:: Your character gains 50 GP to spend on starting equipment. The character keeps any unspent GP as spare coin.
+
+#### Languages
+Knowledge	of	a	language	means	 your	character	can	communicate	in	that	
+language	and	can	read	and	write	it.
+
+The	Standard	Languages	table	lists	languages	
+that	are	widespread	on	D&D	worlds in	the	
+Material	Plane,	and	the	Rare	Languages	table	
+lists languages	that	are	more	rarely	known on	
+those	worlds.	In	each	table,	typical	users of	a	
+language	are	mentioned.
+
+##### Standard Languages
+| Language      | Typical User |
+|:--------------|:-------------|
+| Common | Anyone |
+| Common Sign Language | Anyone |
+| Dwarvish | Dwarves |
+|Elvish | Elves |
+|Giant | Giants |
+|Gnomish | Gnomes |
+|Goblin | Goblinoids |
+|Halfling | Halflings |
+|Orc | Orcs |
+
+
+##### Rare Languages
+| Language      | Typical User |
+|:--------------|:-------------|
+|Abyssal | Demons |
+|Celestial | Celestials |
+|Deep Speech | Aberrations |
+|Draconic | Dragons |
+|Druidic | Druids |
+|Infernal | Devils |
+|Primordial (includes the <br> Aquan, Auran, Ignan,<br>and Terran dialects) | Elementals |
+|Sylvan | Fey |
+|Thieves’ Cant | Rogues |
+|Undercommon | Underdark folk |
+
+{{note
+#### Ability Score Increases from elsewhere
+Since 2014, characters have received ability score
+increases from several sources, either from a Race
+that has the Ability Score Increase trait or from
+the ability score rules in Tasha’s Cauldron of
+Everything, Monsters of the Multiverse, and other
+books. If you make a character using one of those
+older sources and get ability score increases from
+it, the character doesn’t also get ability score
+increases from Background, unless you forgo the
+older ability score increases to gain the increases
+from the Background rules here.
+}}
+
+{{pageNumber 24}}
+{{footnote PART 1 | BACKGROUNDS}}
+\page
+
+### Sample Backgrounds
+Here	is	a	collection	of	sample	Backgrounds	that	
+you	can	choose	from	when	making	a	character.
+These	Backgrounds	were	built	using	the	rules	in	
+the	“Build	Your	Background”	section,	and	each	
+of	them	contains	story-oriented	details that	are	
+meant	inspire	you	as	you	think	of	your	
+character’s	backstory.
+
+
+#### Acolyte
+**Ability Scores:**:: +2 Wisdom, +1 Intelligence
+**Skill Proficiencies:**:: Insight, Religion
+**Tool Proficiency:**:: Calligrapher’s Supplies
+**Languages:**:: *Common, Celestial, any standard language*{color:#D35400} 
+**Feat:**:: Magic Initiate (Divine)
+**Equipment:**:: Book (Prayers), Calligrapher’s Supplies, Holy Symbol, Parchment (10 sheets), Robe, 3 GP
+You	devoted	yourself	to	service	in	a	temple,	
+either	nestled	in	a	town	or	secluded	in	a	sacred	
+grove.	There	you	performed	hallowed	rites	in	
+honor	of	a	god	or	pantheon.	You	served	under	a	
+priest and	studied	religion.	Thanks	to	your	
+priest’s	instruction	and	your	own	devotion,	you	
+also	learned	how	to	channel	a	modicum	of	
+divine	power	in	service	to	your	place	of	worship	
+and	the	people	who	prayed	there.
+
+
+#### Artisan
+**Ability Scores:**:: +2 Intelligence, +1 Charisma
+**Skill Proficiencies:**:: Investigation, Persuasion
+**Tool Proficiency:**:: Artisan’s Tools (one of your choice)
+**Languages:**:: *Common, Gnomish, any standard language*{color:#D35400} 
+**Feat:**:: Crafter
+**Equipment:**:: Abacus, Artisan’s Tools (same as above), Merchant’s Scale, Pouch (2), Traveler’s Clothes, 25 GP
+You began	mopping	floors	and	scrubbing	
+counters	in	an	artisan’s	workshop	for	a	few	
+coppers	per	day	as	soon	as	you	were	strong
+enough	to	carry	a	bucket.	When	you	were	
+finally	old	enough	to	apprentice,	you	learned	to	
+create	basic	crafts	of	your	own,	as	well	as	how	
+to	sweet-talk	the	occasional	demanding	
+customer.	As	part	of	your	studies,	you	picked	up	
+Gnomish,	the	tongue	from	which	so	many	of	the	
+artisan’s	terms	of	art	are	derived.	
+
+#### Charlatan
+**Ability Scores:**:: +2 Charisma, +1 Dexterity
+**Skill Proficiencies:**:: Deception, Sleight of Hand
+**Tool Proficiency:**:: Forgery Kit
+**Language:**::*Common,  Infernal, any standard language*{color:#D35400} 
+**Feat:**:: Skilled
+**Equipment:**:: Costume, Fine Clothes, Forgery Kit, 15 GP
+Soon	after	you	were	old	enough	to	order	an	ale,	
+you	already	had	a	favorite	stool	in	every	tavern	
+within	ten	miles	of	where	you	were	born.	As	
+you	traveled	the	circuit	from	public	house	to	
+watering	hole,	you	learned	to	prey	on	the	
+unfortunates	who	were	in	the	market	for	a	
+comforting	lie	or	two—perhaps	a	sham	potion	
+or	a	forged	“treasure	map.”	You	are	fluent	in	
+Infernal,	the	ancient	language	of	deception.
+
+#### Criminal
+**Ability Scores:**:: +2 Dexterity, +1 Intelligence
+**Skill Proficiencies:**:: Sleight of Hand, Stealth
+**Tool Proficiency:**:: Thieves’ Tools
+**Languages:**:: *Common, Thieves’ Cant, any standard language*{color:#D35400} 
+**Feat:**:: Alert
+**Equipment:**:: Crowbar, Dagger (2), Pouch (2), Thieves’ Tools, Traveler’s Clothes, 16 GP
+You learned	to	earn	your	coin	in	dark	alleyways,	
+cutting	purses	or	burgling	shops.	Perhaps	you	
+were	part	of	a	small	gang	of	like-minded	
+wrongdoers,	who	looked	out	for	each	other.	Or	
+maybe	you	were	a	lone	wolf,	fending	for	
+yourself	against	the	local	thieves’ guild	and	
+older,	more	fearsome	lawbreakers.
+
+#### Cultist
+**Ability Scores:**:: +2 Intelligence, +1 Charisma
+**Skill Proficiencies:**:: Arcana, Religion
+**Tool Proficiency:**:: Disguise Kit
+**Language:**:: *Common, Abyssal, any standard language*{color:#D35400} 
+**Feat:**:: Magic Initiate (Arcane)
+**Equipment:**:: Bell, Common Clothes, Dagger, Disguise Kit, Lamp, Robe, 19 GP
+You	scarcely	recall	what	drove	you	into	the	
+service	of	the	otherworldly	being.	Those	
+memories	were	blotted	out	long	ago	by	
+recurrent	dreams	of	midnight	gatherings	round	
+the	obsidian	pillar	in	the	glade.	By	the	light	of	
+each	waning	moon,	the	hierophants	instructed	
+you	in	the	being’s	creed and	the	rudiments	of	
+the	arcane	arts.	When	you	came	of	age,	you	
+were	ordered	to	blend	in	among	the	
+nonbelievers	and	await	whatever	mission	the	
+Great	One has in	store	for	you.
+
+#### Entertainer
+**Ability Scores:**:: +2 Charisma, +1 Dexterity
+**Skill Proficiencies:**:: Acrobatics, Performance
+**Tool Proficiency:**:: Musical Instrument (one of your choice)
+**Language:**:: *Common, Elvish, any standard language*{color:#D35400} 
+**Feat:**:: Musician
+**Equipment:**:: Costume (2), Musical Instrument (same as above), Perfume, Steel Mirror, Traveler’s Clothes, 8 GP
+You	spent	much	of	your	youth	following	roving	
+fairs	and	carnivals,	performing	odd	jobs	for	
+musicians	and	acrobats	in	exchange	for	lessons.	You	may	have	learned	how	to	walk	a	tightrope,	
+how	to	double	pick	a	lute,	or	how	to	recite	
+Elvish	poetry	with	the	impeccable	trills	of	an	elf
+poet.	To	this	day,	you	thrive	on	applause	and	
+long	for	the	stage.
+
+{{pageNumber 25}}
+{{footnote PART 1 | BACKGROUNDS}}
+\page
+
+#### Farmer
+**Ability Scores:**:: +2 Constitution, +1 Wisdom
+**Skill Proficiencies:**:: Animal Handling, Nature
+**Tool Proficiency:**:: Carpenter’s Tools
+**Languages:**:: *Common, Halfling, any standard language*{color:#D35400} 
+**Feat:**:: Tough
+**Equipment:**:: Carpenter’s Tools, Healer’s Kit, Iron Pot, Shovel, Sickle, Traveler’s Clothes, 23 GP
+You	grew	up	close	to	the	land.	Years	tending	
+animals and	cultivating	the	earth	rewarded	you	
+with	patience	and	good	health.	You	have	a	keen	
+appreciation	for	nature’s	bounty	alongside	a	
+healthy	respect	for	nature’s	wrath.	Like	many	
+farmers,	you	made	frequent	use	of	the	
+agricultural	almanacs	produced	by	the	greatest	
+halfling	farmers.
+
+#### Gladiator
+**Ability Scores:**:: +2 Strength, +1 Charisma
+**Skill Proficiencies:**:: Athletics, Performance
+**Tool Proficiency:**:: Smith’s Tools
+**Language:**:: *Common, Orc, any standard language*{color:#D35400} 
+**Feat:**:: Savage Attacker
+**Equipment:**:: Chain, Costume, Healer’s Kit, Javelin (6), Smith’s Tools, Traveler’s Clothes, 15 GP
+Your	first	few	appearances	in	the	gladiatorial	
+pits	led	you	to	appreciate	every	one	of	the	scars	
+you	carry	from	your instructors	and	sparring	
+partners.	Each	scar was	a	lesson	that	taught	you	
+how	to	best	your	opponents	and	curry	favor	
+with	the	crowds	your	brawls	entertained.	Your	
+time	in	the	pits	left	you	with	a	strong	hand	and	
+a	strong	heart.	You’ll	forever	share	a	
+remarkable	bond	with	the	other	pit	fighters	in	
+your	stable—humans,	dragonborn,	dwarves,	
+and	orcs—hardened	warriors	all.
+
+
+#### Guard
+**Ability Scores:**:: +2 Strength, +1 Wisdom
+**Skill Proficiencies:**:: Athletics, Perception
+**Tool Proficiency:**:: Gaming Set (one of your choice)
+**Languages:**:: *Common, Dwarvish, any standard language*{color:#D35400} 
+**Feat:**:: Alert
+**Equipment:**:: Crossbow Bolt (20), Gaming Set (same as above), Hooded Lantern, Light Crossbow, Manacles, Quiver, Spear, Traveler’s Clothes, 12 GP
+Your	feet begin	to ache	when	you	remember	the	
+countless	hours	you	spent	at	your	post	in	the	
+tower.	You	were	trained	to	keep	one	eye	
+outside	the	wall,	watching	for	marauders	
+sweeping	from the	nearby	forest,	and	your	
+other	eye	inside	the	wall,	searching	for	
+cutpurses	and	troublemakers.	At	the	end	of
+each	shift,	you	bunked	in	the	mayor’s	barracks	
+alongside	your	fellow	sentries	and	the	dwarven	
+smiths	who	kept	your	armor	snug	and	your	
+weapons	sharp.
+
+\column
+#### Guide
+**Ability Scores:**:: +2 Wisdom, +1 Dexterity
+**Skill Proficiencies:**:: Stealth, Survival
+**Tool Proficiency:**:: Cartographer’s Tools
+**Languages:**::*Common, Giant, any standard language*{color:#D35400} 
+**Feat:**:: Magic Initiate (Primal)
+**Equipment:**:: Arrow (20), Bedroll, Cartographer’s Tools, Fishing Tackle, Quiver, Shortbow, Tent, Traveler’s Clothes, 2 GP
+You	came	of	age	in	the	outdoors,	far	from	
+settled	lands.	Your	home?	Anywhere	you	chose	
+to	unfurl	your	bedroll.	There	are	wonders	on	
+the	frontier—strange	monsters,	pristine	forests	
+and	streams,	overgrown	ruins	of	great	halls	
+once	trod	by	giants—and	you	learned	to	fend	
+for	yourself	as	you	explored	them.	From	time	to	
+time,	you	traveled	with	a	pair	of	friendly	druids	
+who	were	kind	enough	to	instruct	you	in	the	
+fundamentals	of	channeling	the	magic	of	the	
+wild.	
+
+#### Hermit
+**Ability Scores:**:: +2 Wisdom, +1 Constitution
+**Skill Proficiencies:**:: Medicine, Religion
+**Tool Proficiency:**:: Herbalism Kit
+**Languages:**:: *Common, Sylvan, any standard language*{color:#D35400} 
+**Feat:**:: Magic Initiate (Primal)
+**Equipment:**:: Bedroll, Book (Philosophy), Fishing Tackle, Herbalism Kit, Lamp, Oil (3 flasks), Quarterstaff, Traveler’s Clothes, 15 GP
+You	spent	your	early	years	secluded	in	a	hut or	
+monastery	located	well	beyond	the	outskirts	of	
+the	nearest	settlement.	In	those	days,	your	only	
+companions	were	the	creatures	of	the	forest,	
+who	would	occasionally	visit	to	bring	news	of	
+the	outside	world	and	supplies. The quiet and	
+solitude you	found	in	your	time	outside society	
+allowed	you	to	spend	many	hours	pondering	
+the	mysteries	of	creation,	attuning	your	mind	to	
+the	magical	energy	flowing	through	the	natural	
+world.
+
+#### Laborer
+**Ability Scores:**:: +2 Constitution, +1 Strength
+**Skill Proficiencies:**:: Athletics, Survival
+**Tool Proficiency:**:: Mason’s Tools
+**Languages:**:: *Commonm, Dwarvish, any standard language*{color:#D35400} 
+**Feat:**:: Tough
+**Equipment:**:: Bullseye Lantern, Common Clothes, Handaxe, Light Hammer, Mason’s Tools, Mess Kit, Oil (1 flask), Shovel, Waterskin, 15 GP
+Your	apprenticeship	consumed	the	better	part	
+of	your	youth.	First,	you	learned	to	cut	and	
+polish	a	stone.	After	several	years of	polishing	
+stones,	you	learned	how	to	cement	those stones	
+into	a	wall. After	several	years	building	walls,	
+you	learned	to join	your	walls	to	form	a	
+structure.	The	structures	you	built	were	
+exceptionally	durable.	The	masons	who	taught	
+you	were	taught	by	even	older	masons	who	
+were	taught	by	dwarf	artisans	of	old.	
+
+{{pageNumber 26}}
+{{footnote PART 1 | BACKGROUNDS}}
+\page
+#### Noble
+**Ability Scores:**:: +2 Charisma, +1 Intelligence
+**Skill Proficiencies:**:: History, Persuasion
+**Tool Proficiency:**:: Gaming Set (one of your choice)
+**Languages:**:: *Common, Draconic, any standard language*{color:#D35400} 
+**Feat:**:: Skilled
+**Equipment:**:: Fine Clothes, Gaming Set, Perfume, Signet Ring, 24 GP
+You	were	raised	in	a	castle	as	a	creature	of	
+wealth,	power,	and	privilege—none	of	it	earned.
+Your	family	are	minor	aristocrats	who	saw	to	it	
+that	you	received	a	first-class	education,	some	
+of	which	you	appreciated	and	some	of	which	
+you	resented.	(Was	it	truly	necessary	to	read	all	
+those	ancient	histories	in	their	original	
+Draconic?)	Your	time	in	the	castle,	especially	
+the	many	hours	you	spent	observing	your	
+family	at	court,	also	taught	you	a	great	deal	
+about	leadership.	
+
+
+#### Pilgrim
+**Ability Scores:**:: +2 Wisdom, +1 Constitution
+**Skill Proficiencies:**:: Religion, Survival
+**Tool Proficiency:**:: Musical Instrument (one of your choice)
+**Languages:**:: *Common, Halfling, any standard language*{color:#D35400} 
+**Feat:**:: Healer
+**Equipment:**:: Bedroll, Healer’s Kit, Holy Symbol, Musical Instrument, Rations (2 days), Traveler’s Clothes, 16 GP
+You	and	a	group	of	like-minded	believers—
+mostly	humans	and	halflings—once	endeavored	
+to	walk	a	thousand	miles	of	road	to	reach	a	
+faraway	shrine.	Priests	counseled	at	the	outset	
+that,	long	after	your	journey	was	complete,	
+you’d	come	to	realize	that	you	found	the	key	to	
+your	salvation	not at	your	destination,	but	
+somewhere	along	the	road	that	led	there.	
+
+
+#### Sage
+**Ability Scores:**:: +2 Intelligence, +1 Wisdom
+**Skill Proficiencies:**:: Arcana, History
+**Tool Proficiency:**:: Calligrapher’s Supplies
+**Languages:**:: *Common, Elvish, any standard language*{color:#D35400} 
+**Feat:**:: Magic Initiate (Arcane)
+**Equipment:**:: Book (History), Calligrapher’s Supplies, Parchment (8 sheets), Quarterstaff, Robe, 8 GP
+You spent	your	formative	years	traveling	
+between	manors	and	monasteries,	performing	
+various	odd	jobs	and	services	in	exchange	for	
+access	to	their	libraries.	You	wiled	away	many	a	
+long	evening	with	your	nose	buried	in	books	
+and	scrolls,	learning	the	lore	of	the	multiverse—
+even	the	rudiments	of	magic—and	your	mind	
+only	yearns	for	more.
+
+\column
+#### Sailor
+**Ability Scores:**:: +2 Dexterity, +1 Wisdom
+**Skill Proficiencies:**:: Acrobatics, Perception
+**Tool Proficiency:**:: Navigator’s Tools
+**Languages:**:: *Common, Primordial, any standard language*{color:#D35400} 
+**Feat:**:: Tavern Brawler
+**Equipment:**:: Dagger, Fishing Tackle, Navigator’s Tools, Silk Rope, Traveler’s Clothes, 10 GP
+Thus	far,	you’ve	spent	most	of	your	days	living	
+the	life	of	a	seafarer,	wind	at	your	back	and	
+decks	swaying	beneath	your	feet,	as	you	sailed	
+toward	your	next	adventure.	You’ve	perched	on	
+barstools	in	more	ports	of	call	than	you	can	
+remember,	faced	down	mighty	storms,	and	
+swapped	stories	with	the	folk	who	live	beneath	
+the	waves.
+
+
+#### Soldier
+**Ability Scores:**:: +2 Strength, +1 Constitution
+**Skill Proficiencies:**:: Athletics, Intimidation
+**Tool Proficiency:**:: Gaming Set (one of your choice)
+**Languages:**:: *Common, Goblin, any standard language*{color:#D35400} 
+**Feat:**:: Savage Attacker
+**Equipment:**:: Arrow (20), Gaming Set (same as above), Healer’s Kit, Quiver, Shortbow, Spear, Traveler’s Clothes, 14 GP
+You	began	training	for	war	at	such	an	early	age	
+that	you	carry	only	a	precious	few	memories	of	
+what	life	was	like	before	you	took	up	arms.	
+Battle	is	in	your	blood.	Sometimes	you	catch	
+yourself	reflexively	performing	the	basic	
+fighting	exercises	you	learned	as	a	youth.	
+Eventually,	you	put	that	training	to	use	on	the	
+battlefield,	protecting	the	realm	by	waging	war	
+and	studying	the	strategies	of	goblinoid	
+generals.
+
+
+#### Urchin
+**Ability Scores:**:: +2 Dexterity, +1 Wisdom
+**Skill Proficiencies:**:: Insight, Stealth
+**Tool Proficiency:**:: Thieves’ Tools
+**Languages:**:: *Common, Common Sign Language, any standard language*{color:#D35400} 
+**Feat:**:: Lucky
+**Equipment:**:: Bedroll, Common Clothes, Dagger (2), Gaming Set
+You	grew	up	on	the	streets,	surrounded	by	
+similarly	ill-fated	castoffs,	a	few	of	them	friends	
+and	a	few	of	them	rivals.	You	slept	where	you	
+could and	did	odd	jobs	for	food. At	times,	when	
+the	hunger	became	unbearable,	you	resorted to	
+theft.	Still,	you	never	lost	your	pride	and	never	
+abandoned	hope.	Fate	is	not	yet	finished	with	
+you.
+
+{{pageNumber 27}}
+{{footnote PART 1 | BACKGROUNDS}}
+\page
+# Feats
+This chapter details player character feats.
+A feat represents a talent or an area of expertise that gives
+a character special capabilities. It embodies training,
+experience, and abilities seperate from what a class provides.
+
+{{note
+##### Bonus Feats at 20th Level
+A DM can use bonus Feats as a form of
+advancement after characters reach 20th level, a
+way to provide greater power to characters who
+have no more levels to gain. With this approach,
+each character gains one Feat of their choice for
+every 30,000 XP the character earns above 355,000
+XP. Epic Boon Feats are especially appropriate for
+these bonus Feats, but a player can choose any
+Feat for which their 20th-level character qualifies.
+}}
+
+### Parts of a Feat
+The	description	of	a	Feat	contains	the	following	parts, which	are	presented	after	the	Feat’s	name:
+
+**Level.** ::	Each	Feat	has	a	level.	To	take	a	Feat,	your	level	must	equal	or	exceed	the	Feat’s	level.
+**Prerequisite.** :: You	must	meet	any	prerequisite	specified	in	a	Feat to	take	that	Feat,	unless a	special	feature	allows	you	to	take	the	Feat	without	the	prerequisite. If	a	prerequisite	is	a	Class	or	a	Class	Group,	you	must	have	at	least	1	level	in	an	eligible	Class	to	qualify	for	the	Feat.
+**Repeatable.** :: If	a	Feat is	repeatable,	you	can	take	it	more	than	once.	If	it	isn’t repeatable,	you	can	take	the	Feat only	once.
+
+
+## Feat Descriptions
+Here	are	the	descriptions of Feats	available	to player characters from One D&D Unearthed Arcana.
+
+Feats are sorted by level and then alphabetically.
+
+### Alert
+*1st-Level	Feat*
+**Prerequisite:** ::	None
+**Repeatable:** :: No
+Always	on	the	lookout	for	danger,	you	gain	the	following	benefits:
+**Initiative	Proficiency.** :: When	you	roll	Initiative,	you	can	add	your	Proficiency	Bonus	to	the	roll.
+**Initiative	Swap.** :: Immediately	after	you	roll	Initiative,	you	can	swap	your	Initiative	with	the	Initiative	of	one	willing	ally	in	the	same	combat.	You	can’t	make	this	swap	if	you	or	the	ally	is	Incapacitated.
+
+::::
+### Crafter
+*1st-Level	Feat*
+**Prerequisite:** ::	None
+**Repeatable:** :: No
+You	are	adept	at	crafting	things	and	bargaining	with	merchants,	granting	you	the	following	benefits:
+**Tool	Proficiency.** :: You	gain	Tool	Proficiency*with	three	different	Artisan’s	Tools* of	your	choice.
+**Discount.**:: Whenever	you	buy	a	nonmagical	item,	you	receive	a	20	percent	discount	on	it.
+**Faster	Crafting.**:: When	you	craft	an	item	using	a	tool	with	which	you	have	Tool	Proficiency,	the	required	crafting	time	is	reduced	by	20	percent.
+
+### Fighting Style: Archery
+*1st-Level	Feat*
+**Prerequisite:** ::	Warrior	Group
+**Repeatable:** :: No
+You	gain	a	+2	bonus	to	Attack	Rolls you	make	with	Ranged	Weapons.
+
+### Fighting Style: Defense
+*1st-Level	Feat*
+**Prerequisite:** ::	Warrior	Group
+**Repeatable:** :: No
+While	you	are	wearing	armor,	you	gain	a	+1	bonus	to	Armor	Class.
+
+### Fighting Style: Dueling
+*1st-Level	Feat*
+**Prerequisite:** ::	Warrior	Group
+**Repeatable:** :: No
+When	you	are	wielding	a	Melee	Weapon	in	one	hand	and	no	other	Weapons,	you	gain	a	+2	bonus	to	damage	rolls	with	that	Melee	Weapon.
+
+### Fighting Style: Great Weapon Fighting
+*1st-Level	Feat*
+**Prerequisite:** ::	Warrior	Group
+**Repeatable:** :: No
+When	you	roll	a	1	or	2	on	a	damage	die	for	an	attack	you	make	with	a	Melee	Weapon	that	you	
+are	wielding	with	two	hands,	you	can	reroll	the die,	and	you	must	use	the	new	roll.	The	Weapon	
+must	have	the	Two-Handed	or	Versatile	property	to gain	this	benefit.
+
+{{pageNumber 28}}
+{{footnote PART 1 | FEATS}}
+\page
+
+### Fighting Style: Protection
+*1st-Level	Feat*
+**Prerequisite:** ::	Warrior	Group
+**Repeatable:** :: No
+Immediately	after a	creature	you	can	see makes	an	Attack	Roll and hits a	target	other	than	you	
+that	is	within	5	feet	of	you,	you	can	use	your	Reaction	to	interpose	your	Shield	and	impose	a	
+−2	penalty on	the Attack	Roll,	potentially	turning	it	into	a	miss. You	must	be	wielding	a	Shield to	use	this	Reaction.
+
+### Fighting Style: Two-Weapon Fighting
+*1st-Level	Feat*
+**Prerequisite:** ::	Warrior	Group
+**Repeatable:** :: No
+When	you	make	the	extra	attack	of	the	Light weapon	property,	you	can	add	your	Ability	Modifier to	the	damage	of	the	extra attack.
+
+### Healer
+*1st-Level	Feat*
+**Prerequisite:** ::	None
+**Repeatable:**:: No
+You	have	the	training	and	intuition	to	administer	first	aid	and	other	care	effectively,	granting	you	the	following	benefits:
+**Battle	Medic.** :: If	you	have	a	Healer’s	Kit,	you	can	expend	one	use	of	it	and	tend	to	a	creature	within	5	feet	of	you	as	an	Action.	That	creature	can	expend	one	of	its	Hit	Dice,	and	you	then	roll	that	die.	The	creature	regains	a	number	of	Hit	Points	equal	to	the	roll	plus	
+your	Proficiency	Bonus.
+**Healing	Rerolls.**:: Whenever	you	roll	a	die	to	determine	the	number	of	Hit	Points	you	restore	with a	spell	or	with	this	feat’s	Battle	Medic benefit,	you	can	reroll	the	die	if	it	rolls	a	1, and you must	use	the	new	roll.
+
+### Lightly Armored
+*1st-Level	Feat*
+**Prerequisite:** ::	None
+**Repeatable:** :: No
+You	gain	the	following	*Proficiencies:*{color:#D35400}	Light	Armor,	Medium	Armor, and	Shield.
+
+### Lucky
+*1st-Level	Feat*
+**Prerequisite:**::	None
+**Repeatable:**:: No
+You	have	inexplicable	luck	that	can	kick	in at	just	the	right	moment,	granting	you	the	
+following	benefits:
+**Luck	Points.**:: You	have a	number	of Luck	Pointsequal	to	your	Proficiency	Bonus.	You	can	spend	the	points	on	the	benefits	below,	and	you regain	your	expended	Luck	Points	when	you	finish	a	Long	Rest.
+**Advantage.**:: Immediately	after	you	roll	a d20	for	a	d20	Test, you	can	spend	1	Luck	Point	to	give	yourself	Advantage	on	the	roll.
+**Disadvantage.**:: When	a	creature	rolls	a d20	foran	attack	roll	against	you,	you	can	spend	1	Luck	Point	to	impose	Disadvantage	on	that	roll.
+
+### Magic Initiate
+*1st-Level	Feat*
+**Prerequisite:**::	None
+**Repeatable:**:: Yes,	but	you	must	choose	a	different	Spell list	each	time
+You	have	learned	the	basics	of	a	particular	magical	tradition.	Choose	one	Spell list:	Arcane, Divine, or	Primal. You	gain	the	following	benefits	related	to	that	choice:
+**Two	Cantrips.**:: You	learn	two	cantrips	of	your	choice	from	the	Spell list.
+**1st-Level	Spell.**:: Choose	one	1st-level	Spell from	the	Spell list.	You	always	have	that	Spell prepared.	You	can	cast	it	once	without	a	Spell Slot,	and	you	regain	the	ability	to	cast	it	in	that	way	when	you	finish	a	Long	Rest. You	can	also	cast	the	Spell using	any	Spell Slots	you	have.
+Intelligence,	Wisdom,	or	Charisma	is	your	spellcasting	ability	for	these	Spells	(choose	
+when	you	select	this	Feat). See	the	Spellcasting chapter for	the	
+rules	on	spellcasting.
+
+Whenever	you	gain	a	new	level,	you	can	replace	one	of	the	Spells	you	chose	for	this	Featwith	a	different	Spell of	the	same	level	from	the	chosen	Spell list.
+
+### Musician
+*1st-Level	Feat*
+**Prerequisite:**::	None
+**Repeatable:**:: No
+You	are	a	practiced	musician,	granting	you	the	following	benefits:
+**Instrument Training.**:: You	gain	Tool	Proficiency with	three	Musical	Instruments of	your	choice.
+**Inspiring	Song.** As	you	finish	a	Short	Rest	or	a	Long	Rest,	you	can play a	song	on	a	Musical	Instrument	with	which	you	have	Tool	Proficiency and give Heroic Inspiration to	allies	who	hear	the	song. The	number	of	allies you	can	affect	in	this	way equals	your	Proficiency	Bonus.
+
+{{pageNumber 29}}
+{{footnote PART 1 | FEATS}}
+\page
+
+### Savage Attacker
+*1st-Level	Feat*
+**Prerequisite:**::	None
+**Repeatable:**:: No
+You	have	trained	to	deal	particularly	damaging	strikes.	When	you	take	the	Attack	Action and	hit	
+a	target	with	a	Weapon as	part	of	that	Action,	you	can	roll	the	Weapon’s	damage	dice	twice	
+and	use	either	roll	against	the	target.	You	can	use	this	benefit	only	once	per	turn.
+
+### Skilled
+*1st-Level	Feat*
+**Prerequisite:**::	None
+**Repeatable:**:: Yes
+You	have	exceptionally	broad	learning.	Choose	three	Skills	in	which	you	lack	Proficiency.	You	gain	Proficiency	in	those	Skills.
+
+### Tavern Brawler
+*1st-Level	Feat*
+**Prerequisite:**::	None
+**Repeatable:**:: No
+Accustomed	to	brawling,	you	gain	the	following	benefits:
+**Enhanced	Unarmed	Strike.**:: When	you	hit	with	your	Unarmed	Strike and	deal	damage,	you can	deal	Bludgeoning	Damage	equal	to	1d4	+	your	Strength	modifier,	instead	of	the	normal	damage	of	an	Unarmed	Strike.
+**Damage	Rerolls.**:: Whenever	you	roll	a	damage	die	for	your	Unarmed	Strike,	you	can	reroll	the	die	if	it	rolls	a	1,	and	you	must use	the	new	roll.
+**Shove.** :: When you	hit	a	creature	with	an	Unarmed	Strike	as	part	of	the	Attack	Action on	your turn,	you	can	deal	damage to	the	target	and also push	it	5	feet	away. You	can	use	this	benefit	only once	per	turn.
+**Furniture	as	Weapons.**::	You	can	wield furniture as	a	Weapon,	using	the rules	of	the Greatclub for	Small	or	Medium	furniture	and	 the	rules	of	the	Club	for	Tiny	furniture.
+
+### Tough
+*1st-Level	Feat*
+**Prerequisite:**::	None
+**Repeatable:**:: No
+Your	Hit	Point	Maximum	increases	by	an	amount	equal	to	twice	your	character	level	when	you	gain	this	Feat.	Whenever	you	gain	a	level	thereafter,	your	Hit	Point	Maximum increases	by	an	additional	2	Hit	Points.
+
+:::::
+
+### Ability Score Improvement 
+*4th-Level	Feat*
+**Prerequisite:** ::	None
+**Repeatable:** :: Yes
+You	increase	one	Ability	Score of	your	choice	by	2,	or	you	increase	two	Ability	Scores	of	your	 choice	by	1.	You	can’t	increase	an	Ability	Score above	20.
+
+### Actor
+*4th-Level	Feat*
+**Prerequisite:** ::	Charisma	13+
+**Repeatable:** :: No
+Skilled	at	mimicry	and	dramatics,	you	gain	the	
+following	benefits:
+**Ability	Score	Increase.** :: Increase	your	Charisma	score	by	1,	to	a	maximum	of	20.
+**Impersonation.** ::	While	you’re	disguised	as	a	fictional	person	or	a	real	person	other	than	 yourself,	you	have	Advantage	on	Charisma	Checks	(Performance)	to	convince	others	that	you	are	that	person.
+**Mimicry.** :: You	can	mimic	the	sounds	of	other	creatures,	including	speech.	To	mimic	a	sound	or	a	way	of	speaking,	you	must	listen	to	it	for	at	least	1 minute. Any	time	thereafter,	you	can	make a	DC	15	Charisma	Check	(Performance)	to	perform	the	mimicry;	on	a	success,	you	perform	it convincingly for	up	to	1	hour.
+
+### Athlete
+*4th-Level	Feat*
+**Prerequisite:** ::	Strength,	Dexterity,	or Constitution 13+
+**Repeatable:** :: No
+You	have	undergone	extensive	physical	training	
+to	gain	the	following	benefits:
+**Ability	Score	Increase.** :: Increase	your	Strength,	Dexterity,	or	Constitution score	by	1,	to	a	maximum	of	20.
+**Climb	Speed.** ::	You	gain	a	Climb	Speed equal	to	your	Speed.
+**Hop	Up.** ::	When	you	are	Prone, you	can	right	yourself	with only	5	feet	of	movement.
+**Jumping.** :: You	have	Advantage	on	any	Ability	Check you	make	for the	Jump	Action.
+
+{{pageNumber 30}}
+{{footnote PART 1 | FEATS}}
+\page
+
+### Charger
+*4th-Level	Feat*
+**Prerequisite:** ::	Proficiency	with	Any	Martial	Weapon
+**Repeatable:** :: No
+You	have	trained	to	charge	headlong	into	battle,	gaining	the	following	benefits:
+**Ability	Score	Increase.** :: Increase	your	Strength	or	Dexterity	score	by	1,	to	a	maximum	of	20.
+**Improved	Dash.** :: When	you	take	the	Dash	Action,	your	Speed	increases	by	10	feet	for	that	Action.
+**Charge	Attack.** :: If	you	move	at	least	10	feet	in	a	straight	line	immediately	before	hitting	with	a `melee`	attack	as	part	of	the	Attack	Action on	your	turn,	choose	one	of	the	following	effects: gain	a	+1d8 bonus	to	the	attack’s	damage	roll, or	push	the	target	up	to	10	feet,	provided	the	target	you	want	to	push is	no	more	than	one	Size	larger	than	you. You	can	use	this	benefit	only	once	on each	of	your	turns.
+
+### Crossbow Expert
+*4th-Level	Feat*
+**Prerequisite:** ::	Proficiency	with any <s>Martial	Weapon</s> `Crossbow`
+**Repeatable:** :: No
+Thanks	to	extensive	practice	with	crossbows,	you	gain	the	following	benefits:
+**Ability	Score	Increase.** :: Increase	your	Dexterity	score	by	1,	to	a	maximum	of	20.
+**Ignore	Loading.** :: You	ignore	the	Loading	property	of	crossbows.
+**Firing	in	Melee.** :: Being	within	5	feet	of	an	enemy doesn’t	impose	Disadvantage	on	your	Attack	Rolls with	crossbows.
+**Dual	Wielding.** :: When	you	make	the	extra	attack	of	the	Light weapon	property,	you	can	add	your	Ability	Modifier to	the	damage	of	the	 extra attack if	that	attack	is	with	a	crossbow	that	has	the	Light property.
+
+### Defensive Duelist
+*4th-Level	Feat*
+**Prerequisite:** ::	Dexterity	13+
+**Repeatable:** No
+You’ve	learned	to	deftly	parry	attacks,	granting	
+you	the	following	benefits:
+**Ability	Score	Increase.** :: Increase	your	Dexterity	score	by	1,	to	a	maximum	of	20.
+**Parry.** :: If you	are	holding a	Finesse	Weapon	and	another	creature	hits	you	with	a	Melee	Attack,	you	can	use	your	Reaction	to	add	your	Proficiency	Bonus	to	your	Armor	Class for	that	attack,	potentially	causing	the	attack	to	miss	you.
+
+::::
+### Dual Wielder
+*4th-Level	Feat*
+**Prerequisite:** ::	Proficiency	with	Any	Martial	Weapon
+**Repeatable:** :: No
+You	master	fighting with	two	weapons,	gaining	
+the	following	benefits:
+**Ability	Score	Increase.** :: Increase	your	Strength	or	Dexterity	score	by	1,	to	a	maximum	of	20.
+**Enhanced	Dual	Wielding.** :: When	you	are	holding	a	Weapon	with	the	Light	property	in	one	hand,	you	can	treat a	non-Light	Weapon	in	your	other	hand	as	if	it	had	the	Light	property,	provided	that	Weapon	lacks	the	Two-Handed	property.
+**Quick	Draw.** :: You	can	draw	or	stow	two	Weapons that	lack	the	Two-Handed	propertywhen	you	would	normally	be	able	to	draw	or	stow	only	one.
+
+### Durable
+*4th-Level	Feat*
+**Prerequisite:** ::	Constitution	13+
+**Repeatable:** :: No
+Hardy	and	resilient,	you	gain	the	following	
+benefits:
+**Ability	Score	Increase.** :: Increase	your	Constitution	score	by	1,	to	a	maximum	of	20.
+**Defy	Death.** :: You	have	Advantage	on	Death	Saving	Throws.
+**Speedy Recovery.** :: As	a	Bonus	Action,	you	can	expend	one	of	your	Hit	Dice,	roll	the	die,	and	 regain	a	number	of	Hit	Points	equal	to	the	roll.
+
+### Elemental Adept
+*4th-Level	Feat*
+**Prerequisite:** ::	Spellcasting	or	Pact	Magic	Feature
+**Repeatable:** :: Yes,	but	you	must	choose	a	different	Damage	Type	each	time	for	Energy	Mastery
+In	your	spellcasting,	you	can	harness	a	particular	
+form	of	energy	with	deadly	mastery,	granting	
+you	the	following	benefits:
+**Ability	Score	Increase.** :: Increase	your	Intelligence,	Wisdom,	or	Charisma score	by	1,	to	a	maximum	of	20.
+**Energy	Mastery.** ::	Choose one	of	the	following	Damage	Types:	Acid,	Cold,	Fire,	Lightning,	or	Thunder. Spells	you	cast	ignore	Resistance	to	damage	of	the	chosen	type.	In	addition,	when	you	roll	damage	for	a	Spell	you	cast	that	deals	damage	of	that	type,	you	can	treat	any	1	on	a	damage	die	as	a	2.
+
+{{pageNumber 31}}
+{{footnote PART 1 | FEATS}}
+\page
+
+### Grappler
+*4th-Level	Feat*
+**Prerequisite:**::	Strength	or	Dexterity	13+
+**Repeatable:**:: No
+You’re	an	accomplished	wrestler,	granting	you	the	following	benefits:
+**Ability	Score	Increase.**:: Increase	your	Strength	or	Dexterity score	by	1,	to	a	maximum	of	20.
+**Attack	Advantage.**:: You	have	Advantage	on	Attack	Rolls against	a	creature	Grappled by	you.
+**Fast	Wrestler.**:: You	aren’t	Slowed when	you	move	a	creature	Grappled by	you,	provided	the	creature	is	your	Size	or	smaller.
+**Punch	and	Grab.**:: When	you	hit	a	creature	with	an	Unarmed	Strike as	part	of	the	Attack	Action on	your	turn,	you	can	deal	damage	to	the	target	and	also	grapple	it.	You	can	use	this	benefit	only	once	per	turn.
+
+### Great Weapon Master
+*4th-Level	Feat*
+**Prerequisite:**::	Proficiency	with	Any	Martial	Weapon
+**Repeatable:**::  No
+You’ve	learned	to	use the	weight	of	a	weapon	to	your	advantage,	letting	its	momentum	empower	your	strikes.	You	gain	the	following	benefits:
+**Ability	Score	Increase.**:: Increase	your	Strength score	by	1,	to	a	maximum	of	20.
+**Cleave.**:: Immediately	after you	score	a	Critical	Hit	with	a Melee	Weapon	or	reduce	a	creature to	0	Hit	Points	with	one,	you	can	make	one	attack	with	the	same	weapon as	a	Bonus	Action.
+**Heavy	Weapon	Mastery.**:: When	you	hit a	creature	with	a	Heavy	Weapon	as	part	of	the	Attack	Action on	your	turn,	you	can	cause	the	weapon	to	deal	extra	damage	to	the	target.	The	extra	damage	equals	your	Proficiency	Bonus,	and	you	can	deal	it	only	once	per	turn.
+
+### Heavily Armored
+*4th-Level	Feat*
+**Prerequisite:**::	*Medium	Armor	Proficiencly*{color:#D35400}
+**Repeatable:**:: No
+You	have	trained	to	use	Heavy	Armor effectively,	gaining	the	following	benefits:
+**Ability	Score	Increase.**::	Increase	your Constitution	or Strength	score	by	1,	to	a	maximum	of	20.
+**Armor	Training.**:: You	gain *Proficiency with Heavy Armor*{color:#D35400}.
+
+:::::::
+
+### Heavy Armor Master
+*4th-Level	Feat*
+**Prerequisite:**::	*Heavy	Armor	Proficiency*{color:#D35400}
+**Repeatable:**:: No
+You	can	use	your	Heavy	Armor to	deflect	strikes,	granting	you the	following	benefits:
+**Ability	Score	Increase.**:: Increase	your	Constitution	or	Strength	score	by	1,	to	a	maximum	of	20.
+**Damage	Reduction.**:: When you’re hit	by	an	attack	while	you’re	wearing	Heavy	Armor,	any	Bludgeoning,	Piercing,	or Slashing	Damage	dealt	to	you	by	that	attack	is	reduced	by	an	amount	equal	to	your	Proficiency	Bonus.
+
+### Inspiring Leader
+*4th-Level	Feat*
+**Prerequisite:**:: Wisdom	or	Charisma	13+
+**Repeatable:**:: No
+You	are	adept	at	encouraging	others,	granting	you	the	following	benefits:
+**Ability	Score	Increase.**:: Increase	your Wisdom	or Charisma score	by	1,	to	a	maximum	of	20.
+**Encouraging	Performance.**:: At	the	end	of	a	Short	Rest	or	a	Long	Rest,	you	can	give	an	inspiring	performance:	a	speech,	a	song,	or	a	dance. When	you	do	so,	choose	up	to	six	friendly	creatures	(which	can	include	yourself)	within	30	feet	of	you	who	witness	the	performance.	The	chosen creatures	each	gainTemporary	Hit	Points	equal	to	2d4	+	your	Proficiency	Bonus.
+
+### Keen Mind
+*4th-Level	Feat*
+**Prerequisite:**::	Intelligence	13+
+**Repeatable:**:: No
+You	have	trained to rapidly	recall	or	discover	vital	details, granting	you the	following	benefits:
+**Ability	Score	Increase.**:: Increase	your	Intelligence	score	by	1,	to	a	maximum	of	20.
+**Lore	Knowledge.**::	Choose	one	of	the	following	Skills:	Arcana,	History,	Investigation,	Nature,	or Religion.	If	you	lack	Proficiency	in the	chosen	Skill,	you	gain	Proficiency	in it,	and	if	you	have	Proficiency	in it,	you	gain	Expertise in it.
+**Quick Study.**:: You	can	take	the	Study	Action as	a	Bonus	Action.
+
+{{pageNumber 32}}
+{{footnote PART 1 | FEATS}}
+\page
+### Mage Slayer
+*4th-Level	Feat*
+**Prerequisite:**::	Proficiency	with	Any	Martial	Weapon
+**Repeatable:**:: No
+You	have	practiced	techniques	useful	in	battling magic-users,	gaining	the	following	benefits:
+**Ability	Score	Increase.**:: Increase	your	Strength	or	Dexterity score	by	1,	to	a	maximum	of	20.
+**Concentration	Breaker.**:: When	you	damage	a	creature that	is	concentrating,	it has	Disadvantage	on the	Saving	Throw it	makes to	maintain	Concentration.
+**Guarded	Mind.**::	If	you	fail	an	Intelligence,	a	Wisdom,	or	a	Charisma	Saving	Throw,	you	can cause	yourself	to	succeed	instead. Once	you	use	this	benefit,	you	can’t	use	it	again	until	you	finish a	Long	Rest.
+
+### Medium Armor Master
+*4th-Level	Feat*
+**Prerequisite:**::	*Medium	Armor	Proficiency*{color:#D35400}
+**Repeatable:**:: No
+You	have	practiced	moving	in	medium	armor	to	gain	the	following	benefits:
+**Ability	Score	Increase.**:: Increase	your	Strength	or	Dexterity score	by	1,	to	a	maximum	of	20.
+**Dexterous	Wearer.**::	While	you	are	wearing Medium	Armor,	you	can	add	3,	rather	than	2,	to	your	AC if	you	have	a	Dexterity score of	16	or	higher.
+
+### Mounted Combat
+*4th-Level	Feat*
+**Prerequisite:**::	Proficiency	with	Any	Martial	Weapon
+**Repeatable:**:: No
+You	have	developed	a	bond	with	your	mounts,	granting	you the	following	benefits:
+**Ability	Score	Increase.**:: Increase	your	Strength,	Dexterity,	or	Wisdom score	by	1,	to a maximum of	20.
+**Mount Handler.**::	You	have	Advantage	on	Wisdom	Checks	(Animal	Handling)	made	to	handle	or	train	horses	and	other	Beasts	employed	as	mounts.
+**Mounted	Strike.**:: While	mounted,	you	have	Advantage	on	Attack	Rolls against	any	creature	that	is	within	5	feet	of	your	mount and	at	least	one	Size	smaller	than	it.
+**Leap	Aside.**::	If	your	mount	is	subjected	to	an	effect	that	allows	it	to	make	a	Dexterity	Saving	Throw to	take	only	half	damage,	it	instead	takes	no	damage	if	it	succeeds	on	the	Saving Throw,	and	only	half	damage	if	it	fails. For	your	mount	to	gain	this	benefit,	you	must	be	 riding	it,	and	neither	of	you	can	be	Incapacitated.
+**Veer.**::	While	mounted,	you	can	use	your	Reaction	to	force	an	attack	that	hits	your	mount	to	hit	you	instead.
+
+::
+
+### Observant
+*4th-Level	Feat*
+**Prerequisite:**::	Intelligence	or	Wisdom	13+
+**Repeatable:**:: No
+Quick	to	notice	details	around	you,	you	gain	the	following	benefits:
+**Ability	Score	Increase.**::	Increase	your	Intelligence	or	Wisdom	score	by	1,	to	a	maximum	of	20.
+**Keen	Observer.**::	Choose	one	of	the	following	Skills:	Insight,	Investigation,	or	Perception.	If	 you	lack	Proficiency	with	the	chosen	Skill,	you	gain	Proficiency	in it,	and	if	you	have	 Proficiency	in it,	you	gain	Expertise in it.
+**Quick	Search.**:: You	can	take	the	Search	Action as	a	Bonus	Action.
+
+### Polearm Master
+*4th-Level	Feat*
+**Prerequisite:**::	Proficiency	with	Any	Martial	Weapon `with the Heavy and Reach properties`
+**Repeatable:**:: No
+You	have	trained	extensively	with	pole	weapons	that	have	Reach,	granting you the	following	 benefits:
+**Ability	Score	Increase.**::	Increase	your	Strength score	by	1,	to	a	maximum	of	20.
+**Pole	Strike.**::	Immediately	after you	take	the	Attack	Action and	attack with	a	Weapon	that	has	the	Heavy	and	Reach	properties,	you	can	use	a	Bonus	Action	to	make	a	Melee	Attack	with	the	opposite	end	of	the	Weapon.	The	weapon’s	damage	die	for	this	attack	is	a	d4,	and	it	deals	Bludgeoning	Damage.
+**Reactive	Strike.**:: While	you	are	holding	a	
+Weapon	that	has	the	Heavy	and	Reach	
+properties,	you	can	use	your	Reaction	to	make	
+one	Melee	Attack	against	a	creature	that	enters	
+the	Reach	you	have	with	that	Weapon.
+
+### Resilient
+*4th-Level	Feat*
+**Prerequisite:**::	None
+**Repeatable:**:: No
+You	have	developed	the	resilience to	better	withstand	certain	dangers,	granting	you	the	following	benefits:
+**Ability	Score	Increase.**::	Choose	one	ability	in	which	you	lack	Saving	Throw	Proficiency.	Increase	the	chosen	Ability	Score by	1,	to	a	maximum	of	20.
+**Saving	Throw	Proficiency.**	You	gain	Saving	Throw	Proficiency	with	the	chosen	ability.
+
+{{pageNumber 33}}
+{{footnote PART 1 | FEATS}}
+\page
+### Ritual Caster
+*4th-Level	Feat*
+**Prerequisite:**::	Intelligence,	Wisdom,	or	Charisma 13+
+**Repeatable:** No
+You	have	studied	ritual	magic,	granting	you	the	following	benefits:
+**Ability	Score	Increase.**::	Increase	your	Intelligence,	Wisdom,	or	Charisma score	by	1,	to	a	maximum	of	20.
+**Ritual	Spells.**:: Choose	two	1st-level	Spells	that	have	the	Ritual	tag	from	the	Arcane,	Divine,	 and	Primal Spell	Lists.	You	always	have	those	two	Spells	prepared,	and	you	can	cast	them	with	any	Spell	Slots	you	have. The	Spells’	Spellcasting	Ability is	the	ability	increased	by	this	Feat.
+**Quick	Ritual.**:: With	this	benefit,	you	can	cast	a	Ritual	Spell	that	you	have	prepared	using	its	regular	casting	time,	rather	than	the	extended	time	for	a	Ritual.	Doing	so	doesn’t	require a	Spell	Slot	Once	you	cast	the	Spell	in	this	way,	you	can’t	use	this	benefit	again	until	you	finish	a	Long	Rest.
+
+### Sentinel
+*4th-Level	Feat*
+**Prerequisite:**::	Proficiency	with	Any	Martial	Weapon
+**Repeatable:**:: No
+You	have	mastered	techniques	to	take	advantage of	every	drop	in	any	enemy’s	guard,	gaining	the	following	benefits:
+**Ability	Score	Increase.**::	Increase	your	Strength or	Dexterity score	by	1,	to	a	maximum	of	20.
+**Guardian.**:: Immediately	after a	creature	within	5	feet	of	you takes	the	Disengage	Action	or hits	a	target	other	than	you with	an	attack,	you	can	make	an	Opportunity	Attack against	that	creature.
+**Halt.**:: When	you	hit	a	creature	with	an	Opportunity	Attack,	the	creature’s	Speed	becomes	0	for	the	rest	of	the	turn.
+
+### Sharpshooter
+*4th-Level	Feat*
+**Prerequisite:**::	Proficiency	with	Any	Martial `Ranged`	Weapon
+**Repeatable:**:: No
+You	can	make	shots	that	others	find	impossible,	granting	you the	following	benefits:
+**Ability	Score	Increase.**::	Increase	your	Dexterity score	by	1,	to	a	maximum	of	20.
+**Bypass	Cover.**::	Your	Ranged	Attacks	with	Weapons ignore	Half	Cover	and	Three Quarters	Cover.
+**Firing	in	Melee.**:: Being	within	5	feet	of	an	enemydoesn’t	impose	Disadvantage	on	your	ranged	Attack	Rolls with	Weapons.
+**Long	Shots.**:: Attacking	at	Long	Range	doesn’t	impose	Disadvantage	on	your	ranged	Attack Rolls with	Weapons.
+
+### Shield Master
+*4th-Level	Feat*
+**Prerequisite:**::	*Shield	Proficiency*{color:#D35400}
+**Repeatable:**:: No
+You’ve	trained	to	use	shields	not	just	for	protection, but	also	for	offense,	granting	you	the	
+following	benefits:
+**Ability	Score	Increase.**::	Increase	your	Strength score	by	1,	to	a	maximum	of	20.
+**Shield	Bash.**:: If	you	attack	a	creature	within	5	feet	of	you	as	part	of	the	Attack	Action and	hit	with	a	Melee	Weapon,	you	can	immediately	bash	the	target	with	your	Shield	if	it’s	 equipped,	forcing	the	target	to	make	a	Strength	Saving	Throw	against	a	DC	equal	to	8	+	your	 Strength	modifier	+	your	Proficiency	Bonus. On	a	failed	save,	you	knock	the	target	Prone	or	push	it	5	feet	away.	You	can	use	this	benefit	only	once	on	each	of	your	turns.
+**Interpose	Shield.**::	If	you	are	subjected	to an	 effect	that	allows	you	to	make	a	Dexterity	 Saving	Throw to	take	only	half	damage,	you	can	use	your	Reaction	to	take	no	damage	if	you	 succeed	on	the	Saving	Throw and	are	wielding	 a	Shield,	interposing	your	shield	between	 yourself	and	the	source of	the	effect.
+
+### Skulker
+*4th-Level	Feat*
+**Prerequisite:**::	Dexterity	13+
+**Repeatable:**:: No
+You	are	expert	at	slinking	through	shadows,	granting	you the	following	benefits:
+**Ability	Score	Increase.**::	Increase	your	Dexterityscore	by	1,	to	a	maximum	of	20.
+**Blindsight.**:: You	have	Blindsight with	a	range	of	10	feet.
+**Fog	of	War.**:: Exploiting	the	distractions	of	battle,	you	have	Advantage	on	any	Dexterity	Check	(Stealth)	you	make	as	part	of	the	Hide	Action during	combat.
+**Sniper.**::	If	you	make	an	Attack	Roll while Hidden and	the	roll	misses,	making	the	Attack	Roll doesn’t	end	the	Hidden Condition	on	you.
+
+{{pageNumber 34}}
+{{footnote PART 1 | FEATS}}
+\page
+### Speedster
+*4th-Level	Feat*
+**Prerequisite:**::	Dexterity	or	Constitution	13+
+**Repeatable:I**:: No
+You	possess	exceptional speed and	stamina,	granting	you the	following	benefits:
+**Ability	Score	Increase.**:: Increase	your Dexterity	or	Constitution score	by	1,	to	a	maximum	of	20.
+**Speed	Increase.**:: Your	Speed	increases	by	10	feet while	you	aren’t	wearing	Heavy	Armor.
+**Dash	Over	Difficult	Terrain.**:: When	you	take the	Dash	Action on	your	turn,	Difficult	Terrain doesn’t	cost	you	extra	movement	for	the	rest	of that	turn.
+
+### Spell Sniper
+*4th-Level	Feat*
+**Prerequisite:**::	Spellcasting	or	Pact	Magic	Feature
+**Repeatable:**:: No
+You	have	learned	techniques	to	enhance	your	 attacks	with	certain	kinds	of	spells,	gaining	the	
+following	benefits:
+**Ability	Score	Increase.**::	Increase	your	Intelligence,	Wisdom,	or	Charisma score	by	1,	to	a	maximum	of	20.
+**Bypass	Cover.**: Your	Attack	Rolls for	Spells ignore	Half	Cover	and	Three-Quarters	Cover. Casting in	Melee. Being	within	5	feet	of	an	enemy doesn’t	impose	Disadvantage	on	your	Attack	Rolls with	Spells.
+**Increased	Range.**:: When	you	cast	a	Spell	that	has	 a	range	of	at	least	10	feet	and	that	requires	you	 to	make	an	Attack	Roll,	you	can	increase	the	Spell’s	range	by	60	feet.
+
+### War Caster
+*4th-Level	Feat*
+**Prerequisite:**::	Spellcasting	or	Pact	Magic	Feature
+**Repeatable:**:: No
+You	have	practiced	casting	spells	in	the	midst	of	combat,	granting you	the	following	benefits:
+**Ability	Score	Increase.**::	Increase	your Intelligence,	Wisdom,	or	Charisma score	by	1,	to	a	maximum	of	20.
+**Concentration.**::	You	have	Advantage	on	Constitution	Saving	Throws that	you	make	to	maintain	your	Concentration.
+**Reactive	Spell.**::	When	a	creature	provokes	an	Opportunity	Attack	from	you by	moving	out	of	your	Reach,	you	can	use	your	Reaction	to	cast	a	Spell	at	the	creature,	rather	than	making	an	Opportunity	Attack.	The	Spell	must	have	a	casting	time	of	one	Action and	must	target	only	that	creature.
+**Somatic	Components.**:: You	can	perform	the	Somatic	Components	of	Spells	even	when	you	have	Weapons	or	a	Shield	in	one	or	both	hands.
+
+### Weapon Training
+*4th-Level	Feat*
+**Prerequisite:**::	None
+**Repeatable:**:: No
+You	have	practiced	extensively	with	a	variety	of	weapons,	gaining	the	following	benefits:
+**Ability	Score	Increase.**::	Increase	your	Strength	or	Dexterity	score	by	1,	to	a	maximum	of	20.
+**Weapon	Proficiency.**:: You	gain	Martial	Weapon	Proficiency.
+
+### Epic Boon of Combat Prowess
+*20th-Level	Feat*
+**Prerequisite:** ::	Expert	or	Warrior	Group
+**Repeatable:** :: No
+When	you	miss	with	a	Melee	Attack,	you	can	hit	
+instead.	Once	you	use	this	benefit,	you	can’t	use	
+it	again	until	you	roll	Initiative.
+
+### Epic Boon of Dimensional Travel
+*20th-Level	Feat*
+**Prerequisite:**::	Expert	or	Mage	Group
+**Repeatable:**:: No
+You	can	cast the	Misty	Step Spell	without	
+expending a	Spell	Slot.	Once	you	use	this	benefit,	
+you	can’t	use	it	again	until	you	roll	Initiative	or	
+finish	a	Short	Rest	or	a	Long	Rest.
+
+### Epic Boon of Energy Resistance
+*20th-Level	Feat*
+**Prerequisite:**::	Expert	or	Mage	Group
+**Repeatable:**:: No
+You	gain	Resistance	to	one	of	the	following	
+Damage	Types	of	your	choice:	Acid,	Cold,	Fire,	
+Lightning,	Necrotic,	Poison,	Psychic,	Radiant,	or	
+Thunder.
+Whenever	you	finish	a	Short	Rest	or	a	Long	
+Rest,	you	can	meditate	and	change	that	Damage	
+Type	choice.
+
+### Epic Boon of Fortitude
+*20th-Level	Feat*
+**Prerequisite:**::	None
+**Repeatable:**:: No
+Your	Hit	Point	Maximum	increases	by	40.	In	
+addition,	whenever	you	regain	Hit	Points,	you	
+regain	additional	Hit	Points	equal	to	your	
+Constitution	Modifier.	You	can	regain	these	
+additional Hit	Points	no	more	than	once	per	
+round.
+
+{{pageNumber 35}}
+{{footnote PART 1 | FEATS}}
+\page
+### Epic Boon of Irresistible Offense
+*20th-Level	Feat*
+**Prerequisite:** ::	Expert	or	Warrior	Group
+**Repeatable:** :: No
+The	damage	you	deal	always	ignores	Resistance.
+
+### Epic Boon of Luck
+*20th-Level	Feat*
+**Prerequisite:** ::	Expert	Group
+**Repeatable:** :: No
+Immediately	after	you	roll	a d20	for	a	d20	Test,	
+you	can	roll	a	d10	and	add	the	number	rolled	to	
+the	test.	Once	you	use	this	benefit,	you	can’t	use	
+it	again	until	you	roll	Initiative	or	finish	a	Short	
+Rest	or	a	Long	Rest.
+
+### Epic Boon of the Night Spirit
+*20th-Level	Feat*
+**Prerequisite:** ::	Expert	or	Mage	Group
+**Repeatable:** :: No
+While	within Dim	Light	or	Darkness,	you	can	
+become	Invisible as	an	Action.	You	remain	
+Invisible until	immediately	after	you	take	an	
+Action	or	a	Reaction.
+
+### Epic Boon of Peerless Aim
+*20th-Level	Feat*
+**Prerequisite:** ::	Expert	or	Warrior	Group
+**Repeatable:** :: No
+If	you	make a	Ranged	Attack	against	a	target	in	
+range	and	miss,	you	can	cause	the	attack	to	hit	
+instead.	Once	you	use	this	benefit,	you	can’t	use	
+it	again	until	you	roll	Initiative.
+
+### Epic Boon of Recovery
+*20th-Level	Feat*
+**Prerequisite:** ::	None
+**Repeatable:** :: No
+You	can	use	a	Bonus	Action	to	regain	a	number	
+of	Hit	Points	equal	to	half	your	Hit	Point	
+Maximum.	Once	you	use	this	benefit,	you	can’t	
+use	it	again	until	you	finish	a	Long	Rest.
+In	addition,	you	succeed	on	every	Death	Saving	
+Throw	that	isn’t	a	roll	of	1.
+
+### Epic Boon of Skill Proficiency
+*20th-Level	Feat*
+**Prerequisite:** ::	None
+**Repeatable:** :: No
+You	gain	Proficiency	in	all	Skills.
+
+:::
+### Epic Boon of Speed
+20th-Level	Feat
+**Prerequisite:** ::	Expert	or	Warrior	Group
+**Repeatable:** :: No
+Your	Speed	increases	by	30	feet.
+
+### Epic Boon of Undetectability
+*20th-Level	Feat*
+**Prerequisite:** ::	Expert	Group
+**Repeatable:** :: No
+You	can’t	be	seen	or	heard	by	any	means—
+magical	or	nonmagical—while	you	are	Hidden.
+
+### Epic Boon of Unfettered
+*20th-Level	Feat*
+**Prerequisite:** ::	Expert	or	Warrior	Group
+**Repeatable:** :: No
+As	a	Bonus	Action,	you	can take	the	Disengage	
+Action,	which also	ends	the	Grappled and the	
+Restrained	Conditions on	you.
+
+{{pageNumber 36}}
+{{footnote PART 1 | FEATS}}
+\page
+# Spells
+This chapter details the core set of spells.
+There are three core	Spell	types:	Arcane,	
+Divine,	and	Primal. 
+
+#### Arcane Spells
+An	Arcane	Spell	draws	on	the	ambient	magic	of	
+the	multiverse.	Bards,	Sorcerers,	Warlocks,	and	
+Wizards	harness	this	magic,	as	do	Artificers.	For	
+a	partial	list	of	Arcane	Spells,	see	“Spell	Lists”	
+below.
+
+#### Divine Spells
+A	Divine	Spell	draws	on	the	power	of	gods	and	
+the	Outer	Planes.	Clerics	and	Paladins	harness	
+this	magic.	For	a	partial	list	of	Divine	Spells,	see	
+	“Spell	Lists”	below.
+
+#### Primal Spells
+A	Primal	Spell	draws	on	the forces	of	nature	and	
+the	Inner	Planes.	Druids	and	Rangers	harness	
+this	magic.	For	a	partial	list	of	Primal	Spells,	see	
+	“Spell Lists”	below.
+
+### Spell Lists
+Each	list	provides	a	Spell’s	
+level *(Cantrips are listed as level 0)*{color:#D35400},	name, and	School	of	Magic.	The	list	also	
+indicates	whether	a	Spell	has	the	Ritual	tag.
+
+##### Arcane Spells
+| Level | Spell | School | Ritual |
+|:------|:---------------|:------------|:---|
+| 0     | Acid Splash    | Conjuration | No |
+| 0 | Blade Ward  | Abjuration | No |
+| 0 | Chill Touch  | Necromancy | No |
+| 0 | Dancing Lights | Illusion | No |
+| 0 | Fire Bolt  | Evocation | No |
+| 0 | Friends  | Enchantment | No |
+| 0 | Light  | Evocation | No |
+| 0 | Mage Hand  | Conjuration | No |
+| 0 | Mending | Transmutation | No |
+| 0 | Message | Transmutation | No |
+| 0 | Minor Illusion  | Illusion | No |
+| 0 | Poison Spray  | Conjuration | No |
+| 0 | Prestidigitation | Transmutation | No |
+| 0 | Ray of Frost  | Evocation | No |
+| 0 | Shocking Grasp  | Evocation | No |
+| 0 | True Strike  | Divination | No |
+| 0 | Vicious Mockery  | Enchantment | No |
+| 1 | Alarm  | Abjuration | Yes |
+| 1 | Armor of Agathys  | Abjuration | No |
+| 1 | Arms of Hadar  | Conjuration | No |
+| 1 | Burning Hands  | Evocation | No |
+| 1 | Charm Person  | Enchantment | No |
+| 1 | Chromatic Orb  | Evocation | No |
+
+| Level | Spell | School | Ritual |
+|:------|:---------------|:------------|:---|
+| 1 | Color Spray  | Illusion | No |
+| 1 | Comprehend Languages  | Divination | Yes |
+| 1 | Detect Magic  | Divination | Yes |
+| 1 | Disguise Self  | Illusion | No |
+| 1 | Dissonant Whispers  | Enchantment | No |
+| 1 | Expeditious Retreat | Transmutation | No |
+| 1 | False Life  | Necromancy | No |
+| 1 | Feather Fall | Transmutation | No |
+| 1 | Find Familiar  | Conjuration | Yes |
+| 1 | Fog Cloud  | Conjuration | No |
+| 1 | Grease  | Conjuration | No |
+| 1 | Hellish Rebuke  | Evocation | No |
+| 1 | Hex  | Enchantment | No |
+| 1 | Identify  | Divination | Yes |
+| 1 | Illusory Script  | Illusion | Yes |
+| 1 | Jump | Transmutation | No |
+| 1 | Longstrider | Transmutation | No |
+| 1 | Mage Armor  | Abjuration | No |
+| 1 | Magic Missile  | Evocation | No |
+| 1 | Protection from Evil and Good  | Abjuration | No |
+| 1 | Ray of Sickness  | Necromancy | No |
+| 1 | Shield  | Abjuration | No |
+| 1 | Silent Image  | Illusion | No |
+| 1 | Sleep  | Enchantment | No |
+| 1 | Tasha’s Hideous Laughter  | Enchantment | No |
+| 1 | Tenser’s Floating Disk  | Conjuration | Yes |
+| 1 | Thunderwave | Transmutation | No |
+| 1 | Unseen Servant  | Conjuration | Yes |
+| 1 | Witch Bolt  | Evocation | No |
+| 2 | Alter Self | Transmutation | No |
+| 2 | Arcane Lock  | Abjuration | No |
+| 2 | Blindness/Deafness | Transmutation | No |
+| 2 | Blur  | Illusion | No |
+| 2 | Calm Emotions  | Enchantment | No |
+| 2 | Cloud of Daggers  | Conjuration | No |
+| 2 | Continual Flame  | Evocation | No |
+| 2 | Crown of Madness  | Enchantment | No |
+| 2 | Darkness  | Evocation | No |
+| 2 | Darkvision | Transmutation | No |
+| 2 | Detect Thoughts  | Divination | No |
+| 2 | Enlarge/Reduce | Transmutation | No |
+| 2 | Enthrall  | Enchantment | No |
+| 2 | Flaming Sphere | Evocation | No |
+| 2 | Gust of Wind  | Evocation | No |
+| 2 | Hold Person  | Enchantment | No |
+| 2 | Invisibility  | Illusion | No |
+| 2 | Knock | Transmutation | No |
+| 2 | Levitate | Transmutation | No |
+| 2 | Locate Object  | Divination | No |
+| 2 | Magic Aura  | Illusion | No |
+
+{{pageNumber 37}}
+{{footnote PART 3 | SPELLS}}
+\page
+| Level | Spell | School | Ritual |
+|:------|:---------------|:------------|:---|
+| 2 | Magic Mouth  | Illusion | Yes |
+| 2 | Magic Weapon | Transmutation | No |
+| 2 | Melf’s Acid Arrow  | Evocation | No |
+| 2 | Mirror Image  | Illusion | No |
+| 2 | Misty Step  | Conjuration | No |
+| 2 | Phantasmal Force  | Illusion | No |
+| 2 | Ray of Enfeeblement  | Necromancy | No |
+| 2 | Rope Trick | Transmutation | No |
+| 2 | Scorching Ray  | Evocation | No |
+| 2 | See Invisibility  | Divination | No |
+| 2 | Shatter | Transmutation | No |
+| 2 | Spider Climb | Transmutation | No |
+| 2 | Suggestion  | Enchantment | No |
+| 2 | Web  | Conjuration | No |
+| 3 | Animate Dead  | Necromancy | No |
+| 3 | Bestow Curse  | Necromancy | No |
+| 3 | Blink | Transmutation | No |
+| 3 | Clairvoyance  | Divination | No |
+| 3 | Counterspell  | Abjuration | No |
+| 3 | Dispel Magic  | Abjuration | No |
+| 3 | Fear  | Illusion | No |
+| 3 | Fireball  | Evocation | No |
+| 3 | Fly | Transmutation | No |
+| 3 | Gaseous Form | Transmutation | No |
+| 3 | Glyph of Warding  | Abjuration | No |
+| 3 | Haste | Transmutation | No |
+| 3 | Hunger of Hadar  | Conjuration | No |
+| 3 | Hypnotic Pattern  | Illusion | No |
+| 3 | Leomund’s Tiny Hut  | Evocation | Yes |
+| 3 | Lightning Bolt  | Evocation | No |
+| 3 | Magic Circle  | Abjuration | No |
+| 3 | Major Image  | Illusion | No |
+| 3 | Nondetection  | Abjuration | No |
+| 3 | Phantom Steed  | Illusion | Yes |
+| 3 | Protection from Energy  | Abjuration | No |
+| 3 | Remove Curse  | Abjuration | No |
+| 3 | Sending | Divination | No |
+| 3 | Sleet Storm  | Conjuration | No |
+| 3 | Slow | Transmutation | No |
+| 3 | Stinking Cloud  | Conjuration | No |
+| 3 | Tongues  | Divination | No |
+| 3 | Vampiric Touch  | Necromancy | No |
+| 3 | Water Breathing | Transmutation | Yes |
+| 4 | Arcane Eye  | Divination | No |
+| 4 | Banishment  | Abjuration | No |
+| 4 | Blight  | Necromancy | No |
+| 4 | Compulsion  | Enchantment | No |
+| 4 | Confusion  | Enchantment | No |
+| 4 | Conjure Minor Elementals  | Conjuration | No |
+| 4 | Control Water | Transmutation | No |
+| 4 | Dimension Door  | Conjuration | No |
+| 4 | Evard’s Black Tentacles  | Conjuration | No |
+
+| Level | Spell | School | Ritual |
+|:------|:---------------|:------------|:---|
+| 4 | Fabricate | Transmutation | No |
+| 4 | Fire Shield  | Evocation | No |
+| 4 | Greater Invisibility  | Illusion | No |
+| 4 | Hallucinatory Terrain  | Illusion | No |
+| 4 | Ice Storm  | Evocation | No |
+| 4 | Leomund’s Secret Chest  | Conjuration | No |
+| 4 | Locate Creature  | Divination | No |
+| 4 | Mordenkainen’s Faithful Hound  | Conjuration | No |
+| 4 | Mordenkainen’s Private Sanctum  | Abjuration | No |
+| 4 | Otiluke’s Resilient Sphere  | Evocation | No |
+| 4 | Phantasmal Killer  | Illusion | No |
+| 4 | Polymorph | Transmutation | No |
+| 4 | Stone Shape | Transmutation | No |
+| 4 | Stoneskin | Transmutation | No |
+| 4 | Wall of Fire  | Evocation | No |
+| 5 | Animate Objects | Transmutation | No |
+| 5 | Bigby’s Hand  | Evocation | No |
+| 5 | Cloudkill  | Conjuration | No |
+| 5 | Cone of Cold  | Evocation | No |
+| 5 | Conjure Elemental  | Conjuration | No |
+| 5 | Contact Other Plane  | Divination | Yes |
+| 5 | Creation  | Illusion | No |
+| 5 | Dominate Person  | Enchantment | No |
+| 5 | Dream  | Illusion | No |
+| 5 | Geas  | Enchantment | No |
+| 5 | Hold Monster  | Enchantment | No |
+| 5 | Legend Lore  | Divination | No |
+| 5 | Mislead  | Illusion | No |
+| 5 | Modify Memory  | Enchantment | No |
+| 5 | Passwall | Transmutation | No |
+| 5 | Planar Binding  | Abjuration | No |
+| 5 | Rary’s Telepathic Bond  | Divination | Yes |
+| 5 | Scrying  | Divination | No |
+| 5 | Seeming  | Illusion | No |
+| 5 | Telekinesis | Transmutation | No |
+| 5 | Teleportation Circle  | Conjuration | No |
+| 5 | Wall of Force  | Evocation | No |
+| 5 | Wall of Stone  | Evocation | No |
+| 6 | Arcane Gate  | Conjuration | No |
+| 6 | Chain Lightning  | Evocation | No |
+| 6 | Circle of Death  | Necromancy | No |
+| 6 | Contingency | Abjuration | No |
+| 6 | Create Undead  | Necromancy | No |
+| 6 | Disintegrate | Transmutation | No |
+| 6 | Eyebite  | Necromancy | No |
+| 6 | Flesh to Stone | Transmutation | No |
+| 6 | Globe of Invulnerability  | Abjuration | No |
+| 6 | Guards and Wards  | Abjuration | No |
+| 6 | Instant Summons  | Conjuration | Yes |
+| 6 | Magic Jar  | Necromancy | No |
+| 6 | Mass Suggestion  | Enchantment | No |
+
+{{pageNumber 38}}
+{{footnote PART 3 | SPELLS}}
+\page
+| Level | Spell | School | Ritual |
+|:------|:---------------|:------------|:---|
+| 6 | Move Earth | Transmutation | No |
+| 6 | Otiluke’s Freezing Sphere  | Evocation | No |
+| 6 | Otto’s Irresistible Dance  | Enchantment | No |
+| 6 | Programmed Illusion  | Illusion | No |
+| 6 | Sunbeam  | Evocation | No |
+| 6 | True Seeing  | Divination | No |
+| 6 | Wall of Ice  | Evocation | No |
+| 7 | Delayed Blast Fireball  | Evocation | No |
+| 7 | Etherealness | Transmutation | No |
+| 7 | Finger of Death  | Necromancy | No |
+| 7 | Forcecage  | Evocation | No |
+| 7 | Mirage Arcane  | Illusion | No |
+| 7 | Mordenkainen’s Magnificent Mansion  | Conjuration | No |
+| 7 | Mordenkainen’s Sword  | Evocation | No |
+| 7 | Plane Shift  | Conjuration | No |
+| 7 | Prismatic Spray  | Evocation | No |
+| 7 | Project Image  | Illusion | No |
+| 7 | Reverse Gravity | Transmutation | No |
+| 7 | Sequester | Transmutation | No |
+| 7 | Simulacrum  | Illusion | No |
+| 7 | Symbol  | Abjuration | No |
+| 7 | Teleport  | Conjuration | No |
+| 8 | Antimagic Field  | Abjuration | No |
+| 8 | Antipathy/Sympathy  | Enchantment | No |
+| 8 | Clone  | Necromancy | No |
+| 8 | Control Weather | Transmutation | No |
+| 8 | Demiplane  | Conjuration | No |
+| 8 | Dominate Monster  | Enchantment | No |
+| 8 | Feeblemind  | Enchantment | No |
+| 8 | Glibness | Enchantment | No |
+| 8 | Incendiary Cloud  | Conjuration | No |
+| 8 | Maze  | Conjuration | No |
+| 8 | Mind Blank  | Abjuration | No |
+| 8 | Power Word Stun  | Enchantment | No |
+| 8 | Sunburst  | Evocation | No |
+| 8 | Telepathy | Divination | No |
+| 9 | Astral Projection  | Necromancy | No |
+| 9 | Foresight  | Divination | No |
+| 9 | Gate  | Conjuration | No |
+| 9 | Imprisonment  | Abjuration | No |
+| 9 | Meteor Swarm  | Evocation | No |
+| 9 | Power Word Kill  | Enchantment | No |
+| 9 | Prismatic Wall  | Abjuration | No |
+| 9 | Shapechange | Transmutation | No |
+| 9 | Time Stop | Transmutation | No |
+| 9 | True Polymorph | Transmutation | No |
+| 9 | Weird  | Illusion | No |
+| 9 | Wish  | Conjuration | No |
+
+{{pageNumber 39}}
+{{footnote PART 3 | SPELLS}}
+\column
+
+##### Divine Spells
+| Level | Spell | School | Ritual |
+|:------|:---------------|:------------|:---|
+| 0 | Guidance  | Divination | No |
+| 0 | Light  | Evocation | No |
+| 0 | Resistance  | Abjuration | No |
+| 0 | Sacred Flame  | Evocation | No |
+| 0 | Spare the Dying  | Necromancy | No |
+| 0 | Thaumaturgy  | Transmutation | No |
+| 1 | Bane  | Enchantment | No |
+| 1 | Bless  | Enchantment | No |
+| 1 | Command  | Enchantment | No |
+| 1 | Compelled Duel  | Enchantment | No |
+| 1 | Cure Wounds  | Abjuration | No |
+| 1 | Detect Evil and Good  | Divination | No |
+| 1 | Detect Magic  | Divination | Yes |
+| 1 | Detect Poison and Disease  | Divination | Yes |
+| 1 | Divine Favor  | Evocation | No |
+| 1 | Guiding Bolt  | Evocation | No |
+| 1 | Healing Word  | Abjuration | No |
+| 1 | Heroism  | Enchantment | No |
+| 1 | Inflict Wounds  | Necromancy | No |
+| 1 | Protection from Evil and Good  | Abjuration | No |
+| 1 | Purify Food and Drink  | Transmutation | Yes |
+| 1 | Sanctuary  | Abjuration | No |
+| 1 | Searing Smite  | Evocation | No |
+| 1 | Shield of Faith  | Abjuration | No |
+| 1 | Thunderous Smite  | Evocation | No |
+| 1 | Wrathful Smite  | Evocation | No |
+| 2 | Aid  | Abjuration | No |
+| 2 | Augury  | Divination | Yes |
+| 2 | Blindness/ Deafness  | Transmutation | No |
+| 2 | Branding Smite  | Evocation | No |
+| 2 | Calm Emotions  | Enchantment | No |
+| 2 | Find Steed  | Conjuration | No |
+| 2 | Find Traps  | Divination | No |
+| 2 | Gentle Repose  | Necromancy | Yes |
+| 2 | Hold Person  | Enchantment | No |
+| 2 | Lesser Restoration  | Abjuration | No |
+| 2 | Locate Object  | Divination | No |
+| 2 | Magic Weapon  | Transmutation | No |
+| 2 | Prayer of Healing  | Abjuration | No |
+| 2 | Protection from Poison  | Abjuration | No |
+| 2 | Silence  | Illusion | Yes |
+| 2 | Spiritual Weapon  | Evocation | No |
+| 2 | Warding Bond  | Abjuration | No |
+| 2 | Zone of Truth  | Enchantment | No |
+| 3 | Aura of Vitality  | Abjuration | No |
+| 3 | Beacon of Hope  | Abjuration | No |
+| 3 | Blinding Smite  | Evocation | No |
+| 3 | Clairvoyance  | Divination | No |
+| 3 | Create Food and Water  | Conjuration | No |
+| 3 | Crusader’s Mantle  | Evocation | No |
+| 3 | Daylight  | Evocation | No |
+
+{{pageNumber 40}}
+{{footnote PART 3 | SPELLS}}
+\page
+| Level | Spell | School | Ritual |
+|:------|:---------------|:------------|:---|
+| 3 | Dispel Magic  | Abjuration | No |
+| 3 | Feign Death  | Necromancy | Yes |
+| 3 | Glyph of Warding  | Abjuration | No |
+| 3 | Magic Circle  | Abjuration | No |
+| 3 | Mass Healing Word  | Abjuration | No |
+| 3 | Remove Curse  | Abjuration | No |
+| 3 | Revivify  | Necromancy | No |
+| 3 | Speak with Dead  | Necromancy | No |
+| 3 | Spirit Guardians  | Conjuration | No |
+| 3 | Tongues  | Divination | No |
+| 4 | Aura of Life  | Abjuration | No |
+| 4 | Aura of Purity  | Abjuration | No |
+| 4 | Banishment  | Abjuration | No |
+| 4 | Death Ward  | Abjuration | No |
+| 4 | Divination  | Divination | Yes |
+| 4 | Freedom of Movement  | Abjuration | No |
+| 4 | Guardian of Faith  | Abjuration | No |
+| 4 | Locate Creature  | Divination | No |
+| 4 | Staggering Smite  | Evocation | No |
+| 5 | Banishing Smite  | Abjuration | No |
+| 5 | Circle of Power  | Abjuration | No |
+| 5 | Commune  | Divination | Yes |
+| 5 | Contagion  | Necromancy | No |
+| 5 | Destructive Wave  | Evocation | No |
+| 5 | Dispel Evil and Good  | Abjuration | No |
+| 5 | Flame Strike  | Evocation | No |
+| 5 | Geas  | Enchantment | No |
+| 5 | Greater Restoration  | Abjuration | No |
+| 5 | Hallow  | Abjuration | No |
+| 5 | Legend Lore  | Divination | No |
+| 5 | Mass Cure Wounds  | Abjuration | No |
+| 5 | Planar Binding  | Abjuration | No |
+| 5 | Raise Dead  | Necromancy | No |
+| 5 | Scrying  | Divination | No |
+| 6 | Blade Barrier  | Evocation | No |
+| 6 | Find the Path  | Divination | No |
+| 6 | Forbiddance  | Abjuration | Yes |
+| 6 | Harm  | Necromancy | No |
+| 6 | Heal  | Abjuration | No |
+| 6 | Heroes’ Feast  | Conjuration | No |
+| 6 | Planar Ally  | Conjuration | No |
+| 6 | Sunbeam  | Evocation | No |
+| 6 | True Seeing  | Divination | No |
+| 6 | Word of Recall  | Conjuration | No |
+| 7 | Conjure Celestial  | Conjuration | No |
+| 7 | Divine Word  | Evocation | No |
+| 7 | Etherealness  | Transmutation | No |
+| 7 | Plane Shift  | Conjuration | No |
+| 7 | Regenerate | Transmutation | No |
+| 7 | Resurrection  | Necromancy | No |
+| 7 | Symbol  | Abjuration | No |
+
+| Level | Spell | School | Ritual |
+|:------|:---------------|:------------|:---|
+| 8 | Antimagic Field  | Abjuration | No |
+| 8 | Antipathy/ Sympathy | Enchantment | - |
+| 8 | Holy Aura  | Abjuration | No |
+| 8 | Sunburst  | Evocation | No |
+| 9 | Astral Projection  | Necromancy | No |
+| 9 | Foresight  | Divination | No |
+| 9 | Gate  | Conjuration | No |
+| 9 | Mass Heal  | Abjuration | No |
+| 9 | Power Word Heal  | Abjuration | No |
+| 9 | True Resurrection  | Necromancy | No |
+
+##### Primal Spells
+| Level | Spell | School | Ritual |
+|:------|:---------------|:------------|:---|
+| 0 | Druidcraft  | Transmutation | No |
+| 0 | Guidance  | Divination | No |
+| 0 | Mending  | Transmutation | No |
+| 0 | Message  | Transmutation | No |
+| 0 | Poison Spray  | Conjuration | No |
+| 0 | Produce Flame  | Evocation | No |
+| 0 | Resistance  | Abjuration | No |
+| 0 | Shillelagh  | Transmutation | No |
+| 0 | Spare the Dying  | Necromancy | No |
+| 0 | Thorn Whip  | Transmutation | No |
+| 1 | Animal Friendship  | Enchantment | No |
+| 1 | Create or Destroy Water  | Transmutation | No |
+| 1 | Cure Wounds  | Abjuration | No |
+| 1 | Detect Magic  | Divination | Yes |
+| 1 | Detect Poison and Disease  | Divination | Yes |
+| 1 | Ensnaring Strike  | Conjuration | No |
+| 1 | Entangle  | Conjuration | No |
+| 1 | Faerie Fire  | Evocation | No |
+| 1 | Fog Cloud  | Conjuration | No |
+| 1 | Goodberry  | Transmutation | No |
+| 1 | Hail of Thorns  | Conjuration | No |
+| 1 | Healing Word  | Abjuration | No |
+| 1 | Hunter’s Mark  | Divination | No |
+| 1 | Jump  | Transmutation | No |
+| 1 | Longstrider  | Transmutation | No |
+| 1 | Purify Food and Drink  | Transmutation | Yes |
+| 1 | Speak with Animals  | Divination | Yes |
+| 1 | Thunderwave  | Transmutation | No |
+| 2 | Animal Messenger  | Enchantment | Yes |
+| 2 | Augury  | Divination | Yes |
+| 2 | Barkskin  | Transmutation | No |
+| 2 | Beast Sense  | Divination | Yes |
+| 2 | Cordon of Arrows  | Transmutation | No |
+| 2 | Darkvision  | Transmutation | No |
+| 2 | Enhance Ability  | Transmutation | No |
+| 2 | Enlarge/Reduce  | Transmutation | No |
+| 2 | Find Traps  | Divination | No |
+| 2 | Flame Blade  | Evocation | No |
+| 2 | Flaming Sphere  | Evocation | No |
+
+{{pageNumber 41}}
+{{footnote PART 3 | SPELLS}}
+\page
+| Level | Spell | School | Ritual |
+|:------|:---------------|:------------|:---|
+| 2 | Gentle Repose  | Necromancy | Yes |
+| 2 | Gust of Wind  | Evocation | No |
+| 2 | Heat Metal  | Transmutation | No |
+| 2 | Lesser Restoration  | Abjuration | No |
+| 2 | Locate Animals or Plants  | Divination | Yes |
+| 2 | Locate Object  | Divination | No |
+| 2 | Moonbeam  | Evocation | No |
+| 2 | Pass without Trace  | Abjuration | No |
+| 2 | Protection from Poison  | Abjuration | No |
+| 2 | Silence  | Illusion | Yes |
+| 2 | Spike Growth  | Transmutation | No |
+| 3 | Call Lightning  | Conjuration | No |
+| 3 | Conjure Animals  | Conjuration | No |
+| 3 | Conjure Barrage  | Conjuration | No |
+| 3 | Daylight  | Evocation | No |
+| 3 | Dispel Magic  | Abjuration | No |
+| 3 | Elemental Weapon  | Transmutation | No |
+| 3 | Feign Death  | Necromancy | Yes |
+| 3 | Lightning Arrow  | Transmutation | No |
+| 3 | Mass Healing Word  | Abjuration | No |
+| 3 | Meld into Stone  | Transmutation | Yes |
+| 3 | Nondetection  | Abjuration | No |
+| 3 | Plant Growth  | Transmutation | No |
+| 3 | Protection from Energy  | Abjuration | No |
+| 3 | Revivify  | Necromancy | No |
+| 3 | Sleet Storm  | Conjuration | No |
+| 3 | Speak with Plants  | Transmutation | No |
+| 3 | Water Breathing  | Transmutation | Yes |
+| 3 | Water Walk  | Transmutation | Yes |
+| 3 | Wind Wall  | Evocation | No |
+| 4 | Conjure Minor Elementals  | Conjuration | No |
+| 4 | Conjure Woodland Beings  | Conjuration | No |
+| 4 | Control Water  | Transmutation | No |
+| 4 | Dominate Beast  | Enchantment | No |
+| 4 | Freedom of Movement  | Abjuration | No |
+| 4 | Giant Insect  | Transmutation | No |
+| 4 | Grasping Vine  | Conjuration | No |
+| 4 | Ice Storm  | Evocation | No |
+| 4 | Locate Creature  | Divination | No |
+| 4 | Polymorph  | Transmutation | No |
+| 4 | Stone Shape  | Transmutation | No |
+| 4 | Stoneskin  | Transmutation | No |
+| 4 | Wall of Fire  | Evocation | No |
+| 5 | Antilife Shell  | Abjuration | No |
+| 5 | Awaken  | Transmutation | No |
+| 5 | Commune with Nature  | Divination | Yes |
+| 5 | Conjure Elemental  | Conjuration | No |
+| 5 | Conjure Volley  | Conjuration | No |
+| 5 | Greater Restoration  | Abjuration | No |
+| 5 | Insect Plague  | Conjuration | No |
+| 5 | Mass Cure Wounds  | Abjuration | No |
+| 5 | Reincarnate  | Necromancy | No |
+
+| Level | Spell | School | Ritual |
+|:------|:---------------|:------------|:---|
+| 5 | Scrying  | Divination | No |
+| 5 | Swift Quiver  | Transmutation | No |
+| 5 | Tree Stride  | Conjuration | No |
+| 5 | Wall of Stone  | Evocation | No |
+| 6 | Conjure Fey  | Conjuration | No |
+| 6 | Find the Path  | Divination | No |
+| 6 | Heal | Abjuration | No |
+| 6 | Move Earth  | Transmutation | No |
+| 6 | Sunbeam  | Evocation | No |
+| 6 | Transport via Plants  | Conjuration | No |
+| 6 | Wall of Ice  | Evocation | No |
+| 6 | Wall of Thorns  | Conjuration | No |
+| 6 | Wind Walk  | Transmutation | No |
+| 7 | Fire Storm  | Evocation | No |
+| 7 | Regenerate  | Transmutation | No |
+| 7 | Reverse Gravity  | Transmutation | No |
+| 8 | Animal Shapes  | Transmutation | No |
+| 8 | Control Weather  | Transmutation | No |
+| 8 | Earthquake  | Transmutation | No |
+| 8 | Sunburst  | Evocation | No |
+| 8 | Tsunami  | Conjuration | No |
+| 9 | Power Word Heal  | Abjuration | No |
+| 9 | Shapechange  | Transmutation | No |
+| 9 | Storm of Vengeance  | Conjuration | No |
+| 9 | True Resurrection  | Necromancy | No |
+
+{{pageNumber 42}}
+{{footnote PART 3 | SPELLS}}
+
+\page
+## Spell Descriptions
+The spells are presented in alphabetical order.
+
+#### Barksin
+*2nd-level Transmutation	Spell	(Primal)*
+**Casting Time:** :: Bonus Action
+**Range:**        :: Touch
+**Components:**   :: V, S, M (a	handful	of	bark)
+**Duration:**     :: Concentration,	up	to	1	hour
+You	touch one willing	creature to	protect	it with	
+regenerating	bark.	Until	the	Spell ends,	the	
+target’s	skin	assumes	a	bark-like	appearance,	
+and	at	the	start	of	each of	the	target’s	turns,	the	
+target	gains	a	number	of	Temporary	Hit	Points	
+equal	to	your	Spellcasting	Ability	Modifier	plus	
+your	Proficiency	Bonus.
+
+**At	Higher	Levels.** When	you	cast	this	Spell	
+using	a	Spell	Slot	of	3rd level	or	higher,	you	can	
+target one	additional	willing	creature	for	each	
+slot	level	above	2nd.
+
+#### Guidance
+*Cantrip Divination	Spell	(Divine,	Primal)*
+**Casting Time:** :: Reaction,	which	you	take	in response	to	you	or	an	ally within	30	feet	of	you failing	an	Ability	Check	
+**Range:**        :: 30 feet
+**Components:**   :: V,	S
+**Duration:**     :: Instantaneous
+You	channel	magical	insight	to	the	creature	who	
+failed	the	Ability	Check.	That	creature	can	roll	a d4	and	add	the	number	rolled	to	the	check,	
+potentially	turning	it	into	a	success.
+
+Once	a	creature	rolls	the	die	for	this	Spell,	that	
+creature	can’t	benefit	from	the	Spell again	until	
+the	creature	finishes a	Long	Rest.
+
+
+{{pageNumber 43}}
+{{footnote PART 3 | SPELLS}}
