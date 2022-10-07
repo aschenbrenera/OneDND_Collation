@@ -2,62 +2,66 @@
 {{toc,wide
 # Table Of Contents
 
-- ## [{{ Part 1}}{{ 1}}](#p2)
-- ### [{{ One D&D Playtest Collation}}{{ 1}}](#p2)
-  - #### [{{ Legal Stuff}}{{ 1}}](#p2)
-  - #### [{{ What to expect}}{{ 1}}](#p2)
-  - #### [{{ Contact me}}{{ 1}}](#p2)
-  - #### [{{ Coming Soon}}{{ 1}}](#p2)
-  - #### [{{ How to use this Document}}{{ 1}}](#p2)
-- ### [{{ Build a Character Guide}}{{ 2}}](#p3)
-- ### [{{ Classes}}{{ 4}}](#p5)
-  - #### [{{ Bard}}{{ 5}}](#p6)
-  - #### [{{ Ranger}}{{ 9}}](#p10)
-  - #### [{{ Rogue}}{{ 13}}](#p14)
-- ### [{{ Races}}{{ 17}}](#p18)
-  - #### [{{ Human}}{{ 17}}](#p18)
-  - #### [{{ Dwarf}}{{ 18}}](#p19)
-  - #### [{{ Elf}}{{ 18}}](#p19)
-  - #### [{{ Gnome}}{{ 19}}](#p20)
-  - #### [{{ Halfling}}{{ 20}}](#p21)
-  - #### [{{ Orc}}{{ 20}}](#p21)
-  - #### [{{ Ardling}}{{ 21}}](#p22)
-  - #### [{{ Dragonborn}}{{ 22}}](#p23)
-  - #### [{{ Tiefling}}{{ 23}}](#p24)
-- ### [{{ Backgrounds}}{{ 24}}](#p25)
-  - #### [{{ Languages}}{{ 24}}](#p26)
-  - #### [{{ Sample Backgrounds}}{{ 25}}](#p26)
-- ### [{{ Feats}}{{ 29}}](#p30)
-- ### [{{ Equipment}}{{ 37}}](#p38)
-  - #### [{{ Armor}}{{ 37}}](#p38)
-  - #### [{{ Weapons}}{{ 38}}](#p39)
-  - #### [{{ Tools}}{{ 39}}](#p40)
+
+- ### [{{ One D&D Playtest Collation}}{{ 2}}](#p2)
+  - #### [{{ Legal Stuff}}{{ 2}}](#p2)
+  - #### [{{ What to expect}}{{ 2}}](#p2)
+  - #### [{{ Contact me}}{{ 2}}](#p2)
+  - #### [{{ Coming Soon}}{{ 2}}](#p2)
+  - #### [{{ How to use this Document}}{{ 2}}](#p2)
+	:
+- ## [{{ Part 1}}{{ 2}}](#p2)
+- ### [{{ Build a Character}}{{ 2}}](#p2)
+- ### [{{ Classes}}{{ 4}}](#p4)
+  - #### [{{ Bard}}{{ 5}}](#p5)
+  - #### [{{ Ranger}}{{ 9}}](#p9)
+  - #### [{{ Rogue}}{{ 13}}](#p13)
+- ### [{{ Races}}{{ 17}}](#p17)
+  - #### [{{ Human}}{{ 17}}](#p17)
+  - #### [{{ Dwarf}}{{ 18}}](#p18)
+  - #### [{{ Elf}}{{ 18}}](#p18)
+  - #### [{{ Gnome}}{{ 19}}](#p19)
+  - #### [{{ Halfling}}{{ 20}}](#p20)
+  - #### [{{ Orc}}{{ 20}}](#p20)
+  - #### [{{ Ardling}}{{ 21}}](#p21)
+  - #### [{{ Dragonborn}}{{ 22}}](#p22)
+  - #### [{{ Tiefling}}{{ 23}}](#p23)
+- ### [{{ Backgrounds}}{{ 24}}](#p24)
+  - #### [{{ Languages}}{{ 24}}](#p24)
+  - #### [{{ Sample Backgrounds}}{{ 25}}](#p25)
+- ### [{{ Feats}}{{ 29}}](#p29)
+- ### [{{ Equipment}}{{ 37}}](#p37)
+  - #### [{{ Armor}}{{ 37}}](#p37)
+  - #### [{{ Weapons}}{{ 38}}](#p38)
+  - #### [{{ Tools}}{{ 39}}](#p39)
 \column
-- ## [{{ Part 2}}{{ 40}}](#p41)
-- ### [{{ Abilities & Skills}}{{ 40}}](#p41)
-  - #### [{{ D20 Tests}}{{ 40}}](#p41)
-  - #### [{{ Heroic Inspiration}}{{ 40}}](#p41)
-  - #### [{{ Ability Checks}}{{ 40}}](#p41)
-  - #### [{{ Skills}}{{ 41}}](#p42)
-- ### [{{ Interacting with the World}}{{ 42}}](#p43)
-  - #### [{{ Awareness}}{{ 42}}](#p43)
-  - #### [{{ Movement}}{{ 43}}](#p44)
-  - #### [{{ Interacting with People}}{{ 45}}](#p46)
-  - #### [{{ Resting, Eating, Travel}}{{ 46}}](#p47)
-- ### [{{ Combat}}{{ 47}}](#p48)
-  - #### [{{ Combat Actions}}{{ 47}}](#p48)
-- ### [{{ Spellcasting}}{{ 48}}](#p49)
-  - #### [{{ Ritual Casting}}{{ 48}}](#p49)
-  - #### [{{ Concentration}}{{ 48}}](#p49)
-  - #### [{{ Spellcasting Actions}}{{ 48}}](#p49)
-- ## [{{ Part 3}}{{ 49}}](#p50)
-- ### [{{ Spells}}{{ 49}}](#p50)
-  - #### [{{ Spell Lists}}{{ 49}}](#p50)
-  - #### [{{ Spell Descriptions}}{{ 54}}](#p55)
-- ## [{{ Appendixes}}{{ 55}}](#p56)
-  - #### [{{ Conditions}}{{ 55}}](#p56)
+- ## [{{ Part 2}}{{ 40}}](#p40)
+- ### [{{ Abilities & Skills}}{{ 40}}](#p40)
+  - #### [{{ D20 Tests}}{{ 40}}](#p40)
+  - #### [{{ Heroic Inspiration}}{{ 40}}](#p40)
+  - #### [{{ Ability Checks}}{{ 40}}](#p40)
+  - #### [{{ Skills}}{{ 41}}](#p41)
+- ### [{{ Interacting with the World}}{{ 42}}](#p42)
+  - #### [{{ Awareness}}{{ 42}}](#p42)
+  - #### [{{ Movement}}{{ 43}}](#p43)
+  - #### [{{ Interacting with People}}{{ 45}}](#p45)
+  - #### [{{ Resting, Eating, Travel}}{{ 46}}](#p46)
+- ### [{{ Combat}}{{ 47}}](#p47)
+  - #### [{{ Combat Actions}}{{ 47}}](#p47)
+- ### [{{ Spellcasting}}{{ 48}}](#p48)
+  - #### [{{ Ritual Casting}}{{ 48}}](#p48)
+  - #### [{{ Concentration}}{{ 48}}](#p48)
+  - #### [{{ Spellcasting Actions}}{{ 48}}](#p48)
+- ## [{{ Part 3}}{{ 49}}](#p49)
+- ### [{{ Spells}}{{ 49}}](#p49)
+  - #### [{{ Spell Lists}}{{ 49}}](#p49)
+  - #### [{{ Spell Descriptions}}{{ 54}}](#p54)
+- ## [{{ Appendixes}}{{ 55}}](#p55)
+  - #### [{{ Conditions}}{{ 55}}](#p55)
 }}
 
+{{pageNumber 1}}
+{{footnote  TABLE OF CONTENTS}}
 \page
 # One D&D Playtest Collation
 This document is to help playtesters.<br>
@@ -70,7 +74,7 @@ Obviously all of the material inside is pulled from content provided by Wizards 
 
 • UA 	2022 EXPERT	CLASSES
 
-• PHB 5e (Small excerpts for context)
+• System	Reference	Document 5.1 [SRD] (for context)
 
 <br>
 
@@ -79,7 +83,7 @@ https://homebrewery.naturalcrit.com/. Which is a wonderful tool, that I highly r
 
 ## What to expect
 This document combines and paraphrases content from the sources to facilitate readability, and easy to access information. Because of this, this text is inherently **NOT RAW** (rules as written). 
-90% of what is in this document is just copied and pastied from the UA. 2% is copied from the PHB. 7% is me combining and paraphrasing information together. 1% is me intentionally adding new information that changes the natures of the rules, but is only done where I feel this was an obvious oversight and the original text will still be visible. 
+90% of what is in this document is just copied and pastied from the UA. 6% is copied from the SRD. 3% is me combining and paraphrasing information together. 1% is me intentionally adding new information that changes the natures of the rules, but is only done where I feel this was an obvious oversight and the original text will still be visible. 
 
 The expectation around information in this document is that it still plays as intended by the UA writers, but due to interpreation may be incorrect.  I threw this together very quickly, and expect there to be mistakes and oversights. Feel free to reach out to me for corrections.
 
@@ -98,19 +102,18 @@ You can submit corrections or improvements to me via GitHub Issues. Go to github
 \column
 
 ## Version
-Last updated Oct 6th 2022.  Version 0.8
+Last updated Oct 7th 2022.  Version 0.9
 
 ### Coming Soon
-Instead of copying information from the PHB, I will be using the SRD instead.
-https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf I will be spending time soon to resolve this. I intend to flush out the combat and skills sections further if possible. 
+I'm considering an appendix entry for all of the 'Actions'. I am going to make an entire page about vision and hiding.
 
 ## How to use this?
 As most of this document comes directly from UA, you will just read most sections at face value as UA. I felt it was important to clearly delineate when that is not the case.
 
-### Taken from the PHB
-When something is quoted from the PHB, it will be formatted in a way to make it clear it's source.
+### Taken from the SRD
+When something is quoted from the SRD, it will be formatted in a way to make it clear it's source.
 {{purple,#book,text-align:left,background:#aa88aa55
-Information formatted in this way, is pulled directly from the PHB.
+Information formatted in this way, is pulled directly from the SRD.
 }}
 :
 ### Edited by me
@@ -124,56 +127,26 @@ Very rarely, I've seen what appears to be an oversight, where I believe a certai
 UA information `amended with rule changes`.
 
 ### Combined
-If I bring something in from the PHB and I alter it, the formatting styles are combined.
+If I bring something in from the SRD and I alter it, the formatting styles are combined.
 
 {{purple,#book,text-align:left,background:#aa88aa55
-*Some* {color:#D35400} information formatted in this way, is <s>pulled</s> *copied* {color:#D35400} directly from the PHB.
+*Some* {color:#D35400} information formatted in this way, is <s>pulled</s> *copied* {color:#D35400} directly from the SRD.
 }}
-{{pageNumber 1}}
-{{footnote PART 1 | INTRO}}
+{{pageNumber 2}}
+{{footnote INTRO}}
 
 \page
 
-# Build a Character Guide
+# Build a Character
 This chapter details building a character.
 
 {{note,color:purple
-This chapter is not yet enitely covered in the UA, so it has the most content not found in the UA. 
+This chapter is not yet enitely covered in the UA, and has no available content in the SRD. 
 }}
 
-{{purple,#book,text-align:left,background:#aa88aa55
-Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a race (such as human or halfling) and a class (such as fighter or wizard). You also invent the personality, appearance, and backstory of your character. Once completed, your character serves as your representative in the game, your avatar in the D&D world.
-
-Before you dive into step 1 below, think about the
-kind of adventurer you want to play. You might be a
-courageous fighter, a skulking rogue, a fervent cleric, or
-a flamboyant wizard. Or you might be more interested
-in an unconventional character, such as a brawny rogue
-who likes hand-to-hand combat, or a sharpshooter who
-picks off enemies from afar. Do you like fantasy fiction
-featuring dwarves or elves? Try building a character of
-one of those races. Do you want your character to be the
-toughest adventurer at the table? Consider a class like
-barbarian or paladin.
-
-Once you have a character in mind, follow these steps
-in order, making decisions that reflect the character you
-want. Your conception of your character might evolve
-with each choice you make. What’s important is that you
-come to the table with a character you’re excited to play.
-}}
-
-:
+::
 
 ### Choose a Class
-{{purple,#book,text-align:left,background:#aa88aa55
-Every adventurer is a member of a class. Class broadly
-describes a character’s vocation, what special talents he
-or she possesses, and the tactics he or she is most likely
-to employ when exploring a dungeon, fighting monsters,
-or engaging in a tense negotiation. 
-}}
-
 A	Class’s	description	includes	a	section	on	how	
 to	create	a	member	of	that	Class.	*That	section	
 tells	you	how	to	determine	your	Hit	Points,	
@@ -220,6 +193,8 @@ The	Character	Origin	Overview	table
 lists	the	traits your	character	gains	from	Race	
 and	Background.
 
+::::::::
+
 ##### Character Origin Overview
 | Race Trait        | Description |
 |:------------------|:-----------------|
@@ -239,41 +214,18 @@ and	Background.
 | Feat                | Each Background provides a 1st-level Feat—a special ability acquired in the character’s past.|
 | Equipment           | A Background provides a portion of a character’s starting equipment, with the rest coming from Class.|
 
-{{pageNumber 2}}
-{{footnote PART 1 | Build A Character}}
-
-\page
 ### Determine Ability Scores
-{{purple,#book,text-align:left,background:#aa88aa55
-Much of what your character does in the game depends
-on his or her six abilities: Strength, Dexterity,
-Constitution, Intelligence, Wisdom, and Charisma.
-
-You generate your character's six ability scores
-randomly. Roll four 6-sided dice and record the total of
-the highest three dice on a piece of scratch paper. Do
-this five more times, so that you have six numbers. If
-you want to save time or don’t like the idea of randomly
-determining ability scores, you can use the following
-scores instead: 15, 14, 13, 12, 10, 8.
-
-Now take your six numbers and write each number
-beside one of your character’s six abilities to assign
-scores to Strength, Dexterity, Constitution, Intelligence,
-Wisdom , and Charisma. Afterward, make any changes
-to your ability scores as a result of your <s>race choice</s> *other character creation choices* {color:#D35400}.
-}}
+*Generate 6 abilities scores using your groups preferred method. Then assign them and adjust based on your background and/or other creation choices.*{color:#D35400}
 
 {{pageNumber 3}}
-{{footnote PART 1 | Build A Character}}
+{{footnote PART 1 | BUILD A CHARACTER}}
 \page
 # Classes
 This chapter details the playable classes.
-{{purple,#book,text-align:left,background:#aa88aa55
-Class is the primary definition of what your character can do. It’s more than a profession; it’s your character’s essence. Class shapes the way you think about the world and interact with it.
-}}
+
 Characters who	have	levels	in	a	Class	are exceptional;	most	of	the	inhabitants	of	the multiverse	aren’t	members	of a	Class.
 
+:::::
 
 ### Class Group
 Each	Class	is	a	member	of	a	Class	Group — a	set of	Classes	that	have	certain	features	and	themes in	common. The	Class	Groups	table	lists	the groups and	summarizes	characteristics	the members	of	a	group	have	in	common.
@@ -3086,7 +3038,7 @@ This chapter is not yet enitely covered in the UA and the UA currently explictly
 
 ## Armor and Shields
 {{purple,#book,text-align:left,background:#aa88aa55
-D&D worlds are a vast tapestry made up of many
+Fantasy gaming worlds are a vast tapestry made up of many
 different cultures, each with its own technology level.
 For this reason, adventurers have access to a variety
 of armor types, ranging from leather armor to chain
@@ -3156,6 +3108,47 @@ The time it takes to don or doff arm or depends on the armor’s category.
 \page
 
 ## Weapons
+{{background:#aa88aa55
+Your	class	grants	proficiency	in	certain	weapons,	
+reflecting	both the	class’s	focus	and	the	tools	you	are	
+most	likely	to	use.	Whether	you	favor	a	longsword	or	
+a	longbow,	your	weapon	and	your	ability	to	wield	it	
+effectively	can	mean	the	difference	between	life	and	
+death	while	adventuring.
+
+The	Weapons	table	shows	the	most	common	
+weapons	used	in	the	fantasy	gaming	worlds,	their	
+price	and	weight,	the	damage	they	deal	when	they	
+hit,	and	any	special	properties	they	possess.	Every	
+weapon	is	classified	as	either	melee	or	ranged.	A	
+melee	weapon is	used	to	attack	a	target	within	5	
+feet	of	you,	whereas	a	ranged	weapon is	used	to	
+attack	a	target	at	a	distance.
+}}
+:
+### Weapon Proficiency
+{{background:#aa88aa55
+Your	race,	class,	and	feats	can	grant	you	proficiency	
+with	certain	weapons	or	categories	of	weapons.	The	
+two	categories	are	simple and	martial.	Most	people	
+can	use	simple	weapons	with	proficiency.	These	
+weapons	include	clubs,	maces,	and	other	weapons	
+often	found	in	the	hands	of	commoners.	Martial	
+weapons,	including	swords,	axes,	and	polearms,	
+require	more	specialized	training	to	use	effectively.	
+Most	warriors use	martial	weapons	because	these	
+weapons	put	their	fighting	style	and	training	to	best	
+use.
+
+Proficiency	with	a	weapon	allows	you	to	add	your	
+proficiency	bonus	to	the	attack	roll	for	any	attack	
+you	make	with	that	weapon.	If	you	make	an	attack	
+roll	using	a	weapon	with	which	you	lack	proficiency,	
+you	do	not	add	your	proficiency	bonus	to	the	attack	
+roll.
+}}
+:::::
+### Weapon Properties
 :
 ##### Light [Weapon Property]
 When	you	take	the	Attack	Action on	your	turn
@@ -3166,8 +3159,6 @@ different Light	weapon	in	the other	hand,	and
 you	don’t	add	your	Ability	Modifier to	the	extra
 attack’s	damage. You	can	make	this	extra	attack	
 only	once	on	each	of	your	turns.
-
-:::::::::::::::::::::::::::
 
 
 {{wide
@@ -3315,7 +3306,7 @@ reroll the 1.
 You usually gain advantage or disadvantage through
 the use of special abilities, actions, or spells. *Heroic*{color:#D35400} Inspiration <s>(see chapter 4)</s> can also give a character advantage on
 checks related to the character’s personality, ideals,
-or bonds. The DM can also decide that circumstances
+or bonds. The GM can also decide that circumstances
 influence a roll in one direction or the other and grant
 advantage or impose disadvantage as a result.
 }}
@@ -3451,10 +3442,10 @@ chapter for examples of how to use a skill associated with an ability.
 **Wisdom:**:: Animal Handling, Insight, Medicine, Perception, Survival
 **Charisma:**:: Deception, Intimidation, Perform ance, Persuasion
 
-Sometimes, the DM might ask for an ability check
+Sometimes, the GM might ask for an ability check
 using a specific skill—for example, “Make a Wisdom
 (Perception) check.” At other times, a player might ask
-the DM if proficiency in a particular skill applies to a
+the GM if proficiency in a particular skill applies to a
 check. In either case, proficiency in a skill means an
 individual can add his or her proficiency bonus to ability
 checks that involve that skill. Without proficiency in the
@@ -3495,6 +3486,18 @@ Tremorsense can’t	detect	creatures	or	objects
 in	the	air,	and	Tremorsense	doesn’t	count	as	a	
 form	of	sight
 
+### Truesight
+{{background:#aa88aa55
+A	creature	with	truesight	can,	out	to	a	specific	range,	
+see	in	normal	and	magical	darkness,	see	invisible	
+creatures	and	objects,	automatically	detect	visual	
+illusions	and	succeed	on	saving	throws	against	them,	
+and	perceives	the	original	form	of	a	shapechanger	or	
+a	creature	that	is	transformed	by	magic.	
+Furthermore,	the	creature	can	see	into	the	Ethereal	
+Plane.
+}}
+:
 ### Hiding
 :
 #### Hide [Action]
@@ -3846,7 +3849,19 @@ benefits	of	a	Short	Rest.
 This chapter covers rules for combat.
 
 ::::::::
+## Making an Attack
+{{background:#aa88aa55
+Whether	you’re	striking	with	a	melee	weapon,	firing	
+a	weapon	at	range,	or	making	an	attack	roll	as	part	
+of	a	spell,	an	attack	has	a	simple	structure.
+**1.Choose	a	target.**:: Pick	a	target	within	your attack’s	range:	a	creature,	an	object,	or	a	location.
+**2.Determine	modifiers.**::	The	GM	determines	whether	the	target	has	cover	and	whether	you	have	advantage	or	disadvantage	against	the	target.	In	addition,	spells,	special	abilities,	and	other	effects	can	apply	penalties	or	bonuses	to	your	attack	roll.
+**3.Resolve	the	attack.**::	You	make	the	attack	roll.	On	a	hit,	you	roll	damage,	unless	the	particular	attack	has	rules	that	specify	otherwise.	Some	attacks	cause	special	effects	in	addition	to	or	instead	of damage.
 
+If	there’s	ever	any	question	whether	something	
+you’re	doing	counts	as	an	attack,	the	rule	is	simple:	if	you’re	making	an	attack	roll,	you’re	making	an	attack.
+}}
+:
 
 #### Unarmed Strike
 An	Unarmed	Strike	is	a	melee	attack	that	
@@ -3861,10 +3876,11 @@ choice:
 **Damage.**:: The	target	takes	Bludgeoning	Damage	equal	to	1	+	your	Strength	modifier.
 **Grapple.**:: The	target	is	Grappled,	and	the	grapple’s	escape	DC	equals	8	+	your	Strength	modifier	+	your	Proficiency	Bonus.	This	grapple	is	possible	only	if	the target	is	no	more	than	one	Size	larger	than	you	and	if	you	have	a	hand	free	to	grab	the	target.
 **Shove.**:: You	either	push	the	target	5	feet	away	or	knock	the	target	Prone.	This	shove	is	possible	only	if	the	target	is	no	more	than	one	Size	larger	than	you.
-
+\column
 
 ## Combat Actions
-:
+*While the actions presented here are generally related to combat, they are not restricted to combat. Likewise, actions from other Chapters may be used in combat.*{color:#D35400}
+
 #### Attack	[Action]
 When	you	take	the	Attack	Action,	you	can	make	
 one	attack	with	a	Weapon	or	an	Unarmed	Strike.
@@ -3879,7 +3895,6 @@ you	don’t	add	your	Ability	Modifier to	the	extra
 attack’s	damage. You	can	make	this	extra	attack	
 only	once	on	each	of	your	turns.
 
-
 For	example,	if	you take	the	Attack	Action	on	
 your	turn	and	have	a	Shortsword	in	one	hand	
 and	a	Dagger	in	the	other—each	of	which	has	the	
@@ -3892,7 +3907,7 @@ second	weapon.
 You	can	equip	or	unequip	one	Weapon	before	or	
 after	any	attack	you	make	as	part	of	this	Action,	
 even	if	the	attack	is	with	an	Unarmed	Strike.
-::::
+
 ##### Moving between Attacks
 If	you	Move on	your	turn,	you	can	use	some	or	all	
 of	that	movement	to	move	between	the	attacks	
@@ -3912,17 +3927,36 @@ the	following:
 This chapter covers rules for spellcasting.
 
 ::::::::
-
+## What is a Spell?
+{{background:#aa88aa55
+A	spell	is	a	discrete	magical	effect,	a	single	shaping	of	
+the	magical	energies	that	suffuse	the	multiverse	into	
+a	specific,	limited	expression.	
+}}
 :
-## Ritual Casting
+### Cantrips
+{{background:#aa88aa55
+A	cantrip	is	a	spell	that	can	be	cast	at	will,	without	
+using	a	spell	slot	and	without	being	prepared	in	
+advance.	Repeated	practice	has	fixed	the	spell	in	the	
+caster’s	mind	and	infused	the	caster	with	the	magic	
+needed	to	produce	the	effect	over	and	over.	A	
+cantrip’s	spell	level	is	0.
+}}
+:
+### Rituals
 If	you	have	a	Spell	prepared	that	has	the	Ritual	tag,	you	can	cast	that	Spell	as	a	Ritual.
 {{background:#aa88aa55
 Such a spell can be cast following the normal rules for spellcasting,
-or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal.
+or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal. It	also	doesn’t	expend	a	spell	slot,
+which	means	the	ritual	version	of	a	spell	can’t	be	
+cast	at	a	higher	level.
 }}
 :
-
-## Concentration
+\column
+## Casting a Spell
+:
+### Concentration
 {{background:#aa88aa55
 Some spells require you to maintain concentration
 in order to keep their magic active. If you lose
@@ -3937,12 +3971,11 @@ Normal activity, such as moving and attacking, doesn’t
 interfere with concentration. The following factors can
 break concentration:
 
-- Casting another spell that requires concentration. You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
-- Taking damage. W henever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon’s breath, you make a separate saving throw for each source of damage.
-- Being incapacitated or killed. You lose concentration on a spell if you are incapacitated or if you die.
-- The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm -tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
+- **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
+- **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon’s breath, you make a separate saving throw for each source of damage.
+- **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
+- **Other Conditions.**{color:#D35400} The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
 }}
-\column
 ## Spellcasting Actions
 :
 #### Magic	[Action]
@@ -3957,6 +3990,13 @@ Action	on	each	turn	of	that	casting,	and	you	must
 maintain	Concentration	while	you	do	so. If	your	
 Concentration	is	broken,	the	Spell	fails,	but	you	
 don’t	expend	a	Spell	Slot.
+
+{{note
+#### Casting in Armor
+If	you	wear	Light,	Medium,	or	Heavy	Armor	
+and	lack	Armor	Training	with	that	type	of	
+Armor,	you	can’t	cast	Spells.
+}}
 
 
 
@@ -4644,11 +4684,8 @@ While	you	are	subjected	to	the	Exhausted	Condition,	you	experience	the	following
 
 ## Frightened
 {{background:#aa88aa55
-• A frightened creature has disadvantage on ability
-checks and attack rolls while the source of its fear is
-within line o f sight.
-• The creature can’t willingly move closer to the source
-of its fear.
+- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+- The creature can’t willingly move closer to the source of its fear.
 }}
 
 ## Grappled
