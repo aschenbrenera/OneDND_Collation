@@ -37,6 +37,8 @@
 - ### [{{ Abilities & Skills}}{{ 40}}](#p41)
   - #### [{{ D20 Tests}}{{ 40}}](#p41)
   - #### [{{ Heroic Inspiration}}{{ 40}}](#p41)
+  - #### [{{ Ability Checks}}{{ 40}}](#p41)
+  - #### [{{ Skills}}{{ 41}}](#p42)
 - ### [{{ Interacting with the World}}{{ 42}}](#p43)
   - #### [{{ Awareness}}{{ 42}}](#p43)
   - #### [{{ Movement}}{{ 43}}](#p44)
@@ -44,15 +46,17 @@
   - #### [{{ Resting, Eating, Travel}}{{ 46}}](#p47)
 - ### [{{ Combat}}{{ 47}}](#p48)
   - #### [{{ Combat Actions}}{{ 47}}](#p48)
-- ## [{{ Part 3}}{{ 48}}](#p49)
-- ### [{{ Spells}}{{ 48}}](#p49)
-- ## [{{ Appendixes}}{{ 54}}](#p55)
-  - #### [{{ Conditions}}{{ 54}}](#p55)
+- ### [{{ Spellcasting}}{{ 48}}](#p49)
+  - #### [{{ Ritual Casting}}{{ 48}}](#p49)
+  - #### [{{ Concentration}}{{ 48}}](#p49)
+  - #### [{{ Spellcasting Actions}}{{ 48}}](#p49)
+- ## [{{ Part 3}}{{ 49}}](#p50)
+- ### [{{ Spells}}{{ 49}}](#p50)
+  - #### [{{ Spell Lists}}{{ 49}}](#p50)
+  - #### [{{ Spell Descriptions}}{{ 54}}](#p55)
+- ## [{{ Appendixes}}{{ 55}}](#p56)
+  - #### [{{ Conditions}}{{ 55}}](#p56)
 }}
-
-
-
-
 
 \page
 # One D&D Playtest Collation
@@ -75,7 +79,7 @@ https://homebrewery.naturalcrit.com/. Which is a wonderful tool, that I highly r
 
 ## What to expect
 This document combines and paraphrases content from the sources to facilitate readability, and easy to access information. Because of this, this text is inherently **NOT RAW** (rules as written). 
-90% of what is in this document is just copied and pastied from the UA. 2% is copied from the PHB. 7% is me combining and paraphrasing information together. 1% is me intentionally adding new information that changes the natures of the rules, but is only done where I feel this was an obvious oversight. 
+90% of what is in this document is just copied and pastied from the UA. 2% is copied from the PHB. 7% is me combining and paraphrasing information together. 1% is me intentionally adding new information that changes the natures of the rules, but is only done where I feel this was an obvious oversight and the original text will still be visible. 
 
 The expectation around information in this document is that it still plays as intended by the UA writers, but due to interpreation may be incorrect.  I threw this together very quickly, and expect there to be mistakes and oversights. Feel free to reach out to me for corrections.
 
@@ -94,10 +98,11 @@ You can submit corrections or improvements to me via GitHub Issues. Go to github
 \column
 
 ## Version
-Last updated Oct 6th 2022.  Version 0.6
+Last updated Oct 6th 2022.  Version 0.8
 
 ### Coming Soon
-I'm still working on Part 2 that incorperates the UA Expert Classes Rule Glossary.
+Instead of copying information from the PHB, I will be using the SRD instead.
+https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf I will be spending time soon to resolve this. I intend to flush out the combat and skills sections further if possible. 
 
 ## How to use this?
 As most of this document comes directly from UA, you will just read most sections at face value as UA. I felt it was important to clearly delineate when that is not the case.
@@ -2134,7 +2139,7 @@ from the Background rules here.
 {{footnote PART 1 | BACKGROUNDS}}
 \page
 
-### Sample Backgrounds
+## Sample Backgrounds
 Here	is	a	collection	of	sample	Backgrounds	that	
 you	can	choose	from	when	making	a	character.
 These	Backgrounds	were	built	using	the	rules	in	
@@ -3162,14 +3167,6 @@ you	don’t	add	your	Ability	Modifier to	the	extra
 attack’s	damage. You	can	make	this	extra	attack	
 only	once	on	each	of	your	turns.
 
-For	example,	if	you take	the	Attack	Action	on	
-your	turn	and	have	a	Shortsword	in	one	hand	
-and	a	Dagger	in	the	other—each	of	which	has	the	
-Light	property—you	can	make	one	attack	with	
-each	weapon,	but	you	don’t	add	your	Strength	or	
-Dexterity	Modifier	to	the	damage	roll	of	the	
-second	weapon.
-
 :::::::::::::::::::::::::::
 
 
@@ -3803,6 +3800,23 @@ shown	in	the	Influence Responses table.
 :
 ### Resting
 :
+#### Short Rest
+{{background:#aa88aa55
+A short rest is a period of downtime, at least 1 hour long,
+during which a character does nothing more strenuous
+than eating, drinking, reading, and tending to wounds.
+
+A character can spend one or m ore Hit Dice at the end
+of a short rest, up to the character’s maximum number
+of Hit Dice, which is equal to the character's level. For
+each Hit Die spent in this way, the player rolls the die
+and adds the character’s Constitution modifier to it. The
+character regains hit points equal to the total. The player
+can decide to spend an additional Hit Die after each roll.
+A character regains som e spent Hit Dice upon finishing
+a long rest, as explained below.
+}}
+:
 #### Long Rest
 A	Long	Rest	is	a	period	of	extended	downtime—
 at	least	8	hours	long—available	to	any	creature.	
@@ -3834,7 +3848,7 @@ This chapter covers rules for combat.
 ::::::::
 
 
-#### UNARMED	STRIKE
+#### Unarmed Strike
 An	Unarmed	Strike	is	a	melee	attack	that	
 involves	you	using	your	body	to	damage,	
 grapple,	or	shove	a	target	within	your	Reach.
@@ -3848,17 +3862,37 @@ choice:
 **Grapple.**:: The	target	is	Grappled,	and	the	grapple’s	escape	DC	equals	8	+	your	Strength	modifier	+	your	Proficiency	Bonus.	This	grapple	is	possible	only	if	the target	is	no	more	than	one	Size	larger	than	you	and	if	you	have	a	hand	free	to	grab	the	target.
 **Shove.**:: You	either	push	the	target	5	feet	away	or	knock	the	target	Prone.	This	shove	is	possible	only	if	the	target	is	no	more	than	one	Size	larger	than	you.
 
+
 ## Combat Actions
 :
-#### ATTACK	[Action]
+#### Attack	[Action]
 When	you	take	the	Attack	Action,	you	can	make	
 one	attack	with	a	Weapon	or	an	Unarmed	Strike.
+
+##### Having the Light Weapon Property
+When	you	take	the	Attack	Action on	your	turn
+and	attack	with	a Light weapon	in	one	hand,	you	
+can	make	one	extra	attack	as	part	of	the	same	
+Action.	That	extra	attack	must	be	made	with	a	
+different Light	weapon	in	the other	hand,	and	
+you	don’t	add	your	Ability	Modifier to	the	extra
+attack’s	damage. You	can	make	this	extra	attack	
+only	once	on	each	of	your	turns.
+
+
+For	example,	if	you take	the	Attack	Action	on	
+your	turn	and	have	a	Shortsword	in	one	hand	
+and	a	Dagger	in	the	other—each	of	which	has	the	
+Light	property—you	can	make	one	attack	with	
+each	weapon,	but	you	don’t	add	your	Strength	or	
+Dexterity	Modifier	to	the	damage	roll	of	the	
+second	weapon.
 
 ##### Equipping Weapons
 You	can	equip	or	unequip	one	Weapon	before	or	
 after	any	attack	you	make	as	part	of	this	Action,	
 even	if	the	attack	is	with	an	Unarmed	Strike.
-
+::::
 ##### Moving between Attacks
 If	you	Move on	your	turn,	you	can	use	some	or	all	
 of	that	movement	to	move	between	the	attacks	
@@ -3873,6 +3907,62 @@ the	following:
 
 {{pageNumber 47}}
 {{footnote PART 2 | COMBAT}}
+\page
+# Spellcasting
+This chapter covers rules for spellcasting.
+
+::::::::
+
+:
+## Ritual Casting
+If	you	have	a	Spell	prepared	that	has	the	Ritual	tag,	you	can	cast	that	Spell	as	a	Ritual.
+{{background:#aa88aa55
+Such a spell can be cast following the normal rules for spellcasting,
+or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal.
+}}
+:
+
+## Concentration
+{{background:#aa88aa55
+Some spells require you to maintain concentration
+in order to keep their magic active. If you lose
+concentration, such a spell ends.
+
+If a spell must be maintained with concentration,
+that fact appears in its Duration entry, and the spell
+specifies how long you can concentrate on it. You can
+end concentration at any time (no action required).
+
+Normal activity, such as moving and attacking, doesn’t
+interfere with concentration. The following factors can
+break concentration:
+
+- Casting another spell that requires concentration. You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
+- Taking damage. W henever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon’s breath, you make a separate saving throw for each source of damage.
+- Being incapacitated or killed. You lose concentration on a spell if you are incapacitated or if you die.
+- The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm -tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
+}}
+\column
+## Spellcasting Actions
+:
+#### Magic	[Action]
+When	you	take	the	Magic	Action,	you	cast	a	Spell	
+that	has	a	casting	time	of	an Action,	or	you	use	a	
+Magic	Item	that	requires	an	Action	to	be	
+activated.
+
+If	you	cast	a	Spell	that	has	a	casting	time	of	1	
+minute	or	longer,	you	must	take	the	Magic	
+Action	on	each	turn	of	that	casting,	and	you	must	
+maintain	Concentration	while	you	do	so. If	your	
+Concentration	is	broken,	the	Spell	fails,	but	you	
+don’t	expend	a	Spell	Slot.
+
+
+
+
+{{pageNumber 48}}
+{{footnote PART 2 | SPELLCASTING}}
 \page
 # Spells
 This chapter details the core set of spells.
@@ -3898,7 +3988,7 @@ the	Inner	Planes.	Druids	and	Rangers	harness
 this	magic.	For	a	partial	list	of	Primal	Spells,	see	
 	“Spell Lists”	below.
 
-### Spell Lists
+## Spell Lists
 Each	list	provides	a	Spell’s	
 level *(Cantrips are listed as level 0)*{color:#D35400},	name, and	School	of	Magic.	The	list	also	
 indicates	whether	a	Spell	has	the	Ritual	tag.
@@ -3929,6 +4019,69 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 1 | Burning Hands  | Evocation | No |
 | 1 | Charm Person  | Enchantment | No |
 | 1 | Chromatic Orb  | Evocation | No |
+
+\column
+{{note,background:#aa88aa55
+#### The Schools of Magic
+Academies of magic group spells into eight categories called
+schools of magic. Scholars, particularly wizards, apply these
+categories to all spells, believing that all magic functions in
+essentially the same way, whether it derives from rigorous
+study or is bestowed by a deity.
+
+The schools of magic help describe spells; they have no
+rules of their own, although some rules refer to the schools.
+
+**Abjuration** spells are protective in nature, though some
+of them have aggressive uses. They create magical barriers,
+negate harmful effects, harm trespassers, or banish creatures
+to other planes of existence.
+
+**Conjuration** spells involve the transportation of objects
+and creatures from one location to another. Some spells
+summon creatures or objects to the caster’s side, whereas
+others allow the caster to teleport to another location. Some
+conjurations create objects or effects out of nothing.
+
+**Divination** spells reveal information, whether in the form of
+secrets long forgotten, glimpses of the future, the locations
+of hidden things, the truth behind illusions, or visions of
+distant people or places.
+
+**Enchantment** spells affect the minds of others, influencing
+or controlling their behavior. Such spells can make enemies
+see the caster as a friend, force creatures to take a course of
+action, or even control another creature like a puppet.
+
+**Evocation** spells manipulate magical energy to produce a
+desired effect. Some call up blasts of fire or lightning. Others
+channel positive energy to heal wounds.
+
+**Illusion** spells deceive the senses or minds of others. They
+cause people to see things that are not there, to miss things
+that are there, to hear phantom noises, or to remember
+things that never happened. Some illusions create phantom
+images that any creature can see, but the most insidious
+illusions plant an image directly in the mind of a creature.
+
+**Necromancy** spells manipulate the energies of life and
+death. Such spells can grant an extra reserve of life force,
+drain the life energy from another creature, create the
+undead, or even bring the dead back to life.
+Creating the undead through the use of necromancy spells
+such as animate dead is not a good act, and only evil casters
+use such spells frequently.
+
+**Transmutation** spells change the properties of a creature,
+object, or environment. They might turn an enemy into a
+harmless creature, bolster the strength of an ally, make an
+object move at the caster’s command, or enhance a creature’s
+innate healing abilities to rapidly recover from injury
+}}
+
+{{pageNumber 49}}
+{{footnote PART 2 | SPELLCASTING}}
+\page
 
 | Level | Spell | School | Ritual |
 |:------|:---------------|:------------|:---|
@@ -3982,14 +4135,11 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 2 | Levitate | Transmutation | No |
 | 2 | Locate Object  | Divination | No |
 | 2 | Magic Aura  | Illusion | No |
-
-{{pageNumber 48}}
-{{footnote PART 3 | SPELLS}}
-\page
-| Level | Spell | School | Ritual |
-|:------|:---------------|:------------|:---|
 | 2 | Magic Mouth  | Illusion | Yes |
 | 2 | Magic Weapon | Transmutation | No |
+
+| Level | Spell | School | Ritual |
+|:------|:---------------|:------------|:---|
 | 2 | Melf’s Acid Arrow  | Evocation | No |
 | 2 | Mirror Image  | Illusion | No |
 | 2 | Misty Step  | Conjuration | No |
@@ -4040,11 +4190,16 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 4 | Control Water | Transmutation | No |
 | 4 | Dimension Door  | Conjuration | No |
 | 4 | Evard’s Black Tentacles  | Conjuration | No |
+| 4 | Fabricate | Transmutation | No |
+| 4 | Fire Shield  | Evocation | No |
+
+
+{{pageNumber 50}}
+{{footnote PART 3 | SPELLS}}
+\page
 
 | Level | Spell | School | Ritual |
 |:------|:---------------|:------------|:---|
-| 4 | Fabricate | Transmutation | No |
-| 4 | Fire Shield  | Evocation | No |
 | 4 | Greater Invisibility  | Illusion | No |
 | 4 | Hallucinatory Terrain  | Illusion | No |
 | 4 | Ice Storm  | Evocation | No |
@@ -4094,12 +4249,6 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 6 | Instant Summons  | Conjuration | Yes |
 | 6 | Magic Jar  | Necromancy | No |
 | 6 | Mass Suggestion  | Enchantment | No |
-
-{{pageNumber 49}}
-{{footnote PART 3 | SPELLS}}
-\page
-| Level | Spell | School | Ritual |
-|:------|:---------------|:------------|:---|
 | 6 | Move Earth | Transmutation | No |
 | 6 | Otiluke’s Freezing Sphere  | Evocation | No |
 | 6 | Otto’s Irresistible Dance  | Enchantment | No |
@@ -4148,8 +4297,11 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 9 | True Polymorph | Transmutation | No |
 | 9 | Weird  | Illusion | No |
 | 9 | Wish  | Conjuration | No |
-\column
 
+
+{{pageNumber 51}}
+{{footnote PART 3 | SPELLS}}
+\page
 ##### Divine Spells
 | Level | Spell | School | Ritual |
 |:------|:---------------|:------------|:---|
@@ -4205,9 +4357,6 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 3 | Crusader’s Mantle  | Evocation | No |
 | 3 | Daylight  | Evocation | No |
 
-{{pageNumber 50}}
-{{footnote PART 3 | SPELLS}}
-\page
 | Level | Spell | School | Ritual |
 |:------|:---------------|:------------|:---|
 | 3 | Dispel Magic  | Abjuration | No |
@@ -4261,10 +4410,13 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 7 | Regenerate | Transmutation | No |
 | 7 | Resurrection  | Necromancy | No |
 | 7 | Symbol  | Abjuration | No |
+| 8 | Antimagic Field  | Abjuration | No |
 
+{{pageNumber 52}}
+{{footnote PART 3 | SPELLS}}
+\page
 | Level | Spell | School | Ritual |
 |:------|:---------------|:------------|:---|
-| 8 | Antimagic Field  | Abjuration | No |
 | 8 | Antipathy/ Sympathy | Enchantment | - |
 | 8 | Holy Aura  | Abjuration | No |
 | 8 | Sunburst  | Evocation | No |
@@ -4317,13 +4469,10 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 2 | Find Traps  | Divination | No |
 | 2 | Flame Blade  | Evocation | No |
 | 2 | Flaming Sphere  | Evocation | No |
+| 2 | Gentle Repose  | Necromancy | Yes |
 
-{{pageNumber 51}}
-{{footnote PART 3 | SPELLS}}
-\page
 | Level | Spell | School | Ritual |
 |:------|:---------------|:------------|:---|
-| 2 | Gentle Repose  | Necromancy | Yes |
 | 2 | Gust of Wind  | Evocation | No |
 | 2 | Heat Metal  | Transmutation | No |
 | 2 | Lesser Restoration  | Abjuration | No |
@@ -4375,10 +4524,13 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 5 | Insect Plague  | Conjuration | No |
 | 5 | Mass Cure Wounds  | Abjuration | No |
 | 5 | Reincarnate  | Necromancy | No |
+| 5 | Scrying  | Divination | No |
 
+{{pageNumber 53}}
+{{footnote PART 3 | SPELLS}}
+\page
 | Level | Spell | School | Ritual |
 |:------|:---------------|:------------|:---|
-| 5 | Scrying  | Divination | No |
 | 5 | Swift Quiver  | Transmutation | No |
 | 5 | Tree Stride  | Conjuration | No |
 | 5 | Wall of Stone  | Evocation | No |
@@ -4404,14 +4556,10 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 9 | Storm of Vengeance  | Conjuration | No |
 | 9 | True Resurrection  | Necromancy | No |
 
-{{pageNumber 52}}
-{{footnote PART 3 | SPELLS}}
-
-\page
 ## Spell Descriptions
 The spells are presented in alphabetical order.
 
-#### Barksin
+#### Barkskin
 *2nd-level Transmutation	Spell	(Primal)*
 **Casting Time:** :: Bonus Action
 **Range:**        :: Touch
@@ -4429,7 +4577,7 @@ your	Proficiency	Bonus.
 using	a	Spell	Slot	of	3rd level	or	higher,	you	can	
 target one	additional	willing	creature	for	each	
 slot	level	above	2nd.
-
+\column
 #### Guidance
 *Cantrip Divination	Spell	(Divine,	Primal)*
 **Casting Time:** :: Reaction,	which	you	take	in response	to	you	or	an	ally within	30	feet	of	you failing	an	Ability	Check	
@@ -4445,7 +4593,7 @@ creature	can’t	benefit	from	the	Spell again	until
 the	creature	finishes a	Long	Rest.
 
 
-{{pageNumber 53}}
+{{pageNumber 54}}
 {{footnote PART 3 | SPELLS}}
 \page
 # Appendix A: Conditions
@@ -4461,7 +4609,7 @@ A condition lasts either until it is countered
 up, for example) or for a duration specified by the effect
 that imposed the condition.
 
-If multiple effects im pose the same condition on a
+If multiple effects impose the same condition on a
 creature, each instance of the condition has its own
 duration, but the condition’s effects don't get worse.
 A creature either has a condition or doesn’t.
@@ -4526,7 +4674,7 @@ following	effects:
 **Speechless.**:: You	can’t	speak.
 **Surprised.**:: If	you	are	Incapacitated	when	you	roll	Initiative,	you	have	Disadvantage	on	the	roll.
 
-{{pageNumber 54}}
+{{pageNumber 55}}
 {{footnote APPENDIX | CONDITIONS}}
 \page
 ## Invisible
@@ -4595,5 +4743,5 @@ While	you	are	Slowed,	you	experience	the	following	effects:
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 }}
 
-{{pageNumber 55}}
+{{pageNumber 56}}
 {{footnote APPENDIX | CONDITIONS}}
