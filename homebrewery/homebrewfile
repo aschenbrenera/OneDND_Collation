@@ -43,21 +43,22 @@
   - #### [{{ Skills}}{{ 41}}](#p41)
 - ### [{{ Interacting with the World}}{{ 42}}](#p42)
   - #### [{{ Awareness}}{{ 42}}](#p42)
-  - #### [{{ Movement}}{{ 43}}](#p43)
-  - #### [{{ Interacting with People}}{{ 45}}](#p45)
-  - #### [{{ Resting, Eating, Travel}}{{ 46}}](#p46)
-- ### [{{ Combat}}{{ 47}}](#p47)
-  - #### [{{ Combat Actions}}{{ 47}}](#p47)
-- ### [{{ Spellcasting}}{{ 48}}](#p48)
-  - #### [{{ Ritual Casting}}{{ 48}}](#p48)
-  - #### [{{ Concentration}}{{ 48}}](#p48)
-  - #### [{{ Spellcasting Actions}}{{ 48}}](#p48)
-- ## [{{ Part 3}}{{ 49}}](#p49)
-- ### [{{ Spells}}{{ 49}}](#p49)
-  - #### [{{ Spell Lists}}{{ 49}}](#p49)
-  - #### [{{ Spell Descriptions}}{{ 54}}](#p54)
-- ## [{{ Appendixes}}{{ 55}}](#p55)
-  - #### [{{ Conditions}}{{ 55}}](#p55)
+    - ###### [{{ How to run Hiding in the UA}}{{ 43}}](#p43)
+  - #### [{{ Movement}}{{ 45}}](#p45)
+  - #### [{{ Interacting with People}}{{ 47}}](#p47)
+  - #### [{{ Resting, Eating, Travel}}{{ 48}}](#p48)
+- ### [{{ Combat}}{{ 49}}](#p49)
+  - #### [{{ Combat Actions}}{{ 49}}](#p49)
+- ### [{{ Spellcasting}}{{ 50}}](#p50)
+  - #### [{{ Ritual Casting}}{{ 50}}](#p50)
+  - #### [{{ Concentration}}{{ 50}}](#p50)
+  - #### [{{ Spellcasting Actions}}{{ 50}}](#p50)
+- ## [{{ Part 3}}{{ 51}}](#p51)
+- ### [{{ Spells}}{{ 51}}](#p51)
+  - #### [{{ Spell Lists}}{{ 51}}](#p51)
+  - #### [{{ Spell Descriptions}}{{ 56}}](#p56)
+- ## [{{ Appendixes}}{{ 57}}](#p57)
+  - #### [{{ Conditions}}{{ 57}}](#p57)
 }}
 
 {{pageNumber 1}}
@@ -90,7 +91,7 @@ The expectation around information in this document is that it still plays as in
 ## Contact Me
 You can submit corrections or improvements to me via GitHub Issues. Go to github.com and search for 'OneDND_Collation'. I will also start a thread on r/onednd called 'OneDND Playtest Collation'.
 
-#### The types of input i'm looking for
+#### The types of input I'm looking for
 - Mistakes in transcribing the UA
 - Paraphrasing that accidently changes gameplay
 - Grammar issues: Spelling, punctuation, etc.
@@ -102,10 +103,10 @@ You can submit corrections or improvements to me via GitHub Issues. Go to github
 \column
 
 ## Version
-Last updated Oct 7th 2022.  Version 0.9
+Last updated Oct 8th 2022.  Version 0.9.1
 
 ### Coming Soon
-I'm considering an appendix entry for all of the 'Actions'. I am going to make an entire page about vision and hiding.
+I'm considering an appendix entry for all of the 'Actions'. 
 
 ## How to use this?
 As most of this document comes directly from UA, you will just read most sections at face value as UA. I felt it was important to clearly delineate when that is not the case.
@@ -229,13 +230,55 @@ Characters who	have	levels	in	a	Class	are exceptional;	most	of	the	inhabitants	o
 
 ### Class Group
 Each	Class	is	a	member	of	a	Class	Group — a	set of	Classes	that	have	certain	features	and	themes in	common. The	Class	Groups	table	lists	the groups and	summarizes	characteristics	the members	of	a	group	have	in	common.
+
+When	creating	a	party	of	adventurers,	one	way	
+to	form	a	well-rounded	group	is	to	include	at	
+least	one	member	of	each	Class	Group. That	said,	
+mix	and	match	Classes	to	your	heart’s	content!
+
 ##### Class Groups
 | Group | Classes | Characteristics |
 |:------------------|:-----|:-----------------|
-| Experts  | Bard, Ranger, Rogues      | Polymaths who have the Expertise feature and elements of other Classes |
+| Experts  | Bard, Ranger, Rogues, Artificer      | Polymaths who have the Expertise feature and elements of other Classes |
 | Mages    | Sorcerer, Warlock, Wizard | Adepts of Arcane magic, focusing on utility and destruction |
 | Priests  | Cleric, Druid, Paladin    | Stewards of Divine or Primal magic, focusing on healing, utility, and defense |
 | Warriors | Barbarian, Fighter, Monk  | Masters of combat who can deal and endure many wounds |
+
+### Primary Ability
+The	primary	ability	of	a	Class	is	critical	to	some	
+of	the	Class’s	features,	so	when	you	create	your	
+character,	that	ability	is	a	great	place	to	put	one	
+of	your	highest	scores.
+
+Similarly,	whenever	you	gain	the	Ability	Score	
+Improvement	Feat, consider	increasing	your	
+primary	ability.
+
+Finally,	to use	the	multiclassing	rules,	you	
+must	have	at	least	a	score	of	13	in	the	primary	
+ability	of	all	your	classes.
+\column
+### Spellcasting Ability
+{{background:#aa88aa55
+*Spellcasting	ability helps	determine	the	saving throw	DCs	of	spells	cast, and your spell attack modifer.*{color:#D35400}
+- Wizards	use	Intelligence as	their	spellcasting	ability
+- Clerics,	Druids,	and	Rangers	use	Wisdom	as	their spellcasting	ability
+- Bards,	Paladins,	Sorcerers,	and	Warlocks	use	Charisma	as	their	spellcasting	ability
+:
+- *Spell Save DC = 8	+	your	proficiency	bonus	+ your	spellcasting ability	modifier*{color:#D35400}
+- *Spell Attack Modifier = your	proficiency	bonus	+ your	spellcasting ability	modifier*{color:#D35400}
+}}
+:
+### Subclasses
+A	Class’s	description	is	followed	by	a	section	
+dedicated	to	Subclasses	for	that	Class.	A	Subclass	
+represents	an	area	of	specialization	for	a	
+member	of a Class,	and	the	Subclass	grants	
+special	features	at	certain	levels.
+
+*You	can	use	a	Subclass	from	an	older	source,	
+such	as	the	2014	Player’s	Handbook or	Tasha’s	
+Cauldron	of	Everything.  After you gain the Subclass (At level 3 for all UA classes), follow the subclass level progression for features. For example a Rogue Assassin will still get Infiltration Expertise at 9th-level.*{color:#D35400}
 
 
 
@@ -303,37 +346,31 @@ To	create	a	Bard,	consult	the	*information in this section* {color:#D35400}.  Th
 **Hit Points at 1st Level:**     :: 8 + your Constitution modifier
 **Hit Points per Level after 1st:** :: 1d8 (or 5) + your Constitution modifier
 
-#### Proficiencies
+#### Armor Training
+Light Armor
 
-*Armor:*{color:#D35400}   :: *Light Armor*{color:#D35400}
+#### Proficiencies
 **Weapons:** :: Simple Weapons
 **Tools:**   :: Three Musical Instruments of your choice
 **Saving Throws:** :: Charisma, Dexerity
-**Skills:**        :: *Any three skills of your choice <br>(Recommended: Deception, Performance, Persuasion)* {color:#D35400}
-
-#### Spellcasting Ability
-Charisma is	your	Spellcasting	Ability for	your	Bard Spells.
-**Spell save DC**:: = 8 + your proficiency bonus + your Charisma modifier
-**Spell attack modifier**:: = your proficiency bonus + your Charisma modifier
+**Skills:**        :: *Any three skills of your choice <br>&emsp;(Recommended: Deception, Performance, Persuasion)* {color:#D35400}
 
 #### Equipment
 As	a	1st-level	character,	you	start	with	the	
 following	equipment,	or	you	can	forgo	it	and	
 spend	100	GP	on	equipment	of	your	choice.
-- Dagger
-- Entertainer’s Pack
-- Leather Armor
-- Musical Instrument (one of your choice)
-- Shortsword
-- 18 GP
+
+Dagger, Entertainer’s Pack, Leather Armor, Musical Instrument (one of your choice), Shortsword, 18 GP
 
 #### Multiclassing and the Bard
-If using	the	multiclassing	rules <s>in	the	Player’s	Handbook</s>,	here’s	what	you	need	to	know	if	you	choose	Bard	as	one	of	your	Classes.
+*Here’s	what	you	need	to	know	if	you	choose	Bard	as	one	of	your	Classes when multiclassing.*{color:#D35400}
 
 **Ability	Score	Minimum.** As	a	multiclass	character,	you	must	have a	score	of at	least	13	in	
 the	Bard’s	primary	ability,	Charisma,	to	take	a	level	in	this	Class	or	to	take	a	level	in	another	Class	if	you	are	already	a	Bard.
 
-**Proficiencies.** If	Bard	isn’t	your	initial	Class,	here	are the	Proficiencies	you	gain	when	you take	your	first	Bard	level: *Light Armor,*{color:#D35400}	one	Skill	of	your	choice, and	one	Musical	Instrument	of	your	choice. 
+**Armor	Training.** When	you	gain	your	first	Bard	level,	you	gain	Light	Armor	Training
+
+**Proficiencies.** If	Bard	isn’t	your	initial	Class,	here	are the	Proficiencies	you	gain	when	you take	your	first	Bard	level: One	Skill	of	your	choice, and	one	Musical	Instrument	of	your	choice. 
 
 **Spell	Slots.** Add	all	your	Bard	levels	to	the	 appropriate	levels	from	other	Classes	to	
 determine	your	available	Spell	Slots for	casting	 Spells,	as	detailed	in	the	multiclassing rules.
@@ -341,6 +378,7 @@ determine	your	available	Spell	Slots for	casting	 Spells,	as	detailed	in	the	mul
 You	prepare	Spells	for	each	of	your	Classes	individually,	referring	to the	Spell	Slots	of an	
 individual Class	to	determine	the	number	and	levels	of	the	Spells	you	prepare	for	it.
 
+\column
 ## Class Features
 As	a	Bard,	you	gain	the	following	Class	Features	
 when	you	reach	the	specified	levels	in	this	Class.	
@@ -375,7 +413,9 @@ bardic	arts.	See	the	Spellcasting chapter for	the
 rules	on	spellcasting.	The	information	below	
 details	how	you	use	those	rules	as	a	Bard.
 
-**Spellcasting	Focus.**	You	can	use	a	Musical	Instrument `you are proficient in`  as	a	Spellcasting	Focus for	the	Spells you	prepare	for	this	Class.
+**Spellcasting	Ability.**	Charisma is	your Spellcasting	Ability for	your	Bard Spells.
+
+**Spellcasting	Focus.**	You	can	use	a	Musical	Instrument `you are proficient in`  as	a	Spellcasting	Focus for	*your Bard Spells*{color:#D35400}.
 
 **Prepared	Spells.**
 Any Spell	you prepare	for	this	Class	must	be an Arcane Spell,	and it must	be from	one	of	the	following	Schools	of	Magic: Divination, Enchantment,	Illusion,	or	Transmutation.
@@ -385,7 +425,7 @@ Whenever	you	finish	a	Long	Rest *practicing	your	bardic	arts,	you can*{color:#D3
 {{pageNumber 6}}
 {{footnote PART 1 | CLASSES}}
 \page
-*At 1st level, you prepare two Cantrip	Spells and	two 1st-level	Spells of	your	choice.* {color:#D35400} At	higher levels	in	this	Class,	you	can	prepare	more	Spells,	as	shown	on	the	Bard	table. The numbers there	determine	the	number	of different Spells	you can prepare of	each	level. For example,	as	a	3rd-level	Bard,	you	can	prepare	two	different	*Cantrip*{color:#D35400}	Spells,	four	different	1st-level	Spells, and	two	different	2nd-level	Spells.
+&emsp;*At 1st level, you prepare two Cantrip	Spells and	two 1st-level	Spells of	your	choice.* {color:#D35400} At	higher levels	in	this	Class,	you	can	prepare	more	Spells,	as	shown	on	the	Bard	table. The numbers there	determine	the	number	of different Spells	you can prepare of	each	level. For example,	as	a	3rd-level	Bard,	you	can	prepare	two	different	*Cantrip*{color:#D35400}	Spells,	four	different	1st-level	Spells, and	two	different	2nd-level	Spells.
 
 
 Consult the	“Prepared	Bard	Spell” section for	recommendations	on	which	spells	to	prepare <s>at	higher	levels</s>.
@@ -432,7 +472,7 @@ number	of	Spells	you	can	prepare.
 
 *You	gain	a	Bard Subclass	of	your	choice. Bard Subclasses are detailed at the end of the Bard Class description.*{color:#D35400}
 
-A	Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Bard levels.	For	the	rest	of your	career,	you	gain	each	of	your	Subclass’s	features	that	are	of	your	Bard level	and	lower. *Bard Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
+A	Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Bard levels.	For	the	rest	of your	career,	you	gain	each	of	your	Subclass’s	features	that	are	of	your	Bard level	and	lower. *UA Bard Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
 
 :::
 
@@ -509,7 +549,9 @@ Bard	level,	and	you	prepare	the	spells	for	that	level and	all	lower	Bard	levels.
 A	Bard Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Bard levels,	as	
 specified	in	the	Subclass. 
 
-**Bard College.**  Bards	form	loose	associations,	which	they	call colleges,	to	facilitate	their	gatherings	and	preserve	their	traditions. The iconic bard is from the	College	of	Lore.
+**Bard College.**  Bards	form	loose	associations,	which	they	call colleges,	to	facilitate	their	gatherings	and	preserve	their	traditions. 
+
+*The iconic bard is from the	College	of	Lore.*{color:#D35400}
 
 ### College of Lore
 Bards	of	the	College	of	Lore	know	something	about	most	things,	collecting	bits	of	knowledge	from	sources	as	diverse	as	scholarly	tomes	and	peasant	tales.	Whether	singing	folk	ballads	in	taverns	or	performing	elaborate	compositions	in	royal	courts,	these	Bards	use	their	gifts	to	hold	audiences	spellbound. 
@@ -633,37 +675,31 @@ To	create	a	Ranger,	consult	the	*information in this section* {color:#D35400}.  
 **Hit Points at 1st Level:**     :: 10 + your Constitution modifier
 **Hit Points per Level after 1st:** :: 1d10 (or 6) + your Constitution modifier
 
-#### Proficiencies
+#### Armor Trainig
+Light Armor, Medium Armor, Shields
 
-*Armor:*{color:#D35400}   :: *Light Armor, Medium Armor, Shields*{color:#D35400}
+#### Proficiencies
 **Weapons:** :: Simple Weapons, Martial Weapons
 **Tools:**   :: None
 **Saving Throws:** :: Strength, Dexerity
-**Skills:**        :: *Choose three skills from: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival <br>(Recommended: Athletics, Stealth, Survival)* {color:#D35400}
-
-#### Spellcasting Ability
-Widsom is	your Spellcasting	Ability for	your	Ranger Spells.
-**Spell save DC**:: = 8 + your proficiency bonus + your Wisdom modifier
-**Spell attack modifier**:: = your proficiency bonus + your Wisdom modifier
+**Skills:**        :: *Choose three skills from: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival <br>&emsp;(Recommended: Athletics, Stealth, Survival)* {color:#D35400}
 
 #### Equipment
 As	a	1st-level	character,	you	start	with	the	
 following	equipment,	or	you	can	forgo	it	and	
 spend	150	GP	on	equipment	of	your	choice.
-- Arrows (20)
-- Explorer’s Pack
-- Longbow
-- Quiver
-- Scimitar
-- Shortsword
-- Studded Leather Armor
-- 8 GP
 
-#### Multiclassing and the	Ranger
-If using	the	multiclassing	rules <s>in the	Player’s	Handbook</s>,	here’s	what	you	need	to	know	if	you	choose	choose	Ranger	as	one	of	your	Classes.
+Arrows (20), Explorer’s Pack, Longbow, Quiver, Scimitar, Shortsword, Studded Leather Armor, 8 GP
+
+#### Multiclassing and the Ranger
+*Here’s	what	you	need	to	know	if	you	choose	Ranger	as	one	of	your	Classes when multiclassing.*{color:#D35400}
 
 **Ability	Score	Minimum.** As	a	multiclass	character,	you	must	have a	score	of at	least	13	in	
 the	Ranger’s	primary	abilities,	Dexterity and Wisdom,	to	take	a	level	in	this	Class	or	to	take	a	level	in	another	Class	if	you	are	already	a	Ranger.
+
+**Armor Training.** When	you	gain	your	first	
+Ranger	level,	you	gain	the	following	Armor	
+Training:	Light	Armor,	Medium	Armor,	and	Shield.
 
 **Proficiencies.** If	Ranger	isn’t	your	initial	Class,	here	are the	Proficiencies	you	gain	when	you take	your	first	Ranger	level: *Light Armor, Medium, Armor, Shield,*{color:#D35400} Martial Weapons, and	one	Skill	of	your	choice from the Ranger's Skill list.
 
@@ -671,7 +707,7 @@ the	Ranger’s	primary	abilities,	Dexterity and Wisdom,	to	take	a	level	in	this	
 
 You	prepare	Spells	for	each	of	your	Classes	individually,	referring	to the	Spell	Slots	of an	
 individual Class	to	determine	the	number	and	levels	of	the	Spells	you	prepare	for	it.
-
+\column
 ## Class Features
 As	a	Ranger,	you	gain	the	following	Class	Features	
 when	you	reach	the	specified	levels	in	this	Class.	
@@ -703,7 +739,9 @@ You	have	learned	to	channel the	magical	essence	of	nature	to	cast	Spells.
 See	the	Spellcasting chapter for	the	rules	on	spellcasting.
 The	information	below	details	how	you	use	those	rules	as	a	Ranger.
 
-**Spellcasting	Focus.**	You	can	use	a	Druidic Focus as	a	Spellcasting	Focus for	the	Spells you	prepare	for	this	Class.
+**Spellcasting Ability** Widsom is	your Spellcasting Ability for	your	Ranger Spells.
+
+**Spellcasting	Focus.**	You	can	use	a	Druidic Focus as	a	Spellcasting	Focus for	*your Ranger Spells.*{color:#D35400}
 
 **Prepared	Spells.**
 Any Spell	you prepare	for	this	Class	must	be an Primal Spell,	and it	and	it	can	be	from	any	School	of	Magic	except	Evocation.
@@ -714,12 +752,7 @@ Whenever	you	finish	a	Long	Rest *communing	with	nature, you can*{color:#D35400}	
 
 At	higher levels	in	this	Class,	you	can	prepare	more	Spells,	as	shown	on	the	Ranger	table. The numbers there	determine	the	number	of different Spells	you can prepare of	each	level.
 For	example,	as	a	3rd-level	Ranger,	you	can	
-prepare	two	different	*Cantrip*{color:#D35400}	Spells and	three
-different	1st-level	Spells.
-
-{{pageNumber 10}}
-{{footnote PART 1 | CLASSES}}
-\page
+prepare	two	different	*Cantrip*{color:#D35400}	Spells and	three different	1st-level	Spells.
 
 Consult the	“Prepared	Ranger	Spell” section for	recommendations	on	which	spells	to	prepare <s>at	higher	levels</s>.
 
@@ -732,6 +765,10 @@ equals	the	number	of	Spell	Slots	you	have	at	that
 level. For	example,	as	a	5th-level	Ranger,	you	
 have	four	1st-level	Spell	Slots and	two	2nd-level	
 Spell	Slots.
+
+{{pageNumber 10}}
+{{footnote PART 1 | CLASSES}}
+\page
 
 ### Fighting Style
 *Levels: 2nd*
@@ -751,7 +788,7 @@ Group.
 
 *You	gain	a	Ranger Subclass	of	your	choice. Ranger Subclasses are detailed at the end of the Ranger Class description.*{color:#D35400}
 
-A	Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Ranger levels.	For	the	rest	of your	career,	you	gain	each	of	your	Subclass’s	features	that	are	of	your	Ranger level	and	lower. *Ranger Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
+A	Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Ranger levels.	For	the	rest	of your	career,	you	gain	each	of	your	Subclass’s	features	that	are	of	your	Ranger level	and	lower. *UA Ranger Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
 
 ### Feat
 *Levels: 4th, 8th, 12th, 16th, 19th*
@@ -823,7 +860,7 @@ Ranger	level,	and	you	prepare	the	spells	for	that	level and	all	lower	Ranger	lev
 A	Ranger Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Ranger levels,	as	
 specified	in	the	Subclass. 
 
-The iconic Ranger is a Hunter.
+*The iconic Ranger is a Hunter.*{color:#D35400}
 
 ### Hunter
 You	stalk	prey	in	the	wilds	and	elsewhere,	using	
@@ -940,34 +977,31 @@ To	create	a	Rogue,	consult	the	*information in this section* {color:#D35400}.  T
 **Hit Points at 1st Level:**     :: 8 + your Constitution modifier
 **Hit Points per Level after 1st:** :: 1d8 (or 5) + your Constitution modifier
 
-#### Proficiencies
+#### Armor Training
+Light Armor
 
-*Armor:*{color:#D35400}   :: *Light Armor*{color:#D35400}
+#### Proficiencies
 **Weapons:** :: Simple Weapons, Martial Weapons that have the Finesse Property
 **Tools:**   :: Thieves' Tools
 **Saving Throws:** :: Dexerity, Intelligence
-**Skills:**        :: *Choose four skills from: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, and Stealth <br>(Recommended: Acrobatics, Investigation, Sleight of Hand, Stealth)* {color:#D35400}
+**Skills:**        :: *Choose four skills from: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, and Stealth <br>&emsp; (Recommended: Acrobatics, Investigation, Sleight of Hand, Stealth)* {color:#D35400}
 
 #### Equipment
 As	a	1st-level	character,	you	start	with	the	
 following	equipment,	or	you	can	forgo	it	and	
 spend	110	GP	on	equipment	of	your	choice.
-- Arrows (20)
-- Explorer’s Pack
-- Longbow
-- Quiver
-- Scimitar
-- Shortsword
-- Studded Leather Armor
-- 8 GP
 
-#### Multiclassing and the	Rogue
-If using	the	multiclassing	rules <s>in the	Player’s	Handbook</s>,	here’s	what	you	need	to	know	if	you	choose	Rogue	as	one	of	your	Classes.
+Arrows (20), Explorer’s Pack, Longbow, Quiver, Scimitar, Shortsword, Studded Leather Armor, 8 GP
+
+#### Multiclassing and the Rogue
+*Here’s	what	you	need	to	know	if	you	choose	Rogue	as	one	of	your	Classes when multiclassing.*{color:#D35400}
 
 **Ability	Score	Minimum.** As	a	multiclass	character,	you	must	have a	score	of at	least	13	in	
 the	Rogue’s	primary	ability,	Dexterity,	to	take	a	level	in	this	Class	or	to	take	a	level	in	another	Class	if	you	are	already	a	Rogue.
 
-**Proficiencies.** If	Rogue	isn’t	your	initial	Class,	here	are the	Proficiencies	you	gain	when	you take	your	first	Ranger	level: *Light Armor,*{color:#D35400} Thieves' Tools, and	one	Skill	of	your	choice from the Rogue's Skill list.
+**Armor Training.** When	you	gain	your	first	Rogue level,	you	gain	Light	Armor Training.
+
+**Proficiencies.** If	Rogue	isn’t	your	initial	Class,	here	are the	Proficiencies	you	gain	when	you take	your	first	Rogue	level: Thieves' Tools, and	one	Skill	of	your	choice from the Rogue's Skill list.
 
 \column
 ## Class Features
@@ -984,7 +1018,7 @@ You	gain	Expertise in	two	of	your	Skill	Proficiencies	of	your	choice.
 Sleight of Hand and Stealth	are	iconic	choices	for	a	Rogue	if	you	have	Proficiency	in	them.
 
 ### Sneak Attack
-*Levels: 1st*, every further odd level
+*Levels: 1st,* *every further odd level*{color:#D35400}
 
 You	know	how	to	turn	a	subtle	attack	into	a	
 deadly	one.	Once	on	each	of	your	turns	when you	
@@ -1032,7 +1066,7 @@ A	Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Rogu
 {{pageNumber 14}}
 {{footnote PART 1 | CLASSES}}
 \page
-*Rogue Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
+*UA Rogue Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
 
 ### Feat
 *Levels: 4th, 8th, 10th, 12th, 16th, 19th*
@@ -1110,7 +1144,7 @@ until	you	finish	a	Short	Rest	or	a	Long	Rest.
 A	Rogue Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Rogue levels,	as	
 specified	in	the	Subclass. 
 
-The iconic Ranger is a Thief.
+*The iconic Rogue is a Thief.*{color:#D35400}
 
 ### Thief
 You have honed your	larcenous	arts.	Burglars,	
@@ -1181,7 +1215,7 @@ This chapter details the playable races.
 When	you	choose	your	character’s	Race,	you	
 determine	whether	your	character	is	a	member	
 of	the	human	race	or	of	a	fantastical	race. This	
-document	provides	descriptions	and	rules	for	
+*chapter*{color:#D35400}	provides	descriptions	and	rules	for	
 the	following	Race options:	Human,	Ardling,	
 Dragonborn,	Dwarf,	Elf,	Gnome,	Halfling,	Orc,	
 and	Tiefling.
@@ -1395,7 +1429,7 @@ body	hair.
 | Lineage  | 1st-Level          | 3rd-Level          | 5th-Level          |
 |:---------|:-------------------|:-------------------|:-------------------|
 | Drow     | The range of your Darkvision increases to 120 feet.<br> You also know the Dancing Lights cantrip.        | Faerie Fire       | Darkness |
-| High Elf | You know *a cantrip from the Arcane Spell List*{color:#D35400}. <br> Wheneveryou finish a Long Rest, you can replace <br>&emsp;that cantrip with a different cantrip from the <br>&emsp;Arcane Spell List.| Detect Magic   | Misty Step      |
+| High Elf | You know *a cantrip from the Arcane Spell List*{color:#D35400}.<br>&emsp;*(Recommended: Prestidigitation)*{color:#D35400} <br> Whenever you finish a Long Rest, you can replace <br>&emsp;that cantrip with a different cantrip from the <br>&emsp;Arcane Spell List.| Detect Magic   | Misty Step      |
 | Wood Elf | Your Speed increases to 35 feet.<br> You also know the Druidcraft cantrip.| Longstrider       | Pass without Trace   |
 }} 
 
@@ -1962,8 +1996,6 @@ Spell with	it	again	until	you	finish	a	Long	Rest.
 {{pageNumber 23}}
 {{footnote PART 1 | RACES}}
 \page
-
-
 # Backgrounds
 This chapter details backgrounds.
 
@@ -2538,7 +2570,7 @@ your	Proficiency	Bonus.
 *1st-Level	Feat*
 **Prerequisite:** ::	None
 **Repeatable:** :: No
-You	gain	the	following	*Proficiencies:*{color:#D35400}	Light	Armor,	Medium	Armor, and	Shield.
+You	gain	the	following	Armor Training:	Light	Armor,	Medium	Armor, and	Shield.
 
 ### Lucky
 *1st-Level	Feat*
@@ -2722,17 +2754,17 @@ You’ve	learned	to	use the	weight	of	a	weapon	to	your	advantage,	letting	its	mo
 
 ### Heavily Armored
 *4th-Level	Feat*
-**Prerequisite:**::	*Medium	Armor	Proficiencly*{color:#D35400}
+**Prerequisite:**::	Medium	Armor	Training
 **Repeatable:**:: No
 You	have	trained	to	use	Heavy	Armor effectively,	gaining	the	following	benefits:
 **Ability	Score	Increase.**::	Increase	your Constitution	or Strength	score	by	1,	to	a	maximum	of	20.
-**Armor	Training.**:: You	gain *Proficiency with Heavy Armor*{color:#D35400}.
+**Armor	Training.**:: You	gain Heavy Armor Training
 
-:::::::
+\column
 
 ### Heavy Armor Master
 *4th-Level	Feat*
-**Prerequisite:**::	*Heavy	Armor	Proficiency*{color:#D35400}
+**Prerequisite:**::	Heavy	Armor	Training
 **Repeatable:**:: No
 You	can	use	your	Heavy	Armor to	deflect	strikes,	granting	you the	following	benefits:
 **Ability	Score	Increase.**:: Increase	your	Constitution	or	Strength	score	by	1,	to	a	maximum	of	20.
@@ -2769,7 +2801,7 @@ You	have	practiced	techniques	useful	in	battling magic-users,	gaining	the	follow
 
 ### Medium Armor Master
 *4th-Level	Feat*
-**Prerequisite:**::	*Medium	Armor	Proficiency*{color:#D35400}
+**Prerequisite:**::	Medium	Armor	Training
 **Repeatable:**:: No
 You	have	practiced	moving	in	medium	armor	to	gain	the	following	benefits:
 **Ability	Score	Increase.**:: Increase	your	Strength	or	Dexterity score	by	1,	to	a	maximum	of	20.
@@ -2851,7 +2883,7 @@ You	can	make	shots	that	others	find	impossible,	granting	you the	following	benef
 
 ### Shield Master
 *4th-Level	Feat*
-**Prerequisite:**::	*Shield	Proficiency*{color:#D35400}
+**Prerequisite:**::	Shield	Training
 **Repeatable:**:: No
 You’ve	trained	to	use	shields	not	just	for	protection, but	also	for	offense,	granting	you	the	
 following	benefits:
@@ -3033,7 +3065,7 @@ This chapter details mundane equipment.
 
 
 {{note,color:purple
-This chapter is not yet enitely covered in the UA and the UA currently explictly states to use content from the PHB. Some of the tables in this section are directly PHB tables which have a purple background. Other tables are PHB tables modified with UA content and have normal formatting.
+This chapter is not yet enitely covered in the UA and the UA currently explictly states to use content from the PHB. Some of the tables in this section are unchanged from the SRD tables which have a purple background. Other tables are PHB tables modified with UA content and have normal formatting.
 }}
 
 ## Armor and Shields
@@ -3051,13 +3083,13 @@ supplement their armor with a shield.
 }}
 
 :::::
-##### Armor Proficiency
+##### Armor Training
 If	you	wear	Light,	Medium,	or	Heavy	Armor	
-and	lack	Armor	*Proficiency*{color:#D35400}	with	that	type	of	
+and	lack	Armor	Training	with	that	type	of	
 Armor,	you	have	Disadvantage	on	any	d20	Test
 you	make	that	involves	Strength	or	Dexterity,	
 and	you	can’t	cast	Spells.
-If	you	equip a	Shield	and	lack	Armor *Proficiency*{color:#D35400}
+If	you	equip a	Shield	and	lack	Armor Training
 with	Shields,	you	don’t	gain	the	Armor	Class	bonus	of	the	Shield.
 
 #### Getting in and out of Armor
@@ -3077,7 +3109,7 @@ The time it takes to don or doff arm or depends on the armor’s category.
 }}
 ::::::::
 {{wide,background:#aa88aa55
-##### Armor *(Directly from PHB)*
+##### Armor
 | Armor                   | Cost    | Armor Class        |Strength| Stealth | Weight  |
 |:------------------------|:-------:|:------------------:|:------:|:-------:|:-------:|
 | **Light Armor**         |         |                    |        |         |         |
@@ -3115,8 +3147,10 @@ most	likely	to	use.	Whether	you	favor	a	longsword	or
 a	longbow,	your	weapon	and	your	ability	to	wield	it	
 effectively	can	mean	the	difference	between	life	and	
 death	while	adventuring.
-
-The	Weapons	table	shows	the	most	common	
+}}
+:
+{{background:#aa88aa55
+&emsp;The	Weapons	table	shows	the	most	common	
 weapons	used	in	the	fantasy	gaming	worlds,	their	
 price	and	weight,	the	damage	they	deal	when	they	
 hit,	and	any	special	properties	they	possess.	Every	
@@ -3126,6 +3160,56 @@ feet	of	you,	whereas	a	ranged	weapon is	used	to
 attack	a	target	at	a	distance.
 }}
 :
+{{wide
+##### Weapons
+| Name                    | Cost  | Damage          | Weight  | Properties     |
+|:------------------------|:-----:|:----------------|--------:|:---------------|
+| *Simple Melee Weapons*  |       |                 |         |                |
+| &emsp; Club             | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light          |
+| &emsp; Dagger           | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, Light, Thrown (range 20/60)|
+| &emsp; Greatclub        | 2 sp  | 1d8 bludgeoning | 20 lb.  | Two-handed          |
+| &emsp; Handaxe          | 5 gp  | 1d6 slashing    | 2 lb.   | Light,	thrown	(range	20/60) |
+| &emsp; Javelin          | 5 sp  | 1d6 piercing    | 2 lb.   | Thrown	(range	30/120)          |
+| &emsp; Light hammer     | 2 gp  | 1d4 bludgeoning | 2 lb.   | Light,	thrown	(range	20/60)|
+| &emsp; Mace             | 5 gp  | 1d6 bludgeoning | 4 lb.   | &mdash;          |
+| &emsp; Quarterstaff     | 2 sp  | 1d6 bludgeoning | 4 lb.   | Versatile	(1d8)|
+| &emsp; Shortsword       | 10 gp | 1d6 piercing    | 2 lb.   | Finesse, Light |
+| &emsp; Sickle           | 1 gp  | 1d4 slashing    | 2 lb.   | Light |
+| &emsp; Spear            | 1 gp  | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), Versatile (1d8)|
+| *Simple Ranged Weapons* |       |                 |         |                |
+| &emsp; Crossbow, light  | 25 gp | 1d8 piercing    | 5 lb.   | Ammunition	(range	80/320), Loading,	Two-handed|
+| &emsp; Dart             | 5 cp  | 1d4 piercig     | 1/4 lb. | Finesse, Thrown (range 20/60)|
+| &emsp; Shortbow         | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), Two-Handed     |
+| &emsp; Sling            | 1 sp  | 1d4 bludgeoning | &mdash; | Ammunition  (range 30/120)|
+| *Martial	Melee	Weapons*|       |                 |         |                |
+| &emsp; Battleaxe        | 10 gp | 1d8 slashing    | 4 lb.   | Versatile	(1d10)|
+| &emsp; Flail            | 10 gp | 1d8 bludgeoning | 2 lb.   | &mdash;|
+| &emsp; Glaive           | 20 gp | 1d10 slashing   | 6 lb.   | Heavy,	Reach,	Two-handed|
+| &emsp; Greataxe         | 30 gp | 1d12 slashing   | 7 lb.   | Heavy,	Two-handed|
+| &emsp; Greatsword       | 50 gp | 2d6 slashing    | 6 lb.   | Heavy,	Two-handed|
+| &emsp; Halberd          | 20 gp | 1d10 slashing   | 6 lb.   | Heavy,	Reach,	Two-handed|
+| &emsp; Lance            | 10 gp | 1d12 piercing   | 6 lb.   | Reach,	Special|
+| &emsp; Longsword        | 15 gp | 1d8  slashing   | 3 lb.   | Versatile	(1d10)|
+| &emsp; Maul             | 10 gp | 2d6  bludgeoning| 10 lb.  | Heavy,	Two-handed|
+| &emsp; Morningstar      | 15 gp | 1d8 piercing    | 4 lb.   | &mdash;|
+| &emsp; Pike             | 5 gp  | 1d10 piercing   | 18 lb.  | Heavy,	Reach,	Two-handed|
+| &emsp; Rapier           | 25 gp | 1d8 piercing    | 2 lb.   | Finesse|
+| &emsp; Scimitar         | 25 gp | 1d6 slashing    | 3 lb.   | Finesse,	Light|
+| &emsp; Trident          | 5 gp  | 1d6 piercing    | 4 lb.   | Thrown	(range	20/60),	Versatile	(1d8)|
+| &emsp; War	pick        | 5 gp  | 1d8 piercing    | 2 lb.   | &mdash;|
+| &emsp; Warhammer        | 15 gp | 1d8 bludgeoning | 2 lb.   | Versatile	(1d10)|
+| &emsp; Whip             | 2 gp  | 1d4 slashing    | 3 lb.   | Finesse,	reach|
+| *Martial Ranged	Weapons*|       |                 |         |                |
+| &emsp; Blowgun          | 10 gp | 1 piercing      | 1 lb.   | Ammunition	(range 25/100),	Loading|
+| &emsp; Crossbow,	hand  | 75 gp | 1d6 piercing    | 3 lb.   | Ammunition	(range	30/120),	Light,	Loading|
+| &emsp; Crossbow,	heavy | 50 gp | 1d10 piercing   | 18 lb.  | Ammunition	(range	100/400),	Heavy,	Loading,	two-handed|
+| &emsp; Longbow          | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition	(range	150/600),	Heavy,	Two-handed|
+| &emsp; Net              | 1 gp  | &mdash;         | 3 lb.   | Thrown	(range	5/15)|
+}}
+
+{{pageNumber 38}}
+{{footnote PART 1 | Equipment}}
+\page
 ### Weapon Proficiency
 {{background:#aa88aa55
 Your	race,	class,	and	feats	can	grant	you	proficiency	
@@ -3147,7 +3231,8 @@ roll	using	a	weapon	with	which	you	lack	proficiency,
 you	do	not	add	your	proficiency	bonus	to	the	attack	
 roll.
 }}
-:::::
+:
+
 ### Weapon Properties
 :
 ##### Light [Weapon Property]
@@ -3160,26 +3245,7 @@ you	don’t	add	your	Ability	Modifier to	the	extra
 attack’s	damage. You	can	make	this	extra	attack	
 only	once	on	each	of	your	turns.
 
-
-{{wide
-##### Weapons
-| Name                    | Cost  | Damage          | Weight  | Properties     |
-|:------------------------|:-----:|:----------------|--------:|:---------------|
-| *Simple Melee Weapons*  |       |                 |         |                |
-| &emsp; Club             | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light          |
-| &emsp; Dagger           | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, Light, Thrown (range 20/60)|
-| &emsp; Shortsword       | 10 gp | 1d6 piercing    | 2 lb.   | Finesse, Light |
-| &emsp; Spear            | 1 gp  | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), Versatile (1d8)|
-| *Simple Ranged Weapons* |       |                 |         |                |
-| &emsp; Dart             | 5 cp  | 1d4 piercig     | 1/4 lb. | Finesse, Thrown (range 20/60)|
-| &emsp; Shortbow         | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), Two-Handed     |
-| &emsp; Sling            | 1 sp  | 1d4 bludgeoning | &mdash; | Ammunition  (range 30/120)|
-}}
-
-
-{{pageNumber 38}}
-{{footnote PART 1 | Equipment}}
-\page
+\column
 ## Adventuring Gear
 :
 ### Tools 
@@ -3229,8 +3295,6 @@ only	once	on	each	of	your	turns.
 |&emsp;Navigator’s tools | 25 gp | 2 lb.|
 |&emsp;Poisoner’s kit | 50 gp | 2 lb.|
 |&emsp;Thieves’ tools | 25 gp | 1 lb.|
-
-\column
 
 {{pageNumber 39}}
 {{footnote PART 1 | Equipment}}
@@ -3463,7 +3527,52 @@ Rules on how players interact with the world.
 ## *Awareness*{color:#D35400}
 *This section covers aspects of perception, knowledge, and any other measure of a creatures awareness of the world around them.*{color:#D35400}
 
-:
+### Vision and Light
+{{background:#aa88aa55
+The	most	fundamental	tasks	of	adventuring—
+noticing	danger,	finding	hidden	objects,	hitting	an	
+enemy	in	combat,	and	targeting	a	spell,	to	name	just	
+a	few—rely	heavily	on	a	character’s	ability	to	see.	
+Darkness	and	other	effects	that	obscure	vision	can	
+prove	a	significant	hindrance.
+
+A	given	area	might	be	lightly	or	heavily	obscured.	
+In	a	**lightly	obscured** area,	such	as	dim	light,	patchy	
+fog,	or	moderate	foliage,	creatures	have	
+disadvantage	on	Wisdom	(Perception)	checks	that	
+rely	on	sight.
+
+A	**heavily	obscured** area—such	as	darkness,	
+opaque	fog,	or	dense	foliage—blocks	vision	entirely.	
+A	creature	effectively	suffers	from	the	blinded	
+condition	(see	appendix	PH-A)	when	trying	to	see	
+something	in	that	area.
+
+The	presence	or	absence	of	light	in	an	
+environment	creates	three	categories	of	
+illumination:	bright	light,	dim	light,	and	darkness.
+
+**Bright	light** lets	most	creatures	see	normally.	
+Even	gloomy	days	provide	bright	light,	as	do	torches,	
+lanterns,	fires,	and	other	sources	of	illumination	
+within	a	specific	radius.
+
+**Dim	light**,	also	called	shadows,	creates	a	lightly	
+obscured	area.	An	area	of	dim	light	is	usually	a	
+boundary	between	a	source	of	bright	light,	such	as	a	
+torch,	and	surrounding	darkness.	The	soft	light	of	
+twilight	and	dawn	also	counts	as	dim	light.	A	
+particularly	brilliant	full	moon	might	bathe	the	land	
+in	dim	light.
+
+**Darkness** creates	a	heavily	obscured	area.	
+Characters	face	darkness	outdoors	at	night	(even	
+most	moonlit	nights),	within	the	confines	of	an	unlit	
+dungeon	or	a	subterranean	vault,	or	in	an	area	of	
+magical	darkness.
+}}
+
+
 ### Blindsight
 If	you	have	Blindsight,	you can	effectively	see	
 within	a	specific	range without	relying	on	
@@ -3473,6 +3582,19 @@ Cover,	even	if	you’re	Blinded	or	in	Darkness.
 Moreover,	you	can	effectively	see	a	Hidden or	an	
 Invisible creature	in	that	range.
 
+\column
+
+### Darkvision
+{{background:#aa88aa55
+Many	creatures	in	fantasy	gaming	worlds,	especially	
+those	that	dwell	underground,	have	darkvision.	
+Within	a	specified	range,	a	creature	with	darkvision	
+can	see	in	darkness	as	if	the	darkness	were	dim	light,	
+so	areas	of	darkness	are	only	lightly	obscured	as	far	
+as	that	creature	is	concerned.	However,	the	creature	
+can’t	discern	color	in	darkness,	only	shades	of	gray.
+}}
+:
 ### Tremorsense
 A	creature with	Tremorsense	can	pinpoint	the	
 location of	creatures	and	moving	objects within	
@@ -3498,24 +3620,96 @@ Furthermore,	the	creature	can	see	into	the	Ethereal
 Plane.
 }}
 :
-### Hiding
+### Cover
+{{background:#aa88aa55
+Walls,	trees,	creatures,	and	other	obstacles	can	
+provide	cover	during	combat,	making	a	target	more	
+difficult	to	harm.	A	target	can	benefit	from	cover	
+only	when	an	attack	or	other	effect	originates	on	the	
+opposite	side	of	the	cover.
+
+There	are	three	degrees	of	cover.	If	a	target	is	
+behind	multiple	sources	of	cover,	only	the	most	
+protective	degree	of	cover	applies;	the	degrees	
+aren’t	added	together.	For	example, if	a	target	is	
+behind	a	creature	that	gives	half	cover	and	a	tree	
+trunk	that	gives	three-quarters	cover,	the	target	has	
+three-quarters	cover.
+
+A	target	with	**half	cover** has	a	+2	bonus	to	AC	and	
+Dexterity	saving	throws.	A	target	has	half	cover	if	an	
+obstacle	blocks	at	least	half	of	its	body.	The	obstacle	
+might	be	a	low	wall,	a	large	piece	of	furniture,	a	
+narrow	tree	trunk,	or	a	creature,	whether	that	
+creature	is	an	enemy	or	a	friend.
+
+A	target	with	**three-quarters	cover** has	a	+5	
+bonus	to	AC	and	Dexterity	saving	throws.	A	target	
+has	three-quarters	cover	if	about	three-quarters	of	it	
+is	covered	by	an	obstacle.	The	obstacle	might	be	a	
+portcullis,	an	arrow	slit,	or	a	thick	tree	trunk.
+}}
+
+{{pageNumber 42}}
+{{footnote PART 2 | INTERACTING WITH THE WORLD}}
+\page
+{{background:#aa88aa55
+&emsp;A	target	with	**total	cover** can’t	be	targeted	directly	
+by	an	attack	or	a	spell,	although	some	spells	can	
+reach	such	a	target	by	including	it	in	an	area	of	effect.	
+A	target	has	total	cover	if	it	is	completely	concealed	
+by	an	obstacle.
+}}
+
 :
-#### Hide [Action]
-With	the	Hide	Action,	you	try	to	conceal	yourself.
-To	do	so,	you	must make	a	DC	15	Dexterity	
-Check	(Stealth) while	you’re	Heavily	Obscured	or	
-behind	Three-Quarters	Cover	or	Total	Cover,	and	
-you	must	be	out	of	any	visible enemy’s	line	of	
-sight;	if	you	can	see	a	creature,	you	can	discern
-whether	it can	see	you.
+### Unseen Attackers and Targets
+{{background:#aa88aa55
+Combatants	often	try	to	escape	their	foes’	notice	by	
+hiding,	casting	the	invisibility	spell,	or	lurking in	
+darkness.
 
-On	a	successful	check,	you	are	Hidden.	Make	
-note	of	your	check’s	total,	which	becomes	the	DC	
-for	a	creature to	find	you	with	a	Wisdom	Check	(Perception).
+When	you	attack	a	target	that	you	can’t	see,	you	
+have	disadvantage	on	the	attack	roll.	This	is	true	
+whether	you’re	guessing	the	target’s	location	or	
+you’re	targeting	a	creature	you	can	hear	but	not	see.	
+If	the	target	isn’t	in	the	location	you	targeted,	you	
+automatically	miss,	but	the	GM	typically	just	says	
+that	the	attack	missed,	not	whether	you	guessed	the	
+target’s	location	correctly.
 
+When	a	creature	can’t	see	you,	you	have	
+advantage	on	attack	rolls	against	it.	If	you	are	
+hidden—both	unseen and	unheard—when	you	
+make	an	attack,	you	give	away	your	location	when	
+the	attack	hits	or	misses.
+}}
 
 \column
-### *Search and Study Actions*{color:#D35400}
+{{note,color:purple
+#### How to run hiding in the UA
+**This is an interpretation of the UA rules and is subject to peer review.**
+
+*Who are you hiding from?:*:: Hiding has become a condition. According to the condition text, the creatures you are hidden from are referred to as 'enemies'. This implies that non-enemies may or may not see you, but don't affect your condition and may still be able to target you with line of sight effects.
+
+*Determining Cover:*:: Cover is a one-to-many relationship between you and every other enemy. When checking cover for hiding, use the least applicable cover from all visible enemies. If you are trying to hide while there are no enemies, assume full cover.
+
+*Breaking Line of Sight:*::  A creature can not see you under the following situations: You have Full Cover, you are Heavily Obscured, you have the Hidden Condition, you have the Invisible Condition. In any of these situations, you aren’t affected by any effect from that creature that requires its target to be seen.
+
+*Three-Quarters Cover and No Line of Sight:*:: I honestly don't understand this. If you have 3/4 cover, it means an enemy still has line of sight. I would rule that 3/4 cover never allows hiding because the other hiding requirement can't be fulfilled.
+
+*Unseen Enemies:*:: If you can't see an enemy, but they can see you, you can still succeed on your Hide check. When an unseen enemy that can see you, begins to interact with you while you have the Hidden condition and no cover from that enemy, it immediately ends the hidden condition.
+
+*Revealed:*:: If at any time you lose all cover from a visible enemy and are not heavily obscured, the hidden condition ends.
+
+*Found:*:: If an enemy uses the Search Action to find you with a Wisdom Check (Perception), they must exceed the Stealth check total from your Hide Action. 
+
+*Location:*:: While you have the hidden condition, an enemy may not know your exact location, and must use the rules for guessing the target's location as detailed in the 'Unseen Attackers and Targets' entry.
+}}
+
+{{pageNumber 43}}
+{{footnote PART 2 | INTERACTING WITH THE WORLD}}
+\page
+### *Awareness Actions*{color:#D35400}
 :
 #### Search [Action]
 When	you	take	the	Search	Action,	you	make	a	
@@ -3551,8 +3745,23 @@ Intelligence Check	is	about.
 | Nature        |Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants)|
 | Religion      |Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
 
+#### Hide [Action]
+With	the	Hide	Action,	you	try	to	conceal	yourself.
+To	do	so,	you	must make	a	DC	15	Dexterity	
+Check	(Stealth) while	you’re	Heavily	Obscured	or	
+behind	Three-Quarters	Cover	or	Total	Cover,	and	
+you	must	be	out	of	any	visible enemy’s	line	of	
+sight;	if	you	can	see	a	creature,	you	can	discern
+whether	it can	see	you.
 
-{{pageNumber 42}}
+On	a	successful	check,	you	are	Hidden.	Make	
+note	of	your	check’s	total,	which	becomes	the	DC	
+for	a	creature to	find	you	with	a	Wisdom	Check	(Perception).
+
+
+\column
+
+{{pageNumber 44}}
 {{footnote PART 2 | INTERACTING WITH THE WORLD}}
 \page
 ## Movement
@@ -3679,7 +3888,7 @@ never	provokes	Opportunity	Attacks.
 When	you	teleport,	all	the	equipment	you	are	
 wearing	and	carrying	teleports	with	you.	
 
-{{pageNumber 43}}
+{{pageNumber 45}}
 {{footnote PART 2 | INTERACTING WITH THE WORLD}}
 \page
 If	you	are	touching	another	creature	when	you	
@@ -3718,7 +3927,7 @@ vertically (round	down). This	jump	doesn’t
 expend	your	movement,	but	the	distance	you	
 clear	can’t	exceed	your	Speed.
 
-{{pageNumber 44}}
+{{pageNumber 46}}
 {{footnote PART 2 | INTERACTING WITH THE WORLD}}
 \page
 ## Interacting with People
@@ -3796,7 +4005,7 @@ shown	in	the	Influence Responses table.
 | 10 | The creature offers no help but does no harm.     |
 | 20 | The creature does as asked, as long as no risks or sacrifices are involved.| 
 
-{{pageNumber 45}}
+{{pageNumber 47}}
 {{footnote PART 2 | INTERACTING WITH THE WORLD}}
 \page
 ## Resting, Eating, Travel
@@ -3842,7 +4051,7 @@ restarted;	however,	if	the	rest	was	at	least	1	hour
 long	before	the	interruption,	you	gain the	
 benefits	of	a	Short	Rest.
 
-{{pageNumber 46}}
+{{pageNumber 48}}
 {{footnote PART 2 | INTERACTING WITH THE WORLD}}
 \page
 # Combat
@@ -3920,7 +4129,7 @@ When	you	take	the	Help	Action,	you	do	one	of
 the	following:
 **Assist	Attack	Roll.**:: You	momentarily	distract	an	enemy	within	5	feet	of	you,	granting Advantage	to	the	next	Attack	Roll by	one	of	your	allies	against	that enemy.	This	benefit	expires	at	the	start	of	your	next	turn.
 
-{{pageNumber 47}}
+{{pageNumber 49}}
 {{footnote PART 2 | COMBAT}}
 \page
 # Spellcasting
@@ -4001,7 +4210,7 @@ Armor,	you	can’t	cast	Spells.
 
 
 
-{{pageNumber 48}}
+{{pageNumber 50}}
 {{footnote PART 2 | SPELLCASTING}}
 \page
 # Spells
@@ -4119,7 +4328,7 @@ object move at the caster’s command, or enhance a creature’s
 innate healing abilities to rapidly recover from injury
 }}
 
-{{pageNumber 49}}
+{{pageNumber 51}}
 {{footnote PART 2 | SPELLCASTING}}
 \page
 
@@ -4698,7 +4907,7 @@ following	effects:
 
 ## Hidden
 While	you	are	Hidden,	you	experience	the	following	effects:
-**Concealed.**:: You	aren’t	affected	by	any	effect	that	requires	its	target	to	be	seen
+**Concealed.**:: You	aren’t	affected	by	any effect `from an enemy`	that	requires	its	target	to	be	seen.
 **Surprise.**:: If	you	are	Hidden	when	you	roll	Initiative,	you	have	Advantage	on	the	roll.
 **Attacks	Affected.**:: Attack	Rolls against	you have	Disadvantage,	and	your Attack	Rolls have	Advantage.
 **Ending	the	Condition.**:: The	Condition	ends	on	you	immediately	after	any	of	the	following	occurrences:	you	make	a	sound	louder	than	a	whisper,	an	enemy finds you,	you	make	an	Attack	Roll, you	cast	a	Spell	with	a	verbal	component, or	you	aren’t	Heavily	Obscured	or	behind	any	Cover.
@@ -4717,7 +4926,7 @@ following	effects:
 ## Invisible
 While	you	are	Invisible,	you	experience	the	
 following	effects:
-**Unseeable.**:: You	can’t	be	seen,	so	you	aren’t	affected	by	any	effect	that	requires	its	target	to	be	seen. Any	equipment	you are	wearing	or	carrying	also	can’t	be	seen.
+**Unseeable.**:: You	can’t	be	seen,	so	you	aren’t	affected	by any effect	that	requires	its	target	to	be	seen. Any	equipment	you are	wearing	or	carrying	also	can’t	be	seen.
 **Surprise.**:: If	you	are	Invisible	when	you	roll	initiative,	you	have	Advantage	on	the	roll.
 **Attacks	Affected.**:: Attack	Rolls against	you have	Disadvantage,	and	your Attack	Rolls have	Advantage.
 
