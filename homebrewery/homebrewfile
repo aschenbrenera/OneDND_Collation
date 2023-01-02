@@ -10,70 +10,78 @@
   - #### [{{ Coming Soon}}{{ 2}}](#p2)
   - #### [{{ How to use this Document}}{{ 2}}](#p2)
 	:
-- ## [{{ Part 1}}{{ 2}}](#p2)
-- ### [{{ Build a Character}}{{ 2}}](#p2)
+- ## [{{ Part 1}}{{ 3}}](#p3)
+- ### [{{ Build a Character}}{{ 3}}](#p3)
 - ### [{{ Classes}}{{ 4}}](#p4)
   - #### [{{ Bard}}{{ 5}}](#p5)
-  - #### [{{ Ranger}}{{ 9}}](#p9)
-  - #### [{{ Rogue}}{{ 13}}](#p13)
-- ### [{{ Races}}{{ 17}}](#p17)
-  - #### [{{ Human}}{{ 17}}](#p17)
-  - #### [{{ Dwarf}}{{ 18}}](#p18)
-  - #### [{{ Elf}}{{ 18}}](#p18)
-  - #### [{{ Gnome}}{{ 19}}](#p19)
-  - #### [{{ Halfling}}{{ 20}}](#p20)
-  - #### [{{ Orc}}{{ 20}}](#p20)
-  - #### [{{ Ardling}}{{ 21}}](#p21)
-  - #### [{{ Dragonborn}}{{ 22}}](#p22)
-  - #### [{{ Tiefling}}{{ 23}}](#p23)
-- ### [{{ Backgrounds}}{{ 24}}](#p24)
-  - #### [{{ Languages}}{{ 24}}](#p24)
-  - #### [{{ Sample Backgrounds}}{{ 25}}](#p25)
-- ### [{{ Feats}}{{ 29}}](#p29)
-- ### [{{ Equipment}}{{ 37}}](#p37)
-  - #### [{{ Armor}}{{ 37}}](#p37)
-  - #### [{{ Weapons}}{{ 38}}](#p38)
-  - #### [{{ Tools}}{{ 39}}](#p39)
+  - #### [{{ Cleric}}{{ 9}}](#p9)
+  - #### [{{ Ranger}}{{ 13}}](#p13)
+  - #### [{{ Rogue}}{{ 17}}](#p17)
+- ### [{{ Species}}{{ 21}}](#p21)
+  - #### [{{ Human}}{{ 21}}](#p21)
+  - #### [{{ Dwarf}}{{ 22}}](#p22)
+  - #### [{{ Elf}}{{ 22}}](#p22)
+  - #### [{{ Gnome}}{{ 23}}](#p23)
+  - #### [{{ Halfling}}{{ 24}}](#p24)
+  - #### [{{ Orc}}{{ 24}}](#p24)
+  - #### [{{ Ardling}}{{ 25}}](#p25)
+  - #### [{{ Dragonborn}}{{ 26}}](#p26)
+  - #### [{{ Goliath}}{{ 27}}](#p27)
+  - #### [{{ Tiefling}}{{ 28}}](#p28)
+- ### [{{ Backgrounds}}{{ 29}}](#p29)
+  - #### [{{ Languages}}{{ 29}}](#p29)
+  - #### [{{ Sample Backgrounds}}{{ 30}}](#p30)
+- ### [{{ Feats}}{{ 33}}](#p33)
+- ### [{{ Equipment}}{{ 42}}](#p42)
+  - #### [{{ Armor}}{{ 42}}](#p42)
+  - #### [{{ Weapons}}{{ 43}}](#p43)
+  - #### [{{ Adventuring Gear}}{{ 45}}](#p45)
 \column
-- ## [{{ Part 2}}{{ 40}}](#p40)
-- ### [{{ Abilities & Skills}}{{ 40}}](#p40)
-  - #### [{{ D20 Tests}}{{ 40}}](#p40)
-  - #### [{{ Heroic Inspiration}}{{ 40}}](#p40)
-  - #### [{{ Ability Checks}}{{ 40}}](#p40)
-  - #### [{{ Skills}}{{ 41}}](#p41)
-- ### [{{ Interacting with the World}}{{ 42}}](#p42)
-  - #### [{{ Awareness}}{{ 42}}](#p42)
-    - ###### [{{ How to run Hiding in the UA}}{{ 43}}](#p43)
-  - #### [{{ Movement}}{{ 45}}](#p45)
-  - #### [{{ Interacting with People}}{{ 47}}](#p47)
-  - #### [{{ Resting, Eating, Travel}}{{ 48}}](#p48)
-- ### [{{ Combat}}{{ 49}}](#p49)
-  - #### [{{ Combat Actions}}{{ 49}}](#p49)
-- ### [{{ Spellcasting}}{{ 50}}](#p50)
-  - #### [{{ Ritual Casting}}{{ 50}}](#p50)
-  - #### [{{ Concentration}}{{ 50}}](#p50)
-  - #### [{{ Spellcasting Actions}}{{ 50}}](#p50)
-- ## [{{ Part 3}}{{ 51}}](#p51)
-- ### [{{ Spells}}{{ 51}}](#p51)
-  - #### [{{ Spell Lists}}{{ 51}}](#p51)
-  - #### [{{ Spell Descriptions}}{{ 56}}](#p56)
-- ## [{{ Appendixes}}{{ 57}}](#p57)
-  - #### [{{ Conditions}}{{ 57}}](#p57)
+- ## [{{ Part 2}}{{ 46}}](#p46)
+- ### [{{ Abilities & Skills}}{{ 46}}](#p46)
+  - #### [{{ D20 Tests}}{{ 46}}](#p46)
+  - #### [{{ Heroic Inspiration}}{{ 46}}](#p46)
+  - #### [{{ Ability Checks}}{{ 46}}](#p46)
+  - #### [{{ Skills}}{{ 47}}](#p47)
+- ### [{{ Interacting with the World}}{{ 48}}](#p48)
+  - #### [{{ Awareness}}{{ 48}}](#p48)
+  - #### [{{ Movement}}{{ 51}}](#p51)
+  - #### [{{ Interacting with People}}{{ 53}}](#p53)
+  - #### [{{ Resting, Eating, Travel}}{{ 54}}](#p54)
+- ### [{{ Combat}}{{ 55}}](#p55)
+  - #### [{{ Combat Actions}}{{ 55}}](#p55)
+- ### [{{ Spellcasting}}{{ 56}}](#p56)
+  - #### [{{ Ritual Casting}}{{ 56}}](#p56)
+  - #### [{{ Concentration}}{{ 56}}](#p56)
+  - #### [{{ Spellcasting Actions}}{{ 56}}](#p56)
+- ## [{{ Part 3}}{{ 57}}](#p57)
+- ### [{{ Spells}}{{ 57}}](#p57)
+  - #### [{{ Spell Lists}}{{ 57}}](#p57)
+	- #### [{{ Arcane}}{{ 57}}](#p57)
+	- #### [{{ Divine}}{{ 60}}](#p60)
+	- #### [{{ Primal}}{{ 61}}](#p61)
+  - #### [{{ Spell Descriptions}}{{ 62}}](#p62)
+- ## [{{ Appendixes}}{{ 64}}](#p64)
+  - #### [{{ Conditions}}{{ 64}}](#p64)
 }}
 
 {{pageNumber 1}}
 {{footnote  TABLE OF CONTENTS}}
 \page
 # One D&D Playtest Collation
-This document is to help playtesters.<br>
-After the second UA playtest document was released, I wanted to have one place to go to reference all the material for playtesting. Further, I wanted the information organized like an actual PHB. I decided to dediate a few hours to bringing together information into one place, and share with the community for what help it might offer. I intend to incorperate future UA into this 'living document'.
+<br>This document is to help playtesters. After the second UA playtest document was released, I wanted to have one place to go to reference all the material for playtesting. Further, I wanted the information organized like an actual PHB. I decided to dediate a few hours to bringing together information into one place, and share with the community for what help it might offer. I intend to incorperate future UA into this 'living document'.
+
+## Version
+Last updated Jan 2.  Version 1.0.3
 
 ## Legal Stuff
-Obviously all of the material inside is pulled from content provided by Wizards of the Coast. Right now this document includes information from 3 sources.
+Obviously all of the material inside is pulled from content provided by Wizards of the Coast. Right now this document includes information from 4 sources.
 
 • UA 2022 CHARACTER ORIGINS
 
 • UA 	2022 EXPERT	CLASSES
+
+• UA 	2022 CLERIC	AND	REVISED	SPECIES
 
 • System	Reference	Document 5.1 [SRD] (for context)
 
@@ -88,6 +96,11 @@ This document combines and paraphrases content from the sources to facilitate re
 
 The expectation around information in this document is that it still plays as intended by the UA writers, but due to interpreation may be incorrect.  I threw this together very quickly, and expect there to be mistakes and oversights. Feel free to reach out to me for corrections.
 
+### Coming Soon
+
+
+
+\column
 ## Contact Me
 You can submit corrections or improvements to me via GitHub Issues. Go to github.com and search for 'OneDND_Collation'. I will also start a thread on r/onednd called 'OneDND Playtest Collation'.
 
@@ -100,34 +113,29 @@ You can submit corrections or improvements to me via GitHub Issues. Go to github
 
 
 
-\column
 
-## Version
-Last updated Oct 8th 2022.  Version 0.9.1
 
-### Coming Soon
-I'm considering an appendix entry for all of the 'Actions'. 
 
 ## How to use this?
 As most of this document comes directly from UA, you will just read most sections at face value as UA. I felt it was important to clearly delineate when that is not the case.
 
-### Taken from the SRD
+#### Taken from the SRD
 When something is quoted from the SRD, it will be formatted in a way to make it clear it's source.
 {{purple,#book,text-align:left,background:#aa88aa55
 Information formatted in this way, is pulled directly from the SRD.
 }}
 :
-### Edited by me
+#### Edited by me
 When something is paraphrased by me, it will be formatted in a way to make it clear it has been altered.
 :
 *This information was added or reworded by me,* {color:#D35400} <s> and this information was removed by me</s>, *but the rules of character creation and gameplay should be exactly the same.*{color:#D35400}
 
-### Entirely New
+#### Entirely New
 Very rarely, I've seen what appears to be an oversight, where I believe a certain piece of text is missing that changes how the rules would be interpreted. If I add something, knowing it will change the rules, I do so in the following format.
 :
 UA information `amended with rule changes`.
 
-### Combined
+#### Combined
 If I bring something in from the SRD and I alter it, the formatting styles are combined.
 
 {{purple,#book,text-align:left,background:#aa88aa55
@@ -139,13 +147,13 @@ If I bring something in from the SRD and I alter it, the formatting styles are c
 \page
 
 # Build a Character
-This chapter details building a character.
+<br></brThis>
 
 {{note,color:purple
 This chapter is not yet enitely covered in the UA, and has no available content in the SRD. 
 }}
 
-::
+:
 
 ### Choose a Class
 A	Class’s	description	includes	a	section	on	how	
@@ -161,9 +169,9 @@ to	consider	the	character’s	origin.	Who	are	the
 character’s	ancestors?	And	how	did	the	
 character	spend	the	years	leading	up	to	a	life	of	
 adventure?	To	help	answer	those	questions,	you	
-need to choose a Race and a Background <s> and a language</s>.
+need to choose a Species and a Background <s> and a language</s>.
 
-A	character’s	Race	represents	ancestry	and	
+A	character’s	Species	represents	ancestry	and	
 confers	game	traits	to	the	character.
 
 A	character’s	Background	is	a	collection	of	
@@ -171,7 +179,7 @@ characteristics	that	represent	the	place	and
 occupation	that	were	most	formative for	the	
 character. 
 
-Race	and	Background together help bring	
+Species	and	Background together help bring	
 your	character’s	backstory	into	focus, and	they	
 distinguish the	character	from	other	members	
 of	the	same	Class.	For	example,	two	characters	
@@ -180,30 +188,30 @@ if	one	is	a	Human	Guard and	the	other	is	a
 Dwarf Gladiator,	the	two	bring	different	
 capabilities	and	flavor	to	the	Class.
 
-<s>After	choosing	a	Race	and	a	Background,	you	
+<s>After	choosing	a	Species	and	a	Background,	you	
 choose	a	language	that	your	character	knows,	in	
 addition	to	the	Common	tongue and	whatever	
 language	you	gained	from	the	Background you	chose.</s>
 
-The	combination	of	Race and	Background	<s>and	
+The	combination	of	Species and	Background	<s>and	
 	languages</s> provides fertile	soil	for	your imagination,	as	you	ponder	your	character’s	
 earliest	days	and	imagine	the	character’s	family,	
 occupation, hometown,	and	more.
 
 The	Character	Origin	Overview	table	
-lists	the	traits your	character	gains	from	Race	
+lists	the	traits your	character	gains	from	Species	
 and	Background.
 
-::::::::
+\column
 
 ##### Character Origin Overview
-| Race Trait        | Description |
+| Species Trait        | Description |
 |:------------------|:-----------------|
 | Creature Type     | Every character and monster in the game has a Creature Type.|
 | Size              | A character’s Size determines the amount of space the character occupies.|
 | Speed             | Speed fuels a character’s movement.|
-| Life Span         | This life span is an average for a member of the Race.|
-| Special Traits    | Each Race provides special traits—a collection of abilities that characters gain from their ancestors. |
+| Life Span         | This life span is an average for a member of the Species.|
+| Special Traits    | Each Species provides special traits—a collection of abilities that characters gain from their ancestors. |
 
 | Background Trait        | Description |
 |:------------------|:-----------------|
@@ -211,7 +219,7 @@ and	Background.
 | Skill Proficiencies | You get two Skill Proficiencies from a Background.|
 | Tool Proficiency    | Each Background gives Tool Proficiency with one tool.|
 | Language            | *A Background grants three languages (see rules).* {color:#D35400}|
-| Special Traits    | Each Race provides special traits—a collection of abilities that characters gain from their ancestors. |
+| Special Traits    | Each Species provides special traits—a collection of abilities that characters gain from their ancestors. |
 | Feat                | Each Background provides a 1st-level Feat—a special ability acquired in the character’s past.|
 | Equipment           | A Background provides a portion of a character’s starting equipment, with the rest coming from Class.|
 
@@ -222,11 +230,7 @@ and	Background.
 {{footnote PART 1 | BUILD A CHARACTER}}
 \page
 # Classes
-This chapter details the playable classes.
-
-Characters who	have	levels	in	a	Class	are exceptional;	most	of	the	inhabitants	of	the multiverse	aren’t	members	of a	Class.
-
-:::::
+<br>Characters who	have	levels	in	a	Class	are exceptional;	most	of	the	inhabitants	of	the multiverse	aren’t	members	of a	Class.
 
 ### Class Group
 Each	Class	is	a	member	of	a	Class	Group — a	set of	Classes	that	have	certain	features	and	themes in	common. The	Class	Groups	table	lists	the groups and	summarizes	characteristics	the members	of	a	group	have	in	common.
@@ -287,9 +291,7 @@ Cauldron	of	Everything.  After you gain the Subclass (At level 3 for all UA clas
 
 \page
 # Bard
-This section details the bard class.  
-
-Invoking	magic	through	music,	dance,	and	verse,
+<br>Invoking	magic	through	music,	dance,	and	verse,
 Bards are	expert	at	inspiring others, soothing	hurts, disheartening foes,	and	creating illusions.
 
 Bards	believe that	the	creators	of	the	multiverse	spoke and	signed it into	existence
@@ -302,7 +304,7 @@ everything.	They	have	a	wide-ranging	knowledge	of	many	subjects	and	develop	an	a
 
 Not	every	singer or	poet in	a	tavern	or	jester in	a	royal	court	is	a	Bard.	Harnessing the	Words	of	Creation requires	hard	work and	some	measure	of	natural	talent	that	most	troubadours	and jongleurs	lack.	It	can	sometimes	be	hard	to	spot	the	difference	between	these	performers	and	Bards,	though.	A	Bard’s	life	is	spent	wandering	across	the	land	gathering	lore,	telling	stories,	and	living	on	the	gratitude	of	audiences,	much like	any	other	entertainer.	But	Bards’ depth	of	knowledge,	level	of	musical	skill,	and	mastery of	magic	sets	them apart.
 
-
+::::::::::::
 
 {{classTable,frame,decoration,wide
 ##### The Bard
@@ -409,8 +411,8 @@ Bardic	Inspiration	die	in	the	following	ways:
 *Levels: 1st, see Bard Table for Spells at each level*
 
 You	have	learned	to	cast	Spells	through	your	
-bardic	arts.	See	the	Spellcasting chapter for	the	
-rules	on	spellcasting.	The	information	below	
+bardic	arts.	*See	the	Spellcasting chapter for	the	
+rules	on	spellcasting.*{color:#D35400}	The	information	below	
 details	how	you	use	those	rules	as	a	Bard.
 
 **Spellcasting	Ability.**	Charisma is	your Spellcasting	Ability for	your	Bard Spells.
@@ -425,7 +427,7 @@ Whenever	you	finish	a	Long	Rest *practicing	your	bardic	arts,	you can*{color:#D3
 {{pageNumber 6}}
 {{footnote PART 1 | CLASSES}}
 \page
-&emsp;*At 1st level, you prepare two Cantrip	Spells and	two 1st-level	Spells of	your	choice.* {color:#D35400} At	higher levels	in	this	Class,	you	can	prepare	more	Spells,	as	shown	on	the	Bard	table. The numbers there	determine	the	number	of different Spells	you can prepare of	each	level. For example,	as	a	3rd-level	Bard,	you	can	prepare	two	different	*Cantrip*{color:#D35400}	Spells,	four	different	1st-level	Spells, and	two	different	2nd-level	Spells.
+&emsp;*At 1st level, you prepare two Cantrips and	two 1st-level	Spells of	your	choice.* {color:#D35400} At	higher levels	in	this	Class,	you	can	prepare	more	Spells,	as	shown	on	the	Bard	table. The numbers there	determine	the	number	of different Spells	you can prepare of	each	level. For example,	as	a	3rd-level	Bard,	you	can	prepare	two	different	*Cantrips*{color:#D35400},	four	different	1st-level	Spells, and	two	different	2nd-level	Spells.
 
 
 Consult the	“Prepared	Bard	Spell” section for	recommendations	on	which	spells	to	prepare <s>at	higher	levels</s>.
@@ -470,7 +472,7 @@ number	of	Spells	you	can	prepare.
 ### Bard Subclass and Features
 *Levels: 3rd, 6th, 10th, 14th*
 
-*You	gain	a	Bard Subclass	of	your	choice. Bard Subclasses are detailed at the end of the Bard Class description.*{color:#D35400}
+*You	gain	a	Bard Subclass	of	your	choice. UA Bard Subclasses are detailed at the end of the Bard Class description.*{color:#D35400}
 
 A	Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Bard levels.	For	the	rest	of your	career,	you	gain	each	of	your	Subclass’s	features	that	are	of	your	Bard level	and	lower. *UA Bard Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
 
@@ -501,7 +503,7 @@ In	addition,	if	a	creature	rolls	your	Bardic	Inspiration	die	and	gets	a	1	(after
 
 You have	collected magical	knowledge	from	a	wide	spectrum	of	disciplines.
 
-*When you get this feature at 11th-level you choose a Spell List: Arcane,	Divine,	or	Primal. When you get this feature again at 15th level, you choose a different spell list.*{color:#D35400}
+*When you gain this feature at 11th-level you choose a Spell List: Arcane,	Divine,	or	Primal. When you gain this feature again at 15th level, you choose a different spell list.*{color:#D35400}
 
 *Whenever	you prepare your Bard Spells, you may choose to prepare up to two spells of any school of magic from each spell list you have chosen from the Magical Secrets feature. The spells prepared this way count towards your Prepred Bard Spells Per Spell Level.*{color:#D35400}
 
@@ -551,7 +553,7 @@ specified	in	the	Subclass.
 
 **Bard College.**  Bards	form	loose	associations,	which	they	call colleges,	to	facilitate	their	gatherings	and	preserve	their	traditions. 
 
-*The iconic bard is from the	College	of	Lore.*{color:#D35400}
+*The iconic Bard is from the	College	of	Lore.*{color:#D35400}
 
 ### College of Lore
 Bards	of	the	College	of	Lore	know	something	about	most	things,	collecting	bits	of	knowledge	from	sources	as	diverse	as	scholarly	tomes	and	peasant	tales.	Whether	singing	folk	ballads	in	taverns	or	performing	elaborate	compositions	in	royal	courts,	these	Bards	use	their	gifts	to	hold	audiences	spellbound. 
@@ -611,10 +613,391 @@ Inspiration	isn’t	expended.
 {{pageNumber 8}}
 {{footnote PART 1 | CLASSES}}
 \page
-# Ranger
-This section details the ranger class.  
+# Cleric
+<br></brClerics>Clerics	draw	power	from	the	realms	of	the	gods	
+and harness it	to work	miracles.	Blessed	by	a	
+deity,	a	pantheon, or	another	immortal	entity,	a	
+Cleric	can	reach out	to	the	divine	magic	of	the	
+Outer Planes—where	gods dwell—and	channel	
+that	energy to bolster people and	to	battle	foes.
 
-Far	from	the	bustle	of cities,	amid	the	trees	of	
+Because	their	power	is	a	divine	gift,	Clerics
+typically associate	themselves	with	temples	or	
+shrines	dedicated	to whatever	deity	or	other	
+immortal	force	unlocked	their	magical	ability.
+Harnessing	divine magic	doesn’t	rely	on	study	or	
+training,	yet	a	Cleric	might	learn	formulaic	
+prayers	and	ancient	rites that	help	them	focus	
+their	minds	and	spirits	on	drawing	power	from	
+the	Outer	Planes. Even	a	Cleric	who	declines	to	
+worship	their	divine benefactor	might	perform	
+their	benefactor’s	rites	if	doing	so	helps	the	
+Cleric	feel	connected	to	the	immortal	realms.
+
+Not	every	acolyte	or	officiant	at	a	temple	or	
+shrine	is	a	Cleric.	Some	priests	are	called	to	a	
+simple	life	of	temple	service,	carrying	out	their	
+devotion	through	prayer	and	rituals,	not	through
+magic.	Some	of	the	most	influential	high	priests	
+are	incapable	of	harnessing	divine	magic,	and	a	
+few of	them feel	threatened	when	a	Cleric	
+appears.	Many	can	pray,	and	some	mortals	claim	
+to	speak	for the	gods.	But	few can	marshal	the	
+power	of	those	gods	the	way	a	Cleric	can.
+
+::::::::::::::
+
+{{classTable,frame,decoration,wide
+##### The Cleric
+| Level | Prof.       | Features                |Cantrips | --- Prepred Spells Per Spell Level ---|||||||||
+|      ^| Bonus       |                        ^|   ^|1st |2nd |3rd |4th |5th |6th |7th |8th |9th |
+|:-----:|:-----------:|:------------------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  1st  | +2 | Channel Divinity, Spellcasting   | 3  | 2  | —  | —  | —  | —  | —  | —  | —  | —  |
+|  2nd  | +2 | Holy Order                       | 3  | 3  | —  | —  | —  | —  | —  | —  | —  | —  |
+|  3rd  | +2 | Cleric Subclass                  | 3  | 4  | 2  | —  | —  | —  | —  | —  | —  | —  |
+|  4th  | +2 | Feat                             | 4  | 4  | 3  | —  | —  | —  | —  | —  | —  | —  |
+|  5th  | +3 | Smite Undead                     | 4  | 4  | 3  | 2  | —  | —  | —  | —  | —  | —  |
+|  6th  | +3 | Subclass Feature                 | 4  | 4  | 3  | 3  | —  | —  | —  | —  | —  | —  |
+|  7th  | +3 | Blessed Strikes                  | 4  | 4  | 3  | 3  | 1  | —  | —  | —  | —  | —  |
+|  8th  | +3 | Feat                             | 4  | 4  | 3  | 3  | 2  | —  | —  | —  | —  | —  |
+|  9th  | +4 | Holy Order                       | 4  | 4  | 3  | 3  | 3  | 1  | —  | —  | —  | —  |
+| 10th  | +4 | Subclass Feature                 | 5  | 4  | 3  | 3  | 3  | 2  | —  | —  | —  | —  |
+| 11th  | +4 | Divine Intervention              | 5  | 4  | 3  | 3  | 3  | 2  | 1  | —  | —  | —  |
+| 12th  | +4 | Feat                             | 5  | 4  | 3  | 3  | 3  | 2  | 1  | —  | —  | —  |
+| 13th  | +5 | --                               | 5  | 4  | 3  | 3  | 3  | 2  | 1  | 1  | —  | —  |
+| 14th  | +5 | Subclass Feature                 | 5  | 4  | 3  | 3  | 3  | 2  | 1  | 1  | —  | —  |
+| 15th  | +5 | --                               | 5  | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  | —  |
+| 16th  | +5 | Feat                             | 5  | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  | —  |
+| 17th  | +6 | --                               | 5  | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  | 1  |
+| 18th  | +6 | Greater Divine Intervention      | 5  | 4  | 3  | 3  | 3  | 3  | 1  | 1  | 1  | 1  |
+| 19th  | +6 | Feat                             | 5  | 4  | 3  | 3  | 3  | 3  | 2  | 1  | 1  | 1  |
+| 20th  | +6 | Epic Boon                        | 5  | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
+}}
+
+{{pageNumber 9}}
+{{footnote PART 1 | CLASSES}}
+\page
+### Creating a Cleric
+To	create	a	Cleric,	consult	the	*information in this section* {color:#D35400}.  Then	look	at	the	Bard table	to see	the	Class Features you	get	at	each	level in	this	Class.	The	 descriptions	of	those	features	appear	in the Cleric “Class Features”	section.
+
+**Class Group:** :: Priest
+**Primary Ability:** :: Wisdom
+#### Hit Points
+
+**Hit Dice:**                    :: 1d8 per Cleric level
+**Hit Points at 1st Level:**     :: 8 + your Constitution modifier
+**Hit Points per Level after 1st:** :: 1d8 (or 5) + your Constitution modifier
+
+#### Armor Training
+Light Armor, Medium Armor, Shields
+
+#### Proficiencies
+**Weapons:** :: Simple Weapons
+**Tools:**   :: None
+**Saving Throws:** :: Wisdom, Charisma
+**Skills:**        :: *Choose two skills from: History, Insight, Medicine, Persuasion, and Religion <br>&emsp;(Recommended: Persuasion and Religion)* {color:#D35400}
+
+#### Equipment
+As	a	1st-level	character,	you	start	with	the	
+following	equipment,	or	you	can	forgo	it	and	
+spend	110	GP	on	equipment	of	your	choice.
+
+Chain Shirt, Holy Symbol, Mace, Priest's Pack, Shield, 7 GP
+
+#### Multiclassing and the Cleric
+*Here’s	what	you	need	to	know	if	you	choose	Cleric	as	one	of	your	Classes when multiclassing.*{color:#D35400}
+
+**Ability	Score	Minimum.** As	a	multiclass	character,	you	must	have a	score	of at	least	13	in the	Cleric’s	primary	ability,	Widsom,	to	take	a	level	in	this	Class	or	to	take	a	level	in	another	Class	if	you	are	already	a	Cleric.
+
+**Armor	Training.** When	you	gain	your	first	Cleric	level,	you	gain Armor Training with the following:	Light	Armor, Medium Armor, and Shields.
+
+**Spell	Slots.** Add all	your	Cleric levels	to	the	 appropriate	levels	from	other	Classes	to	
+determine	your	available	Spell	Slots for	casting	 Spells,	as	detailed	in	the	multiclassing rules.
+
+You	prepare	Spells	for	each	of	your	Classes	individually,	referring	to the	Spell	Slots	of an	
+individual Class	to	determine	the	number	and	levels	of	the	Spells	you	prepare	for	it.
+
+\column
+## Class Features
+As	a	Cleric,	you	gain	the	following	Class	Features	
+when	you	reach	the	specified	levels	in	this	Class.	
+These	features	are	listed	on	the	Cleric table.
+
+### Channel Divinity
+*Levels: 1st*
+
+You	gain	the	ability	to	channel	divine	energy	
+directly	from	the	Outer	Planes,	using	that	energy	
+to	fuel	magical	effects.	You	start	with	two	such	
+effects:	Divine	Spark and Turn	Undead,	each	of	
+which	is	described	below. Each	time you	use	
+your	Channel	Divinity,	you	choose	which	effect	
+to create,	and	you	gain	additional	effect	options	
+at	higher	levels	in	this	Class.
+
+You	can	use	your	Channel	Divinity	a	number	of	
+times	equal	to	your	Proficiency	Bonus,	and	you	
+regain	all	expended	uses	when	you	finish	a Long	
+Rest.
+
+Some	Channel	Divinity	effects	require	Saving	
+Throws.	When	you	use	such	an	effect	from	this	
+Class,	the	DC	equals	the	Spell	Save	DC from	this	
+Class’s	Spellcasting	feature.
+
+**Divine	Spark.** As	a	Magic Action,	you	point
+your	Holy	Symbol at	another	creature	you	can	
+see	within	30	feet	of	yourself and focus	divine	
+energy	at	them.	Roll	a	number	of	d8s	equal	to	
+your	Proficiency	Bonus	and	add	the	rolls	
+together.	You	either	restore	Hit	Points	to	the	
+creature	equal	to	that	total or	force	the	creature
+to	make	a	Constitution	Saving	Throw.	On	a	failed	
+save,	the	creature takes Radiant	Damage	equal	to	
+the	total,	and	on	a	successful	save,	the	creature	
+takes	half as	much	damage (rounded	down).
+
+**Turn	Undead.** As	a	Magic Action,	you	present	
+your	Holy	Symbol	and	speak	a	prayer	censuring	
+Undead creatures.	Each Undead	within	30	feet	of	
+you	must	make	a	Wisdom	Saving	Throw.	If	the	
+creature	fails	its	Saving	Throw,	it	is	Dazed for	1	
+minute or until	it	takes	any	damage or	you	are	
+Incapacitated or	die. While	Dazed in	this	way,	
+the	only	Action	the	creature	can	take	is	the	Dash	
+Action,	and	if	it	Moves,	it	must	end	that	Move	
+farther	from	you	than	where	it	started.
+
+### Spellcasting
+*Levels: 1st, see Cleric Table for Spells at each level*
+
+You	have	learned	to	cast	Spells	through	your	
+prayer, meditation, and devotion.	*See	the	Spellcasting chapter for	the	
+rules	on	spellcasting.*{color:#D35400}	The	information	below	
+details	how	you	use	those	rules	as	a	Cleric.
+
+**Spellcasting	Ability.**	Widsom is	your Spellcasting	Ability for	your Cleric Spells.
+
+**Spellcasting	Focus.**	You	can	use	a	Holy Symbol  as	a	Spellcasting	Focus for	*your Cleric Spells*{color:#D35400}.
+
+**Prepared	Spells.**
+Any Spell	you prepare	for	this	Class	must	be an Divine Spell.
+
+Whenever	you	finish	a	Long	Rest *praying or meditating, you can*{color:#D35400} replace	any	Spell	you	have	prepared	for	this	Class	with	another Divine	Spell of	the	same	level. 
+
+{{pageNumber 10}}
+{{footnote PART 1 | CLASSES}}
+\page
+&emsp;*At 1st level, you prepare three Cantrips and	two 1st-level	Spells of	your	choice.* {color:#D35400} At	higher levels	in	this	Class,	you	can	prepare	more	Spells,	as	shown	on	the	Cleric	table. The numbers there	determine	the	number	of different Spells	you can prepare of	each	level. For example,	as	a	4th-level Cleric,	you	can	prepare	four	different	*Cantrips*{color:#D35400},	four	different	1st-level	Spells, and	three	different	2nd-level	Spells.
+
+
+Consult the	“Prepared	Cleric	Spell” section for	recommendations	on	which	spells	to	prepare <s>at	higher	levels</s>.
+
+**Spell	Slots.** 
+The	Cleric	table	shows	how	many Spell	Slots	you	have	at	each	level	to	cast	your	
+Cleric	Spells	of	1st	level	and	higher.
+The	number	of	different	Spells	you	can	prepare	of	each	level equals	the	number	of	Spell	Slots	you	have	at that	level. For	example,	as	a	5th-level	Cleric,	you	have	four	1st-level	Spell	Slots,	three	2nd-level	Spell	Slots,	and	two	3rd-level	Spell	Slots.
+
+### Holy Order
+*Levels: 2nd, 9th*
+
+You	have	dedicated	yourself	to	one	of	the	
+following	sacred	roles,	either	on	your	own	or	as	
+part	of	a	religious	order.	
+
+*When you gain this feature at 2nd-level you choose a role. When you gain this feature again at 9th level, your	sacred	duties	have	expanded allowing you to choose a second role.* {color:#D35400}
+
+**Protector.**:: Trained for	battle,	you	gain	Martial	Weapon	Proficiency	and	Heavy	Armor	Training.
+
+**Scholar.**:: Studying	and	teaching	about	lore	of	the	gods	and	the	multiverse,	you	gain	Proficiency	in	two	of	the	following	Skills	of	your	choice:	Arcana,	History,	Nature,	Persuasion,	and	Religion. Whenever	you	make	an	Ability	Check	using	either	Skill,	you	gain	a	bonus	to	the	check	equal	to	your	Wisdom	Modifier.
+
+**Thaumaturge.**:: Delving	deeper	into	your	divine	magical	abilities,	you	can	prepare	one	extra	*Cantrip* {color:#D35400}	from	the	Divine	Spell list. See	your	Spellcasting	feature for	more	information	on	preparing	Spells. In	addition,	you	regain	one	expended	use	of	your	Channel	Divinity	whenever	you	finish	a	Short	Rest.
+
+### Cleric Subclass and Features
+*Levels: 3rd, 6th, 10th, 14th*
+
+*You	gain	a	Cleric Subclass	of	your	choice. UA Cleric Subclasses are detailed at the end of the Cleric Class description.*{color:#D35400}
+
+A	Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Cleric levels.	For	the	rest	of your	career,	you	gain	each	of	your	Subclass’s	features	that	are	of	your	Cleric level	and	lower. *UA Cleric Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
+
+:::
+
+### Feat
+*Levels: 4th, 8th, 12th, 16th, 19th*
+
+You	gain	the	Ability	Score	Improvement	Feat	or	another	Feat	of	your choice.
+
+### Smite Undead
+*Levels: 5th*
+
+You	can	cause your Turn	Undead feature to	
+smite	the	undying; whenever you	use	Turn	
+Undead,	you	can	roll	a	number	of	d8s equal	to	
+your	Proficiency	Bonus and	add	the	rolls	
+together.	Each	Undead	that	fails	its	Saving	
+Throw	against	that	use	of	Turn	Undead	takes	
+Radiant	Damage	equal	to	the	roll’s	total.
+
+
+### Blessed Strikes
+*Levels: 7th*
+
+Divine	power	infuses	you in	battle.	When	a	
+creature	takes	damage	from	one	of	your	*Cantrips* {color:#D35400}	or	your	attacks with	Weapons,	you	can	
+also	deal	1d8	Radiant	Damage	to	that	creature.	
+Once	you	deal	this	damage,	you	can’t	use	this	feature	again	until	the	start	of	your	next	turn.
+
+### Divine Intervention
+*Levels: 11th*
+
+You	can	call	on	your deity or	pantheon to	
+intervene	on	your	behalf	when	your	need	is	
+great.
+
+As	an	Action,	describe	the	assistance	you	seek,	
+and	roll	percentile	dice.	If	you	roll	a	number	
+equal	to	or	lower	than	your	Cleric	level,	the
+divine	power intervenes.	The	DM	chooses	the	
+nature	of	the	intervention;	the	effect	of	any	
+Divine Spell is	appropriate.
+If	the	intervention	occurs,	you	can’t	use	this	
+feature	again	for	2d6 days.	Otherwise,	you	can	
+use	it	again	after	you	finish	a	Long	Rest.
+
+### Greater Divine Intervention
+*Levels: 18th*
+
+When	you	use	your	Divine	Intervention	feature,	
+it	succeeds	automatically—no	roll	required—
+and	you	can	use	it	again	after	2d4 days.
+
+### Epic Boon
+*Levels: 20th*
+
+*You gain	an	Epic	Boon Feat	of your choice. (Recommended:	Epic Boon of Fate)*{color:#D35400}
+
+{{pageNumber 11}}
+{{footnote PART 1 | CLASSES}}
+\page
+
+### Prepared Cleric Spells
+This	section	provides	recommended	Spells that you	prepare	at	each	Cleric level. Look	for	your	
+Cleric	level,	and	you	prepare	the	spells	for	that	level and	all	lower	Cleric	levels.	
+##### Recommended Cleric Spells
+| Cleric Level | Spells |
+|:-----|:-----|
+| 1st  | **Cantrip:** Sacred Flame, Spare the Dying, Thaumaturgy <br> **1st-Level:**  Cure Wounds, Shield of Faith |
+| 2nd  | **1st-Level:** Bless|
+| 3rd  | **1st-Level:** Guiding Bolt <br>**2nd-Level:** Blur, Shatter|
+| 4th  | **Cantrip:** Guidance <br> **2nd-Level:** Aid| 
+| 5th  | **3rd-Level:** Beacon of Hope, Spirit Guardians| 
+| 6th  | **3rd-Level:** Dispel Magic| 
+| 7th  | **4th-Level:** Guardian of Faith | 
+| 8th  | **4th-Level:**  Banishment | 
+| 9th  | **4th-Level:**  Death Ward <br> **5th-Level:** Flame Strike| 
+| 10th | **Cantrip:** Resistance <br> **5th-Level:** : Circle of Power| 
+| 11th | **6th-Level:** Heal| 
+| 13th | **7th-Level:** Divine Word| 
+| 15th | **8th-Level:** Holy Aura| 
+| 17th | **9th-Level:** Mass Heal| 
+| 18th | **5th-Level:** Raise Dead| 
+| 19th | **6th-Level:** Word of Recall| 
+| 20th | **7th-Level:** Regenerate| 
+
+## Cleric Subclasses
+A	Cleric Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Cleric levels,	as specified	in	the	Subclass. 
+
+**Cleric Domains.**  Each	Cleric	Subclass	is	named	after	a domain	
+of	existence	that	is	favored	by	a	god,	a	pantheon,	
+or	a	religious	order. When	you	choose	a	
+Subclass,	you	decide	why	your	Cleric chose that	
+domain.
+
+*The iconic Cleric choses the life domain.*{color:#D35400}
+
+### Life Domain
+The	Life	Domain	focuses	on	the	vibrant	positive	
+energy—one	of	the	fundamental	forces	of	the	
+universe—that	sustains	all	life.	The	Clerics	who	
+tap	into	this	domain	are	masters	of	healing,	
+using	that force	of	life	to	cure	many	hurts.
+
+Existence	itself relies	on	the	positive	energy	
+associated	with	this	domain,	so	a Cleric	of	any	
+religious	tradition	might	choose	it.	This	domain
+is	associated	with	agricultural	deities,	sun	gods,	
+gods	of	healing	or	endurance,	and	gods	of	home	
+and	community. Religious	orders	of	healing	also	
+seek	the	powers	of	this	domain.
+::
+##### Domain Spells
+*Levels: 3rd*
+
+Your	connection	to	this	divine	domain	ensures	
+you	always	have	certain	Spells	ready.	When	you	
+reach	a Cleric	level specified in	the	Life	Domain	
+Spells	table,	you	thereafter	always	have	the	
+listed Spells	prepared.	These	Spells	don’t	count	
+against	the	number	of	Spells	you	can	prepare,	
+and	they	follow	the	rules	of	this	Class’s	
+Spellcasting	feature.
+
+| Cleric Level | Prepared Spells |
+|:-----|:-----|
+| 3rd  | Lesser Restoration, Prayer of Healing |
+| 5th  | Mass Healing Word, Revivify |
+| 7th  | Aura of Life, Death Ward |
+| 9th  | Greater Restoration, Mass Cure Wounds |
+
+##### Disciple of Life
+*Levels: 3rd*
+
+Your	healing	Spells	are	empowered	by	life	itself.	
+When	a	Spell	you	cast	with	a	Spell	Slot	restores	
+Hit	Points	to	a	creature, that creature regains	
+additional	Hit	Points on	the	turn	you	cast	the	
+Spell.	The	additional	Hit	Points equal	2	plus the	
+Spell’s	level.
+
+##### Preserve Life
+*Levels: 6th*
+
+You	can	use	your	Channel	Divinity	to	heal	a	
+group	of	the critically injured.	As	an	Action, you	
+expend	one use	of	your	Channel	Divinity and	
+present	your	Holy	Symbol, restoring a	number	of	
+Hit	Points	equal	to	5 times	your	Cleric	level.	
+Choose	any	creatures	within	30	feet	of	yourself
+(you	can	choose yourself),	and	divide	those	Hit	
+Points	among	the	chosen	creatures.	This	feature	
+can	bring	a	creature’s	current	Hit	Points	to	no	
+more	than	half	its	Hit	Point	Maximum.
+
+##### Blessed Healer
+*Levels: 10th*
+
+The	healing	spells	you	cast	on	others	heal	you	as	
+well.	When	you	cast	a	spell	with	a	Spell	Slot on	
+another	creature	that restores Hit	Points	to	it,	
+you	regain	Hit	Points	equal	to	2	plus	the	Spell’s	
+level on	the	turn	you	cast	the	Spell.
+
+##### Supreme Healing
+*Levels: 14th*
+
+When	you	would	normally	roll	one	or	more	dice	
+to	restore	Hit	Points	to	a	creature	with	a	Spell	
+that	you	cast	with	a	Spell	Slot,	don’t	roll	those	
+dice for	the	healing;	instead	use	the	highest	
+number	possible	for	each	die.	For	example,	
+instead	of	restoring	2d6	Hit	Points	to	a	creature
+with	a	Spell,	you	restore	12.
+
+{{pageNumber 12}}
+{{footnote PART 1 | CLASSES}}
+\page
+# Ranger
+<br>Far	from	the	bustle	of cities,	amid	the	trees	of	
 trackless	forests	and	across	wide	plains,	Rangers	
 keep	their	unending	watch.
 
@@ -631,7 +1014,7 @@ talents	and	magic are	honed	with	deadly	focus
 on	the	task	of	protecting	the	world	from the	
 ravages	of	monsters	and	tyrants.
 
-
+::::::::::::::::::::::
 
 {{classTable,frame,decoration,wide
 ##### The Ranger
@@ -660,7 +1043,7 @@ ravages	of	monsters	and	tyrants.
 | 20th  | +6 | Epic Boon                        |  3  | 4  | 3  | 3  | 3  | 2  |
 }}
 
-{{pageNumber 9}}
+{{pageNumber 13}}
 {{footnote PART 1 | CLASSES}}
 
 \page
@@ -701,7 +1084,7 @@ the	Ranger’s	primary	abilities,	Dexterity and Wisdom,	to	take	a	level	in	this	
 Ranger	level,	you	gain	the	following	Armor	
 Training:	Light	Armor,	Medium	Armor,	and	Shield.
 
-**Proficiencies.** If	Ranger	isn’t	your	initial	Class,	here	are the	Proficiencies	you	gain	when	you take	your	first	Ranger	level: *Light Armor, Medium, Armor, Shield,*{color:#D35400} Martial Weapons, and	one	Skill	of	your	choice from the Ranger's Skill list.
+**Proficiencies.** If	Ranger	isn’t	your	initial	Class,	here	are the	Proficiencies	you	gain	when	you take	your	first	Ranger	level:  Martial Weapons, and	one	Skill	of	your	choice from the Ranger's Skill list.
 
 **Spell	Slots.** Add	half	your	Ranger	levels	(rounded up) to	the	 appropriate	levels	from	other	Classes	to determine	your	available	Spell	Slots for	casting	 Spells,	as	detailed	in	the	multiclassing rules.
 
@@ -736,7 +1119,7 @@ Incapacitated.
 *Levels: 1st, see Bard Table for Spells at each level*
 
 You	have	learned	to	channel the	magical	essence	of	nature	to	cast	Spells.
-See	the	Spellcasting chapter for	the	rules	on	spellcasting.
+*See	the	Spellcasting chapter for	the	rules	on	spellcasting.*{color:#D35400}
 The	information	below	details	how	you	use	those	rules	as	a	Ranger.
 
 **Spellcasting Ability** Widsom is	your Spellcasting Ability for	your	Ranger Spells.
@@ -748,11 +1131,11 @@ Any Spell	you prepare	for	this	Class	must	be an Primal Spell,	and it	and	it	can	
 
 Whenever	you	finish	a	Long	Rest *communing	with	nature, you can*{color:#D35400}	replace	any	Spell	you	have	prepared	for	this	Class	with	another	 Primal	Spell of	the	same	level,	abiding	by	the	school	restriction	above. 
 
-*At 1st level, you prepare two	*Cantrip*{color:#D35400}	Spells and	two 1st-level	Spells of	your	choice.* {color:#D35400}
+*At 1st level, you prepare two Cantrips and	two 1st-level	Spells of	your	choice.* {color:#D35400}
 
 At	higher levels	in	this	Class,	you	can	prepare	more	Spells,	as	shown	on	the	Ranger	table. The numbers there	determine	the	number	of different Spells	you can prepare of	each	level.
 For	example,	as	a	3rd-level	Ranger,	you	can	
-prepare	two	different	*Cantrip*{color:#D35400}	Spells and	three different	1st-level	Spells.
+prepare	two	different	*Cantrips*{color:#D35400} and	three different	1st-level	Spells.
 
 Consult the	“Prepared	Ranger	Spell” section for	recommendations	on	which	spells	to	prepare <s>at	higher	levels</s>.
 
@@ -766,7 +1149,7 @@ level. For	example,	as	a	5th-level	Ranger,	you
 have	four	1st-level	Spell	Slots and	two	2nd-level	
 Spell	Slots.
 
-{{pageNumber 10}}
+{{pageNumber 14}}
 {{footnote PART 1 | CLASSES}}
 \page
 
@@ -786,7 +1169,7 @@ Group.
 ### Ranger Subclass and Features
 *Levels: 3rd, 6th, 10th, 14th*
 
-*You	gain	a	Ranger Subclass	of	your	choice. Ranger Subclasses are detailed at the end of the Ranger Class description.*{color:#D35400}
+*You	gain	a	Ranger Subclass	of	your	choice. UA Ranger Subclasses are detailed at the end of the Ranger Class description.*{color:#D35400}
 
 A	Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Ranger levels.	For	the	rest	of your	career,	you	gain	each	of	your	Subclass’s	features	that	are	of	your	Ranger level	and	lower. *UA Ranger Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
 
@@ -852,7 +1235,7 @@ Ranger	level,	and	you	prepare	the	spells	for	that	level and	all	lower	Ranger	lev
 | 17th | **4th-Level:** Conjure Woodland Beings <br> **5th-Level:** Conjure Volley| 
 | 19th | **5th-Level:** Tree Stride| 
 
-{{pageNumber 11}}
+{{pageNumber 15}}
 {{footnote PART 1 | CLASSES}}
 \page
 
@@ -910,36 +1293,47 @@ half	of	the	damage to	one	creature (other	than
 the	attacker) that you	can	see	within	5	feet	of	
 yourself.
 
-{{pageNumber 12}}
+{{pageNumber 16}}
 {{footnote PART 1 | CLASSES}}
 \page
 # Rogue
-This section details the rogue class.  
+<br>Rogues	rely	on	cunning,	stealth,	and	their	foes’
+vulnerabilities	to	get	the	upper	hand	in	any	
+situation.	They	have	a	knack	for	finding	the	
+solution	to	just	about	any	problem,	
+demonstrating	a	versatility	that	is	the	
+cornerstone	of	any	successful	adventuring	party.
 
-Far	from	the	bustle	of cities,	amid	the	trees	of	
-trackless	forests	and	across	wide	plains,	Rangers	
-keep	their	unending	watch.
+Rogues	devote	as	much	effort	to	mastering	the	
+use of	a	variety	of	skills	as	they	do	to	perfecting	
+their	combat	abilities,	giving	them	broad	
+capabilities that	few	other	characters	can	match.	
+Many	Rogues	focus	on	stealth	and	deception,	
+while	others	refine	skills	that	help	them	in	a	
+dungeon	environment,	such	as	climbing,	finding	
+and	disarming	traps,	and	opening	locks.
 
-Wanderers of	the	wilderness,	Rangers	
-specialize	in	facing monsters	that	threaten	the	
-world.	Rangers learn	to	track	their	quarry	as	a	
-predator	does,	moving	stealthily	through	the	
-wilds	and	hiding	themselves	in	brush	and	rubble.
+When	it	comes	to	combat,	Rogues	prioritize	
+subtle	strikes over	brute	strength.	A	Rogue	
+would	rather	make	one	precise	strike than	wear	
+an	opponent	down	with	a	barrage	of	blows.	
+Rogues	have	an	almost	supernatural	knack	for	
+avoiding	danger,	and	a	few	learn	magical	tricks	
+to	supplement	their	other	abilities.
 
-Thanks	to	their	connection with	nature,	
-Rangers	can	also	cast	Spells	that	harness	the	
-primal powers	of	the	wilderness.	A	Ranger’s	
-talents	and	magic are	honed	with	deadly	focus	
-on	the	task	of	protecting	the	world	from the	
-ravages	of	monsters	and	tyrants.
+Some	Rogues	began	their	careers as	criminals,	
+while	others	used	their	cunning	to	fight	crime.	
+Whatever	a	Rogue’s	relation	to	the	law,	no	
+common	criminal	or	officer	of	the	law	can	match	
+the	subtle	brilliance	of	the	greatest	Rogues.
 
-
+:::
 
 {{classTable,frame,decoration,wide
 ##### The Rogue
 | Level | Prof.| Features                       |Sneak  |
 |      ^| Bonus|                               ^|Attack^|
-|:-----:|:--:|:---------------------------------|:---- |
+|:-----:|:--:|:---------------------------------|:----:|
 |  1st  | +2 | Expertise, Sneak Attack, Thieves' Cant| 1d6  |
 |  2nd  | +2 | Cunning Action                   | 1d6  |
 |  3rd  | +2 | Rogue Subclass                   | 2d6  |
@@ -962,7 +1356,7 @@ ravages	of	monsters	and	tyrants.
 | 20th  | +6 | Epic Boon                        | 10d6 |
 }}
 
-{{pageNumber 13}}
+{{pageNumber 17}}
 {{footnote PART 1 | CLASSES}}
 
 \page
@@ -1029,13 +1423,7 @@ a	Ranged	Weapon	and	if	at	least	one	of	the
 following	requirements	is	met:
 **Advantage.**:: You	have	Advantage	on	the	Attack	Roll.
 **Ally	Adjacent	to	Target.**::	At	least	one	of	your	allies	is	within	5	feet	of	the	target,	the	ally	isn’t	 Incapacitated,	and	you	don’t	have	 Disadvantage	on	the	Attack	Roll.
-
-To	determine	the	extra	damage,	roll	a	number	
-of	d6s	equal	to	half	your	Rogue level	(round	up),	
-and	add	the	dice	together	(the	Rogue	table	
-shows	the	number	of	Sneak	Attack dice	you	get	
-at	each	Rogue	level).	The	extra	damage’s	type	is	
-the	same	as	the	weapon’s	Damage	Type
+*The extra damage is a number of d6s (shown on the Rogue Table) equal	to	half	your	Rogue level	(round	up).* {color:#D35400} The	extra	damage’s	type	is	the	same	as	the	weapon’s	Damage	Type.
 
 ### Thieves' Cant
 *Levels: 1st*
@@ -1059,11 +1447,11 @@ Dash,	Disengage,	or Hide.
 ### Rogue Subclass and Features
 *Levels: 3rd, 6th, 10th, 14th*
 
-*You	gain	a	Rogue Subclass	of	your	choice. Rogue Subclasses are detailed at the end of the Ranger Class description.*{color:#D35400}
+*You	gain	a	Rogue Subclass	of	your	choice. UA Rogue Subclasses are detailed at the end of the Ranger Class description.*{color:#D35400}
 
 A	Subclass	is	a	specialization	that	grants	you	special	abilities	at	certain	Rogue levels.	For	the	rest	of your	career,	you	gain	each	of	your	Subclass’s	features	that	are	of	your	Rogue level	and	lower.
 
-{{pageNumber 14}}
+{{pageNumber 18}}
 {{footnote PART 1 | CLASSES}}
 \page
 *UA Rogue Sublasses grant features at 3rd-level, 6th-level, 10th-level, and 14th-level.*{color:#D35400}
@@ -1124,6 +1512,7 @@ You	are	so	evasive	that	attackers	rarely	gain	the
 upper	hand	against	you.	No	Attack	Roll has	
 Advantage	against	you	while	you	aren’t	
 Incapacitated.
+\column
 
 ### Stroke of Luck
 *Levels: 18th*
@@ -1174,6 +1563,9 @@ the	following:
 You	have	trained	to	reach	especially	hard-toreach	places,	granting	you	these	benefits:
 **Climb	Speed.**:: You	gain	a	Climb	Speed equal	to	your	Speed.
 **Jump	Distance.**:: When	you	take	the	Jump	Action,	you can make	a	Dexterity	Check,	instead	of	a	Strength	Check.
+{{pageNumber 19}}
+{{footnote PART 1 | CLASSES}}
+\page
 
 ##### Supreme Sneak
 *Levels: 6th*
@@ -1182,9 +1574,7 @@ You	have	Advantage	on	every	Dexterity	Check
 (Stealth)	you	make,	provided	you	aren’t	wearing	
 Medium	or	Heavy	Armor.
 
-{{pageNumber 15}}
-{{footnote PART 1 | CLASSES}}
-\page
+
 
 ##### Use Magic Device
 *Levels: 10th*
@@ -1206,38 +1596,36 @@ number	of	turns	equal	to	your	Proficiency
 Bonus,	and	you	regain	all	expended	uses	when	
 you	finish	a	Long	Rest.
 
-{{pageNumber 16}}
+{{pageNumber 20}}
 {{footnote PART 1 | CLASSES}}
 
 \page
-# Races
-This chapter details the playable races.
-When	you	choose	your	character’s	Race,	you	
-determine	whether	your	character	is	a	member	
-of	the	human	race	or	of	a	fantastical	race. This	
-*chapter*{color:#D35400}	provides	descriptions	and	rules	for	
-the	following	Race options:	Human,	Ardling,	
-Dragonborn,	Dwarf,	Elf,	Gnome,	Halfling,	Orc,	
-and	Tiefling.
-The	description	of	each	Race	includes	a	
+# Species
+<br>When	you	choose	your	character’s	Species,	you	
+determine	whether	your	character	is human	or	of	a	fantastical	Species,	such	as	
+Dragonborn	or	Gnome. This	*chapter*{color:#D35400}	provides	descriptions	and	rules	for	
+the	following	Species options:	Human, Dwarf, Elf, Gnome, Halfling, Orc, Ardling, Dragonborn, Goliath, and Tiefling.
+
+The	peoples	of	the	D&D	multiverse	hail	from	
+many	worlds	and	are	members	of	many	different	
+sapient	life	forms.	A	player character’s	Species	is	
+the	set	of	game	traits	that	an	adventurer	gains	
+from	being	one	of	those	life-forms.	A	character’s	
+upbringing	and	training	are	represented	in	the	
+rules	by	Class	and	Background.
+Some	Species	can	trace	their	origin	to	a	single	
+world,	plane	of	existence,	or	god,	while	other	
+Species	first	appeared in	multiple	realms	at	once.	
+Whatever	a	Species’	origin	story,	its	members	
+have	spread	across	the	multiverse	and	
+contribute	to	various	cultures.
+
+The	description	of	each	Species	includes	a	
 section	of	game	traits,	which	your	character	
-gains if	you	select	that Race.	NPCs	of	the	same	
+gains if	you	select	that Species.	NPCs	of	the	same	
 ancestry	don’t	necessarily	have	the	same	traits,	
 as	explained in	the	Monster	Manual;	the	traits	
 here	pertain	to	player	characters.
-
-
-##### Creature Type
-All creatures in	D&D,	including	every	player	
-character,	has	a	special	tag	in	the	rules	that	
-identifies	the	type	of	creature	they	are. These	types	don’t	have	rules	themselves,	but	some	rules	in	the	game	affect creatures	of	certain	types	in	different	ways.	For	example,	the	
-description of the Cure	Wounds Spell	specifies	the	healing doesn’t	work	on a	Construct.
-
-Most	player	characters	are	of	the	Humanoid	type.
-Here’s	a	list	of	the	game’s	Creature	Types	in	
-alphabetical	order:
-
-Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, Undead
 
 {{note
 ##### Children of different humanoid kinds
@@ -1248,9 +1636,9 @@ human parent and an orc or an elf parent are
 particularly common. Many other combinations
 are possible.
 If you’d like to play the child of such a wondrous
-pairing, choose two Race options that are
+pairing, choose two Species options that are
 Humanoid to represent your parents. Then
-determine which of those Race options provides
+determine which of those Species options provides
 your game traits: Size, Speed, and special traits.
 You can then mix and match visual
 characteristics—color, ear shape, and the like—of
@@ -1265,7 +1653,19 @@ your character might live. For example, a child of a
 halfling and a gnome has an average life span of
 288 years.
 }}
+
+##### Creature Type
+All creatures in	D&D,	including	every	player	
+character,	has	a	special	tag	in	the	rules	that	
+identifies	the	type	of	creature	they	are. These	types	don’t	have	rules	themselves,	but	some	rules	in	the	game	affect creatures	of	certain	types	in	different	ways.	For	example,	the	
+description of the Cure	Wounds Spell	specifies	the	healing doesn’t	work	on a	Construct.
 \column
+Most	player	characters	are	of	the	Humanoid	type.
+Here’s	a	list	of	the	game’s	Creature	Types	in	
+alphabetical	order:
+
+Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, Undead
+
 ## Human
 Found	throughout	the	multiverse,	humans	are	
 as	varied	as	they	are	numerous.	They are	
@@ -1288,7 +1688,7 @@ where	the	Common	tongue	was	born. From
 there,	humans	could	have	spread	to	every	
 corner	of	the	multiverse,	bringing	Sigil’s
 cosmopolitanism with	them.
-:::
+
 #### Humans of many worlds
 On	any	given	world	in	the	multiverse,	the
 material	culture	of	humans	can	change	from	
@@ -1308,7 +1708,7 @@ Use the information below for your character sheet.
 
 **Creature	Type:**	Humanoid
 
-**Size:**	Medium	(about	4–7 feet	tall) or	Small	(about	2–4 feet	tall),	chosen	when	you	select	this	Race
+**Size:**	Medium	(about	4–7 feet	tall) or	Small	(about	2–4 feet	tall),	chosen	when	you	select	this	Species
 
 **Speed:** 30	feet
 
@@ -1322,8 +1722,8 @@ As	a	Human,	you	have	these	special	traits:
 
 **Versatile.** You	gain a 1st-level	Feat of	your	choice.
 
-{{pageNumber 17}}
-{{footnote PART 1 | RACES}}
+{{pageNumber 21}}
+{{footnote PART 1 | SPECIES}}
 \page
 
 ## Dwarf
@@ -1428,13 +1828,13 @@ body	hair.
 ##### Elven Lineages
 | Lineage  | 1st-Level          | 3rd-Level          | 5th-Level          |
 |:---------|:-------------------|:-------------------|:-------------------|
-| Drow     | The range of your Darkvision increases to 120 feet.<br> You also know the Dancing Lights cantrip.        | Faerie Fire       | Darkness |
-| High Elf | You know *a cantrip from the Arcane Spell List*{color:#D35400}.<br>&emsp;*(Recommended: Prestidigitation)*{color:#D35400} <br> Whenever you finish a Long Rest, you can replace <br>&emsp;that cantrip with a different cantrip from the <br>&emsp;Arcane Spell List.| Detect Magic   | Misty Step      |
-| Wood Elf | Your Speed increases to 35 feet.<br> You also know the Druidcraft cantrip.| Longstrider       | Pass without Trace   |
+| Drow     | The range of your Darkvision increases to 120 feet.<br> You also know the Dancing Lights Cantrip.        | Faerie Fire       | Darkness |
+| High Elf | You know *a Cantrip from the Arcane Spell List*{color:#D35400}.<br>&emsp;*(Recommended: Prestidigitation)*{color:#D35400} <br> Whenever you finish a Long Rest, you can replace <br>&emsp;that Cantrip with a different Cantrip from the <br>&emsp;Arcane Spell List.| Detect Magic   | Misty Step      |
+| Wood Elf | Your Speed increases to 35 feet.<br> You also know the Druidcraft Cantrip.| Longstrider       | Pass without Trace   |
 }} 
 
-{{pageNumber 18}}
-{{footnote PART 1 | RACES}}
+{{pageNumber 22}}
+{{footnote PART 1 | SPECIES}}
 \page
 #### Elves of many worlds
 After	leaving	the	Feywild,	elves	established	
@@ -1568,11 +1968,11 @@ fondness	for artifice	and	clockwork	inventions.
 ##### Gnomish Lineage
 | Lineage      | Benefit |
 |:-------------|:-------|
-| Forest Gnome | You know the Minor Illusion cantrip. <br> You can cast the Speak with Animals Spell with this trait. You can cast it with the trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any Spell Slots you have to cast the Spell.| 
-| Rock Gnome   | You know the Mending and Prestidigitation cantrips.|
+| Forest Gnome | You know the Minor Illusion Cantrip. <br> You can cast the Speak with Animals Spell with this trait. You can cast it with the trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any Spell Slots you have to cast the Spell.| 
+| Rock Gnome   | You know the Mending and Prestidigitation Cantrips.|
 
-{{pageNumber 19}}
-{{footnote PART 1 | RACES}}
+{{pageNumber 23}}
+{{footnote PART 1 | SPECIES}}
 \page
 ### Gnome Traits
 Use the information below for your character sheet.
@@ -1712,8 +2112,8 @@ harmony	with	their	neighbors	and	the	natural
 world,	and to	many	of them,	Gruumsh’s	wars	
 are	distant	memories.
 
-{{pageNumber 20}}
-{{footnote PART 1 | RACES}}
+{{pageNumber 24}}
+{{footnote PART 1 | SPECIES}}
 \page
 ### Orc Traits
 Use the information below for your character sheet.
@@ -1736,89 +2136,66 @@ gain	a	number	of	Temporary	Hit	Points	equal	to	 your	Proficiency	Bonus. You	can	
 **Relentless	Endurance.** When	you	are	reduced	to	0	Hit Points	but	not	killed	outright,	you	can	drop	to	1	Hit	Point	instead.	Once	you	use	this	trait,	you	can’t	do	so	again	until	you	finish	a	Long	Rest.
 
 ## Ardling
-Ardlings	are	supernal	beings	who	are	either	
-born	on	the	Upper	Planes	or	have	one	or	more	
-ancestors	who originated	there. Their	bright	
-souls	shine with	the	light	of	immortal	beings
-who	call	the	Upper	Planes	home.
-
-An ardling has	a	head resembling	that of	an
-animal,	typically one with virtuous	associations.
-Depending	on	the	animal,	the	ardling	might	also	
-have	soft	fur,	downy	feathers,	or	supple	bare	
-skin.	The	ardling’s	celestial	legacy determines	
-the	animal	it	resembles.
-
-An ardling gains	a	measure	of	magical	power	
-from	their	celestial	legacy,	as	well	as the	ability	
-to	manifest spectral wings.	An	ardling’s moral	
-and	ethical	outlook	is self-determined,	however,	
-not	fixed by	ancestry.
-
-The	three	celestial	legacies	are	as	follows:
-**Exalted.**:: The	fierce passions	of	Arborea,	the	 heroic	heart	of	Ysgard,	and	the wondrous	nature of	the Beastlands call	to	ardlings who	have	the	Exalted celestial legacy.	Their	celestial	ancestors	are heroic	champions	of	the	Chaotic	Good	planes.
-**Heavenly.**::	The	blissful harmony	of	Arcadia,	the	unwavering justice of	Mount	Celestia,	and	the	bucolic paradise	of	Bytopia touch the	souls	of ardlings	who	have	the	Heavenly	celestial	legacy.	Their	celestial	ancestors	are	staunch	defenders	of	the	Lawful	Good	planes.
-**Idyllic.**:: The	Idyllic celestial legacy	connects	ardlings not	only	to	the	Beastlands and Bytopia but	also	to	the	eternal	compassion	of	Elysium.	Their	celestial	ancestors	are	paragons	of	kindness who	hail from the	Neutral	Good	planes.
+Celestial	animals	roam	the	Beastlands,	a	plane	of	
+untamed	beauty	and	wild	nature.	Many	of	those
+otherworldly	animals	serve	the	Beast	Lords,	and	
+in	the	early	days	of	the	multiverse,	some	of	the	
+animals	evolved	into bipedal	forms.	Among	their	
+number	are	Ardlings,	people with	beastlike	
+heads,	keen	senses,	and	an	innate	connection	to	
+divine	magic.	Long	ago,	the	ancestors	of	Ardlings	
+migrated	to	the	Material	Plane, and	Ardlings	can	
+now	be	found	on	many	worlds.
+An	Ardling	has	a	head	resembling	that	of	an	
+animal.	Depending	on	the	animal,	the	Ardling	
+might	also	have	fur,	feathers,	or	scales.	Some	
+little	and others	hulking,	Ardlings	are	as	varied	
+as	the	animals	they	resemble.
 
 #### Ardlings of Many Worlds
-Ardlings	bring	a	little	bit	of	the	Upper	Planes	
-with	them	wherever	they	go.	On	many	worlds,	
-the	first	ardlings used the	magic	of	their	
-celestial	legacies	to	inspire and	heal	others.
-
-By	virtue	of	their	celestial	legacies,	some	
-ardlings	strive	to	make	the	world	a	better	place.	
-Others	use	their	supernal	gifts	to	be	the	best	
-version	of	themselves	they	can	be.	Still	others	
-are	delighted	to	have	a	connection	to	the	Upper	
-Planes	without	the	responsibility	of	always	
-having	to	do	the	right	thing.
-
+???
+\column
 ### Ardling Traits
 Use the information below for your character sheet.
 
 **Creature	Type:**	Humanoid
 
-**Size:**	Medium	(about	4–7	feet	tall)	or	Small (about	3–4 feet	tall),	chosen	when	you	select	this	Race
+**Size:**	Medium	(about	4–7	feet	tall)	or	Small (about	3–4 feet	tall),	chosen	when	you	select	this	Species
 
 **Speed:** 30	feet
 
 **Life	Span:** 200 years	on	average
 
-**Angelic	Flight.** As	a	Bonus	Action,	you sprout	spectral	wings	for	a	moment	and fly	up	to	a	number	of	feet	equal	to	your	Speed.	If	you	are	in	the	air	at	the	end	of	this	movement,	you	fall if	nothing	is	holding	you	aloft. You	can	use	this	Bonus	Action	a	number	of	times	equal	to	your	Proficiency	Bonus,	and	you	 regain	all	expended	uses	when	you	finish	a	Long	Rest.
+**Divine Magic.** You	can	innately	channel	minor	divine	magic; You know *a Cantrip from the Divine Spell List. (Recommended: Thaumaturgy)*{color:#D35400} Whenever you finish a Long Rest, you can replace that spell with a different *Cantrip*{color:#D35400} from the Divine Spell List. 
 
-**Celestial	Legacy.** You	are	the	recipient	of	a	celestial legacy	that	grants	you	magical abilities. Choose	a legacy from	the	Celestial Legacies table:	Exalted,	associated	with	Chaotic	Good planes; Heavenly,	associated	with	Lawful	Good planes;	or	Idyllic,	associated	with	Neutral Good planes. You	gain	the	initial benefit	of	the	chosen	legacy:	a	cantrip	that	you	learn. You also choose	the	animal	you	most	closely	resemble;	the	table	 provides	a	few suggestions	for	each	legacy (you don’t	gain wings	by	choosing	an	animal	that	can	fly). 
+Intelligence,	Wisdom,	or	Charisma	is	your	spellcasting	ability	for	any	Spell	you	cast	with	this	trait	(choose	the	ability	when	you	select	the	Species). 
 
-Starting	at	3rd	level	and	again	at	5th	level, you	gain	the	ability	to	cast	a	higher-level	Spell with	this	trait,	as	shown	on	the	table.	Once	you	 cast	the	Spell with	this	trait,	you	can’t	cas that	Spell with	it	again	until	you	finish	a	Long	Rest;	however,	you	can	cast	the	Spell using	any	Spell Slots	you	have	of	the	appropriate	level. 
+**Keen	Senses.**	You	have	Proficiency	in	the	Perception	Skill.
 
-Intelligence,	Wisdom,	or	Charisma	is	your	spellcasting	ability	for	the	Spells	you	cast	with	
-this	trait	(choose	the	ability	when	you	select	the	legacy).
+**Animal	Ancestry.** You	are	descended	from	a	Celestial	animal.	Choose	one	of	the	ancestry	types	below,	then	choose	one	of	the	example	animals	listed	for	that	ancestry (or	a	similar	animal);	you	gain	the	benefits	of	that	ancestry,	and	your	head	resembles	the	head	of	the	chosen	animal:
 
-**Damage	Resistance.** You	have	Resistance	to	 Radiant	Damage.
+**Climber	(Bear,	Cat,	Lizard,	Squirrel).**::	You	have	 hooked	claws,	sharp	nails,	or	a	serpentine	tail.	 As	a	result,	you	have	a	Climb	Speed	equal	to	 your	Speed,	and	once	per	turn	when	you	deal	 damage	with	your	Unarmed	Strike	to	a	target,	 you	can	increase	the	damage	to	that	target by	 an	amount	equal	to	your	Proficiency	Bonus.
+**Flyer (Bat,	Eagle,	Owl,	Raven).**::	You	have	 vestigial	wings.	As	a	result,	when	you	fall	at	 least	10	feet,	you	can	use	your	Reaction	to	 safely	glide	downward,	taking	no	damage	from	 the	fall.	In	addition,	when	you	take	the	Jump	 Action,	you	can	flap	your	wings	to	gain	 Advantage	on	that	Action’s Ability	Check.
+**Racer	(Deer,	Dog,	Horse,	Triceratops).**:: When	 you	take	the	Dash	Action,	your	Speed	increases for	that	Action.	The	increase	equals	ten	times	 your	Proficiency	Bonus.
+**Swimmer	(Crocodile,	Dolphin,	Frog,	Shark).**::	 You	can	hold	your	breath	for	up	to	an	hour	at	a	 time,	and	you	have	a	Swim	Speed	equal	to your	 Speed.	In	addition,	you	have	Resistance	to	Cold Damage.
 
-{{wide
-##### Celestial Legacies
-| Legacy   | Suggested Animals         | 1st-Level          | 3rd-Level          | 5th-Level          |
-|:---------|:--------------------------|:-------------------|:-------------------|:-------------------|
-| Exalted  | Cat, eagle, goat, mule    | Thaumaturgy        | Divine Favor       | Lesser Restoration |
-| Heavenly | Elephant, owl, pig, stork | Light              | Cure Wounds        | Zone of Truth      |
-| Idyllic  | Bear, dog, raven, toad    | Guidance           | Healing Word       | Animal Messenger   |
-}} 
 
-{{pageNumber 21}}
-{{footnote PART 1 | RACES}}
+
+{{pageNumber 25}}
+{{footnote PART 1 | SPECIES}}
 \page
 ## Dragonborn
-The	earliest dragonborn	hatched	from	the	eggs	
+The	ancestors of Dragonborn	hatched	from	the	eggs	
 of	chromatic	and	metallic	dragons. One	story	
 holds	that these	eggs	were	blessed	by	the
 dragon	gods	Bahamut	and	Tiamat,	who	wanted
 to populate	the	worlds	of	dragons with	people	
 created	in	their	image.	Another	story holds	that	
-dragons created	the	first	dragonborn without	
-the	gods’ blessings.	Whatever	their	origin,	
-dragonborn	have	made	homes	for	themselves	
-on	the	worlds	of	the	Material	Plane.
+dragons created	the	first	the	Dragonborns’	
+progenitors without	the	gods’	blessings.	
+Whatever	their	origin,	Dragonborn	have	made	
+homes	for	themselves	on	the	worlds	of	the	
+Material	Plane.
 
 Dragonborn	look	like	wingless,	bipedal
 dragons—scaly,	bright-eyed, and	thick-boned,	
@@ -1827,14 +2204,14 @@ chromatic	ancestry	have	scales	that	are	black,
 blue,	green,	red,	or	white,	whereas	dragonborn	
 of	metallic	ancestry	have	scales	that	are	the	
 color	of	brass,	bronze,	copper,	gold,	or	silver.	
-When	two	dragonborn	whose	scales	are	of	
+When	two	Dragonborn	whose	scales	are	of	
 different	colors produce	a	child,	their offspring’s	
 scales	match	those of	one parent or	the	other.
 
-Like	their	draconic	ancestors,	dragonborn	can	
+Like	their	draconic	ancestors,	Dragonborn	can	
 exhale	acid,	cold,	fire,	lightning,	or	poison. One	
-can	tell	the	type	of	energy	a	dragonborn	
-breathes	by	the	color	of	the	dragonborn’s
+can	tell	the	type	of	energy	a	Dragonborn	
+breathes	by	the	color	of	the	Dragonborn’s
 scales.
 
 #### Dragonborn of many worlds
@@ -1871,7 +2248,7 @@ presence and	influence,	much	as	dragons do.
 | Silver      | Cold        |
 | White       | Cold        |
 
-::::::
+\column
 ### Dragonborn Traits
 Use the information below for your character sheet.
 
@@ -1891,16 +2268,19 @@ your	appearance,	with	you	displaying
 coloration	and	other	features	reminiscent	of	
 that	dragon.
 
-**Breath	Weapon.** As	an Action,	you	exhale
-destructive	energy in	a	15-foot	cone.	Each	
-creature	in	that	area	must	make	a	Dexterity	
-saving	throw against	a	DC	equal	to	8	+	your	
-Constitution	modifier	+	your	Proficiency	Bonus.	
-On	a	failed	save,	a	creature	takes	1d10 +	your
-character level in damage	of	the	type	
-determined	by	your	Draconic	Ancestry trait.	On	
-a	successful	save,	a	creature	takes	half	as	much	
-damage.
+**Breath	Weapon.** . When	you	take	the	Attack	
+Action	on	your	turn,	you	can	replace	one	of	your	
+attacks	with	an	exhalation	of	magical	energy	in	
+either	a	15-foot	cone	or	a	30-foot	line	that	is	5	
+feet	wide.	Each	creature	in	that	area	must	make	
+a	Dexterity	Saving	Throw against	a	DC	equal	to	8	+	your	Constitution	modifier +	your	Proficiency	
+Bonus.	On	a	failed	save,	a	creature	takes	1d10	
+damage	of	the	type	determined	by	your	Draconic	
+Ancestry	trait.	On	a	successful	save,	a	creature	
+takes	half	as	much	damage.	This	damage	
+increases	by	1d10	when	you	reach	the	following	
+character	levels:	5th	level	(2d10),	11th	level	
+(3d10),	and	17th	level	(4d10).
 
 You	can	use	this	Breath	Weapon	a	number	of	
 times	equal	to	your	Proficiency	Bonus,	and	you	
@@ -1913,12 +2293,83 @@ Ancestry	trait.
 
 **Darkvision.**	You	have	Darkvision	with	a	range	 of	60	feet.
 
-**Draconic	Language.** You	instinctively	know	
-the	language	of	dragons.	You	can	therefore	
-speak,	read,	and	write	Draconic.
+**Draconic	Flight.** When	you	reach	5th	level,	
+you	learn	how	to	channel	the	magical	energy	of	
+your	Draconic	Ancestry	to	give	yourself	
+temporary	flight.	As	a	Bonus	Action,	you sprout	
+spectral wings	on	your	back	that	last	for	10	
+minutes	or	until	you are Incapacitated or	you	
+retract	the	wings	as	a	Bonus	Action.	During	that	
+time,	you	have	a	Fly	Speed	equal	to	your	Speed.	
+Your	wings	appear	to	be	made	of	the	energy	
+used by	your	Breath	Weapon.	Once	you	use	this	
+trait,	you	can’t	use	it	again	until	you	finish	a	Long	
+Rest.
 
-{{pageNumber 22}}
-{{footnote PART 1 | RACES}}
+{{pageNumber 26}}
+{{footnote PART 1 | SPECIES}}
+\page
+## Goliath
+Towering	over	most	folk,	Goliaths	are distant	
+descendants	of	giants.	Each	Goliath	bears	the	
+blessings	of	the	first	giants—blessings	that	
+manifest	in	various	supernatural	boons,	
+including	the	ability	to	quickly	grow	and	
+temporarily	approach	the	height	of	the	Goliaths’	
+gigantic	kin.
+
+Goliaths	have	physical	characteristics	that	are	
+reminiscent	of	the	giants	in	their	family	lines.	
+For	example,	some	Goliaths	look	like	stone	
+giants,	while	others	resemble	fire	giants.	
+Whatever	giants	they	count	as	kin,	Goliaths	have	
+forged	their	own	path	in the	multiverse—
+unencumbered	by	the	internecine	conflicts	that	
+have	ravaged	giant-kind	for	ages—and	seek	
+heights	above	those	reached	by	their	ancestors.
+
+#### Goliaths of Many Worlds
+???
+\column
+### Goliath Traits
+Use the information below for your character sheet.
+
+**Creature	Type:**	Humanoid
+
+**Size:**	Medium	(about	7-8	feet	tall)
+
+**Speed:** 35	feet
+
+**Life	Span:** 80 years	on	average
+
+**Powerful	Build.** You	have	Advantage	on	any	Saving	Throw	you	make	to	end	the	Grappled condition	on	yourself.	You also count	as	one	Size	larger	when	determining	your	carrying	capacity	and	the	weight	you	can	push,	drag,	or	lift.
+
+**Giant	Ancestry.** You	are	descended	from	Giants.	Choose	one	of	the	following	benefits—a	supernatural	boon	from	your	ancestry;	you	can	use	the	chosen	benefit	a	number	of	times	equal	to	your	Proficiency	Bonus,	and	you	regain	all	expended	uses	when	you finish	a	Long	Rest:
+
+**Cloud’s Jaunt (Cloud	Giant).**::	As	a	Bonus	Action,	 you	magically	Teleport up	to	30	feet	to	an	 unoccupied	space	you	can	see. 
+**Fire’s	Burn (Fire	Giant).**:: When	you	hit	a target with	an	Attack	Roll and	deal	damage	to	it,	you	 can	also	deal	1d10 Fire	Damage	to	that	target.
+**Frost’s	Chill	(Frost	Giant).**:: When	you	hit	a	target with	an	Attack	Roll and	deal	damage to	 it,	you	can	also	deal	1d6	Cold	Damage	to that	 target	and	reduce	its	Speed	by	10	feet	until	the	 start	of	your	next	turn. 
+**Hill’s	Tumble (Hill	Giant).**::	When	you	hit	a	 Large	or	smaller	creature	with	an	Attack	Roll	 and	deal	damage to	it,	you	can	knock	that target	Prone.
+**Stone’s	Endurance	(Stone	Giant).**::When	you	 take	damage,	you	can	use	your	Reaction	to	roll	 a	d12.	Add	your	Constitution	modifier to	the	 number	rolled	and	reduce	the	damage	by	that	 total.
+**Storm’s	Thunder (Storm Giant).**:: When	you	 take	damage	from	a	creature	within	60	feet	of	 you,	you	can	use	your	Reaction	to	deal	1d8	 Thunder	Damage	to	that	creature.
+
+
+&emsp;**Large	Form.** Starting	at	5th	level, you	gain	the	
+ability	to	supernaturally	grow.	As	a	Bonus	
+Action,	you	change	your	Size	to	Large,	provided	
+you’re	in	a	big	enough	space.	This	
+transformation	lasts	for	10	minutes	or	until	you	
+end	it	as	a	Bonus	Action.	During	that	duration,	
+you	have	Advantage	on	Strength	Checks,	and	
+your	Speed	increases	by	10	feet.	Once	you	use	
+this	trait,	you	can’t	use	it	again	until	you	finish	a	
+Long	Rest.
+
+
+
+
+{{pageNumber 27}}
+{{footnote PART 1 | SPECIES}}
 \page
 ## Tiefling
 Tieflings	are	either	born	in	the	Lower	Planes	or	
@@ -1988,18 +2439,16 @@ Spell with	it	again	until	you	finish	a	Long	Rest.
 ##### Fiendish Legacies
 | Legacy   | 1st-Level          | 3rd-Level          | 5th-Level          |
 |:---------|:-------------------|:-------------------|:-------------------|
-| Abyssal  | You have Resistance to Poison Damage.<br>You also know the Poison Spray cantrip.| Ray of Sickness    | Hold Person        |
-| Chthonic | You have Resistance to Necrotic Damage.<br>You also know the Chill Touch cantrip.| False Life         | Ray of Enfeeblement|
-| Infernal | You have Resistance to Fire Damage.<br>You also know the Fire Bolt cantrip.| Hellish Rebuke     | Darkness           |
+| Abyssal  | You have Resistance to Poison Damage.<br>You also know the Poison Spray Cantrip.| Ray of Sickness    | Hold Person        |
+| Chthonic | You have Resistance to Necrotic Damage.<br>You also know the Chill Touch Cantrip.| False Life         | Ray of Enfeeblement|
+| Infernal | You have Resistance to Fire Damage.<br>You also know the Fire Bolt Cantrip.| Hellish Rebuke     | Darkness           |
 }} 
 
-{{pageNumber 23}}
-{{footnote PART 1 | RACES}}
+{{pageNumber 28}}
+{{footnote PART 1 | SPECIES}}
 \page
 # Backgrounds
-This chapter details backgrounds.
-
-Your	character’s	Background	is	a	collection	of	
+<br>Your	character’s	Background	is	a	collection	of	
 characteristics	that	represent	the	place	and	
 occupation	that	were	most	formative	for	the	
 character	before	they	embarked	on	a	life	of	
@@ -2061,7 +2510,7 @@ Language	feature	below.
 **Ability Scores.**:: When you determine your character’s ability scores, choose two of them, and increase one by 2 and the other one by 1. Alternatively, choose three ability scores, and increase each of them by 1.
 **Skill Proficiencies.**:: Choose two Skills. Your character gains Proficiency in them.
 **Tool Proficiency.**:: Choose one tool. Your character gains Tool Proficiency with it.
-**Language.**:: *Your	character	begins	play	knowing	at	least	three	languages: Common, one language from the Standard Languages Table, and one language from either Language table below.*{color:#D35400} 
+**Language.**:: *Your	character	begins	play	knowing	at	least	three	languages: Common, one language from the Standard Languages Table, and one language from either the Standard or Rare Languages table.*{color:#D35400} 
 **Feat.**:: Choose one 1st-level Feat. Your character gains that Feat.
 **Equipment.**:: Your character gains 50 GP to spend on starting equipment. The character keeps any unspent GP as spare coin.
 
@@ -2107,7 +2556,7 @@ language	are	mentioned.
 {{note
 #### Ability Score Increases from elsewhere
 Since 2014, characters have received ability score
-increases from several sources, either from a Race
+increases from several sources, either from a Species
 that has the Ability Score Increase trait or from
 the ability score rules in Tasha’s Cauldron of
 Everything, Monsters of the Multiverse, and other
@@ -2119,7 +2568,7 @@ older ability score increases to gain the increases
 from the Background rules here.
 }}
 
-{{pageNumber 24}}
+{{pageNumber 29}}
 {{footnote PART 1 | BACKGROUNDS}}
 \page
 
@@ -2155,7 +2604,7 @@ and	the	people	who	prayed	there.
 **Ability Scores:**:: +2 Intelligence, +1 Charisma
 **Skill Proficiencies:**:: Investigation, Persuasion
 **Tool Proficiency:**:: Artisan’s Tools (one of your choice)
-**Languages:**:: *Common, Gnomish, any standard language*{color:#D35400} 
+**Languages:**:: *Common, Gnomish, any language*{color:#D35400} 
 **Feat:**:: Crafter
 **Equipment:**:: Abacus, Artisan’s Tools (same as above), Merchant’s Scale, Pouch (2), Traveler’s Clothes, 25 GP
 You began	mopping	floors	and	scrubbing	
@@ -2224,7 +2673,7 @@ Great	One has in	store	for	you.
 **Ability Scores:**:: +2 Charisma, +1 Dexterity
 **Skill Proficiencies:**:: Acrobatics, Performance
 **Tool Proficiency:**:: Musical Instrument (one of your choice)
-**Language:**:: *Common, Elvish, any standard language*{color:#D35400} 
+**Language:**:: *Common, Elvish, any language*{color:#D35400} 
 **Feat:**:: Musician
 **Equipment:**:: Costume (2), Musical Instrument (same as above), Perfume, Steel Mirror, Traveler’s Clothes, 8 GP
 You	spent	much	of	your	youth	following	roving	
@@ -2235,7 +2684,7 @@ Elvish	poetry	with	the	impeccable	trills	of	an	elf
 poet.	To	this	day,	you	thrive	on	applause	and	
 long	for	the	stage.
 
-{{pageNumber 25}}
+{{pageNumber 30}}
 {{footnote PART 1 | BACKGROUNDS}}
 \page
 
@@ -2243,7 +2692,7 @@ long	for	the	stage.
 **Ability Scores:**:: +2 Constitution, +1 Wisdom
 **Skill Proficiencies:**:: Animal Handling, Nature
 **Tool Proficiency:**:: Carpenter’s Tools
-**Languages:**:: *Common, Halfling, any standard language*{color:#D35400} 
+**Languages:**:: *Common, Halfling, any language*{color:#D35400} 
 **Feat:**:: Tough
 **Equipment:**:: Carpenter’s Tools, Healer’s Kit, Iron Pot, Shovel, Sickle, Traveler’s Clothes, 23 GP
 You	grew	up	close	to	the	land.	Years	tending	
@@ -2259,7 +2708,7 @@ halfling	farmers.
 **Ability Scores:**:: +2 Strength, +1 Charisma
 **Skill Proficiencies:**:: Athletics, Performance
 **Tool Proficiency:**:: Smith’s Tools
-**Language:**:: *Common, Orc, any standard language*{color:#D35400} 
+**Language:**:: *Common, Orc, any language*{color:#D35400} 
 **Feat:**:: Savage Attacker
 **Equipment:**:: Chain, Costume, Healer’s Kit, Javelin (6), Smith’s Tools, Traveler’s Clothes, 15 GP
 Your	first	few	appearances	in	the	gladiatorial	
@@ -2279,7 +2728,7 @@ and	orcs—hardened	warriors	all.
 **Ability Scores:**:: +2 Strength, +1 Wisdom
 **Skill Proficiencies:**:: Athletics, Perception
 **Tool Proficiency:**:: Gaming Set (one of your choice)
-**Languages:**:: *Common, Dwarvish, any standard language*{color:#D35400} 
+**Languages:**:: *Common, Dwarvish, any language*{color:#D35400} 
 **Feat:**:: Alert
 **Equipment:**:: Crossbow Bolt (20), Gaming Set (same as above), Hooded Lantern, Light Crossbow, Manacles, Quiver, Spear, Traveler’s Clothes, 12 GP
 Your	feet begin	to ache	when	you	remember	the	
@@ -2299,7 +2748,7 @@ weapons	sharp.
 **Ability Scores:**:: +2 Wisdom, +1 Dexterity
 **Skill Proficiencies:**:: Stealth, Survival
 **Tool Proficiency:**:: Cartographer’s Tools
-**Languages:**::*Common, Giant, any standard language*{color:#D35400} 
+**Languages:**::*Common, Giant, any language*{color:#D35400} 
 **Feat:**:: Magic Initiate (Primal)
 **Equipment:**:: Arrow (20), Bedroll, Cartographer’s Tools, Fishing Tackle, Quiver, Shortbow, Tent, Traveler’s Clothes, 2 GP
 You	came	of	age	in	the	outdoors,	far	from	
@@ -2337,7 +2786,7 @@ world.
 **Ability Scores:**:: +2 Constitution, +1 Strength
 **Skill Proficiencies:**:: Athletics, Survival
 **Tool Proficiency:**:: Mason’s Tools
-**Languages:**:: *Commonm, Dwarvish, any standard language*{color:#D35400} 
+**Languages:**:: *Commonm, Dwarvish, any language*{color:#D35400} 
 **Feat:**:: Tough
 **Equipment:**:: Bullseye Lantern, Common Clothes, Handaxe, Light Hammer, Mason’s Tools, Mess Kit, Oil (1 flask), Shovel, Waterskin, 15 GP
 Your	apprenticeship	consumed	the	better	part	
@@ -2351,7 +2800,7 @@ exceptionally	durable.	The	masons	who	taught
 you	were	taught	by	even	older	masons	who	
 were	taught	by	dwarf	artisans	of	old.	
 
-{{pageNumber 26}}
+{{pageNumber 31}}
 {{footnote PART 1 | BACKGROUNDS}}
 \page
 #### Noble
@@ -2378,7 +2827,7 @@ about	leadership.
 **Ability Scores:**:: +2 Wisdom, +1 Constitution
 **Skill Proficiencies:**:: Religion, Survival
 **Tool Proficiency:**:: Musical Instrument (one of your choice)
-**Languages:**:: *Common, Halfling, any standard language*{color:#D35400} 
+**Languages:**:: *Common, Halfling, any language*{color:#D35400} 
 **Feat:**:: Healer
 **Equipment:**:: Bedroll, Healer’s Kit, Holy Symbol, Musical Instrument, Rations (2 days), Traveler’s Clothes, 16 GP
 You	and	a	group	of	like-minded	believers—
@@ -2395,7 +2844,7 @@ somewhere	along	the	road	that	led	there.
 **Ability Scores:**:: +2 Intelligence, +1 Wisdom
 **Skill Proficiencies:**:: Arcana, History
 **Tool Proficiency:**:: Calligrapher’s Supplies
-**Languages:**:: *Common, Elvish, any standard language*{color:#D35400} 
+**Languages:**:: *Common, Elvish, any language*{color:#D35400} 
 **Feat:**:: Magic Initiate (Arcane)
 **Equipment:**:: Book (History), Calligrapher’s Supplies, Parchment (8 sheets), Quarterstaff, Robe, 8 GP
 You spent	your	formative	years	traveling	
@@ -2429,7 +2878,7 @@ the	waves.
 **Ability Scores:**:: +2 Strength, +1 Constitution
 **Skill Proficiencies:**:: Athletics, Intimidation
 **Tool Proficiency:**:: Gaming Set (one of your choice)
-**Languages:**:: *Common, Goblin, any standard language*{color:#D35400} 
+**Languages:**:: *Common, Goblin, any language*{color:#D35400} 
 **Feat:**:: Savage Attacker
 **Equipment:**:: Arrow (20), Gaming Set (same as above), Healer’s Kit, Quiver, Shortbow, Spear, Traveler’s Clothes, 14 GP
 You	began	training	for	war	at	such	an	early	age	
@@ -2448,7 +2897,7 @@ generals.
 **Ability Scores:**:: +2 Dexterity, +1 Wisdom
 **Skill Proficiencies:**:: Insight, Stealth
 **Tool Proficiency:**:: Thieves’ Tools
-**Languages:**:: *Common, Common Sign Language, any standard language*{color:#D35400} 
+**Languages:**:: *Common, Common Sign Language, any language*{color:#D35400} 
 **Feat:**:: Lucky
 **Equipment:**:: Bedroll, Common Clothes, Dagger (2), Gaming Set
 You	grew	up	on	the	streets,	surrounded	by	
@@ -2460,12 +2909,11 @@ theft.	Still,	you	never	lost	your	pride	and	never
 abandoned	hope.	Fate	is	not	yet	finished	with	
 you.
 
-{{pageNumber 27}}
+{{pageNumber 32}}
 {{footnote PART 1 | BACKGROUNDS}}
 \page
 # Feats
-This chapter details player character feats.
-A feat represents a talent or an area of expertise that gives
+<br>A feat represents a talent or an area of expertise that gives
 a character special capabilities. It embodies training,
 experience, and abilities seperate from what a class provides.
 
@@ -2484,30 +2932,25 @@ Feat for which their 20th-level character qualifies.
 
 ### Parts of a Feat
 The	description	of	a	Feat	contains	the	following	parts, which	are	presented	after	the	Feat’s	name:
-
 **Level.** ::	Each	Feat	has	a	level.	To	take	a	Feat,	your	level	must	equal	or	exceed	the	Feat’s	level.
 **Prerequisite.** :: You	must	meet	any	prerequisite	specified	in	a	Feat to	take	that	Feat,	unless a	special	feature	allows	you	to	take	the	Feat	without	the	prerequisite. If	a	prerequisite	is	a	Class	or	a	Class	Group,	you	must	have	at	least	1	level	in	an	eligible	Class	to	qualify	for	the	Feat.
-**Repeatable.** :: If	a	Feat is	repeatable,	you	can	take	it	more	than	once.	If	it	isn’t repeatable,	you	can	take	the	Feat only	once.
-
+**Repeatable.** :: . A	Feat	can	be	taken	only	once,	unless	it	contains	a	section	allowing	it	to	be	taken	more	than	once.
 
 ## Feat Descriptions
 Here	are	the	descriptions of Feats	available	to player characters from One D&D Unearthed Arcana.
 
-Feats are sorted by level and then alphabetically.
+*Feats are sorted by level and then alphabetically.*{color:#D35400} 
 
 ### Alert
 *1st-Level	Feat*
 **Prerequisite:** ::	None
-**Repeatable:** :: No
 Always	on	the	lookout	for	danger,	you	gain	the	following	benefits:
 **Initiative	Proficiency.** :: When	you	roll	Initiative,	you	can	add	your	Proficiency	Bonus	to	the	roll.
 **Initiative	Swap.** :: Immediately	after	you	roll	Initiative,	you	can	swap	your	Initiative	with	the	Initiative	of	one	willing	ally	in	the	same	combat.	You	can’t	make	this	swap	if	you	or	the	ally	is	Incapacitated.
-
-::::
+\column
 ### Crafter
 *1st-Level	Feat*
 **Prerequisite:** ::	None
-**Repeatable:** :: No
 You	are	adept	at	crafting	things	and	bargaining	with	merchants,	granting	you	the	following	benefits:
 **Tool	Proficiency.** :: You	gain	Tool	Proficiency*with	three	different	Artisan’s	Tools* of	your	choice.
 **Discount.**:: Whenever	you	buy	a	nonmagical	item,	you	receive	a	20	percent	discount	on	it.
@@ -2516,37 +2959,32 @@ You	are	adept	at	crafting	things	and	bargaining	with	merchants,	granting	you	the
 ### Fighting Style: Archery
 *1st-Level	Feat*
 **Prerequisite:** ::	Warrior	Group
-**Repeatable:** :: No
 You	gain	a	+2	bonus	to	Attack	Rolls you	make	with	Ranged	Weapons.
 
 ### Fighting Style: Defense
 *1st-Level	Feat*
 **Prerequisite:** ::	Warrior	Group
-**Repeatable:** :: No
 While	you	are	wearing	armor,	you	gain	a	+1	bonus	to	Armor	Class.
 
 ### Fighting Style: Dueling
 *1st-Level	Feat*
 **Prerequisite:** ::	Warrior	Group
-**Repeatable:** :: No
 When	you	are	wielding	a	Melee	Weapon	in	one	hand	and	no	other	Weapons,	you	gain	a	+2	bonus	to	damage	rolls	with	that	Melee	Weapon.
 
 ### Fighting Style: Great Weapon Fighting
 *1st-Level	Feat*
 **Prerequisite:** ::	Warrior	Group
-**Repeatable:** :: No
 When	you	roll	a	1	or	2	on	a	damage	die	for	an	attack	you	make	with	a	Melee	Weapon	that	you	
 are	wielding	with	two	hands,	you	can	reroll	the die,	and	you	must	use	the	new	roll.	The	Weapon	
 must	have	the	Two-Handed	or	Versatile	property	to gain	this	benefit.
 
-{{pageNumber 28}}
+{{pageNumber 33}}
 {{footnote PART 1 | FEATS}}
 \page
 
 ### Fighting Style: Protection
 *1st-Level	Feat*
 **Prerequisite:** ::	Warrior	Group
-**Repeatable:** :: No
 Immediately	after a	creature	you	can	see makes	an	Attack	Roll and hits a	target	other	than	you	
 that	is	within	5	feet	of	you,	you	can	use	your	Reaction	to	interpose	your	Shield	and	impose	a	
 −2	penalty on	the Attack	Roll,	potentially	turning	it	into	a	miss. You	must	be	wielding	a	Shield to	use	this	Reaction.
@@ -2554,31 +2992,27 @@ that	is	within	5	feet	of	you,	you	can	use	your	Reaction	to	interpose	your	Shield
 ### Fighting Style: Two-Weapon Fighting
 *1st-Level	Feat*
 **Prerequisite:** ::	Warrior	Group
-**Repeatable:** :: No
 When	you	make	the	extra	attack	of	the	Light weapon	property,	you	can	add	your	Ability	Modifier to	the	damage	of	the	extra attack.
 
 ### Healer
 *1st-Level	Feat*
 **Prerequisite:** ::	None
-**Repeatable:**:: No
 You	have	the	training	and	intuition	to	administer	first	aid	and	other	care	effectively,	granting	you	the	following	benefits:
-**Battle	Medic.** :: If	you	have	a	Healer’s	Kit,	you	can	expend	one	use	of	it	and	tend	to	a	creature	within	5	feet	of	you	as	an	Action.	That	creature	can	expend	one	of	its	Hit	Dice,	and	you	then	roll	that	die.	The	creature	regains	a	number	of	Hit	Points	equal	to	the	roll	plus	
-your	Proficiency	Bonus.
+**Battle	Medic.** :: If	you	have	a	Healer’s	Kit,	you	can	expend	one	use	of	it	and	tend	to	a	creature	within	5	feet	of	you	as	an	Action.	That	creature	can	expend	one	of	its	Hit	Dice,	and	you	then	roll	that	die.	The	creature	regains	a	number	of	Hit	Points	equal	to	the	roll	plus	your	Proficiency	Bonus.
 **Healing	Rerolls.**:: Whenever	you	roll	a	die	to	determine	the	number	of	Hit	Points	you	restore	with a	spell	or	with	this	feat’s	Battle	Medic benefit,	you	can	reroll	the	die	if	it	rolls	a	1, and you must	use	the	new	roll.
 
 ### Lightly Armored
 *1st-Level	Feat*
 **Prerequisite:** ::	None
-**Repeatable:** :: No
 You	gain	the	following	Armor Training:	Light	Armor,	Medium	Armor, and	Shield.
 
 ### Lucky
 *1st-Level	Feat*
 **Prerequisite:**::	None
-**Repeatable:**:: No
 You	have	inexplicable	luck	that	can	kick	in at	just	the	right	moment,	granting	you	the	
 following	benefits:
 **Luck	Points.**:: You	have a	number	of Luck	Pointsequal	to	your	Proficiency	Bonus.	You	can	spend	the	points	on	the	benefits	below,	and	you regain	your	expended	Luck	Points	when	you	finish	a	Long	Rest.
+\column
 **Advantage.**:: Immediately	after	you	roll	a d20	for	a	d20	Test, you	can	spend	1	Luck	Point	to	give	yourself	Advantage	on	the	roll.
 **Disadvantage.**:: When	a	creature	rolls	a d20	foran	attack	roll	against	you,	you	can	spend	1	Luck	Point	to	impose	Disadvantage	on	that	roll.
 
@@ -2587,7 +3021,7 @@ following	benefits:
 **Prerequisite:**::	None
 **Repeatable:**:: Yes,	but	you	must	choose	a	different	Spell list	each	time
 You	have	learned	the	basics	of	a	particular	magical	tradition.	Choose	one	Spell list:	Arcane, Divine, or	Primal. You	gain	the	following	benefits	related	to	that	choice:
-**Two	Cantrips.**:: You	learn	two	cantrips	of	your	choice	from	the	Spell list.
+**Two	Cantrips.**:: You	learn	two	Cantrips	of	your	choice	from	the	Spell list.
 **1st-Level	Spell.**:: Choose	one	1st-level	Spell from	the	Spell list.	You	always	have	that	Spell prepared.	You	can	cast	it	once	without	a	Spell Slot,	and	you	regain	the	ability	to	cast	it	in	that	way	when	you	finish	a	Long	Rest. You	can	also	cast	the	Spell using	any	Spell Slots	you	have.
 Intelligence,	Wisdom,	or	Charisma	is	your	spellcasting	ability	for	these	Spells	(choose	
 when	you	select	this	Feat). See	the	Spellcasting chapter for	the	
@@ -2598,22 +3032,21 @@ Whenever	you	gain	a	new	level,	you	can	replace	one	of	the	Spells	you	chose	for	t
 ### Musician
 *1st-Level	Feat*
 **Prerequisite:**::	None
-**Repeatable:**:: No
 You	are	a	practiced	musician,	granting	you	the	following	benefits:
 **Instrument Training.**:: You	gain	Tool	Proficiency with	three	Musical	Instruments of	your	choice.
-**Inspiring	Song.** As	you	finish	a	Short	Rest	or	a	Long	Rest,	you	can play a	song	on	a	Musical	Instrument	with	which	you	have	Tool	Proficiency and give Heroic Inspiration to	allies	who	hear	the	song. The	number	of	allies you	can	affect	in	this	way equals	your	Proficiency	Bonus.
+**Inspiring	Song.**:: As	you	finish	a	Short	Rest	or	a	Long	Rest,	you	can play a	song	on	a	Musical	Instrument	with	which	you	have	Tool	Proficiency and give Heroic Inspiration to	allies	who	hear	the	song. The	number	of	allies you	can	affect	in	this	way equals	your	Proficiency	Bonus.
 
-{{pageNumber 29}}
-{{footnote PART 1 | FEATS}}
-\page
 
 ### Savage Attacker
 *1st-Level	Feat*
 **Prerequisite:**::	None
-**Repeatable:**:: No
 You	have	trained	to	deal	particularly	damaging	strikes.	When	you	take	the	Attack	Action and	hit	
 a	target	with	a	Weapon as	part	of	that	Action,	you	can	roll	the	Weapon’s	damage	dice	twice	
 and	use	either	roll	against	the	target.	You	can	use	this	benefit	only	once	per	turn.
+
+{{pageNumber 34}}
+{{footnote PART 1 | FEATS}}
+\page
 
 ### Skilled
 *1st-Level	Feat*
@@ -2624,7 +3057,6 @@ You	have	exceptionally	broad	learning.	Choose	three	Skills	in	which	you	lack	Pro
 ### Tavern Brawler
 *1st-Level	Feat*
 **Prerequisite:**::	None
-**Repeatable:**:: No
 Accustomed	to	brawling,	you	gain	the	following	benefits:
 **Enhanced	Unarmed	Strike.**:: When	you	hit	with	your	Unarmed	Strike and	deal	damage,	you can	deal	Bludgeoning	Damage	equal	to	1d4	+	your	Strength	modifier,	instead	of	the	normal	damage	of	an	Unarmed	Strike.
 **Damage	Rerolls.**:: Whenever	you	roll	a	damage	die	for	your	Unarmed	Strike,	you	can	reroll	the	die	if	it	rolls	a	1,	and	you	must use	the	new	roll.
@@ -2634,21 +3066,17 @@ Accustomed	to	brawling,	you	gain	the	following	benefits:
 ### Tough
 *1st-Level	Feat*
 **Prerequisite:**::	None
-**Repeatable:**:: No
 Your	Hit	Point	Maximum	increases	by	an	amount	equal	to	twice	your	character	level	when	you	gain	this	Feat.	Whenever	you	gain	a	level	thereafter,	your	Hit	Point	Maximum increases	by	an	additional	2	Hit	Points.
-
-:::::
 
 ### Ability Score Improvement 
 *4th-Level	Feat*
 **Prerequisite:** ::	None
 **Repeatable:** :: Yes
 You	increase	one	Ability	Score of	your	choice	by	2,	or	you	increase	two	Ability	Scores	of	your	 choice	by	1.	You	can’t	increase	an	Ability	Score above	20.
-
+\column
 ### Actor
 *4th-Level	Feat*
 **Prerequisite:** ::	Charisma	13+
-**Repeatable:** :: No
 Skilled	at	mimicry	and	dramatics,	you	gain	the	
 following	benefits:
 **Ability	Score	Increase.** :: Increase	your	Charisma	score	by	1,	to	a	maximum	of	20.
@@ -2658,7 +3086,6 @@ following	benefits:
 ### Athlete
 *4th-Level	Feat*
 **Prerequisite:** ::	Strength,	Dexterity,	or Constitution 13+
-**Repeatable:** :: No
 You	have	undergone	extensive	physical	training	
 to	gain	the	following	benefits:
 **Ability	Score	Increase.** :: Increase	your	Strength,	Dexterity,	or	Constitution score	by	1,	to	a	maximum	of	20.
@@ -2666,23 +3093,22 @@ to	gain	the	following	benefits:
 **Hop	Up.** ::	When	you	are	Prone, you	can	right	yourself	with only	5	feet	of	movement.
 **Jumping.** :: You	have	Advantage	on	any	Ability	Check you	make	for the	Jump	Action.
 
-{{pageNumber 30}}
-{{footnote PART 1 | FEATS}}
-\page
-
 ### Charger
 *4th-Level	Feat*
 **Prerequisite:** ::	Proficiency	with	Any	Martial	Weapon
-**Repeatable:** :: No
+
 You	have	trained	to	charge	headlong	into	battle,	gaining	the	following	benefits:
 **Ability	Score	Increase.** :: Increase	your	Strength	or	Dexterity	score	by	1,	to	a	maximum	of	20.
 **Improved	Dash.** :: When	you	take	the	Dash	Action,	your	Speed	increases	by	10	feet	for	that	Action.
 **Charge	Attack.** :: If	you	move	at	least	10	feet	in	a	straight	line	immediately	before	hitting	with	a `melee`	attack	as	part	of	the	Attack	Action on	your	turn,	choose	one	of	the	following	effects: gain	a	+1d8 bonus	to	the	attack’s	damage	roll, or	push	the	target	up	to	10	feet,	provided	the	target	you	want	to	push is	no	more	than	one	Size	larger	than	you. You	can	use	this	benefit	only	once	on each	of	your	turns.
 
+{{pageNumber 35}}
+{{footnote PART 1 | FEATS}}
+\page
+
 ### Crossbow Expert
 *4th-Level	Feat*
 **Prerequisite:** ::	Proficiency	with any <s>Martial	Weapon</s> `Crossbow`
-**Repeatable:** :: No
 Thanks	to	extensive	practice	with	crossbows,	you	gain	the	following	benefits:
 **Ability	Score	Increase.** :: Increase	your	Dexterity	score	by	1,	to	a	maximum	of	20.
 **Ignore	Loading.** :: You	ignore	the	Loading	property	of	crossbows.
@@ -2692,27 +3118,23 @@ Thanks	to	extensive	practice	with	crossbows,	you	gain	the	following	benefits:
 ### Defensive Duelist
 *4th-Level	Feat*
 **Prerequisite:** ::	Dexterity	13+
-**Repeatable:** No
 You’ve	learned	to	deftly	parry	attacks,	granting	
 you	the	following	benefits:
 **Ability	Score	Increase.** :: Increase	your	Dexterity	score	by	1,	to	a	maximum	of	20.
 **Parry.** :: If you	are	holding a	Finesse	Weapon	and	another	creature	hits	you	with	a	Melee	Attack,	you	can	use	your	Reaction	to	add	your	Proficiency	Bonus	to	your	Armor	Class for	that	attack,	potentially	causing	the	attack	to	miss	you.
 
-::::
 ### Dual Wielder
 *4th-Level	Feat*
 **Prerequisite:** ::	Proficiency	with	Any	Martial	Weapon
-**Repeatable:** :: No
 You	master	fighting with	two	weapons,	gaining	
 the	following	benefits:
 **Ability	Score	Increase.** :: Increase	your	Strength	or	Dexterity	score	by	1,	to	a	maximum	of	20.
 **Enhanced	Dual	Wielding.** :: When	you	are	holding	a	Weapon	with	the	Light	property	in	one	hand,	you	can	treat a	non-Light	Weapon	in	your	other	hand	as	if	it	had	the	Light	property,	provided	that	Weapon	lacks	the	Two-Handed	property.
 **Quick	Draw.** :: You	can	draw	or	stow	two	Weapons that	lack	the	Two-Handed	propertywhen	you	would	normally	be	able	to	draw	or	stow	only	one.
-
+\column
 ### Durable
 *4th-Level	Feat*
 **Prerequisite:** ::	Constitution	13+
-**Repeatable:** :: No
 Hardy	and	resilient,	you	gain	the	following	
 benefits:
 **Ability	Score	Increase.** :: Increase	your	Constitution	score	by	1,	to	a	maximum	of	20.
@@ -2729,24 +3151,21 @@ you	the	following	benefits:
 **Ability	Score	Increase.** :: Increase	your	Intelligence,	Wisdom,	or	Charisma score	by	1,	to	a	maximum	of	20.
 **Energy	Mastery.** ::	Choose one	of	the	following	Damage	Types:	Acid,	Cold,	Fire,	Lightning,	or	Thunder. Spells	you	cast	ignore	Resistance	to	damage	of	the	chosen	type.	In	addition,	when	you	roll	damage	for	a	Spell	you	cast	that	deals	damage	of	that	type,	you	can	treat	any	1	on	a	damage	die	as	a	2.
 
-{{pageNumber 31}}
-{{footnote PART 1 | FEATS}}
-\page
-
 ### Grappler
 *4th-Level	Feat*
 **Prerequisite:**::	Strength	or	Dexterity	13+
-**Repeatable:**:: No
 You’re	an	accomplished	wrestler,	granting	you	the	following	benefits:
 **Ability	Score	Increase.**:: Increase	your	Strength	or	Dexterity score	by	1,	to	a	maximum	of	20.
 **Attack	Advantage.**:: You	have	Advantage	on	Attack	Rolls against	a	creature	Grappled by	you.
 **Fast	Wrestler.**:: You	aren’t	Slowed when	you	move	a	creature	Grappled by	you,	provided	the	creature	is	your	Size	or	smaller.
 **Punch	and	Grab.**:: When	you	hit	a	creature	with	an	Unarmed	Strike as	part	of	the	Attack	Action on	your	turn,	you	can	deal	damage	to	the	target	and	also	grapple	it.	You	can	use	this	benefit	only	once	per	turn.
 
+{{pageNumber 36}}
+{{footnote PART 1 | FEATS}}
+\page
 ### Great Weapon Master
 *4th-Level	Feat*
 **Prerequisite:**::	Proficiency	with	Any	Martial	Weapon
-**Repeatable:**::  No
 You’ve	learned	to	use the	weight	of	a	weapon	to	your	advantage,	letting	its	momentum	empower	your	strikes.	You	gain	the	following	benefits:
 **Ability	Score	Increase.**:: Increase	your	Strength score	by	1,	to	a	maximum	of	20.
 **Cleave.**:: Immediately	after you	score	a	Critical	Hit	with	a Melee	Weapon	or	reduce	a	creature to	0	Hit	Points	with	one,	you	can	make	one	attack	with	the	same	weapon as	a	Bonus	Action.
@@ -2755,17 +3174,13 @@ You’ve	learned	to	use the	weight	of	a	weapon	to	your	advantage,	letting	its	mo
 ### Heavily Armored
 *4th-Level	Feat*
 **Prerequisite:**::	Medium	Armor	Training
-**Repeatable:**:: No
 You	have	trained	to	use	Heavy	Armor effectively,	gaining	the	following	benefits:
 **Ability	Score	Increase.**::	Increase	your Constitution	or Strength	score	by	1,	to	a	maximum	of	20.
 **Armor	Training.**:: You	gain Heavy Armor Training
 
-\column
-
 ### Heavy Armor Master
 *4th-Level	Feat*
 **Prerequisite:**::	Heavy	Armor	Training
-**Repeatable:**:: No
 You	can	use	your	Heavy	Armor to	deflect	strikes,	granting	you the	following	benefits:
 **Ability	Score	Increase.**:: Increase	your	Constitution	or	Strength	score	by	1,	to	a	maximum	of	20.
 **Damage	Reduction.**:: When you’re hit	by	an	attack	while	you’re	wearing	Heavy	Armor,	any	Bludgeoning,	Piercing,	or Slashing	Damage	dealt	to	you	by	that	attack	is	reduced	by	an	amount	equal	to	your	Proficiency	Bonus.
@@ -2773,27 +3188,22 @@ You	can	use	your	Heavy	Armor to	deflect	strikes,	granting	you the	following	bene
 ### Inspiring Leader
 *4th-Level	Feat*
 **Prerequisite:**:: Wisdom	or	Charisma	13+
-**Repeatable:**:: No
 You	are	adept	at	encouraging	others,	granting	you	the	following	benefits:
 **Ability	Score	Increase.**:: Increase	your Wisdom	or Charisma score	by	1,	to	a	maximum	of	20.
+\column
 **Encouraging	Performance.**:: At	the	end	of	a	Short	Rest	or	a	Long	Rest,	you	can	give	an	inspiring	performance:	a	speech,	a	song,	or	a	dance. When	you	do	so,	choose	up	to	six	friendly	creatures	(which	can	include	yourself)	within	30	feet	of	you	who	witness	the	performance.	The	chosen creatures	each	gainTemporary	Hit	Points	equal	to	2d4	+	your	Proficiency	Bonus.
 
 ### Keen Mind
 *4th-Level	Feat*
 **Prerequisite:**::	Intelligence	13+
-**Repeatable:**:: No
 You	have	trained to rapidly	recall	or	discover	vital	details, granting	you the	following	benefits:
 **Ability	Score	Increase.**:: Increase	your	Intelligence	score	by	1,	to	a	maximum	of	20.
 **Lore	Knowledge.**::	Choose	one	of	the	following	Skills:	Arcana,	History,	Investigation,	Nature,	or Religion.	If	you	lack	Proficiency	in the	chosen	Skill,	you	gain	Proficiency	in it,	and	if	you	have	Proficiency	in it,	you	gain	Expertise in it.
 **Quick Study.**:: You	can	take	the	Study	Action as	a	Bonus	Action.
 
-{{pageNumber 32}}
-{{footnote PART 1 | FEATS}}
-\page
 ### Mage Slayer
 *4th-Level	Feat*
 **Prerequisite:**::	Proficiency	with	Any	Martial	Weapon
-**Repeatable:**:: No
 You	have	practiced	techniques	useful	in	battling magic-users,	gaining	the	following	benefits:
 **Ability	Score	Increase.**:: Increase	your	Strength	or	Dexterity score	by	1,	to	a	maximum	of	20.
 **Concentration	Breaker.**:: When	you	damage	a	creature that	is	concentrating,	it has	Disadvantage	on the	Saving	Throw it	makes to	maintain	Concentration.
@@ -2802,15 +3212,17 @@ You	have	practiced	techniques	useful	in	battling magic-users,	gaining	the	follow
 ### Medium Armor Master
 *4th-Level	Feat*
 **Prerequisite:**::	Medium	Armor	Training
-**Repeatable:**:: No
 You	have	practiced	moving	in	medium	armor	to	gain	the	following	benefits:
 **Ability	Score	Increase.**:: Increase	your	Strength	or	Dexterity score	by	1,	to	a	maximum	of	20.
 **Dexterous	Wearer.**::	While	you	are	wearing Medium	Armor,	you	can	add	3,	rather	than	2,	to	your	AC if	you	have	a	Dexterity score of	16	or	higher.
 
+{{pageNumber 37}}
+{{footnote PART 1 | FEATS}}
+\page
+
 ### Mounted Combat
 *4th-Level	Feat*
 **Prerequisite:**::	Proficiency	with	Any	Martial	Weapon
-**Repeatable:**:: No
 You	have	developed	a	bond	with	your	mounts,	granting	you the	following	benefits:
 **Ability	Score	Increase.**:: Increase	your	Strength,	Dexterity,	or	Wisdom score	by	1,	to a maximum of	20.
 **Mount Handler.**::	You	have	Advantage	on	Wisdom	Checks	(Animal	Handling)	made	to	handle	or	train	horses	and	other	Beasts	employed	as	mounts.
@@ -2818,12 +3230,9 @@ You	have	developed	a	bond	with	your	mounts,	granting	you the	following	benefits:
 **Leap	Aside.**::	If	your	mount	is	subjected	to	an	effect	that	allows	it	to	make	a	Dexterity	Saving	Throw to	take	only	half	damage,	it	instead	takes	no	damage	if	it	succeeds	on	the	Saving Throw,	and	only	half	damage	if	it	fails. For	your	mount	to	gain	this	benefit,	you	must	be	 riding	it,	and	neither	of	you	can	be	Incapacitated.
 **Veer.**::	While	mounted,	you	can	use	your	Reaction	to	force	an	attack	that	hits	your	mount	to	hit	you	instead.
 
-::
-
 ### Observant
 *4th-Level	Feat*
 **Prerequisite:**::	Intelligence	or	Wisdom	13+
-**Repeatable:**:: No
 Quick	to	notice	details	around	you,	you	gain	the	following	benefits:
 **Ability	Score	Increase.**::	Increase	your	Intelligence	or	Wisdom	score	by	1,	to	a	maximum	of	20.
 **Keen	Observer.**::	Choose	one	of	the	following	Skills:	Insight,	Investigation,	or	Perception.	If	 you	lack	Proficiency	with	the	chosen	Skill,	you	gain	Proficiency	in it,	and	if	you	have	 Proficiency	in it,	you	gain	Expertise in it.
@@ -2832,40 +3241,33 @@ Quick	to	notice	details	around	you,	you	gain	the	following	benefits:
 ### Polearm Master
 *4th-Level	Feat*
 **Prerequisite:**::	Proficiency	with	Any	Martial	Weapon `with the Heavy and Reach properties`
-**Repeatable:**:: No
 You	have	trained	extensively	with	pole	weapons	that	have	Reach,	granting you the	following	 benefits:
 **Ability	Score	Increase.**::	Increase	your	Strength score	by	1,	to	a	maximum	of	20.
+\column
 **Pole	Strike.**::	Immediately	after you	take	the	Attack	Action and	attack with	a	Weapon	that	has	the	Heavy	and	Reach	properties,	you	can	use	a	Bonus	Action	to	make	a	Melee	Attack	with	the	opposite	end	of	the	Weapon.	The	weapon’s	damage	die	for	this	attack	is	a	d4,	and	it	deals	Bludgeoning	Damage.
-**Reactive	Strike.**:: While	you	are	holding	a	
-Weapon	that	has	the	Heavy	and	Reach	
-properties,	you	can	use	your	Reaction	to	make	
-one	Melee	Attack	against	a	creature	that	enters	
-the	Reach	you	have	with	that	Weapon.
+**Reactive	Strike.**:: While	you	are	holding	a	Weapon	that	has	the	Heavy	and	Reach	properties,	you	can	use	your	Reaction	to	make	one	Melee	Attack	against	a	creature	that	enters	the	Reach	you	have	with	that	Weapon.
 
 ### Resilient
 *4th-Level	Feat*
 **Prerequisite:**::	None
-**Repeatable:**:: No
 You	have	developed	the	resilience to	better	withstand	certain	dangers,	granting	you	the	following	benefits:
 **Ability	Score	Increase.**::	Choose	one	ability	in	which	you	lack	Saving	Throw	Proficiency.	Increase	the	chosen	Ability	Score by	1,	to	a	maximum	of	20.
-**Saving	Throw	Proficiency.**	You	gain	Saving	Throw	Proficiency	with	the	chosen	ability.
+**Saving	Throw	Proficiency.**::	You	gain	Saving	Throw	Proficiency	with	the	chosen	ability.
 
-{{pageNumber 33}}
-{{footnote PART 1 | FEATS}}
-\page
 ### Ritual Caster
 *4th-Level	Feat*
 **Prerequisite:**::	Intelligence,	Wisdom,	or	Charisma 13+
-**Repeatable:** No
 You	have	studied	ritual	magic,	granting	you	the	following	benefits:
 **Ability	Score	Increase.**::	Increase	your	Intelligence,	Wisdom,	or	Charisma score	by	1,	to	a	maximum	of	20.
 **Ritual	Spells.**:: Choose	two	1st-level	Spells	that	have	the	Ritual	tag	from	the	Arcane,	Divine,	 and	Primal Spell	Lists.	You	always	have	those	two	Spells	prepared,	and	you	can	cast	them	with	any	Spell	Slots	you	have. The	Spells’	Spellcasting	Ability is	the	ability	increased	by	this	Feat.
 **Quick	Ritual.**:: With	this	benefit,	you	can	cast	a	Ritual	Spell	that	you	have	prepared	using	its	regular	casting	time,	rather	than	the	extended	time	for	a	Ritual.	Doing	so	doesn’t	require a	Spell	Slot	Once	you	cast	the	Spell	in	this	way,	you	can’t	use	this	benefit	again	until	you	finish	a	Long	Rest.
+{{pageNumber 38}}
+{{footnote PART 1 | FEATS}}
+\page
 
 ### Sentinel
 *4th-Level	Feat*
 **Prerequisite:**::	Proficiency	with	Any	Martial	Weapon
-**Repeatable:**:: No
 You	have	mastered	techniques	to	take	advantage of	every	drop	in	any	enemy’s	guard,	gaining	the	following	benefits:
 **Ability	Score	Increase.**::	Increase	your	Strength or	Dexterity score	by	1,	to	a	maximum	of	20.
 **Guardian.**:: Immediately	after a	creature	within	5	feet	of	you takes	the	Disengage	Action	or hits	a	target	other	than	you with	an	attack,	you	can	make	an	Opportunity	Attack against	that	creature.
@@ -2874,7 +3276,6 @@ You	have	mastered	techniques	to	take	advantage of	every	drop	in	any	enemy’s	gu
 ### Sharpshooter
 *4th-Level	Feat*
 **Prerequisite:**::	Proficiency	with	Any	Martial `Ranged`	Weapon
-**Repeatable:**:: No
 You	can	make	shots	that	others	find	impossible,	granting	you the	following	benefits:
 **Ability	Score	Increase.**::	Increase	your	Dexterity score	by	1,	to	a	maximum	of	20.
 **Bypass	Cover.**::	Your	Ranged	Attacks	with	Weapons ignore	Half	Cover	and	Three Quarters	Cover.
@@ -2884,30 +3285,25 @@ You	can	make	shots	that	others	find	impossible,	granting	you the	following	benef
 ### Shield Master
 *4th-Level	Feat*
 **Prerequisite:**::	Shield	Training
-**Repeatable:**:: No
 You’ve	trained	to	use	shields	not	just	for	protection, but	also	for	offense,	granting	you	the	
 following	benefits:
 **Ability	Score	Increase.**::	Increase	your	Strength score	by	1,	to	a	maximum	of	20.
 **Shield	Bash.**:: If	you	attack	a	creature	within	5	feet	of	you	as	part	of	the	Attack	Action and	hit	with	a	Melee	Weapon,	you	can	immediately	bash	the	target	with	your	Shield	if	it’s	 equipped,	forcing	the	target	to	make	a	Strength	Saving	Throw	against	a	DC	equal	to	8	+	your	 Strength	modifier	+	your	Proficiency	Bonus. On	a	failed	save,	you	knock	the	target	Prone	or	push	it	5	feet	away.	You	can	use	this	benefit	only	once	on	each	of	your	turns.
+\column
 **Interpose	Shield.**::	If	you	are	subjected	to an	 effect	that	allows	you	to	make	a	Dexterity	 Saving	Throw to	take	only	half	damage,	you	can	use	your	Reaction	to	take	no	damage	if	you	 succeed	on	the	Saving	Throw and	are	wielding	 a	Shield,	interposing	your	shield	between	 yourself	and	the	source of	the	effect.
 
 ### Skulker
 *4th-Level	Feat*
 **Prerequisite:**::	Dexterity	13+
-**Repeatable:**:: No
 You	are	expert	at	slinking	through	shadows,	granting	you the	following	benefits:
 **Ability	Score	Increase.**::	Increase	your	Dexterityscore	by	1,	to	a	maximum	of	20.
 **Blindsight.**:: You	have	Blindsight with	a	range	of	10	feet.
 **Fog	of	War.**:: Exploiting	the	distractions	of	battle,	you	have	Advantage	on	any	Dexterity	Check	(Stealth)	you	make	as	part	of	the	Hide	Action during	combat.
 **Sniper.**::	If	you	make	an	Attack	Roll while Hidden and	the	roll	misses,	making	the	Attack	Roll doesn’t	end	the	Hidden Condition	on	you.
 
-{{pageNumber 34}}
-{{footnote PART 1 | FEATS}}
-\page
 ### Speedster
 *4th-Level	Feat*
 **Prerequisite:**::	Dexterity	or	Constitution	13+
-**Repeatable:I**:: No
 You	possess	exceptional speed and	stamina,	granting	you the	following	benefits:
 **Ability	Score	Increase.**:: Increase	your Dexterity	or	Constitution score	by	1,	to	a	maximum	of	20.
 **Speed	Increase.**:: Your	Speed	increases	by	10	feet while	you	aren’t	wearing	Heavy	Armor.
@@ -2916,17 +3312,18 @@ You	possess	exceptional speed and	stamina,	granting	you the	following	benefits:
 ### Spell Sniper
 *4th-Level	Feat*
 **Prerequisite:**::	Spellcasting	or	Pact	Magic	Feature
-**Repeatable:**:: No
 You	have	learned	techniques	to	enhance	your	 attacks	with	certain	kinds	of	spells,	gaining	the	
 following	benefits:
 **Ability	Score	Increase.**::	Increase	your	Intelligence,	Wisdom,	or	Charisma score	by	1,	to	a	maximum	of	20.
-**Bypass	Cover.**: Your	Attack	Rolls for	Spells ignore	Half	Cover	and	Three-Quarters	Cover. Casting in	Melee. Being	within	5	feet	of	an	enemy doesn’t	impose	Disadvantage	on	your	Attack	Rolls with	Spells.
+**Bypass	Cover.**:: Your	Attack	Rolls for	Spells ignore	Half	Cover	and	Three-Quarters	Cover. Casting in	Melee. Being	within	5	feet	of	an	enemy doesn’t	impose	Disadvantage	on	your	Attack	Rolls with	Spells.
 **Increased	Range.**:: When	you	cast	a	Spell	that	has	 a	range	of	at	least	10	feet	and	that	requires	you	 to	make	an	Attack	Roll,	you	can	increase	the	Spell’s	range	by	60	feet.
+{{pageNumber 39}}
+{{footnote PART 1 | FEATS}}
+\page
 
 ### War Caster
 *4th-Level	Feat*
 **Prerequisite:**::	Spellcasting	or	Pact	Magic	Feature
-**Repeatable:**:: No
 You	have	practiced	casting	spells	in	the	midst	of	combat,	granting you	the	following	benefits:
 **Ability	Score	Increase.**::	Increase	your Intelligence,	Wisdom,	or	Charisma score	by	1,	to	a	maximum	of	20.
 **Concentration.**::	You	have	Advantage	on	Constitution	Saving	Throws that	you	make	to	maintain	your	Concentration.
@@ -2936,7 +3333,6 @@ You	have	practiced	casting	spells	in	the	midst	of	combat,	granting you	the	follo
 ### Weapon Training
 *4th-Level	Feat*
 **Prerequisite:**::	None
-**Repeatable:**:: No
 You	have	practiced	extensively	with	a	variety	of	weapons,	gaining	the	following	benefits:
 **Ability	Score	Increase.**::	Increase	your	Strength	or	Dexterity	score	by	1,	to	a	maximum	of	20.
 **Weapon	Proficiency.**:: You	gain	Martial	Weapon	Proficiency.
@@ -2944,7 +3340,6 @@ You	have	practiced	extensively	with	a	variety	of	weapons,	gaining	the	following	
 ### Epic Boon of Combat Prowess
 *20th-Level	Feat*
 **Prerequisite:** ::	Expert	or	Warrior	Group
-**Repeatable:** :: No
 When	you	miss	with	a	Melee	Attack,	you	can	hit	
 instead.	Once	you	use	this	benefit,	you	can’t	use	
 it	again	until	you	roll	Initiative.
@@ -2952,16 +3347,14 @@ it	again	until	you	roll	Initiative.
 ### Epic Boon of Dimensional Travel
 *20th-Level	Feat*
 **Prerequisite:**::	Expert	or	Mage	Group
-**Repeatable:**:: No
 You	can	cast the	Misty	Step Spell	without	
 expending a	Spell	Slot.	Once	you	use	this	benefit,	
 you	can’t	use	it	again	until	you	roll	Initiative	or	
 finish	a	Short	Rest	or	a	Long	Rest.
-
+\column
 ### Epic Boon of Energy Resistance
 *20th-Level	Feat*
 **Prerequisite:**::	Expert	or	Mage	Group
-**Repeatable:**:: No
 You	gain	Resistance	to	one	of	the	following	
 Damage	Types	of	your	choice:	Acid,	Cold,	Fire,	
 Lightning,	Necrotic,	Poison,	Psychic,	Radiant,	or	
@@ -2970,10 +3363,19 @@ Whenever	you	finish	a	Short	Rest	or	a	Long
 Rest,	you	can	meditate	and	change	that	Damage	
 Type	choice.
 
+### Epic Boon of Fate
+*20th-Level	Feat*
+**Prerequisite:** ::	Mage	or	Priest	Group
+When	another	creature	that	you	can	see	within	
+60	feet	of	you	makes	a	d20	Test,	you	can	roll a	
+d10	and	apply	the	number	rolled as	a	bonus	or	a	
+penalty	to	the	d20	roll.	Once	you	use	this	benefit,	
+you	can’t	use	it	again	until	you roll	Initiative	or
+finish	a	Short	Rest or	a	Long	Rest.
+
 ### Epic Boon of Fortitude
 *20th-Level	Feat*
 **Prerequisite:**::	None
-**Repeatable:**:: No
 Your	Hit	Point	Maximum	increases	by	40.	In	
 addition,	whenever	you	regain	Hit	Points,	you	
 regain	additional	Hit	Points	equal	to	your	
@@ -2981,19 +3383,14 @@ Constitution	Modifier.	You	can	regain	these
 additional Hit	Points	no	more	than	once	per	
 round.
 
-{{pageNumber 35}}
-{{footnote PART 1 | FEATS}}
-\page
 ### Epic Boon of Irresistible Offense
 *20th-Level	Feat*
 **Prerequisite:** ::	Expert	or	Warrior	Group
-**Repeatable:** :: No
 The	damage	you	deal	always	ignores	Resistance.
 
 ### Epic Boon of Luck
 *20th-Level	Feat*
 **Prerequisite:** ::	Expert	Group
-**Repeatable:** :: No
 Immediately	after	you	roll	a d20	for	a	d20	Test,	
 you	can	roll	a	d10	and	add	the	number	rolled	to	
 the	test.	Once	you	use	this	benefit,	you	can’t	use	
@@ -3003,16 +3400,17 @@ Rest	or	a	Long	Rest.
 ### Epic Boon of the Night Spirit
 *20th-Level	Feat*
 **Prerequisite:** ::	Expert	or	Mage	Group
-**Repeatable:** :: No
 While	within Dim	Light	or	Darkness,	you	can	
 become	Invisible as	an	Action.	You	remain	
 Invisible until	immediately	after	you	take	an	
 Action	or	a	Reaction.
+{{pageNumber 40}}
+{{footnote PART 1 | FEATS}}
+\page
 
 ### Epic Boon of Peerless Aim
 *20th-Level	Feat*
 **Prerequisite:** ::	Expert	or	Warrior	Group
-**Repeatable:** :: No
 If	you	make a	Ranged	Attack	against	a	target	in	
 range	and	miss,	you	can	cause	the	attack	to	hit	
 instead.	Once	you	use	this	benefit,	you	can’t	use	
@@ -3021,7 +3419,6 @@ it	again	until	you	roll	Initiative.
 ### Epic Boon of Recovery
 *20th-Level	Feat*
 **Prerequisite:** ::	None
-**Repeatable:** :: No
 You	can	use	a	Bonus	Action	to	regain	a	number	
 of	Hit	Points	equal	to	half	your	Hit	Point	
 Maximum.	Once	you	use	this	benefit,	you	can’t	
@@ -3032,40 +3429,48 @@ Throw	that	isn’t	a	roll	of	1.
 ### Epic Boon of Skill Proficiency
 *20th-Level	Feat*
 **Prerequisite:** ::	None
-**Repeatable:** :: No
 You	gain	Proficiency	in	all	Skills.
 
-:::
 ### Epic Boon of Speed
 20th-Level	Feat
 **Prerequisite:** ::	Expert	or	Warrior	Group
-**Repeatable:** :: No
 Your	Speed	increases	by	30	feet.
+
+### Epic Boon of Spell Recall
+20th-Level	Feat
+**Prerequisite:** ::	Mage	or	Priest	Group
+You	can	cast	any	spell	you have	prepared	
+without	expending	a	spell	slot,	provided	the	spell	
+is	5th level	or	lower.	Once	you	do	so,	you	can’t	
+use	this	benefit again	until	you	finish	a	Long	
+Rest.
+
+### Epic Boon of Truesight
+20th-Level	Feat
+**Prerequisite:** ::	Priest	Group
+You	have	Truesight out	to	a	range	of	60	feet.
 
 ### Epic Boon of Undetectability
 *20th-Level	Feat*
 **Prerequisite:** ::	Expert	Group
-**Repeatable:** :: No
 You	can’t	be	seen	or	heard	by	any	means—
 magical	or	nonmagical—while	you	are	Hidden.
-
+\column
 ### Epic Boon of Unfettered
 *20th-Level	Feat*
 **Prerequisite:** ::	Expert	or	Warrior	Group
-**Repeatable:** :: No
 As	a	Bonus	Action,	you	can take	the	Disengage	
 Action,	which also	ends	the	Grappled and the	
 Restrained	Conditions on	you.
 
-{{pageNumber 36}}
+{{pageNumber 41}}
 {{footnote PART 1 | FEATS}}
 \page
 # Equipment
-This chapter details mundane equipment.
-
+<br>
 
 {{note,color:purple
-This chapter is not yet enitely covered in the UA and the UA currently explictly states to use content from the PHB. Some of the tables in this section are unchanged from the SRD tables which have a purple background. Other tables are PHB tables modified with UA content and have normal formatting.
+This chapter is not yet enitely covered in the UA and the UA currently explictly states to use content from the PHB. Some of the tables in this section are unchanged from the SRD tables which have a purple background. Other tables are SRD tables modified with UA content and have normal formatting.
 }}
 
 ## Armor and Shields
@@ -3081,9 +3486,8 @@ and separates them into three categories: light armor,
 medium armor, and heavy armor. Many warriors
 supplement their armor with a shield.
 }}
-
-:::::
-##### Armor Training
+::::::
+### Armor Training
 If	you	wear	Light,	Medium,	or	Heavy	Armor	
 and	lack	Armor	Training	with	that	type	of	
 Armor,	you	have	Disadvantage	on	any	d20	Test
@@ -3092,12 +3496,13 @@ and	you	can’t	cast	Spells.
 If	you	equip a	Shield	and	lack	Armor Training
 with	Shields,	you	don’t	gain	the	Armor	Class	bonus	of	the	Shield.
 
-#### Getting in and out of Armor
+### Getting in and out of Armor
 {{purple,#book,text-align:left,background:#aa88aa55
 The time it takes to don or doff arm or depends on the armor’s category.
 **Don.**:: This is the time it takes to put on armor. You benefit from the armor's AC only if you take the full time to don the suit of armor.
 **Doff.**:: This is the time it takes to take off armor. If you have help, reduce this time by half.
 }}
+:
 {{background:#aa88aa55
 ##### Donning and Doffing Armor
 | Category | Don | Doff |
@@ -3107,7 +3512,7 @@ The time it takes to don or doff arm or depends on the armor’s category.
 |Heavy Armor  | 10 minute | 5 minute|
 |Shield       | 1 action | 1 action|
 }}
-::::::::
+:
 {{wide,background:#aa88aa55
 ##### Armor
 | Armor                   | Cost    | Armor Class        |Strength| Stealth | Weight  |
@@ -3135,7 +3540,7 @@ The time it takes to don or doff arm or depends on the armor’s category.
 
 \column
 
-{{pageNumber 37}}
+{{pageNumber 42}}
 {{footnote PART 1 | Equipment}}
 \page
 
@@ -3159,7 +3564,7 @@ melee	weapon is	used	to	attack	a	target	within	5
 feet	of	you,	whereas	a	ranged	weapon is	used	to	
 attack	a	target	at	a	distance.
 }}
-:
+::::
 {{wide
 ##### Weapons
 | Name                    | Cost  | Damage          | Weight  | Properties     |
@@ -3207,12 +3612,12 @@ attack	a	target	at	a	distance.
 | &emsp; Net              | 1 gp  | &mdash;         | 3 lb.   | Thrown	(range	5/15)|
 }}
 
-{{pageNumber 38}}
+{{pageNumber 43}}
 {{footnote PART 1 | Equipment}}
 \page
 ### Weapon Proficiency
 {{background:#aa88aa55
-Your	race,	class,	and	feats	can	grant	you	proficiency	
+Your	species,	class,	and	feats	can	grant	you	proficiency	
 with	certain	weapons	or	categories	of	weapons.	The	
 two	categories	are	simple and	martial.	Most	people	
 can	use	simple	weapons	with	proficiency.	These	
@@ -3234,20 +3639,48 @@ roll.
 :
 
 ### Weapon Properties
-:
-##### Light [Weapon Property]
-When	you	take	the	Attack	Action on	your	turn
-and	attack	with	a Light weapon	in	one	hand,	you	
-can	make	one	extra	attack	as	part	of	the	same	
-Action.	That	extra	attack	must	be	made	with	a	
-different Light	weapon	in	the other	hand,	and	
-you	don’t	add	your	Ability	Modifier to	the	extra
-attack’s	damage. You	can	make	this	extra	attack	
-only	once	on	each	of	your	turns.
-
+{{background:#aa88aa55
+**Ammunition.**:: You	can	use	a	weapon	that	has	the	ammunition	property	to	make	a	ranged	attack	only	if	you	have	ammunition	to	fire	from	the	weapon.	Each	time	you	attack	with	the	weapon,	you	expend	one	piece	of	ammunition.	Drawing	the	ammunition	from	a	quiver,	case,	or	other	container	is	part	of	the	attack	(you	need	a	free	hand	to	load	a	one-handed	weapon).	At	the	end	of	the battle,	you	can	recover	half	your	expended	ammunition	by	taking	a	minute	to	search	the	battlefield.<br>&emsp;If	you	use	a	weapon	that	has	the	ammunition	property	to	make	a	melee	attack,	you	treat the	weapon	as	an	improvised	weapon	(see	“Improvised	Weapons”	later	in	the	section).	A	sling	must	be	loaded	to	deal	any	damage	when	used	in	this	way.
+**Finesse.**:: When	making	an	attack	with	a	finesse	weapon,	you	use	your	choice	of	your	Strength	or	Dexterity	modifier	for	the	attack	and	damage	rolls.	You	must	use	the	same	modifier	for	both	rolls.
+**Heavy.**:: Small	creatures	have	disadvantage	on	attack	rolls	with	heavy	weapons.	A	heavy	weapon’s	size	and	bulk	make	it	too	large	for	a	Small	creature	to	use	effectively.
+}}
+**Light.**:: When	you	take the	Attack	Action on	your	turn and	attack	with	a Light weapon	in	one	hand and	have	a	Light	weapon	in	the	other	hand,	you	can	make	one	extra	attack	as	part	of	the	same	Action.	That	extra	attack	must	be	made	with	the Light	weapon	in	the other	hand,	and	you	don’t	add	your	ability	modifier to	the	extra attack’s	damage. You	can	make	this	extra	attack	only	once	on	each	of	your	turns. <br>&emsp;For	example,	if	you take	the	Attack	Action	on	your	turn	and	have	a	Shortsword	in	one	hand	and	a	Dagger	in	the	other—each	of	which has	the	Light	property—you	can	make	one	attack	with each	weapon,	but	you	don’t	add your	Strength	or	Dexterity	modifier to	the	damage	roll	of	the	second	weapon.
 \column
+{{background:#aa88aa55
+**Loading.**:: Because	of	the	time	required	to	load	this	weapon,	you	can	fire	only	one	piece	of	ammunition	from	it	when	you	use	an	action,	bonus	action,	or	reaction	to	fire	it,	regardless	of	the	number	of	attacks	you	can	normally	make.
+**Range.**:: A	weapon	that	can	be	used	to	make	a	ranged	attack	has	a	range	in	parentheses	after	the	ammunition	or	thrown	property.	The	range lists	two	numbers.	The	first	is	the	weapon’s	normal	range	in	feet,	and	the	second	indicates	the	weapon’s	long	range.	When	attacking	a	target	beyond	normal	range,	you	have	disadvantage	on	the	attack	roll.	You	can’t	attack	a	target	beyond	the	weapon’s	long	range.
+**Reach.**:: This	weapon	adds	5	feet	to	your	reach	when	you	attack	with	it,	as	well	as	when	determining	your	reach	for	opportunity	attacks	with	it.
+**Special.**:: A	weapon	with	the	special	property	has	unusual	rules	governing	its	use,	explained	in	the	weapon’s	description	(see	“Special	Weapons”	later	in	this	section).
+**Thrown.**:: If	a	weapon	has	the	thrown	property,	you	can	throw	the	weapon	to	make	a	ranged	attack.	If	the	weapon	is	a	melee	weapon,	you	use	the	same	ability	modifier	for	that	attack	roll	and	damage	roll	that	you	would	use	for	a	melee	attack	with	the	weapon.	For	example,	if	you	throw	a	handaxe,	you	use	your	Strength,	but	if	you	throw	a	dagger,	you	can	use	either	your	Strength	or	your	Dexterity,	since	the	dagger	has	the	finesse	property.
+**Two-Handed.**::	This	weapon	requires	two	hands	when	you	attack	with	it.
+**Versatile.**:: This	weapon	can	be	used	with	one	or	two	hands.	A	damage	value	in	parentheses	appears	with	the	property—the	damage	when	the	weapon	is	used	with	two	hands	to	make	a	melee	attack.
+}}
+
+
+{{pageNumber 44}}
+{{footnote PART 1 | Equipment}}
+\page
 ## Adventuring Gear
-:
+
+### Equipment Packs
+{{background:#aa88aa55
+The	starting	equipment	you	get	from	your	class	includes	a	
+collection	of	useful	adventuring	gear,	put	together	in	a	pack.	
+The	contents	of	these	packs	are	listed	here.	If	you	are	buying	
+your	starting	equipment,	you	can	purchase	a	pack	for	the	
+price	shown,	which	might	be	cheaper	than	buying	the	items	
+individually.
+**Burglar’s	Pack**::	(16	gp). Includes	a	backpack,	a	bag	of	1,000	ball	bearings,	10	feet	of	string,	a	bell,	5	candles,	a	crowbar,	a	hammer,	10	pitons,	a	hooded	lantern,	2	flasks	of	oil,	5	days	rations,	a	tinderbox,	and	a	waterskin.	The	pack	also	has	50	feet	of	hempen	rope	strapped	to	the	side	of	it.
+**Diplomat’s	Pack**::	(39	gp).	Includes	a	chest,	2	cases	for	maps	and	scrolls,	a	set	of	fine	clothes,	a	bottle	of	ink,	an	ink pen,	a	lamp,	2	flasks	of	oil,	5	sheets	of	paper,	a	vial	of	perfume,	sealing	wax,	and	soap.
+**Dungeoneer’s	Pack**::	(12	gp). Includes	a	backpack,	a	crowbar,	a	hammer,	10	pitons,	10	torches,	a	tinderbox,	10	days	of	rations,	and	a	waterskin.	The	pack	also	has	50	feet	of	hempen	rope	strapped	to	the	side	of	it.
+**Entertainer’s	Pack**::	(40	gp).	Includes	a	backpack,	a	bedroll,	2	costumes,	5	candles,	5	days	of	rations,	a	waterskin,	and	a	disguise	kit.
+**Explorer’s	Pack**::	(10	gp).	Includes	a	backpack,	a	bedroll,	a	mess	kit,	a	tinderbox,	10	torches,	10	days	of	rations,	and	a	waterskin.	The	pack	also	has	50	feet	of	hempen	rope	strapped	to	the	side	of	it.
+}}
+**Priest’s	Pack**::	(33	gp).	Includes a Backpack,	Blanket,	Lamp,	Holy Water,	Rations	(7	days),	Robe,	and	Tinderbox.
+{{background:#aa88aa55
+**Scholar’s	Pack**::	(40	gp).	Includes	a	backpack,	a	book	of	lore,	a	bottle	of	ink,	an	ink	pen,	10	sheets	of	parchment,	a	little	bag	of	sand,	and	a	small	knife.
+}}
+\column
 ### Tools 
 *Tools aid your ability checks. See the 'Tool Proficiency' section in the Abilities and Skills Chapter*{color:#D35400}
 
@@ -3296,11 +3729,11 @@ only	once	on	each	of	your	turns.
 |&emsp;Poisoner’s kit | 50 gp | 2 lb.|
 |&emsp;Thieves’ tools | 25 gp | 1 lb.|
 
-{{pageNumber 39}}
+{{pageNumber 45}}
 {{footnote PART 1 | Equipment}}
 \page
 # Abilities and Skills
-This chapter covers Abilities and Skills.
+<br>
 
 {{purple,#book,text-align:left,background:#aa88aa55
 Six Abilities provide a quick desctiption
@@ -3328,7 +3761,7 @@ Test,	that	character	gains	Heroic	Inspiration.
 The	DM	determines	whether	a	d20	Test	is	
 warranted	in	any	given	circumstance.
 
-*Rules on D20 Tests and Ability Checks are covered in this chapter. For rules specific to Attack Rolls and Saving Throws, see the Combat chapter*{color:#D35400}
+*Rules on D20 Tests, Ability Checks, and Saving Throws are covered in this chapter. For rules specific to Attack Rolls, see the Combat chapter*{color:#D35400}
 
 ## Advantage and Disadvantage
 {{purple,#book,text-align:left,background:#aa88aa55
@@ -3397,7 +3830,9 @@ Heroic	Inspiration.	If	something	gives	you	Heroic
 Inspiration	and	you	already	have	it,	you	can	give	
 Heroic	Inspiration	to	a	player	character	in	your	
 group	who	lacks	it.
-
+{{pageNumber 46}}
+{{footnote PART 2 | ABILITIES & SKILLS}}
+\page
 
 ## Ability Check
 The	Ability	Check	is	one	of	three	types	of	d20	
@@ -3410,9 +3845,7 @@ failure.	When	the	outcome	is	uncertain	and
 narratively	interesting,	the	dice	determine	the	
 results.
 
-{{pageNumber 40}}
-{{footnote PART 2 | ABILITIES & SKILLS}}
-\page
+
 The	Ability	Check has	the	following	special	
 rules.
 
@@ -3425,7 +3858,17 @@ to	the	roll. For	example,	if	a	rule	refers	to	a
 Strength	Check	(Acrobatics	or	Athletics),	you	can	
 add	your	Proficiency	Bonus	to	the	check	if	you	
 have	Acrobatics	or	Athletics	Proficiency.
+{{background:#aa88aa55
+&emsp;The skills related to each ability score are shown in
+the following list. (No skills are related to Constitution.)
 
+**Strength:**:: Athletics
+**Dexterity:**:: Acrobatics, Sleight of Hand, Stealth
+**Intelligence:**:: Arcana, History, Investigation, Nature, Religion
+**Wisdom:**:: Animal Handling, Insight, Medicine, Perception, Survival
+**Charisma:**:: Deception, Intimidation, Performance, Persuasion
+}}
+:
 #### Expertise
 Expertise	is	a	special	feature	that	enhances	your	
 use	of	a	particular	Skill Proficiency.	If	you	gain	
@@ -3454,6 +3897,8 @@ Influence—include	Ability	Checks.
 The	DM	may	override	this	requirement	and	
 allow	a	particular	Ability	Check	to	be	made as	
 part	of	a	Bonus	Action	or	as	no	Action	at	all.
+
+\column
 ### Difficulty Class (DC)
 The	DM	determines	the	Difficulty	Class	of	an	
 Ability	Check	and	can override	a	DC	specified	in	
@@ -3475,57 +3920,63 @@ narratively	interesting.
 | Nearly Impossible | 30    |
 
 
-\column
-## Skills
-{{purple,#book,text-align:left,background:#aa88aa55
-Each ability covers a broad range of capabilities,
-including skills that a character or a monster can be
-proficient in. A skill represents a specific aspect of an
-ability score, and an individual’s proficiency in a skill
-demonstrates a focus on that aspect. (A character’s
-starting skill proficiencies are determined at character
-creation, and a monster’s skill proficiencies appear in
-the monster’s stat block.)
+## Saving Throws
+{{background:#aa88aa55
+A	saving	throw—also	called	a	save—represents	an	
+attempt	to	resist	a	spell,	a	trap,	a	poison,	a	disease,	
+or	a	similar	threat.	You	don’t	normally	decide	to	
+make	a	saving	throw;	you	are	forced	to	make	one	
+because	your	character	or	monster	is	at	risk	of	harm.
 
-For example, a Dexterity check might reflect a
-character’s attempt to pull off an acrobatic stunt, to palm
-an object, or to stay hidden. Each of these aspects of
-Dexterity has an associated skill: Acrobatics, Sleight of
-Hand, and Stealth, respectively. So a character who has
-proficiency in the Stealth skill is particularly good at
-Dexterity checks related to sneaking and hiding.
+To	make	a	saving	throw,	roll	a	d20	and	add	the	
+appropriate	ability	modifier.	For	example,	you	use	
+your	Dexterity	modifier	for	a	Dexterity	saving	throw.
+A	saving	throw	can	be	modified	by	a	situational	
+bonus	or	penalty	and	can	be	affected	by	advantage	
+and	disadvantage,	as	determined	by	the	GM.
 
-The skills related to each ability score are shown in
-the following list. (No skills are related to Constitution.)
-See an ability’s description in the later sections of this
-chapter for examples of how to use a skill associated with an ability.
+Each	class	gives	proficiency	in	at	least	two	saving	
+throws.	The	wizard,	for	example,	is	proficient	in	
+Intelligence	saves.	As	with	skill	proficiencies,	
+proficiency	in	a	saving	throw	lets	a	character	add	his	
+or	her	proficiency	bonus	to	saving	throws	made	using	
+a	particular	ability	score.	Some	monsters	have	saving	
+throw	proficiencies	as	well.
 
-**Strength:**:: Athletics
-**Dexterity:**:: Acrobatics, Sleight of Hand, Stealth
-**Intelligence:**:: Arcana, History, Investigation, Nature, Religion
-**Wisdom:**:: Animal Handling, Insight, Medicine, Perception, Survival
-**Charisma:**:: Deception, Intimidation, Perform ance, Persuasion
+The	Difficulty	Class	for	a	saving	throw	is	
+determined	by	the	effect	that	causes	it.	For	example,	
+the	DC	for	a	saving	throw	allowed	by	a	spell	is	
+determined	by	the	caster’s	spellcasting	ability	and	
+proficiency	bonus.
 
-Sometimes, the GM might ask for an ability check
-using a specific skill—for example, “Make a Wisdom
-(Perception) check.” At other times, a player might ask
-the GM if proficiency in a particular skill applies to a
-check. In either case, proficiency in a skill means an
-individual can add his or her proficiency bonus to ability
-checks that involve that skill. Without proficiency in the
-skill, the individual makes a normal ability check.
+The	result	of	a	successful	or	failed	saving	throw	is	
+also	detailed	in	the	effect	that	allows	the	save.	
+Usually,	a	successful	save	means	that	a	creature	
+suffers	no	harm,	or	reduced	harm,	from	an	effect.
 }}
 
-{{pageNumber 41}}
+
+{{pageNumber 47}}
 {{footnote PART 2 | ABILITIES & SKILLS}}
 \page
 # Interacting with the World
-Rules on how players interact with the world.
+<br>
 
-
-::::::::
 ## *Awareness*{color:#D35400}
 *This section covers aspects of perception, knowledge, and any other measure of a creatures awareness of the world around them.*{color:#D35400}
+
+### Tremorsense
+A	creature with	Tremorsense	can	pinpoint	the	
+location of	creatures	and	moving	objects within	
+a	specific	range,	provided	that	the creature with	
+Tremorsense	and anything	it’s	detecting	are	
+both	in	contact	with	the	same	surface	(such	as	
+the	ground,	a	wall,	or	a	ceiling)	or	the	same	
+liquid.
+
+Tremorsense can’t	detect	creatures	or	objects	
+in	the	air,	and	**Tremorsense	doesn’t	count	as	a	
+form	of	sight**.
 
 ### Vision and Light
 {{background:#aa88aa55
@@ -3564,14 +4015,15 @@ torch,	and	surrounding	darkness.	The	soft	light	of
 twilight	and	dawn	also	counts	as	dim	light.	A	
 particularly	brilliant	full	moon	might	bathe	the	land	
 in	dim	light.
-
-**Darkness** creates	a	heavily	obscured	area.	
+}}
+\column
+{{background:#aa88aa55
+&emsp;**Darkness** creates	a	heavily	obscured	area.	
 Characters	face	darkness	outdoors	at	night	(even	
 most	moonlit	nights),	within	the	confines	of	an	unlit	
 dungeon	or	a	subterranean	vault,	or	in	an	area	of	
 magical	darkness.
 }}
-
 
 ### Blindsight
 If	you	have	Blindsight,	you can	effectively	see	
@@ -3581,8 +4033,6 @@ effectively	see	anything	that	isn’t	behind	Total
 Cover,	even	if	you’re	Blinded	or	in	Darkness.
 Moreover,	you	can	effectively	see	a	Hidden or	an	
 Invisible creature	in	that	range.
-
-\column
 
 ### Darkvision
 {{background:#aa88aa55
@@ -3594,32 +4044,22 @@ so	areas	of	darkness	are	only	lightly	obscured	as	far
 as	that	creature	is	concerned.	However,	the	creature	
 can’t	discern	color	in	darkness,	only	shades	of	gray.
 }}
-:
-### Tremorsense
-A	creature with	Tremorsense	can	pinpoint	the	
-location of	creatures	and	moving	objects within	
-a	specific	range,	provided	that	the creature with	
-Tremorsense	and anything	it’s	detecting	are	
-both	in	contact	with	the	same	surface	(such	as	
-the	ground,	a	wall,	or	a	ceiling)	or	the	same	
-liquid.
-
-Tremorsense can’t	detect	creatures	or	objects	
-in	the	air,	and	Tremorsense	doesn’t	count	as	a	
-form	of	sight
 
 ### Truesight
-{{background:#aa88aa55
-A	creature	with	truesight	can,	out	to	a	specific	range,	
-see	in	normal	and	magical	darkness,	see	invisible	
-creatures	and	objects,	automatically	detect	visual	
-illusions	and	succeed	on	saving	throws	against	them,	
-and	perceives	the	original	form	of	a	shapechanger	or	
-a	creature	that	is	transformed	by	magic.	
-Furthermore,	the	creature	can	see	into	the	Ethereal	
-Plane.
-}}
-:
+A	creature with	Truesight has	enhanced	vision	
+within	a	specified	range.	Within	that	range,	the	
+creature’s	vision	pierces	through	the	following:
+**Darkness.**:: The	creature	can	see in	normal	and	magical	darkness.
+**Invisibility.**:: The	creature	can	see	Invisible	creatures	and	objects.
+**Visual	Illusions.**:: The	creature	notices visual	illusions	and automatically	succeeds on	Saving	Throws	against	them.
+**Transformations.**:: The	creature	discerns	the	true	form	of	any	creature or	object it	sees	that	has	been	transformed	by magic.
+**Ethereal	Plane.**:: The	creature can	see	into	the	Ethereal	Plane
+
+
+
+{{pageNumber 48}}
+{{footnote PART 2 | INTERACTING WITH THE WORLD}}
+\page
 ### Cover
 {{background:#aa88aa55
 Walls,	trees,	creatures,	and	other	obstacles	can	
@@ -3648,19 +4088,13 @@ bonus	to	AC	and	Dexterity	saving	throws.	A	target
 has	three-quarters	cover	if	about	three-quarters	of	it	
 is	covered	by	an	obstacle.	The	obstacle	might	be	a	
 portcullis,	an	arrow	slit,	or	a	thick	tree	trunk.
-}}
 
-{{pageNumber 42}}
-{{footnote PART 2 | INTERACTING WITH THE WORLD}}
-\page
-{{background:#aa88aa55
-&emsp;A	target	with	**total	cover** can’t	be	targeted	directly	
+A	target	with	**total	cover** can’t	be	targeted	directly	
 by	an	attack	or	a	spell,	although	some	spells	can	
 reach	such	a	target	by	including	it	in	an	area	of	effect.	
 A	target	has	total	cover	if	it	is	completely	concealed	
 by	an	obstacle.
 }}
-
 :
 ### Unseen Attackers and Targets
 {{background:#aa88aa55
@@ -3685,28 +4119,13 @@ the	attack	hits	or	misses.
 }}
 
 \column
+::
 {{note,color:purple
 #### How to run hiding in the UA
-**This is an interpretation of the UA rules and is subject to peer review.**
-
-*Who are you hiding from?:*:: Hiding has become a condition. According to the condition text, the creatures you are hidden from are referred to as 'enemies'. This implies that non-enemies may or may not see you, but don't affect your condition and may still be able to target you with line of sight effects.
-
-*Determining Cover:*:: Cover is a one-to-many relationship between you and every other enemy. When checking cover for hiding, use the least applicable cover from all visible enemies. If you are trying to hide while there are no enemies, assume full cover.
-
-*Breaking Line of Sight:*::  A creature can not see you under the following situations: You have Full Cover, you are Heavily Obscured, you have the Hidden Condition, you have the Invisible Condition. In any of these situations, you aren’t affected by any effect from that creature that requires its target to be seen.
-
-*Three-Quarters Cover and No Line of Sight:*:: I honestly don't understand this. If you have 3/4 cover, it means an enemy still has line of sight. I would rule that 3/4 cover never allows hiding because the other hiding requirement can't be fulfilled.
-
-*Unseen Enemies:*:: If you can't see an enemy, but they can see you, you can still succeed on your Hide check. When an unseen enemy that can see you, begins to interact with you while you have the Hidden condition and no cover from that enemy, it immediately ends the hidden condition.
-
-*Revealed:*:: If at any time you lose all cover from a visible enemy and are not heavily obscured, the hidden condition ends.
-
-*Found:*:: If an enemy uses the Search Action to find you with a Wisdom Check (Perception), they must exceed the Stealth check total from your Hide Action. 
-
-*Location:*:: While you have the hidden condition, an enemy may not know your exact location, and must use the rules for guessing the target's location as detailed in the 'Unseen Attackers and Targets' entry.
+**This Interpretation is currently removed pending further review.**
 }}
 
-{{pageNumber 43}}
+{{pageNumber 49}}
 {{footnote PART 2 | INTERACTING WITH THE WORLD}}
 \page
 ### *Awareness Actions*{color:#D35400}
@@ -3761,7 +4180,7 @@ for	a	creature to	find	you	with	a	Wisdom	Check	(Perception).
 
 \column
 
-{{pageNumber 44}}
+{{pageNumber 50}}
 {{footnote PART 2 | INTERACTING WITH THE WORLD}}
 \page
 ## Movement
@@ -3821,14 +4240,23 @@ take	the	Dash	Action on	your	turn,	you	could	use
 your	Speed	for	the	Move	and	your	Fly	Speed	for	
 the	Dash	or	vice	versa.
 
+{{
+##### *Special Speeds Cost*{color:#D35400}
+| Speed Type | Horizontal<br> Surface | Vertical<br> Surface | Liquid | Air |
+|:-----------|:-------|:-------|:---|:---|
+|Regular | normal | double | double | N/A |
+|Climb     | normal | normal | double | N/A |
+|Swim      | N/A    | N/A    | normal | N/A |
+|Fly        | N/A    | N/A    | N/A | normal |
+}}
+
+\column
 ##### Speed of 0
 If	an	effect	zeroes	your	Speed	for	a	time,	any	
 special	speed	you	have	is	also	zeroed	for	the	
 same	duration.	For	example,	if	you	have	a	Speed	
 and	a	Climb	Speed,	both	speeds	are	zeroed	if	
 you’re	subjected	to	the	Grappled Condition.
-
-::
 
 ### Difficult Terrain
 If	a	space	is	Difficult	Terrain,	every	foot	of	
@@ -3876,6 +4304,9 @@ While	flying,	you	fall if	you	are Incapacitated or
 Restrained.	If	you	have the	Hover	trait,	you can	
 stay	aloft	even	while	Incapacitated or	Restrained.
 
+{{pageNumber 51}}
+{{footnote PART 2 | INTERACTING WITH THE WORLD}}
+\page
 ### Teleportation
 Teleportation	is	a	special	kind	of	magical	
 transportation.	If	you	teleport,	you	disappear	
@@ -3887,10 +4318,6 @@ never	provokes	Opportunity	Attacks.
 
 When	you	teleport,	all	the	equipment	you	are	
 wearing	and	carrying	teleports	with	you.	
-
-{{pageNumber 45}}
-{{footnote PART 2 | INTERACTING WITH THE WORLD}}
-\page
 If	you	are	touching	another	creature	when	you	
 teleport,	that	creature	doesn’t	teleport	with	you,	
 unless	the	teleportation	effect	says	otherwise.
@@ -3901,6 +4328,16 @@ occupied	by	another	creature	or	blocked	by	a	solid	obstacle,	you	instead	appear	
 The	description	of	a	teleportation	effect	tells	
 you	if	you	must	see	the	teleportation’s	
 destination.
+
+### Falling
+{{background:#aa88aa55
+A	fall	from	a	great	height	is	one	of	the	most	common	
+hazards	facing	an	adventurer.	At	the	end	of	a	fall,	a	
+creature	takes	1d6	bludgeoning	damage	for	every	10	
+feet	it	fell,	to	a	maximum	of	20d6.	The	creature	lands	
+prone,	unless	it	avoids	taking	damage	from	the	fall.
+}}
+:
 
 ### Movement Actions
 :
@@ -3926,8 +4363,16 @@ horizontally,	or half	that	total	if	you’re	jumping
 vertically (round	down). This	jump	doesn’t	
 expend	your	movement,	but	the	distance	you	
 clear	can’t	exceed	your	Speed.
+\column
+{{note
+#### Jumping Overview
+**Not a Jump:**:: A gap or obstable less than 5 feet is just considered difficult terrain.
+**Long Jump:**:: A distance greater than 5 feet requires the Jump Action where you check total equals the amount of feet you are able to clear.
+**High Jump:**:: An obstacle greater than 5 feet tall requires the Jump Action where half you check total equals the amount of feet you are able to clear.
+**Jump Reach:**:: Using the 5e rule, "You	can	extend	your	arms	half	your	height	above	yourself	during	the	jump.	Thus,	you	can	reach	above	you	a	distance	equal	to	the	height	of	the	jump	plus	1½	times your	height."
+}}
 
-{{pageNumber 46}}
+{{pageNumber 52}}
 {{footnote PART 2 | INTERACTING WITH THE WORLD}}
 \page
 ## Interacting with People
@@ -3937,75 +4382,69 @@ clear	can’t	exceed	your	Speed.
 :
 
 #### Help	[Action]
-When	you	take	the	Help	Action,	you	do	one	of	
-the	following:
+When	you	take	the	Help	Action,	*you	can*{color:#D35400}:
 **Assist	Ability	Check.**:: Choose	one	of	your	Skill	Proficiencies and	one	ally	who	can	see	or	hear	you.	You	give Advantage to the	next	Ability	Check	that ally	makes	with	the	chosen Skill.	This	benefit	expires	if	the	ally	doesn’t	use	it	before	the	start	of	your	next	turn. To	give	this	assistance,	you	must	be	near enough	to	the	ally	to	assist	verbally	or	physically when	the	ally	makes	the	check. The	DM	has	final	say	on	whether	your	assistance	is	possible.
 
 #### Influence [Action]
 With	the	Influence	Action,	you	can	try	to	
-influence another	creature	to	do	something	you	
-request	or	demand.	This	Action	can	be	used only	
-on	creatures	controlled	by	the	DM,	and	it	isn’t	
-mind	control;	it	can’t	force	a	creature	to	do	
-something	that	is	counter	to	the	creature’s	alignment	or	that	is	otherwise	repugnant	to	the	creature.
+influence another	creature	to	do	one thing	or	
+course	of	action	that you	request	or	demand.
+
+This	Action	can	be	used only	on	creatures	
+controlled	by	the	DM,	and	it	isn’t	mind control;	it	
+can’t	force	a	creature	to	do	something	that	is	
+counter	to	the	creature’s	alignment	or	that	is	
+otherwise	repugnant	to	the	creature.
 
 This	Action	has	three	main	parts:	Attitude,	
 interaction,	and	a	Charisma	Check.
 ##### Attitude
 A	creature’s	Attitude	determines	how	a	
-character	can influence	that creature.	Each	DMcontrolled	creature	has	one	of	the	following	
+character	can influence	that creature.	Each	DM-controlled	creature	has	one	of	the	following	
 Attitudes toward	the	player	characters:
-**Indifferent.**:: This	is	the	default	Attitude	for	DMcontrolled	creatures.	An	Indifferent creature	might	help	or	hinder	the	party,	depending	on	what	the	creature	sees	as	most	beneficial.	A	creature’s	indifference	doesn’t	necessarily	make	it	standoffish	or	disinterested.	Indifferent	creatures	might	be	polite	and	genial,	surly	and	irritable,	or	anything	in	between.	A	successful	Charisma	Check	is	often	necessary when	the	adventurers	try	to	persuade	an	Indifferent	creature	to	do	something.
-**Friendly.**:: A	Friendly creature	wants	to	help	the	adventurers	and	wishes	for	them	to	succeed.	For	tasks	or	actions	that	require	no	particular	risk,	effort,	or	cost,	Friendly	creatures	often help	happily.	If	an	element	of	personal	risk	is	involved,	a	successful	Charisma	Check	might	be	required	to	convince	a	Friendly	creature	to	take	that	risk.
-**Hostile.**:: A	Hostile	creature	opposes	the	adventurers	and	their	goals	but	doesn’t	necessarily	attack	them	on	sight.	The	adventurers	need	to	succeed	on	one	or	more	challenging	Charisma	Checks	to	convince	a	Hostile	creature	to	do	anything	on	the	party’s behalf;	however, the	DM	might	determine	that the Hostile	creature	is so	ill-disposed	toward	the	characters that	no	Charisma	Check	can sway	it,	in	which	case	the	first	check fails	automatically	and	no	further	Influence	attempts	can	be	made	on	the	creature	unless	its	Attitude	shifts.
-
+**Indifferent.**:: This	is	the	default	Attitude	for	DM-controlled	creatures.	An	Indifferent	creature	might	help	or hinder	the	party,	depending	on	what	the	creature	sees	as	most	beneficial.	A	creature’s	indifference	doesn’t	necessarily	make	it	standoffish	or	disinterested.	Indifferent	creatures	might	be	polite	and	genial,	surly	and	irritable,	or	anything	in	between.	A	successful	Charisma	Check	is	usually necessary	when	the	adventurers	try	to	influence an	Indifferent	creature	to	do	something.
+**Friendly.**:: A	Friendly creature	wants	to	help	the	adventurers	and	wishes	for	them	to	succeed.	For	tasks	or	actions	that	require	no particular	risk,	effort,	or	cost,	Friendly	creatures	often help	happily,	with	the	Charisma	Check	succeeding	automatically.	If	an	element	of	personal	risk	is	involved,	a	successful	Charisma	Check	is	usually required	to	convince	a	Friendly	creature	to	take	that	risk.
+**Hostile.**:: . A	Hostile	creature	opposes	the	adventurers	and	their	goals	but	doesn’t	necessarily	attack	them	on	sight.	The	adventurers	need	to	succeed	on	one	or	more	Charisma	Checks	to	convince	a	Hostile	creature	to	do	anything	on	the	party’s behalf; however, the	DM	might	determine	that the Hostile	creature	is so	ill-disposed	toward	the	characters that	no	Charisma	Check	can sway	it,	in	which	case	the	first	check fails	automatically	and	no	further	Influence	attempts	can	be	made	on	the	creature	unless	its Attitude	shifts.
 
 ##### Interaction
 When	you	take	the	Influence Action,	either	
 roleplay	how	your	character	interacts	with	the	
 creature or	describe	your	character’s	behavior—
 focusing	on	your	character’s request	or	demand.	
-If	the	interaction is	especially	suited	to	the	
+If	the	interaction is	especially	suited to	the	
 creature’s	desires	and	outlook,	the	DM	might	
-grant Advantage	to your	subsequent	check	or	
-might	temporarily	shift	a	Hostile	creature	to	
-Indifferent	or	an	Indifferent	creature	to	Friendly.
+temporarily	shift	a	Hostile	creature	to	Indifferent	
+or	an	Indifferent	creature	to	Friendly.
 
 Similarly,	if	the	interaction is	particularly	
-irksome	to	the	creature,	the	DM	might impose	
-Disadvantage	on	your	subsequent	check	or	
-might	temporarily	shift	a	Friendly	creature	to	
-Indifferent	or	an	Indifferent	creature	to	Hostile.
+irksome	to	the	creature,	the	DM	might
+temporarily	shift	a	Friendly creature	to	
+Indifferent	or	an	Indifferent	creature	to	Hostile
 
 ##### Ability Check
 To	determine	whether your	request	or	demand	
-is	successful,	you	make	a	Charisma	Check
-(Animal	Handling,	Deception,	Intimidation,	or	
-Persuasion);	the	applicable	Skill	depends	on	the	
-interaction,	with	Animal	Handling	being	
-reserved	for	Beasts	and	Monstrosities. Also,	each
-request	or demand	requires	a different	check.
+is	successful,	you	make	a	Charisma	Check.	You	
+have	Advantage	on	the	check	if	the	creature	is	
+Friendly,	and	you	have	Disadvantage	if	the	
+creature	is	Hostile.
+Choosing	a	Skill.	The	Influence Skills table	
+suggests	which	Skills	are	applicable	when	you	
+make	the	Charisma	Check,	depending	on	the
+interaction that	precedes	the	roll.
 
-The	creature’s	Attitude	determines	the	DC	
-required	to	achieve	a	specific	response,	as	
-shown	in	the	Influence Responses table.
-##### Influence Responses
-| DC | Indifferent Creature’s Response |
-|:------------------|:-----:|
-| 10 | The creature does as asked, as long as no risks or sacrifices are involved.     |
-| 20 | The creature accepts a minor risk or sacrifice to do as asked.| 
+##### Influence Skills
+| Skill | Interaction |
+|:------------------|:-----|
+| Animal Handling   |Gently coaxing a Beast or a Monstrosity|
+| Deception         |Deceiving a creature that can understand you|
+| Intimidation      |Intimidating a creature |
+| Persuasion        |Persuading a creature that can understand you|
 
-| DC | Friendly Creature’s Response |
-|:------------------|:-----:|
-| 10 | The creature accepts a minor risk or sacrifice to do as asked.     |
-| 20 | The creature accepts a significant risk or sacrifice to do as asked.| 
+**Setting	the	DC.**:: The	minimum DC	for	the	check	is	15 or	the	creature’s	Intelligence score,	whichever	is	higher.
+**Outcome.**:: If	your	check	succeeds,	the	creature	does	as	asked. If	your	check	fails,	you	must	wait	to	make	the	same	request	again.	The	default	wait	time	is	24	hours,	which	the	DM	may	shorten	or	extend depending	on	the circumstances.
 
-| DC | Hostile Creature’s Response |
-|:------------------|:-----:|
-| 10 | The creature offers no help but does no harm.     |
-| 20 | The creature does as asked, as long as no risks or sacrifices are involved.| 
 
-{{pageNumber 47}}
+{{pageNumber 53}}
 {{footnote PART 2 | INTERACTING WITH THE WORLD}}
 \page
 ## Resting, Eating, Travel
@@ -4038,26 +4477,89 @@ activity,	such	as	reading,	talking,	eating,	or
 standing	watch.
 
 ##### Benefits of the Rest
-When	you	finish a	Long	Rest,	you gain	the	following	benefits:
+To	start	a	Long	Rest,	you must have	at	least	1	Hit	Point. When	you	finish a	Long	Rest,	you gain	the	following	benefits:
 **Regain	All	HP.**:: You regain	all	lost	Hit	Points.
 **Regain	All HD.**:: You	regain	all	spent	Hit	Dice. 
 **HP	Max	Restored.**::	If	your Hit	Point	Maximum	was	reduced,	it	returns	to	normal.
-**Ability	Scores	Restored.**:: If	any	of	your	Ability	Scores	were	reduced,	they	return	to	normal. You can’t	benefit	from	more	than	one	Long	Rest	in	a	24-hour	period,	and	you must	have	at	least	1	Hit	Point	at	the	start	of	the	rest	to	gain	its	benefits.
-##### Interrupting the Rest
-If	a	Long	Rest	is	interrupted	by	combat	or	by	1	
-hour	of	walking,	casting	Spells,	or	similar	
-activity,	the	rest	confers	no	benefit	and	must	be	
-restarted;	however,	if	the	rest	was	at	least	1	hour	
-long	before	the	interruption,	you	gain the	
-benefits	of	a	Short	Rest.
+**Ability	Scores	Restored.**:: If	any	of	your	Ability	Scores	were	reduced,	they	return	to	normal.
+**Exhaustion	Reduced.**::	If	you	are	Exhausted,	your	level	of	exhaustion	decreases by	1.
 
-{{pageNumber 48}}
+After	you	finish	a	Long	Rest,	you	must	wait	at	least	16	hours	before	starting	another	one.
+
+##### Interrupting the Rest
+A Long	Rest	is	stopped by	the	following
+interruptions:
+- Combat
+- Casting	a	spell	other	than	a	*Cantrip*{color:#D35400}
+- 1	hour	of	walking or	other	physical	exertion
+
+If	the	rest	was	at	least	1	hour	long	before	the	
+interruption,	you	gain the	benefits	of	a	Short	
+Rest.
+
+You	can resume	a Long	Rest immediately	after	an	interruption.	If	you	do	so, the	rest	requires	1	
+additional	hour	to	finish	per	interruption.
+
+\column
+### Suffocating
+{{background:#aa88aa55
+A	creature	can	hold	its	breath	for	a	number	of	
+minutes	equal	to	1	+	its	Constitution	modifier	
+(minimum	of	30	seconds).
+When	a	creature	runs	out	of	breath	or	is	choking,	
+it	can	survive	for	a	number	of	rounds	equal	to	its	
+Constitution	modifier	(minimum	of	1	round).	At	the	
+start	of	its	next	turn,	it	drops	to	0	hit	points	and	is	
+dying,	and	it	can’t	regain	hit	points	or	be	stabilized	
+until	it	can	breathe	again.
+For	example,	a	creature	with	a	Constitution	of	14	
+can	hold	its	breath	for	3	minutes.	If	it	starts	
+suffocating,	it	has	2	rounds	to	reach	air	before	it	
+drops	to	0	hit	points.
+}}
+
+### Food and Water
+{{background:#aa88aa55
+Characters	who	don’t	eat	or	drink	suffer	the	effects	
+of	exhaustion	(see	appendix	<s>PH-</s>sA).	Exhaustion	
+caused	by	lack	of	food	or	water	can’t	be	removed	
+until	the	character	eats	and	drinks	the	full	required	
+amount.
+}}
+#### Food
+{{background:#aa88aa55
+A	character	needs	one	pound	of	food	per	day	and	can	
+make	food	last	longer	by	subsisting	on	half	rations. Eating	half	a	pound	of	food	in	a	day	counts	as	half	a	
+day	without	food.
+A	character	can	go	without	food	for	a	number	of	
+days	equal	to	3	+	his	or	her	Constitution	modifier	
+(minimum	1).	At	the	end	of	each	day	beyond	that	
+limit,	a	character	automatically	suffers	one	level	of	
+exhaustion.
+A	normal	day	of	eating	resets	the	count	of	days	
+without	food	to	zero.
+}}
+#### Water
+{{background:#aa88aa55
+A	character	needs	one	gallon	of	water	per	day,	or	
+two	gallons	per	day	if	the	weather	is	hot.	A	character	
+who	drinks	only	half	that	much	water	must	succeed	
+on	a	DC	15	Constitution	saving	throw	or	suffer	one	
+level	of	exhaustion	at	the	end	of	the	day.	A	character	
+with	access	to	even	less	water	automatically	suffers	
+one	level	of	exhaustion	at	the	end	of	the	day.
+If	the	character	already	has one	or	more	levels	of	
+exhaustion,	the	character	takes	two	levels	in	either	
+case.
+}}
+
+
+{{pageNumber 54}}
 {{footnote PART 2 | INTERACTING WITH THE WORLD}}
 \page
 # Combat
-This chapter covers rules for combat.
+<br>
 
-::::::::
 ## Making an Attack
 {{background:#aa88aa55
 Whether	you’re	striking	with	a	melee	weapon,	firing	
@@ -4087,6 +4589,18 @@ choice:
 **Shove.**:: You	either	push	the	target	5	feet	away	or	knock	the	target	Prone.	This	shove	is	possible	only	if	the	target	is	no	more	than	one	Size	larger	than	you.
 \column
 
+### Attack Roll
+{{background:#aa88aa55
+When	you	make	an	attack,	your	attack	roll	
+determines	whether	the	attack	hits	or	misses.	To	
+make	an	attack	roll,	roll	a	d20	and add	the	
+appropriate	modifiers.	If	the	total	of	the	roll	plus	
+modifiers	equals	or	exceeds	the	target’s	Armor	Class (AC),	the	attack	hits.	The	AC	of	a	character	is	
+determined	at	character	creation,	whereas	the	AC	of	
+a	monster	is	in	its	stat	block.
+}}
+:
+
 ## Combat Actions
 *While the actions presented here are generally related to combat, they are not restricted to combat. Likewise, actions from other Chapters may be used in combat.*{color:#D35400}
 
@@ -4095,26 +4609,27 @@ When	you	take	the	Attack	Action,	you	can	make
 one	attack	with	a	Weapon	or	an	Unarmed	Strike.
 
 ##### Having the Light Weapon Property
-When	you	take	the	Attack	Action on	your	turn
-and	attack	with	a Light weapon	in	one	hand,	you	
-can	make	one	extra	attack	as	part	of	the	same	
-Action.	That	extra	attack	must	be	made	with	a	
-different Light	weapon	in	the other	hand,	and	
-you	don’t	add	your	Ability	Modifier to	the	extra
-attack’s	damage. You	can	make	this	extra	attack	
-only	once	on	each	of	your	turns.
+When	you	take the	Attack	Action on	your	turn
+and	attack	with	a Light weapon	in	one	hand and	
+have	a	Light	weapon	in	the	other	hand,	you	can	
+make	one	extra	attack	as	part	of	the	same	Action.	
+That	extra	attack	must	be	made	with	the Light	
+weapon	in	the other	hand,	and	you	don’t	add	
+your	ability	modifier to	the	extra attack’s	
+damage. You	can	make	this	extra	attack	only	
+once	on	each	of	your	turns.
 
 For	example,	if	you take	the	Attack	Action	on	
 your	turn	and	have	a	Shortsword	in	one	hand	
-and	a	Dagger	in	the	other—each	of	which	has	the	
-Light	property—you	can	make	one	attack	with	
-each	weapon,	but	you	don’t	add	your	Strength	or	
-Dexterity	Modifier	to	the	damage	roll	of	the	
+and	a	Dagger	in	the	other—each	of	which has	the	
+Light	property—you	can	make	one	attack	with each	weapon,	but	you	don’t	add	your	Strength	or	
+Dexterity	modifier to	the	damage	roll	of	the	
 second	weapon.
+
 
 ##### Equipping Weapons
 You	can	equip	or	unequip	one	Weapon	before	or	
-after	any	attack	you	make	as	part	of	this	Action,	
+after	each	attack	you	make	as	part	of	this	Action,	
 even	if	the	attack	is	with	an	Unarmed	Strike.
 
 ##### Moving between Attacks
@@ -4125,17 +4640,15 @@ Attack,	that	gives	you	more	than	one	attack	as
 part	of	the	Attack	Action.
 
 #### Help	[Action]
-When	you	take	the	Help	Action,	you	do	one	of	
-the	following:
+When	you	take	the	Help	Action,	*you	can*{color:#D35400}:
 **Assist	Attack	Roll.**:: You	momentarily	distract	an	enemy	within	5	feet	of	you,	granting Advantage	to	the	next	Attack	Roll by	one	of	your	allies	against	that enemy.	This	benefit	expires	at	the	start	of	your	next	turn.
 
-{{pageNumber 49}}
+{{pageNumber 55}}
 {{footnote PART 2 | COMBAT}}
 \page
 # Spellcasting
-This chapter covers rules for spellcasting.
+<br>
 
-::::::::
 ## What is a Spell?
 {{background:#aa88aa55
 A	spell	is	a	discrete	magical	effect,	a	single	shaping	of	
@@ -4145,26 +4658,22 @@ a	specific,	limited	expression.
 :
 ### Cantrips
 {{background:#aa88aa55
-A	cantrip	is	a	spell	that	can	be	cast	at	will,	without	
+A	Cantrip	is	a	spell	that	can	be	cast	at	will,	without	
 using	a	spell	slot	and	without	being	prepared	in	
 advance.	Repeated	practice	has	fixed	the	spell	in	the	
 caster’s	mind	and	infused	the	caster	with	the	magic	
 needed	to	produce	the	effect	over	and	over.	A	
-cantrip’s	spell	level	is	0.
+Cantrip’s	spell	level	is	0.
 }}
 :
-### Rituals
-If	you	have	a	Spell	prepared	that	has	the	Ritual	tag,	you	can	cast	that	Spell	as	a	Ritual.
-{{background:#aa88aa55
-Such a spell can be cast following the normal rules for spellcasting,
-or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal. It	also	doesn’t	expend	a	spell	slot,
-which	means	the	ritual	version	of	a	spell	can’t	be	
-cast	at	a	higher	level.
-}}
-:
-\column
 ## Casting a Spell
-:
+{{note
+#### Casting in Armor
+If	you	wear	Light,	Medium,	or	Heavy	Armor	
+and	lack	Armor	Training	with	that	type	of	
+Armor,	you	can’t	cast	Spells.
+}}
+
 ### Concentration
 {{background:#aa88aa55
 Some spells require you to maintain concentration
@@ -4185,12 +4694,20 @@ break concentration:
 - **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
 - **Other Conditions.**{color:#D35400} The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
 }}
-## Spellcasting Actions
+\column
+### Ritual Casting
+If	you	have	a	Spell	prepared	that	has	the	Ritual	tag,	you	can	cast	that	Spell	as	a	Ritual.
+{{background:#aa88aa55
+The ritual version of a spell takes 10 minutes longer to cast than normal. It	also	doesn’t	expend	a	spell	slot, which	means	the	ritual	version	of	a	spell	can’t	be	cast	at	a	higher	level.
+}}
 :
+## Spellcasting Actions
+
+
 #### Magic	[Action]
 When	you	take	the	Magic	Action,	you	cast	a	Spell	
-that	has	a	casting	time	of	an Action,	or	you	use	a	
-Magic	Item	that	requires	an	Action	to	be	
+that	has	a	casting	time	of	an Action,	or	you	use	a	feature or a
+Magic	Item	that	requires	a Magic	Action	to	be	
 activated.
 
 If	you	cast	a	Spell	that	has	a	casting	time	of	1	
@@ -4200,22 +4717,16 @@ maintain	Concentration	while	you	do	so. If	your
 Concentration	is	broken,	the	Spell	fails,	but	you	
 don’t	expend	a	Spell	Slot.
 
-{{note
-#### Casting in Armor
-If	you	wear	Light,	Medium,	or	Heavy	Armor	
-and	lack	Armor	Training	with	that	type	of	
-Armor,	you	can’t	cast	Spells.
-}}
 
 
 
 
-{{pageNumber 50}}
+
+{{pageNumber 56}}
 {{footnote PART 2 | SPELLCASTING}}
 \page
 # Spells
-This chapter details the core set of spells.
-There are three core	Spell	types:	Arcane,	
+<br>There are three core	Spell	types:	Arcane,	
 Divine,	and	Primal. 
 
 #### Arcane Spells
@@ -4239,7 +4750,7 @@ this	magic.	For	a	partial	list	of	Primal	Spells,	see
 
 ## Spell Lists
 Each	list	provides	a	Spell’s	
-level *(Cantrips are listed as level 0)*{color:#D35400},	name, and	School	of	Magic.	The	list	also	
+level *(A Cantrip's spell level is 0)*{color:#D35400},	name, and	School	of	Magic.	The	list	also	
 indicates	whether	a	Spell	has	the	Ritual	tag.
 
 ##### Arcane Spells
@@ -4270,6 +4781,7 @@ indicates	whether	a	Spell	has	the	Ritual	tag.
 | 1 | Chromatic Orb  | Evocation | No |
 
 \column
+::
 {{note,background:#aa88aa55
 #### The Schools of Magic
 Academies of magic group spells into eight categories called
@@ -4328,7 +4840,7 @@ object move at the caster’s command, or enhance a creature’s
 innate healing abilities to rapidly recover from injury
 }}
 
-{{pageNumber 51}}
+{{pageNumber 57}}
 {{footnote PART 2 | SPELLCASTING}}
 \page
 
@@ -4443,7 +4955,7 @@ innate healing abilities to rapidly recover from injury
 | 4 | Fire Shield  | Evocation | No |
 
 
-{{pageNumber 50}}
+{{pageNumber 58}}
 {{footnote PART 3 | SPELLS}}
 \page
 
@@ -4548,7 +5060,7 @@ innate healing abilities to rapidly recover from injury
 | 9 | Wish  | Conjuration | No |
 
 
-{{pageNumber 51}}
+{{pageNumber 59}}
 {{footnote PART 3 | SPELLS}}
 \page
 ##### Divine Spells
@@ -4661,7 +5173,7 @@ innate healing abilities to rapidly recover from injury
 | 7 | Symbol  | Abjuration | No |
 | 8 | Antimagic Field  | Abjuration | No |
 
-{{pageNumber 52}}
+{{pageNumber 60}}
 {{footnote PART 3 | SPELLS}}
 \page
 | Level | Spell | School | Ritual |
@@ -4775,7 +5287,7 @@ innate healing abilities to rapidly recover from injury
 | 5 | Reincarnate  | Necromancy | No |
 | 5 | Scrying  | Divination | No |
 
-{{pageNumber 53}}
+{{pageNumber 61}}
 {{footnote PART 3 | SPELLS}}
 \page
 | Level | Spell | School | Ritual |
@@ -4808,6 +5320,55 @@ innate healing abilities to rapidly recover from injury
 ## Spell Descriptions
 The spells are presented in alphabetical order.
 
+#### Aid
+*2nd-level Abjuration	Spell	(Divine)*
+**Casting Time:** :: Action
+**Range:**        :: 30 feet
+**Components:**   :: V, S, M (a	tiny	strip	of	white	cloth)
+**Duration:**     :: Instantaneous
+Your	spell	bolsters	creatures,	filling	them	with	
+resolve. Choose	up	to	six creatures	within	range.	
+Each	target	gains 5 Temporary	Hit	Points.
+
+**At	Higher	Levels.** When	you	cast	this	spell	
+using	a	spell	slot	of	3rd	level	or	higher,	the	
+number	of	Temporary Hit	Points	increases	by	5	
+for	each	slot	level	above	2nd.
+
+\column
+#### Banishment
+*4nd-level Abjuration	Spell	(Arcane, Divine)*
+**Casting Time:** :: Action
+**Range:**        :: 30 feet
+**Components:**   :: V, S, M (an	item	distasteful	to	the	target)
+**Duration:**     :: Concentration,	up	to	1	minute
+You	attempt	to	send	one	creature	that	you	can	
+see	within	range	to	another	plane	of	existence.	
+The	target	must	succeed	on	a	Charisma	Saving	
+Throw	or	be	transported	to	a	harmless	
+demiplane for	the	duration. The	target can	
+willingly	fail	the	save.
+
+While	in	the	demiplane,	the	target	is	
+Incapacitated.	At	the	end	of	each	of	its	turns,	the	
+target	can	repeat	the	save,	ending	the	Spell	on	
+itself	on	a	success.	When	the	Spell	ends	on the	
+target,	it reappears	in	the	space	it	left	or	in	the	
+nearest	unoccupied	space	if	that	space	is	
+occupied.
+
+If	the	Spell	lasts	on	the	target	for	1	minute	and	
+the	target	is	an	Aberration,	a	Celestial,	an	
+Elemental,	a	Fey,	or	a	Fiend,	the	target doesn’t	
+return.	It	is	instead	transported	to	a	random	
+location	on	a	plane	associated	with	its	Creature	
+Type.
+
+**At	Higher	Levels.** When	you	cast	this	Spell	
+using	a	Spell	Slot	of	5th	level or	higher,	you	can	
+target	one	additional	creature	for	each	slot	level	
+above	4th.
+
 #### Barkskin
 *2nd-level Transmutation	Spell	(Primal)*
 **Casting Time:** :: Bonus Action
@@ -4826,23 +5387,76 @@ your	Proficiency	Bonus.
 using	a	Spell	Slot	of	3rd level	or	higher,	you	can	
 target one	additional	willing	creature	for	each	
 slot	level	above	2nd.
-\column
+
 #### Guidance
 *Cantrip Divination	Spell	(Divine,	Primal)*
-**Casting Time:** :: Reaction,	which	you	take	in response	to	you	or	an	ally within	30	feet	of	you failing	an	Ability	Check	
-**Range:**        :: 30 feet
+**Casting Time:** :: Reaction,	which	you	take	in response	to	you	or an	ally within	10	feet	of	you failing	an	Ability	Check	
+**Range:**        :: 10 feet
 **Components:**   :: V,	S
 **Duration:**     :: Instantaneous
 You	channel	magical	insight	to	the	creature	who	
 failed	the	Ability	Check.	That	creature	can	roll	a d4	and	add	the	number	rolled	to	the	check,	
 potentially	turning	it	into	a	success.
 
-Once	a	creature	rolls	the	die	for	this	Spell,	that	
-creature	can’t	benefit	from	the	Spell again	until	
-the	creature	finishes a	Long	Rest.
+{{pageNumber 62}}
+{{footnote PART 3 | SPELLS}}
+\page
+#### Prayer of Healing
+*2nd-level Abjuration	Spell	(Divine)*
+**Casting Time:** :: 10 minutes	
+**Range:**        :: 30 feet
+**Components:**   :: V
+**Duration:**     :: Instantaneous
+You	utter	an	extended prayer	of	restoration.	
+Choose	a number	of willing	creatures equal	to	
+your	Spellcasting	Ability	Modifier (minimum	of	
+1).	Each	of	those	creatures who	remains	within	
+range	for	the	Spell’s	entire casting gains	the	
+benefits	of	a	Short	Rest	and	also	regains 2d8 Hit	
+Points,	and	a creature can’t	be	affected	by	this	
+Spell	again	until	that	creature finishes	a	Long	
+Rest.
 
+**At	Higher	Levels.** When	you	cast	this	Spell	
+using	a	Spell	Slot	of	3rd	level	or	higher,	the	
+healing	increases	by	1d8	for	each	slot	above	2nd.
 
-{{pageNumber 54}}
+#### Resistance
+*Cantrip Abjuration	Spell	(Divine,	Primal)*
+**Casting Time:** :: Reaction,	which	you	take	in response	to	you	or an	ally within	10	feet	of	you failing	a Saving Throw	
+**Range:**        :: 10 feet
+**Components:**   :: V,	S
+**Duration:**     :: Instantaneous
+You	channel	magical	protection to	the	creature	
+who	failed	the	Saving	Throw.	That	creature	can	
+roll	a	d4	and	add	the	number	rolled	to	the	save,	
+potentially	turning	it	into	a	success.
+
+#### Spiritual Weapon
+*2nd-level Evocation	Spell	(Divine)*
+**Casting Time:** :: Bonus Action	
+**Range:**        :: 60 feet
+**Components:**   :: V,	S
+**Duration:**     :: Concentration,	up	to	1	minute
+You	create	a	floating,	spectral	force	that	
+resembles	a	weapon	of	your	choice and	that	lasts	
+for	the	duration.	 The	force	appears	within range
+in	a	space	of	your	choice,	and you	can
+immediately make	one melee	spell	attack	against	
+a	creature	within	5	feet	of	the	force.	On	a	hit,	the	
+target	takes	Force	Damage	equal	to	1d8	+	your	
+spellcasting	ability	modifier.
+
+As	a	Bonus	Action	on	your	later	turns, you	can	
+move	the	force up	to	20	feet	and	repeat	the	
+attack against	a	creature	within	5	feet	of	it.
+
+**At	Higher	Levels.** When	you	cast	this	Spell	
+using	a	Spell	Slot of	3rd	level	or	higher,	the	
+damage	increases	by	1d8	for	every	slot	level	
+above	2nd.
+
+{{pageNumber 63}}
 {{footnote PART 3 | SPELLS}}
 \page
 # Appendix A: Conditions
@@ -4879,6 +5493,12 @@ a creature while it is subjected to a condition.
 - The charmer has advantage on any ability check to interact socially with the creature.
 }}
 
+## Dazed
+While	Dazed,	you	experience	the	following	
+effect:
+
+**Limited	Activity.**:: You	can	Move	or	take	one	Action	on	your turn,	not	both.	You	also	can’t	take	a	Bonus	Action or	a	Reaction.
+
 ## Deafened
 {{background:#aa88aa55
 - A deafened creature can’t hear and automatically fails any ability check that requires hearing
@@ -4890,7 +5510,7 @@ While	you	are	subjected	to	the	Exhausted	Condition,	you	experience	the	following
 **d20	Rolls Affected.**::	When	you	make	a	d20	Test,	you	subtract	your	exhaustion	level from	the	d20	roll.
 **Spell	Save	DCs	Affected.**:: Subtract	your	exhaustion	level	from	the	Spell save	DC	of	any	Spell	you	cast.
 **Ending	the	Condition.**::	Finishing	a	Long	Rest removes	1	of	your	levels	of	exhaustion.	When	your	exhaustion	level	reaches	0,	you	are	no	longer	Exhausted.	
-
+\column
 ## Frightened
 {{background:#aa88aa55
 - A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
@@ -4898,16 +5518,15 @@ While	you	are	subjected	to	the	Exhausted	Condition,	you	experience	the	following
 }}
 
 ## Grappled
-While	you	are	Grappled,	you	experience	the	
-following	effects:
+While	you	are	Grappled,	you	experience	the	following	effects:
 **Speed	0.**:: Your	Speed	is	0	and	can’t	change.
 **Attacks	Affected.**:: You	have	Disadvantage	on	Attack	Rolls against	any	target	other	than	the	grappler.
-**Movable.**:: The	grappler	can	drag	or	carry	you,	but	the	grappler	suffers	the	Slowed Condition	while	moving,	unless	you	are	Tiny	or	two	or	more	Sizes	smaller	than	the	grappler.
-**Escape.**:: While	Grappled,	you	can	make	a	Dexterity	or	Strength	Saving	Throw against	the	grapple’s	escape	DC	at	the	end	of	each	of	your	turns,	ending	the	Condition	on	yourself	on	a	success.	The	Condition also	ends	if	the	grappler	is	Incapacitated or if	something moves you outside the grapple’s	range	without	using	your	Speed.
+**Movable.**:: The	grappler	can	drag	or	carry	you when	it Moves,	but	the	grappler	suffers	the	Slowed Condition	while	moving,	unless	you	are	Tiny	or	two	or	more	Sizes	smaller	than	the	grappler.
+**Escape.**:: While	Grappled,	you	can	make	a	Dexterity	or	Strength	Saving	Throw against	the	grapple’s	escape	DC	at	the	end	of	each	of	your	turns,	ending	the	Condition	on	yourself	on	a	success.	The	Condition also	ends	if	the	grappler	is	Incapacitated or if	something removes you from the grapple’s	range.
 
 ## Hidden
 While	you	are	Hidden,	you	experience	the	following	effects:
-**Concealed.**:: You	aren’t	affected	by	any effect `from an enemy`	that	requires	its	target	to	be	seen.
+**Concealed.**:: You	aren’t	affected	by	any effect	that	requires	its	target	to	be	seen.
 **Surprise.**:: If	you	are	Hidden	when	you	roll	Initiative,	you	have	Advantage	on	the	roll.
 **Attacks	Affected.**:: Attack	Rolls against	you have	Disadvantage,	and	your Attack	Rolls have	Advantage.
 **Ending	the	Condition.**:: The	Condition	ends	on	you	immediately	after	any	of	the	following	occurrences:	you	make	a	sound	louder	than	a	whisper,	an	enemy finds you,	you	make	an	Attack	Roll, you	cast	a	Spell	with	a	verbal	component, or	you	aren’t	Heavily	Obscured	or	behind	any	Cover.
@@ -4920,7 +5539,7 @@ following	effects:
 **Speechless.**:: You	can’t	speak.
 **Surprised.**:: If	you	are	Incapacitated	when	you	roll	Initiative,	you	have	Disadvantage	on	the	roll.
 
-{{pageNumber 55}}
+{{pageNumber 64}}
 {{footnote APPENDIX | CONDITIONS}}
 \page
 ## Invisible
@@ -4928,7 +5547,7 @@ While	you	are	Invisible,	you	experience	the
 following	effects:
 **Unseeable.**:: You	can’t	be	seen,	so	you	aren’t	affected	by any effect	that	requires	its	target	to	be	seen. Any	equipment	you are	wearing	or	carrying	also	can’t	be	seen.
 **Surprise.**:: If	you	are	Invisible	when	you	roll	initiative,	you	have	Advantage	on	the	roll.
-**Attacks	Affected.**:: Attack	Rolls against	you have	Disadvantage,	and	your Attack	Rolls have	Advantage.
+**Attacks	Affected.**:: Attack	Rolls against	you have	Disadvantage,	and	your Attack	Rolls have	Advantage. If	a	creature	can	somehow	see	you,	as	with	Blindsight,	you	don’t gain	this	benefit	against	that	creature.
 
 ## Paralyezed
 {{background:#aa88aa55
@@ -4989,5 +5608,5 @@ While	you	are	Slowed,	you	experience	the	following	effects:
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 }}
 
-{{pageNumber 56}}
+{{pageNumber 65}}
 {{footnote APPENDIX | CONDITIONS}}
